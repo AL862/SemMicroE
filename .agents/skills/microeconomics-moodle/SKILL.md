@@ -2,7 +2,7 @@
 name: microeconomics-moodle
 description: "Сборка и редактирование Moodle-страниц семинаров Microeconomie: структура, исходные проверочные блоки, интерактивные графики, вставка TinyMCE и навигация."
 metadata:
-  version: "1.1"
+  version: "1.2"
 ---
 
 # Moodle
@@ -10,7 +10,7 @@ metadata:
 Общие требования заданы в [общем навыке](../microeconomics-seminar/SKILL.md). Для задач прочитать [единые паттерны](../microeconomics-seminar/references/problem-patterns.md). Имена образцов и URL находятся в [реестре](../microeconomics-seminar/references/course-resources.md).
 
 ## Учебная страница
-1. Прочитать текущую страницу и сохранить стиль образца Seminarul 2. Имя: NN_Seminarul_N_Moodle.html.
+1. Прочитать текущую страницу и сохранить стиль образца Seminarul 2. Имя в основной папке семинара: NN_Seminarul_N_Moodle.html; NN — двузначный номер. Именование копий для загрузки определено в общем навыке.
 2. Начало: Microeconomie · ASEM → Seminarul N → Titlul seminarului → Descrierea seminarului.
 3. Основные разделы строго:
    - 1. Obiectivele seminarului.

@@ -1,0 +1,18 @@
+MICROECONOMIE — IMAGINI COMUNE
+Versiune: 12.10.2026
+
+Comandă pentru reutilizare:
+„Используй общий набор Microeconomie_Imagini_Comune”.
+
+1. Citește mai întâi README.txt al cursului și PDF-ul seminarului.
+2. Deschide arhiva comună Microeconomie_Imagini_Comune.zip din rădăcina discului personal Deep Internet Marketing.
+3. Consultă CATALOG.csv. Fiecare ilustrație este un fișier PNG separat.
+4. Folosește Pictograme pentru simboluri și bunuri, Fundaluri pentru fundalul comun și Ilustratii_contextuale pentru scene explicative.
+5. Păstrează proporțiile și transparența imaginilor. Nu genera din nou un simbol disponibil. Pentru variante noi, păstrează stilul nucleului existent.
+6. Pe titlu folosește portofelul albastru și fabrica portocalie, cu relația de schimb, numărul seminarului și tema curentă.
+7. Adaugă separat titlul, explicațiile, formulele și graficele corecte din materialul PDF. Imaginile nu sunt sursa datelor economice.
+8. Bun inferior: în scenariul dat, cererea scade când venitul crește. Bun de lux: sensibilitatea cererii la venit este mai mare decât 1. Nu clasifica automat un bun numai după imagine sau preț.
+9. Pentru prezentarea finală a seminarului, fiecare slide rămâne o singură infografică raster 16:9 în PPTX, cu maximum 14 slide-uri în total.
+10. Completează arhiva numai dacă lipsește o ilustrație necesară. Păstrează numele stabile și actualizează CATALOG.csv și același fișier de arhivă pe Drive.
+
+Referințele din folderul Referinte arată stilul prezentărilor existente. Scenele din Ilustratii_contextuale sunt compoziții tematice. Pictogramele au fundal transparent și nu includ text.

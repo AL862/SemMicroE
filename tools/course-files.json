@@ -32,14 +32,16 @@
       "bytes": 1703
     },
     {
-      "path": "Lucrări individuale/Instrucțiune — Lucrări individuale pentru studenți.html",
+      "path": "[4] Lucrări individuale pentru studenți/Instrucțiune — Lucrări individuale pentru studenți.html",
       "sha": "c9d58ec6ebf90381acf29f8cc5785c1afdd4edf6",
-      "bytes": 102902
+      "bytes": 102902,
+      "source_path": "Lucrări individuale/Instrucțiune — Lucrări individuale pentru studenți.html"
     },
     {
-      "path": "Lucrări individuale/Șablon — Lucrare individuală la Microeconomie.pptx",
+      "path": "[4] Lucrări individuale pentru studenți/Șablon — Lucrare individuală la Microeconomie.pptx",
       "sha": "95458e81df85ce61613a192f44fc4cb4ddfa82b9",
-      "bytes": 318685
+      "bytes": 318685,
+      "source_path": "Lucrări individuale/Șablon — Lucrare individuală la Microeconomie.pptx"
     },
     {
       "path": "Seminarul 4  — Teoria comportamentului consumatorului/04_Seminarul_4_Moodle.html",
@@ -331,3 +333,4 @@
     "Microeconomie_Imagini_Comune/Fundaluri"
   ]
 }
+

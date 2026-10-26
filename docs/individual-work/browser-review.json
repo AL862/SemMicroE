@@ -1,0 +1,96 @@
+{
+  "responsive": [
+    {
+      "width": 320,
+      "state": "closed",
+      "scrollWidth": 320,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "state": "open",
+      "scrollWidth": 320,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "state": "closed",
+      "scrollWidth": 390,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "state": "open",
+      "scrollWidth": 390,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "state": "closed",
+      "scrollWidth": 768,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "state": "open",
+      "scrollWidth": 768,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1150,
+      "state": "closed",
+      "scrollWidth": 1150,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    },
+    {
+      "width": 1150,
+      "state": "open",
+      "scrollWidth": 1150,
+      "textFont": "18px",
+      "controls": [
+        48.390625,
+        48.390625
+      ],
+      "overflow": false
+    }
+  ],
+  "keyboard_disclosure": true,
+  "checkboxes": 12,
+  "scriptless_inline_fallback": true,
+  "js_errors": []
+}

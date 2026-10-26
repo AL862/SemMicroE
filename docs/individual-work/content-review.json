@@ -1,0 +1,22 @@
+{
+  "seminars": 11,
+  "topics": 33,
+  "new_topics": 18,
+  "topics_per_seminar": 3,
+  "original_15_titles_preserved": true,
+  "unique_titles": true,
+  "valid_internal_anchors": true,
+  "visible_text_no_commas": true,
+  "romanian_diacritics": true,
+  "old_micro_labels_removed": true,
+  "editable_template_moved_without_byte_changes": true,
+  "pptx_sha": "95458e81df85ce61613a192f44fc4cb4ddfa82b9",
+  "pptx_slides": 11,
+  "pptx_shape_inventory": {
+    "text": 332,
+    "tables": 0,
+    "pictures": 0,
+    "charts": 0
+  },
+  "selected_data_must_feed_case_and_analysis": true
+}

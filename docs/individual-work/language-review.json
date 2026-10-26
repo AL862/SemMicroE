@@ -1,0 +1,16 @@
+{
+  "engine": "LanguageTool 6.6 CLI",
+  "language": "ro",
+  "encoding": "UTF-8",
+  "scope": "All final visible HTML text including 33 topic briefs and ten slide descriptions",
+  "completed": true,
+  "matches": 26,
+  "rules": {
+    "MORFOLOGIK_RULE_RO_RO": 17,
+    "ROMANIAN_WORD_REPEAT_BEGINNING_RULE": 9
+  },
+  "manual_review": {
+    "dictionary": "Retained technical terms and software names including Moodle and Cournot and kWh and editabil.",
+    "sentence_repetition": "Retained intentional first-person Am repetition in the student checklist."
+  }
+}

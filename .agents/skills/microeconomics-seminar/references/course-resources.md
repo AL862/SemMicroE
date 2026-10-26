@@ -72,5 +72,6 @@ URL: https://drive.google.com/file/d/1fD-Pl6N5p7JPf6zMeWVO71kQ1BhhfKz4/view?usp=
 
 - Страница семинара: Seminarul 2 / MASTER Moodle template.
 - Автономный интерактивный тест: Test Interactiv — Seminar 3 — Moodle.html.
-- Редактируемый шаблон индивидуальной работы: Șablon — Lucrare individuală la Microeconomie.pptx в Lucrări individuale.
-- Эталон прямой вставки TinyMCE: Instrucțiune — Lucrări individuale pentru studenți.html в Lucrări individuale. Drive ID: 1RKfiGcQL44XdZzZXKOO3oQmPoSUby4K4. Для этой версии пользователем подтверждено «Теперь работает».
+- Редактируемый шаблон индивидуальной работы: Șablon — Lucrare individuală la Microeconomie.pptx в `[4] Lucrări individuale pentru studenți`.
+- Эталон прямой вставки TinyMCE: Instrucțiune — Lucrări individuale pentru studenți.html в `[4] Lucrări individuale pentru studenți`. Drive ID: 1RKfiGcQL44XdZzZXKOO3oQmPoSUby4K4. Исходная версия прямой вставки была подтверждена пользователем. Текущая GitHub-редакция содержит 33 темы и общий стиль курса; её вставка в Moodle проверяется отдельно.
+

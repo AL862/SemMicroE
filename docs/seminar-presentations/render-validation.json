@@ -1,0 +1,992 @@
+[
+  {
+    "seminar": 1,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 79,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "644685ec7324f15d08ee4905336f36d3cd46dabbf5277aa2b0099b28c28a1c40"
+  },
+  {
+    "seminar": 1,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 121,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "0b9095814a67e8bfcaa157213aca97fcd9bf634017cd541d697142cc60143f3d"
+  },
+  {
+    "seminar": 1,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 113,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "1507769c7d3b3470bf6591ad36d747e354261a31a167b0a087ac0a7171862ed8"
+  },
+  {
+    "seminar": 1,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 141,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "7392ebd809c85c59415980aa8520016d3cb8b0273584f34071e8c73b88000a22"
+  },
+  {
+    "seminar": 1,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 148,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "a3bfa128902b047dfe0e5385e2f16df2af4d4295dd9323ca8737931295877e6e"
+  },
+  {
+    "seminar": 1,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 101,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "b5a866b08e9cd1290eb02468ad943d83b643f27a8a41ce39ae5288a91486e3b3"
+  },
+  {
+    "seminar": 1,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 95,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "eca070ef55f51c0153003a0585c4d122d0defe261aaa03c4a005147aa6cb91ad"
+  },
+  {
+    "seminar": 1,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 85,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "a22f4024e67af49cc64f8b86bc457766944641a480b9e12e09889228d6199053"
+  },
+  {
+    "seminar": 1,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 88,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "7cbd0c988446c642ea3c0c185228c7b0e779dd1af7d2105f643338e972948b8e"
+  },
+  {
+    "seminar": 1,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 64,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "f7dd9de304b6245c3df1e4a2a517e5e2a582429768e6ec070bbc01a2335e7975"
+  },
+  {
+    "seminar": 2,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 70,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "772a99348fc73ece3341ee30d4d9a6e45561a8c63ed9c6faef159f837cf2b44a"
+  },
+  {
+    "seminar": 2,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 117,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "82c94d93b9b9aa1ede3c2630469ed8bc5979f7c07de31fc8eb1d6157549ab15e"
+  },
+  {
+    "seminar": 2,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 136,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "27ddd7a976b11b3eacbe1b930b4d120d2035f8452e1eae13752fb20fc0a9c1d8"
+  },
+  {
+    "seminar": 2,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 154,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "8f4a89995de25526e8d7640acf991f96119668b39c2b1a1fe0a22b8abe907a5c"
+  },
+  {
+    "seminar": 2,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 82,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "02929ea31fd73e8ffed8b5762bc6c1fd5099e320e549dc568c47cb88feb65c73"
+  },
+  {
+    "seminar": 2,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 157,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "fcd2dd412ce65c6759ab84d2d9c30dacb1be164bc75874a4124d41ece469e322"
+  },
+  {
+    "seminar": 2,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 144,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "b1f64234ac026bb2ce9b9f2ee6732716d38b43a0ac8cf3124b6e71d29563f082"
+  },
+  {
+    "seminar": 2,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 85,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "18e19b1c1c1652cdfdb7ddef774ab24f6b40b374370286a2429efdbaa2803b37"
+  },
+  {
+    "seminar": 2,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 88,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "e171befbb75dfc5e084a1fa3a936ea7b4f670a0eae5c55c70f72debbbb85ebf0"
+  },
+  {
+    "seminar": 2,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 70,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "6ffc3052a36d443d52b2c30188a028e1edf39853029e6df243fd0fd8820307e3"
+  },
+  {
+    "seminar": 3,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 67,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "9985cd731ce06828a29209f088a6c833309b7cc5a353c251c554dc7c422cd584"
+  },
+  {
+    "seminar": 3,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 57,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "f272172112c0ff3939b57576b6397eac3c15f392f8f567dff7da3b22a8045ec7"
+  },
+  {
+    "seminar": 3,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 56,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "1c28ceb8e33740d7b56bdcefcc68caea963029b148af3db07320013fdad7e08d"
+  },
+  {
+    "seminar": 3,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 134,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "08507e74a2f6560c6ff15aad8e1a9968c858afed728e057beca4c27e07613389"
+  },
+  {
+    "seminar": 3,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 66,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "d5b526ae0c29fe2542e5c57b0b93ca0bdc6a354ab5d2447efbff9086ae74a4b7"
+  },
+  {
+    "seminar": 3,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 145,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ad4a4e6666d1cf334c86d966aee22389fc729e18b65450551164dfbddc8566be"
+  },
+  {
+    "seminar": 3,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 113,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "2c2f302b15bcecd553d866350572fb6153cbc2f6a31dda5c954534e101ee969f"
+  },
+  {
+    "seminar": 3,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 78,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "860a2d80b7c18f1406697e4e26f924188a3c21c1717b22406d0495ad82517cee"
+  },
+  {
+    "seminar": 3,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 84,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "d35790efee917236c0db16fc0291f291fe3adc70b1a0c9cf78ddb8d0caedbd82"
+  },
+  {
+    "seminar": 3,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 63,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "e6ae4fedd318f0bf3627c2e0d816eb570d12fc85ee62692c372877e7ed64a72e"
+  },
+  {
+    "seminar": 4,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 74,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "7fbabe7aefd30adc0c8f36699d4329641340b66df3fa114878a3c07ac4e02e66"
+  },
+  {
+    "seminar": 4,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 103,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "32aa24d6ebfb5aee9d89e0841aca2b417b1f0a28ec07a14f14c20d44af992260"
+  },
+  {
+    "seminar": 4,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 126,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "6f898bc96f8bd5525e35ae2b2ff7fbf424447284adf0d3e6c03b1f17180c23cd"
+  },
+  {
+    "seminar": 4,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 139,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "82ab7d1712b8c30fc08594ffaf6e40d98a09cfa37fb3d6ee150fce574f1d3baf"
+  },
+  {
+    "seminar": 4,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 70,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "e881ff9b1720f07651c7ef0e4de3f9c3fdbca8e08f10934f84db72ccb1ad1689"
+  },
+  {
+    "seminar": 4,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 197,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "956c6561d69a3006d7631ad038376da980bef5d9377a9947f994f5c48586951e"
+  },
+  {
+    "seminar": 4,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 137,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "3a3a592cf357b0ee69b7700b7c25bfd4a64b99bd62e9d03b71b63dde73a0b9fa"
+  },
+  {
+    "seminar": 4,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 89,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "d1eacc99f3bcf7e4485013e5e816cecb29ed80c278271422132ceae7a6ac3320"
+  },
+  {
+    "seminar": 4,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 92,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "b08416c35a7999befd78e44deb808ef220ddbc7633234b49cd775a27cd4e42e7"
+  },
+  {
+    "seminar": 4,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 58,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "245af189b30a09dfcb553c41946a88cb1876310c20c46d4234e7ebb058181313"
+  },
+  {
+    "seminar": 5,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 84,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "e290d488b935ab52738370cd460a1841f0ded434f3cb1ab171443cd774d4bb0f"
+  },
+  {
+    "seminar": 5,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 115,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "0a65626ec6a8eb859c1249fb55447c64fdd99ce07e3b4fe8a74b27e6c0218335"
+  },
+  {
+    "seminar": 5,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 86,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "04926d4cba1baa026f2bdde4564c67ff5597a7ae78630cb3fd677c10a876878b"
+  },
+  {
+    "seminar": 5,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 131,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "59407ba97730524a4b2727d9b4dc9e4f29fea57589b93006f93e2fa48df370de"
+  },
+  {
+    "seminar": 5,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 71,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "9092b16d547a2ce30b40a779d70f68a035d2cd829a8ecebe0cfdcc6e2786332c"
+  },
+  {
+    "seminar": 5,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 147,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "7249b53719e4c4ab945cdef107aaf0a8716f8702dc78308ebb34dccad2fbf341"
+  },
+  {
+    "seminar": 5,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 92,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ae5a7a14a3926b2bd1df877e89accf57794847da8c59f3357d6f48782bcd114d"
+  },
+  {
+    "seminar": 5,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 86,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "0127fb143977a1294ddb2cbcbec4f553a953972f42a19c6cd3f456458cca359e"
+  },
+  {
+    "seminar": 5,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 84,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "c9a0782e2cb5a8436196ef627a707906854d499876b01996dd8663c2a39a9324"
+  },
+  {
+    "seminar": 5,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 67,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "bf550d72f2f5a3a19a73b99628ece5b1c3d2d6ae049eeeff2ae6f03a80be609f"
+  },
+  {
+    "seminar": 6,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 77,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "c76c2354a90270404b29a47c76563d9b3aaa0544d82cff4bb13ef03066901b5a"
+  },
+  {
+    "seminar": 6,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 109,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "3fc987c2fa7a59be8e98f3fcedcb28ef6b8daa976e38a3f54631c181bfc38905"
+  },
+  {
+    "seminar": 6,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 128,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "a76c705647a4936466b4162ca8ae9d29c547152d33ed73b3658ffd5eccd112f9"
+  },
+  {
+    "seminar": 6,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 147,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "67eec8c63db74b410b73b17c95b678f19dc4e2a67cab2cfbbc6cbd309d9e5143"
+  },
+  {
+    "seminar": 6,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 69,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "4ce7523d5390c4790fe254f339163235577b821def810e735ec7e761b6d337c3"
+  },
+  {
+    "seminar": 6,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 151,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "6ac7686f6a3b99236b89cf36c235c6fc747639144001a1da4e89fc0989e6c1e3"
+  },
+  {
+    "seminar": 6,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 142,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "c52e4c086b7d9ab472c29fa149afc6ef3657d033272609c0c42a2be669cb5f80"
+  },
+  {
+    "seminar": 6,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 88,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "c5ef1f791e1f891f922d2aef4923ee3cb7470acbf5d9fb5d847311baaa871138"
+  },
+  {
+    "seminar": 6,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 91,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "fd0df6f3cfff65be698b6a1208dd8a3a36a674979b4f27eb9953396c20afe4bd"
+  },
+  {
+    "seminar": 6,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 62,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "3014d9c0ce0b780451b44e51a1738dc3bffe54cb948d4ece81f640bb039bd018"
+  },
+  {
+    "seminar": 7,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 78,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "44bad22f54be0f510e05b6da7245e1a7afa56242454fc992062f35d50e03a70f"
+  },
+  {
+    "seminar": 7,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 102,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "7e054aca9a1f6578b27d7fef8470a701fd3c6f40ad1bebad7b2f217e25024111"
+  },
+  {
+    "seminar": 7,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 131,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "347a117e4f09da424aaef03dd45c0763edb74cd8e3dc115712f4d4a0842815d0"
+  },
+  {
+    "seminar": 7,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 139,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "0387f7780d23ce613ff4c192a539e7bf86197d4826fd9a20ab8a89c9550f808e"
+  },
+  {
+    "seminar": 7,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 78,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "39fe98008dae469975f134d2053c6312813b8a27f8214ca560339f6946d774c5"
+  },
+  {
+    "seminar": 7,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 110,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "a5b30d34afb05a55104e0b9f5bd7a023acb237e965d7960a491b50e02b6c871f"
+  },
+  {
+    "seminar": 7,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 113,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "2ab9615699f1b4457fa8a99305403033a3f632e11d269eaf6aecc1c05bb5bfb7"
+  },
+  {
+    "seminar": 7,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 84,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "52a83486fc950e21bd57c85abe70f957efb4c8f523c433755918d1c4266cdda8"
+  },
+  {
+    "seminar": 7,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 87,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "a034e8115460036017e2f92136abaa317368ee294171e6f4cbf6d5694bef1f0a"
+  },
+  {
+    "seminar": 7,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 63,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "5284ba2e7cf51a672dbef8545b9385b5c6949f5b283941f3e0d5c5a94b6272d7"
+  },
+  {
+    "seminar": 8,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 77,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "54f18d5d543fefd4edcff413c3da699fe19d18c9ef8ace1425e93c2f0032792f"
+  },
+  {
+    "seminar": 8,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 98,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "6be5e5e41a671b2f59b95664e079f0b01b503099e40231d9775a85627015ee6b"
+  },
+  {
+    "seminar": 8,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 129,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "9730878566a0a8ad2a38e1fee19b4dc81188c401ba9e7a12a2b8304327c2112c"
+  },
+  {
+    "seminar": 8,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 131,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ee49d5fb8f2573efcc1e26e1567394b256cd8b227dda165db620976642eab977"
+  },
+  {
+    "seminar": 8,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 37,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "a2cf78b61e2192a7945cf0e2bea6ae6802394cef98871deb7f2f1431080c149b"
+  },
+  {
+    "seminar": 8,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 116,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "e3ce3be2941ba81bb49f600368c93c19d282475e8dbe72679f4873a93fc58de5"
+  },
+  {
+    "seminar": 8,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 126,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "08fe95cc23db796a60bd6265056a1708e80991c58a1c7c74ab8045af26761c4d"
+  },
+  {
+    "seminar": 8,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 86,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "3de41bf3ec8c71fb1d04eb02bf097c1bea2f3af81161b0104f86d6e0cab19a24"
+  },
+  {
+    "seminar": 8,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 90,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "183538a9221b13c76442d91fcdf184a5a96753b55ab66044b4e1d6cb1ca21992"
+  },
+  {
+    "seminar": 8,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 72,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "33230c90984804b7997122e846ab8d33b43f3f6c9c8a16dfccd66ff5cfca098b"
+  },
+  {
+    "seminar": 9,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 78,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "4a4c95de31728d6e625b381447f64c58df84157e7cb61ec9ebbb42539608f735"
+  },
+  {
+    "seminar": 9,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 100,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ec89d33e4887fc887a88f29d8e48f659ad90754179114c877180e83d6f2d26d8"
+  },
+  {
+    "seminar": 9,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 85,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "11f0e7eea33e5dcc50535a8395564c6fd7a2319e7557a96d1e1cfb90b52d4d5e"
+  },
+  {
+    "seminar": 9,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 131,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "dff80e264cda30de1ff341c688542cccb3a296e1519f442aa90afe22e879bf12"
+  },
+  {
+    "seminar": 9,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 40,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "349faba26a52c9c5f1436758a0c5b501f9f6808d7efb33e3d37ab96abe0d8fa8"
+  },
+  {
+    "seminar": 9,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 113,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "97b0ecaefd211a0f65555a43d0f160ad0032f93521e61caf629931357c1b163b"
+  },
+  {
+    "seminar": 9,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 122,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "f9a16bcadb3f4347c9782eccac30ac0695ec3aa5f5271f104738c4a9c2a5a925"
+  },
+  {
+    "seminar": 9,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 82,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "8ae4bf283ca0fe4716628a34ab1e8afd4bf52fc31aa15ada5514fcf27def53a3"
+  },
+  {
+    "seminar": 9,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 93,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "7b9be168725e5143f968c203a9b78ef35f461950b2c25a292b97109e6d697a2d"
+  },
+  {
+    "seminar": 9,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 62,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "5ccae20add5c2285dfa0a3b6683f7c90f688102bb6e104812ab59065ca8bfaac"
+  },
+  {
+    "seminar": 10,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 75,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "a608df3a0a8544434c16b13b50645264b53f5e8d003b764435bdd320677d40eb"
+  },
+  {
+    "seminar": 10,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 94,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "80bdf6241beb6ae280a2d7d924d4092768f4ffa813034ad3bebdf9ea49cb736e"
+  },
+  {
+    "seminar": 10,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 122,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ed25dba52eafde2007c7b75e2bdbba80ecd99df66a3194225265319b31dcbde7"
+  },
+  {
+    "seminar": 10,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 121,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "cc4c4b1ec7bca3802cc5e83cb5272c34a198318bc4fcdca6db8627b80e60e715"
+  },
+  {
+    "seminar": 10,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 41,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "00680fef5a2780af17583057814f48e46cfac9a5fca5ab5e20fb57581c7b12c7"
+  },
+  {
+    "seminar": 10,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 109,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "3eff8e3f40c7b6fb567256bc9ff8449c075a56789eb44888a9553f557995bf12"
+  },
+  {
+    "seminar": 10,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 119,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "ce1acee472e61ddf29e0a0658a804e1467846c28fb8140f153c27e92def25a10"
+  },
+  {
+    "seminar": 10,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 84,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "eb6e6f4a7505babf09691a4ddafadd1e677d1619f3d8d5e052d919ae80e506af"
+  },
+  {
+    "seminar": 10,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 89,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "7bab561129d64642ddbb7870a30b6cf7b656e15dcb79fed5a50fe993628c9a43"
+  },
+  {
+    "seminar": 10,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 63,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "96277a78c9679a95252ddbc57094603553bfc9d63ba322dde2ae545487005ab1"
+  },
+  {
+    "seminar": 11,
+    "slide": 1,
+    "kind": "cover",
+    "notes_words": 75,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "c1f977d3fba9f6cfa73d357f007da550972911e38862cd738e6720d7ab4799b5"
+  },
+  {
+    "seminar": 11,
+    "slide": 2,
+    "kind": "context",
+    "notes_words": 98,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "20d002ac4a1d2d61af54f9a84cd4f180e19dabf73efff0e2e9f27a59acbcb5e6"
+  },
+  {
+    "seminar": 11,
+    "slide": 3,
+    "kind": "concepts",
+    "notes_words": 113,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "31ba80b2364f3c00f723c028676f61cb388deea37ea07adf3319f80235657430"
+  },
+  {
+    "seminar": 11,
+    "slide": 4,
+    "kind": "flow",
+    "notes_words": 82,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "13527e2f6be2c417c17fcede4de4d8937b6659b411be3c0f0330d67c28d59b98"
+  },
+  {
+    "seminar": 11,
+    "slide": 5,
+    "kind": "formula",
+    "notes_words": 39,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "8b85f107220f2b2c9e7747977be9c2ece542e1efa2ccd5e17d2038fc02eeefe0"
+  },
+  {
+    "seminar": 11,
+    "slide": 6,
+    "kind": "graph",
+    "notes_words": 142,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "6badb04e89d0150fa4dd445be4defe94101afe617569c861781edb1e33330fd7"
+  },
+  {
+    "seminar": 11,
+    "slide": 7,
+    "kind": "compare",
+    "notes_words": 119,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "e7bbe145ec7b333ed526c3a3957cfa035de0bc84af72db740edac7e3523a14da"
+  },
+  {
+    "seminar": 11,
+    "slide": 8,
+    "kind": "exercise",
+    "notes_words": 87,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "64735042a83e46c626db27281baeec37714d581767a63da866dcf5a7bfc820f6"
+  },
+  {
+    "seminar": 11,
+    "slide": 9,
+    "kind": "solution",
+    "notes_words": 92,
+    "dom_geometry_ok": true,
+    "native_editable": true,
+    "image_sha256": "a8e76baabbd8428c1f56f6f1489b9fb81d4879449d5a4ea53b60d59e69b3a470"
+  },
+  {
+    "seminar": 11,
+    "slide": 10,
+    "kind": "end",
+    "notes_words": 64,
+    "dom_geometry_ok": true,
+    "native_editable": false,
+    "image_sha256": "2f9d0167799e535e746224fa4b8026c34f485f847a0865067de0fc61670cf522"
+  }
+]

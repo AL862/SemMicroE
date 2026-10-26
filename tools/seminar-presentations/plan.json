@@ -1,0 +1,1850 @@
+[
+  {
+    "seminar": 1,
+    "title": "Obiectul de studiu și metodologia microeconomiei",
+    "duration_minutes": 11.0,
+    "source": "data/1.json /solved/2",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Obiectul de studiu și metodologia microeconomiei",
+        "hook": "Ce alegem când nu putem avea totul?",
+        "promise": "Recunoaștem alegerea și calculăm alternativa sacrificată.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Pornim de la alegerile de zi cu zi. Explicăm de ce resursele limitate ne obligă să renunțăm la alternative. Folosim frontiera posibilităților de producție pentru a vedea ce putem obține și ce sacrificăm.\n\nÎntrebarea care ne conduce este aceasta: Ce alegem când nu putem avea totul?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "O resursă poate servi mai multor scopuri",
+        "lead": "Aceeași oră nu poate fi folosită integral în două activități.",
+        "cards": [
+          [
+            "Timp",
+            "O oră de studiu"
+          ],
+          [
+            "Alternativă",
+            "O oră de muncă"
+          ],
+          [
+            "Alegere",
+            "Comparăm beneficiile"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: O resursă poate servi mai multor scopuri.\n\nAi două ore libere. Le poți folosi pentru pregătirea unui test sau pentru un schimb plătit la serviciu. Ambele variante sunt utile. Timpul disponibil nu îți permite să le alegi integral pe amândouă. Aici începe problema economică: ce alegi și la ce renunți?\n\nRaritatea înseamnă că resursele disponibile nu ajung pentru toate utilizările dorite în același timp. Ea nu privește doar persoanele cu venituri mici. Chiar și o firmă prosperă are un număr limitat de angajați și de ore de lucru. O societate trebuie să decidă cât produce și cum repartizează rezultatele.\n\nPe schemă urmărim următoarea legătură: Timp. O oră de studiu. Alternativă. O oră de muncă. Alegere. Comparăm beneficiile."
+      },
+      {
+        "kind": "concepts",
+        "title": "Trei idei care merg împreună",
+        "cards": [
+          [
+            "Raritate",
+            "Resursele nu ajung pentru toate utilizările dorite."
+          ],
+          [
+            "Alegere",
+            "Folosim resursa pentru o anumită activitate."
+          ],
+          [
+            "Cost de oportunitate",
+            "Renunțăm la cea mai bună alternativă."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Trei idei care merg împreună.\n\nCostul nu se reduce la o plată. Valoarea timpului nu apare întotdeauna pe bon. La compararea a două opțiuni includem doar diferențele relevante. Hrana pe care ai cumpăra-o în ambele variante nu este integral un cost suplimentar al studiilor. O plată deja făcută și nerecuperabilă nu se schimbă prin decizia de astăzi.\n\nPe schemă urmărim următoarea legătură: Raritate. Resursele nu ajung pentru toate utilizările dorite. Alegere. Folosim resursa pentru o anumită activitate. Cost de oportunitate. Renunțăm la cea mai bună alternativă.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Alegerea are un sacrificiu",
+        "steps": [
+          [
+            "Resurse date",
+            "Timp și capacitate limitate"
+          ],
+          [
+            "Mai mult X",
+            "Transferăm resurse spre X"
+          ],
+          [
+            "Mai puțin Y",
+            "Sacrificăm producție alternativă"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Alegerea are un sacrificiu.\n\nO cameră proprie poate fi folosită ca birou sau închiriată. Costul economic al folosirii ca birou include chiria netă la care se renunță. Nu includem automat valoarea întregii camere ca un cost al unei singure luni. Comparăm aceeași resursă și aceeași perioadă.\n\nUn salariu sacrificat este doar o componentă a costului studiilor. Taxa suplimentară și materialele necesare pot fi alte componente. Hrana care ar fi fost cumpărată în ambele variante nu este integral un cost suplimentar. Analiza începe prin întrebarea ce se schimbă efectiv între opțiuni.\n\nCitim mecanismul în această ordine: Resurse date. Timp și capacitate limitate. Mai mult X. Transferăm resurse spre X. Mai puțin Y. Sacrificăm producție alternativă.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Costul pe unitate explică schimbul",
+        "formula": "CO pentru X = Y sacrificat / X suplimentar",
+        "lines": [
+          "Comparăm două combinații posibile.",
+          "Unitate: bun Y pentru o unitate X."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Costul pe unitate explică schimbul.\n\nCurba posibilităților de producție arată combinațiile maxime de două bunuri realizabile cu resursele și tehnologia disponibile. Pe frontieră resursele sunt folosite eficient în sens productiv. În interior există posibilitatea de a produce mai mult din cel puțin un bun fără reducerea celuilalt. În exterior combinația nu poate fi obținută în condițiile date.\n\nPentru a obține mai mult dintr-un bun trebuie să realocăm resurse de la celălalt. Panta descrescătoare exprimă acest compromis. Sacrificiul pe unitate este raportul dintre producția pierdută și producția suplimentară. O frontieră liniară indică un cost de oportunitate constant. Forma arcuită poate exprima un cost crescător deoarece resursele nu sunt la fel de potrivite pentru toate utilizările.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Frontiera arată ce este posibil",
+        "lines": [
+          "Resursele și tehnologia rămân constante.",
+          "Pe frontieră un X suplimentar sacrifică cinci Y."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Frontiera arată ce este posibil.\n\nPentru această frontieră păstrăm aceleași resurse și aceeași tehnologie. Interceptările sunt X = 10 și Y = 50. Punctul cu X = 4 și Y = 30 folosește întreaga posibilitate a modelului. Un punct aflat sub frontieră lasă capacitate nefolosită. Nu îl confundăm cu o tehnologie mai slabă. O altă alegere pe dreaptă nu mută dreapta.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. Pe frontieră un X suplimentar sacrifică cinci Y."
+      },
+      {
+        "kind": "compare",
+        "title": "Posibil nu înseamnă preferat",
+        "cards": [
+          [
+            "Eficiență productivă",
+            "Nu putem crește un bun fără sacrificarea celuilalt."
+          ],
+          [
+            "Alegere preferată",
+            "Depinde și de scopuri și de preferințe."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Posibil nu înseamnă preferat.\n\nProgresul tehnologic și creșterea resurselor pot extinde frontiera. Dacă îmbunătățirea privește numai un sector atunci extinderea poate fi asimetrică. Trecerea de la un punct interior la frontieră înseamnă folosirea mai bună a posibilităților existente. Ea nu este același lucru cu extinderea frontierei.\n\nPe schemă urmărim următoarea legătură: Eficiență productivă. Nu putem crește un bun fără sacrificarea celuilalt. Alegere preferată. Depinde și de scopuri și de preferințe.\n\nVerificare orală: Ce alternativă nu mai putem realiza cu aceeași resursă? Răspuns așteptat: Valoarea celei mai bune alternative abandonate este reperul."
+      },
+      {
+        "kind": "exercise",
+        "title": "Alegerea pe o frontieră",
+        "condition": "O economie are frontiera Y = 50 − 5X. Cantitățile sunt nenegative. Resursele și tehnologia nu se schimbă.",
+        "requirements": [
+          "Aflați Y dacă se aleg 4 unități X.",
+          "Aflați câte Y se sacrifică pentru încă 2 unități X."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "O economie are frontiera Y = 50 − 5X. Cantitățile sunt nenegative. Resursele și tehnologia nu se schimbă.\n\nCerințele sunt: Aflați Y dacă se aleg 4 unități X. Aflați câte Y se sacrifică pentru încă 2 unități X.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Calculăm apoi interpretăm",
+        "steps": [
+          [
+            "Punctul inițial",
+            "Y = 50 − 5 × 4 = 30"
+          ],
+          [
+            "Noua alegere",
+            "La X = 6 rezultă Y = 20"
+          ],
+          [
+            "Sacrificiul",
+            "30 − 20 = 10 unități Y"
+          ]
+        ],
+        "conclusion": "Mai mult X este posibil prin renunțarea la o parte din Y.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nPunctul inițial. Y = 50 − 5 × 4 = 30.\n\nNoua alegere. La X = 6 rezultă Y = 20.\n\nSacrificiul. 30 − 20 = 10 unități Y.\n\nMai mult X este posibil prin renunțarea la o parte din Y.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Raritatea face alegerea necesară.",
+          "Costul privește alternativa sacrificată.",
+          "Frontiera separă posibilul de imposibil."
+        ],
+        "check": "Ce alternativă nu mai putem realiza cu aceeași resursă?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Raritatea face alegerea necesară. Costul privește alternativa sacrificată. Frontiera separă posibilul de imposibil.\n\nÎntrebarea de verificare este: Ce alternativă nu mai putem realiza cu aceeași resursă?\n\nRăspuns: Valoarea celei mai bune alternative abandonate este reperul.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 2,
+    "title": "Cererea și oferta. Echilibrul și dezechilibrul pieței",
+    "duration_minutes": 11.0,
+    "source": "data/2.json /solved/0",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Cererea și oferta. Echilibrul și dezechilibrul pieței",
+        "hook": "Cum se potrivesc planurile cumpărătorilor și vânzătorilor?",
+        "promise": "Găsim prețul și cantitatea de echilibru.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Urmărim deciziile cumpărătorilor și vânzătorilor. Calculăm prețul la care cantitățile se potrivesc. Explicăm apoi deficitul și excesul de ofertă și efectele intervențiilor pe piață.\n\nÎntrebarea care ne conduce este aceasta: Cum se potrivesc planurile cumpărătorilor și vânzătorilor?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Două planuri pentru aceeași piață",
+        "lead": "Cumpărătorii și vânzătorii reacționează la același preț.",
+        "cards": [
+          [
+            "Cumpărători",
+            "Doresc și pot să cumpere"
+          ],
+          [
+            "Preț",
+            "Face posibilă comparația"
+          ],
+          [
+            "Vânzători",
+            "Doresc și pot să vândă"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Două planuri pentru aceeași piață.\n\nCantitatea cerută este o valoare pentru un anumit preț. Curba cererii arată întreaga relație. Când se schimbă numai prețul apei ne deplasăm pe aceeași curbă. Când se schimbă venitul sau numărul cumpărătorilor comparăm curbe diferite.\n\nLegea cererii descrie o relație inversă cu ceilalți factori neschimbați. Un preț mai mic face bunul relativ mai atractiv față de alternative. El permite și cumpărarea unui coș mai mare cu același venit. Aceste mecanisme sunt efectul de substituție și efectul de venit. Ele vor fi analizate mai detaliat la alegerea consumatorului.\n\nPe schemă urmărim următoarea legătură: Cumpărători. Doresc și pot să cumpere. Preț. Face posibilă comparația. Vânzători. Doresc și pot să vândă."
+      },
+      {
+        "kind": "concepts",
+        "title": "Cererea și oferta sunt relații",
+        "cards": [
+          [
+            "Cerere",
+            "Cantități dorite la prețuri diferite."
+          ],
+          [
+            "Ofertă",
+            "Cantități oferite la prețuri diferite."
+          ],
+          [
+            "Cantitate",
+            "Un punct pentru un preț concret."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Cererea și oferta sunt relații.\n\nUn atelier poate accepta mai multe comenzi dacă prețul serviciului îi acoperă costul suplimentar. Oferta arată cantitățile pe care vânzătorii pot și doresc să le ofere la fiecare preț într-o perioadă. Legea ofertei descrie de regulă o relație directă la ceilalți factori neschimbați.\n\nPrețul produsului schimbă cantitatea oferită pe aceeași curbă. Prețurile resurselor și tehnologia schimbă oferta. O metodă care economisește energie permite mai multă producție la același preț. O scumpire a materiilor prime are efectul opus în comparația obișnuită.\n\nPe schemă urmărim următoarea legătură: Cerere. Cantități dorite la prețuri diferite. Ofertă. Cantități oferite la prețuri diferite. Cantitate. Un punct pentru un preț concret.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "De ce se ajustează prețul?",
+        "steps": [
+          [
+            "Preț prea mic",
+            "Cererea depășește oferta"
+          ],
+          [
+            "Ajustare",
+            "Apare presiune asupra prețului"
+          ],
+          [
+            "Potrivire",
+            "Cantitatea cerută egalează oferta"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: De ce se ajustează prețul?.\n\nEchilibrul apare la prețul pentru care cantitatea cerută este egală cu cea oferită. Într-o piață cu cerere descrescătoare și ofertă crescătoare un preț prea mic produce deficit. Un preț prea mare produce exces de ofertă. Deficitul poate pune presiune de creștere asupra prețului. Surplusul poate împinge prețul în jos.\n\nGândim schimbarea în trei pași. Identificăm dacă evenimentul schimbă cererea sau oferta. Stabilim direcția deplasării. Comparăm echilibrul nou cu cel vechi. Cererea mai mare ridică prețul și cantitatea în comparația standard. Oferta mai mare reduce prețul și mărește cantitatea. Dacă ambele curbe se schimbă unele efecte pot rămâne nedeterminate fără mărimea deplasărilor.\n\nCitim mecanismul în această ordine: Preț prea mic. Cererea depășește oferta. Ajustare. Apare presiune asupra prețului. Potrivire. Cantitatea cerută egalează oferta.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Echilibrul cere aceeași cantitate",
+        "formula": "Qd = Qs",
+        "lines": [
+          "Introducem același P în ambele funcții.",
+          "Folosim aceeași unitate și aceeași perioadă."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Echilibrul cere aceeași cantitate.\n\nAjustarea de tip Walras pune accent pe reacția prețului la excesul de cerere. Ajustarea de tip Marshall urmărește schimbarea cantității după diferența dintre prețul cererii și prețul ofertei. Sunt reguli de adaptare care trebuie precizate. Nu orice intersecție este automat stabilă pentru orice mecanism.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Intersecția are un sens economic",
+        "lines": [
+          "D reprezintă cererea. S reprezintă oferta.",
+          "La P = 40 ambele părți aleg Q = 60."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Intersecția are un sens economic.\n\nEchilibrul apare la prețul pentru care cantitatea cerută este egală cu cea oferită. Într-o piață cu cerere descrescătoare și ofertă crescătoare un preț prea mic produce deficit. Un preț prea mare produce exces de ofertă. Deficitul poate pune presiune de creștere asupra prețului. Surplusul poate împinge prețul în jos.\n\nPentru funcțiile acestui seminar comparăm cererea Qd = 100 − P cu oferta Qs = −20 + 2P. În desen oferta pozitivă începe de la prețul 10. Intersecția este la Q = 60 și P = 40. Numerele sunt aceleași în exercițiu. Nu calculăm aici impozite sau subvenții. Acestea sunt aplicații ulterioare ale modelului și nu schimbă sensul egalității de echilibru.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. La P = 40 ambele părți aleg Q = 60."
+      },
+      {
+        "kind": "compare",
+        "title": "O mișcare nu este o deplasare",
+        "cards": [
+          [
+            "Prețul bunului se schimbă",
+            "Ne mișcăm pe aceeași curbă."
+          ],
+          [
+            "Alt factor se schimbă",
+            "Cererea sau oferta se poate deplasa."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: O mișcare nu este o deplasare.\n\nPentru un bun normal venitul mai mare sporește cererea în intervalul analizat. Pentru un bun inferior o reduce. Această clasificare descrie reacția și nu valoarea morală sau calitatea fizică a produsului. Același bun poate avea reacții diferite pentru gospodării și niveluri de venit diferite.\n\nDacă prețul cafelei crește o parte dintre cumpărători pot alege ceai. Cererea de ceai se deplasează spre dreapta chiar dacă prețul ceaiului nu s-a schimbat. Pentru bunuri complementare relația este opusă. Scumpirea unui aparat poate reduce cererea pentru accesoriul folosit împreună cu el.\n\nPe schemă urmărim următoarea legătură: Prețul bunului se schimbă. Ne mișcăm pe aceeași curbă. Alt factor se schimbă. Cererea sau oferta se poate deplasa.\n\nVerificare orală: Care mărime se referă la un preț și nu la întreaga relație? Răspuns așteptat: Cantitatea cerută sau oferită la acel preț."
+      },
+      {
+        "kind": "exercise",
+        "title": "Calculăm echilibrul unei piețe",
+        "condition": "Cererea este Qd = 100 − P. Oferta este Qs = −20 + 2P. P este în u.m. pe produs iar Q în produse pe zi.",
+        "requirements": [
+          "Calculați prețul de echilibru.",
+          "Calculați și verificați cantitatea de echilibru."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Cererea este Qd = 100 − P. Oferta este Qs = −20 + 2P. P este în u.m. pe produs iar Q în produse pe zi.\n\nCerințele sunt: Calculați prețul de echilibru. Calculați și verificați cantitatea de echilibru.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Două funcții și un singur preț",
+        "steps": [
+          [
+            "Egalăm cantitățile",
+            "100 − P = −20 + 2P"
+          ],
+          [
+            "Aflăm prețul",
+            "120 = 3P → P = 40"
+          ],
+          [
+            "Verificăm volumul",
+            "Qd = 60 și Qs = 60"
+          ]
+        ],
+        "conclusion": "Planurile se potrivesc la 40 u.m. pe produs și 60 de produse pe zi.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nEgalăm cantitățile. 100 − P = −20 + 2P.\n\nAflăm prețul. 120 = 3P → P = 40.\n\nVerificăm volumul. Qd = 60 și Qs = 60.\n\nPlanurile se potrivesc la 40 u.m. pe produs și 60 de produse pe zi.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Echilibrul potrivește două planuri.",
+          "Deficitul și excesul creează presiuni de ajustare.",
+          "Un eveniment nou poate schimba echilibrul."
+        ],
+        "check": "Care mărime se referă la un preț și nu la întreaga relație?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Echilibrul potrivește două planuri. Deficitul și excesul creează presiuni de ajustare. Un eveniment nou poate schimba echilibrul.\n\nÎntrebarea de verificare este: Care mărime se referă la un preț și nu la întreaga relație?\n\nRăspuns: Cantitatea cerută sau oferită la acel preț.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 3,
+    "title": "Elasticitatea cererii și ofertei",
+    "duration_minutes": 11.0,
+    "source": "data/3.json /solved/1",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Elasticitatea cererii și ofertei",
+        "hook": "Cât de puternic reacționează cumpărătorii?",
+        "promise": "Interpretăm elasticitatea punctuală și legătura cu încasările.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Măsurăm reacția cantității cerute sau oferite la schimbarea unui factor. Interpretăm procentele și semnele coeficienților. Legăm rezultatele de încasări și de adaptarea firmelor.\n\nÎntrebarea care ne conduce este aceasta: Cât de puternic reacționează cumpărătorii?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Aceeași scumpire poate avea efecte diferite",
+        "lead": "Clienții reacționează diferit în funcție de alternativele lor.",
+        "cards": [
+          [
+            "Alternative",
+            "Substituenți apropiați"
+          ],
+          [
+            "Buget",
+            "Importanța cumpărării"
+          ],
+          [
+            "Timp",
+            "Posibilitatea de adaptare"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Aceeași scumpire poate avea efecte diferite.\n\nPanta măsoară o modificare în unități fizice pe unitate monetară. Elasticitatea compară procente și nu are unitate de măsură. Schimbarea kilogramelor în grame modifică panta numerică. Ea nu schimbă elasticitatea aceleiași relații.\n\nPe schemă urmărim următoarea legătură: Alternative. Substituenți apropiați. Buget. Importanța cumpărării. Timp. Posibilitatea de adaptare."
+      },
+      {
+        "kind": "concepts",
+        "title": "Trei intensități ale reacției",
+        "cards": [
+          [
+            "Elastică",
+            "Valoarea absolută a lui Ed este peste 1."
+          ],
+          [
+            "Unitară",
+            "Valoarea absolută este 1."
+          ],
+          [
+            "Inelastică",
+            "Valoarea absolută este sub 1."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Trei intensități ale reacției.\n\nPe schemă urmărim următoarea legătură: Elastică. Valoarea absolută a lui Ed este peste 1. Unitară. Valoarea absolută este 1. Inelastică. Valoarea absolută este sub 1.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Nu comparăm doar diferențe absolute",
+        "steps": [
+          [
+            "Preț",
+            "Schimbare procentuală"
+          ],
+          [
+            "Cantitate",
+            "Reacție procentuală"
+          ],
+          [
+            "Elasticitate",
+            "Raport fără unitate de măsură"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Nu comparăm doar diferențe absolute.\n\nAlternativele apropiate fac înlocuirea mai ușoară. Un produs definit foarte îngust poate avea mai mulți substituenți decât o categorie largă. Cererea pentru o anumită marcă poate fi mai sensibilă decât cererea pentru întreaga categorie. Comparația trebuie să folosească aceeași perioadă și aceeași piață.\n\nPonderea în buget și posibilitatea amânării și timpul pentru adaptare pot conta. Pentru un consum indispensabil reacția poate fi mică pe termen scurt. Pe termen lung oamenii pot schimba echipamente sau obiceiuri. Acestea sunt tendințe și nu un clasament universal al bunurilor.\n\nCitim mecanismul în această ordine: Preț. Schimbare procentuală. Cantitate. Reacție procentuală. Elasticitate. Raport fără unitate de măsură.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Pe cererea liniară calculul este direct",
+        "formula": "Ed = panta cererii × P/Q",
+        "lines": [
+          "Pentru Qd = 40 − 2P panta este −2.",
+          "La fiecare punct se schimbă raportul P/Q."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Pe cererea liniară calculul este direct.\n\nUn elev poate observa că linia are aceeași înclinare și poate presupune elasticitate constantă. Calculul arată de ce presupunerea este greșită. Elasticitatea folosește și poziția punctului.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "O dreaptă poate avea elasticități diferite",
+        "lines": [
+          "Cererea este Qd = 40 − 2P.",
+          "În punctul P = 10 și Q = 20 elasticitatea este −1."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: O dreaptă poate avea elasticități diferite.\n\nAceastă explicație privește TR. Pentru profit trebuie cunoscute costurile. Dacă producerea unei unități suplimentare este costisitoare cantitatea de profit maxim poate fi mai mică decât cea de încasare maximă. Nu recomandăm ieftinirea numai pe baza creșterii vânzărilor.\n\nÎn acest desen panta funcției Qd = 40 − 2P este −2. La P = 10 cantitatea este 20. Raportul dintre preț și cantitate este 1/2. În alte puncte se schimbă acel raport chiar dacă dreapta are aceeași pantă. Reamintim că elasticitatea punctuală descrie o reacție locală. Pentru o schimbare mare a prețului am verifica separat noile încasări.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. În punctul P = 10 și Q = 20 elasticitatea este −1."
+      },
+      {
+        "kind": "compare",
+        "title": "Panta și elasticitatea nu sunt identice",
+        "cards": [
+          [
+            "Panta",
+            "Compară modificări absolute."
+          ],
+          [
+            "Elasticitatea",
+            "Compară modificări procentuale."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Panta și elasticitatea nu sunt identice.\n\nÎncasările totale sunt TR = P × Q. O reducere a prețului aduce mai puțini bani pentru fiecare unitate și poate aduce mai multe unități vândute. Rezultatul depinde de intensitatea celui de-al doilea efect.\n\nÎn zona elastică a unei cereri neschimbate o reducere mică de preț mărește TR. În zona inelastică aceeași direcție reduce TR. La elasticitate unitară efectele se compensează local. Pentru o cerere liniară încasările sunt maxime la mijlocul segmentului.\n\nPe schemă urmărim următoarea legătură: Panta. Compară modificări absolute. Elasticitatea. Compară modificări procentuale.\n\nVerificare orală: De ce nu comparăm doar semnul coeficientului? Răspuns așteptat: Semnul arată direcția. Valoarea absolută arată intensitatea."
+      },
+      {
+        "kind": "exercise",
+        "title": "Calcul punctual pe cererea liniară",
+        "condition": "Cererea este Qd = 40 − 2P. Prețul analizat este 10 u.m. pe produs. Q este numărul de produse pe perioadă.",
+        "requirements": [
+          "Calculați cantitatea cerută.",
+          "Calculați și interpretați elasticitatea punctuală."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Cererea este Qd = 40 − 2P. Prețul analizat este 10 u.m. pe produs. Q este numărul de produse pe perioadă.\n\nCerințele sunt: Calculați cantitatea cerută. Calculați și interpretați elasticitatea punctuală.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Semnul și mărimea spun lucruri diferite",
+        "steps": [
+          [
+            "Cantitatea",
+            "Q = 40 − 2 × 10 = 20"
+          ],
+          [
+            "Coeficientul",
+            "Ed = −2 × 10/20 = −1"
+          ],
+          [
+            "Interpretarea",
+            "Cererea este unitară în acest punct."
+          ]
+        ],
+        "conclusion": "Reacția procentuală locală are aceeași mărime ca schimbarea prețului și sens opus.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCantitatea. Q = 40 − 2 × 10 = 20.\n\nCoeficientul. Ed = −2 × 10/20 = −1.\n\nInterpretarea. Cererea este unitară în acest punct.\n\nReacția procentuală locală are aceeași mărime ca schimbarea prețului și sens opus.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Elasticitatea nu are unitate de măsură.",
+          "Semnul arată direcția reacției.",
+          "Mărimea ajută la interpretarea încasărilor."
+        ],
+        "check": "De ce nu comparăm doar semnul coeficientului?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Elasticitatea nu are unitate de măsură. Semnul arată direcția reacției. Mărimea ajută la interpretarea încasărilor.\n\nÎntrebarea de verificare este: De ce nu comparăm doar semnul coeficientului?\n\nRăspuns: Semnul arată direcția. Valoarea absolută arată intensitatea.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 4,
+    "title": "Teoria comportamentului consumatorului",
+    "duration_minutes": 11.0,
+    "source": "interactive.py model4 and data/4.json theory",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Teoria comportamentului consumatorului",
+        "hook": "Cum alegem un coș pe care ni-l permitem?",
+        "promise": "Legăm preferințele de buget și comparăm două coșuri.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Un buget limitat nu permite cumpărarea tuturor bunurilor dorite. Comparăm coșurile accesibile și explicăm alegerea celui preferat. Folosim utilitatea și linia bugetară pentru a înțelege această decizie.\n\nÎntrebarea care ne conduce este aceasta: Cum alegem un coș pe care ni-l permitem?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Dorințele întâlnesc bugetul",
+        "lead": "Un coș preferat trebuie să fie și accesibil.",
+        "cards": [
+          [
+            "Preferințe",
+            "Ce ne aduce satisfacție"
+          ],
+          [
+            "Prețuri",
+            "La ce renunțăm pentru un bun"
+          ],
+          [
+            "Buget",
+            "Ce putem cumpăra"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Dorințele întâlnesc bugetul.\n\nLa prânz poți cumpăra o porție mai mare sau poți păstra bani pentru o băutură. Nu alegi numai un bun izolat. Compari coșuri de bunuri în limita venitului. Un coș este o combinație de cantități pentru aceeași perioadă.\n\nPreferințele descriu ordinea în care un consumator apreciază coșurile. Raționalitatea înseamnă că această ordine este consecventă. Nu înseamnă că toate persoanele trebuie să prefere același coș. Scopul modelului este explicarea alegerii date de preferințe și de restricție.\n\nPe schemă urmărim următoarea legătură: Preferințe. Ce ne aduce satisfacție. Prețuri. La ce renunțăm pentru un bun. Buget. Ce putem cumpăra."
+      },
+      {
+        "kind": "concepts",
+        "title": "Utilitatea descrie preferințele",
+        "cards": [
+          [
+            "TU",
+            "Satisfacția întregului coș."
+          ],
+          [
+            "MU",
+            "Sporul satisfacției la consum suplimentar."
+          ],
+          [
+            "Indiferență",
+            "Coșuri evaluate la fel."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Utilitatea descrie preferințele.\n\nUtilitatea este satisfacția asociată consumului în model. Abordarea cardinală reprezintă satisfacția prin numere convenționale. Utilitatea totală TU este satisfacția întregii cantități. Utilitatea marginală MU este sporul produs de o unitate suplimentară.\n\nPrima porție poate răspunde unei nevoi intense. O porție în plus poate aduce satisfacție mai mică. Aceasta este ideea utilității marginale descrescânde la preferințe și context date. TU poate încă să crească atunci când MU scade. Ea începe să scadă numai când sporul devine negativ.\n\nPe schemă urmărim următoarea legătură: TU. Satisfacția întregului coș. MU. Sporul satisfacției la consum suplimentar. Indiferență. Coșuri evaluate la fel.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Alegerea trece prin două verificări",
+        "steps": [
+          [
+            "Accesibilitate",
+            "Coșul respectă bugetul"
+          ],
+          [
+            "Preferințe",
+            "Comparăm satisfacția"
+          ],
+          [
+            "Alegere",
+            "Păstrăm varianta preferată accesibilă"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Alegerea trece prin două verificări.\n\nLa venit I și prețuri Px și Py coșurile accesibile satisfac Px × X + Py × Y ≤ I. Linia bugetară este limita cu egalitate. Interceptarea pe X este I/Px. Interceptarea pe Y este I/Py. Cu X pe axa orizontală panta este −Px/Py.\n\nUn venit mai mare cu prețuri constante deplasează linia paralel spre exterior. O modificare a unui singur preț rotește linia în jurul interceptării celuilalt bun. Dublarea simultană a venitului și a ambelor prețuri lasă linia neschimbată. Venitul nominal și puterea de cumpărare nu sunt aceeași mărime.\n\nCitim mecanismul în această ordine: Accesibilitate. Coșul respectă bugetul. Preferințe. Comparăm satisfacția. Alegere. Păstrăm varianta preferată accesibilă.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Bugetul este o limită",
+        "formula": "20X + 10Y ≤ 120",
+        "lines": [
+          "X costă 20 de lei. Y costă 10 lei.",
+          "Pentru exemplu folosim TU = X × Y."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Bugetul este o limită.\n\nÎmpărțirea egală a banilor este rezultatul acestei funcții și acestor prețuri. Nu este o regulă pentru orice preferințe. Dacă utilitatea ar acorda o importanță diferită unuia dintre bunuri coșul optim s-ar schimba.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Bugetul și preferințele pe același grafic",
+        "lines": [
+          "Linia bugetară este Y = 12 − 2X.",
+          "Coșul X = 3 și Y = 6 este pe buget și are TU = 18."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Bugetul și preferințele pe același grafic.\n\nO curbă de indiferență unește coșuri pe care aceeași persoană le apreciază la fel. Pe o astfel de curbă mai mult X poate compensa mai puțin Y. Pentru bunuri dorite curbele uzuale sunt descrescătoare. Preferințele consecvente nu permit ca două curbe de niveluri diferite să se intersecteze.\n\nRata marginală de substituție MRS arată cât Y este dispus consumatorul să sacrifice pentru încă puțin X la aceeași satisfacție. Precizăm întotdeauna sensul schimbului. Pentru preferințe convexe rata scade când X devine mai abundent în coș.\n\nLinia bugetară folosește venitul de 120 de lei și prețurile 20 și 10. În exemplu TU = X × Y reprezintă preferințele și nu bani primiți de consumator. Cele două coșuri pe care le comparăm au același cost. Ele nu au aceeași utilitate. La întrebarea despre coșul preferat trebuie folosită funcția de utilitate și nu doar suma de bani rămasă.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. Coșul X = 3 și Y = 6 este pe buget și are TU = 18."
+      },
+      {
+        "kind": "compare",
+        "title": "Un coș mai mare poate fi inaccesibil",
+        "cards": [
+          [
+            "Preferat",
+            "Oferă mai multă satisfacție."
+          ],
+          [
+            "Accesibil",
+            "Nu depășește bugetul disponibil."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Un coș mai mare poate fi inaccesibil.\n\nPentru un optim interior neted cu bunuri divizibile comparăm satisfacția adusă de ultimul leu folosit pentru fiecare bun. Dacă MUx/Px este mai mare decât MUy/Py o mică realocare spre X poate mări utilitatea. La optimul interior rapoartele sunt egale și bugetul este folosit integral în lipsa saturației.\n\nAceeași condiție se scrie MRSxy = Px/Py. Ea descrie tangența dintre o curbă de indiferență și linia bugetară în condițiile potrivite. Nu este o rețetă pentru orice situație. Cu substituenți perfecți consumatorul poate aloca tot venitul unui bun. Cu bunuri indivizibile trebuie comparate coșurile întregi accesibile.\n\nPe schemă urmărim următoarea legătură: Preferat. Oferă mai multă satisfacție. Accesibil. Nu depășește bugetul disponibil.\n\nVerificare orală: Poate un coș preferat să nu fie ales? Răspuns așteptat: Da. El poate depăși bugetul disponibil."
+      },
+      {
+        "kind": "exercise",
+        "title": "Două coșuri pentru același buget",
+        "condition": "Venitul este 120 de lei. Prețurile sunt 20 de lei pentru X și 10 lei pentru Y. TU = X × Y. Comparăm A = (3; 6) și B = (2; 8).",
+        "requirements": [
+          "Verificați costul ambelor coșuri.",
+          "Comparați utilitățile lor totale."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Venitul este 120 de lei. Prețurile sunt 20 de lei pentru X și 10 lei pentru Y. TU = X × Y. Comparăm A = (3; 6) și B = (2; 8).\n\nCerințele sunt: Verificați costul ambelor coșuri. Comparați utilitățile lor totale.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Aceeași plată nu înseamnă aceeași utilitate",
+        "steps": [
+          [
+            "Coșul A",
+            "20 × 3 + 10 × 6 = 120; TU = 18"
+          ],
+          [
+            "Coșul B",
+            "20 × 2 + 10 × 8 = 120; TU = 16"
+          ],
+          [
+            "Compararea",
+            "A este preferat lui B în funcția dată."
+          ]
+        ],
+        "conclusion": "Ambele coșuri sunt accesibile. Preferințele aleg între ele.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCoșul A. 20 × 3 + 10 × 6 = 120; TU = 18.\n\nCoșul B. 20 × 2 + 10 × 8 = 120; TU = 16.\n\nCompararea. A este preferat lui B în funcția dată.\n\nAmbele coșuri sunt accesibile. Preferințele aleg între ele.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Bugetul arată posibilitățile.",
+          "Preferințele ordonează coșurile.",
+          "Alegem dintre variantele accesibile."
+        ],
+        "check": "Poate un coș preferat să nu fie ales?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Bugetul arată posibilitățile. Preferințele ordonează coșurile. Alegem dintre variantele accesibile.\n\nÎntrebarea de verificare este: Poate un coș preferat să nu fie ales?\n\nRăspuns: Da. El poate depăși bugetul disponibil.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 5,
+    "title": "Teoria producției",
+    "duration_minutes": 11.0,
+    "source": "data/5.json /new/0 and production reference",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Teoria producției",
+        "hook": "De ce încă un angajat nu aduce mereu același spor?",
+        "promise": "Deosebim producția totală de medie și de spor.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "O firmă combină munca și echipamentele pentru a produce. Deosebim producția totală de media pe lucrător și de sporul adus de încă un lucrător. Explicăm apoi de ce o limită tehnică poate schimba alegerea firmei.\n\nÎntrebarea care ne conduce este aceasta: De ce încă un angajat nu aduce mereu același spor?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "O brutărie are o capacitate limitată",
+        "lead": "Aceeași tavă încape într-un singur cuptor.",
+        "cards": [
+          [
+            "Muncă",
+            "Pregătește aluatul"
+          ],
+          [
+            "Capital real",
+            "Cuptorul și echipamentele"
+          ],
+          [
+            "Capacitate",
+            "Cel mult 30 de pâini pe tavă"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: O brutărie are o capacitate limitată.\n\nO brutărie transformă ingrediente prin munca angajaților și folosirea cuptorului. Făina și apa intră în aluat. Electricitatea încălzește cuptorul. Munca include atât efort fizic cât și cunoștințe. Producția este procesul prin care resursele sunt combinate pentru bunuri și servicii utile.\n\nFactorii tradiționali sunt natura și munca și capitalul real. Capitalul real cuprinde bunuri create anterior pentru a participa la producție. Tehnologia și informația și organizarea întreprinzătorului influențează folosirea lor. Banii finanțează procurarea utilajelor și plata angajaților. Nu coacem pâine folosind bani în locul cuptorului.\n\nPe schemă urmărim următoarea legătură: Muncă. Pregătește aluatul. Capital real. Cuptorul și echipamentele. Capacitate. Cel mult 30 de pâini pe tavă."
+      },
+      {
+        "kind": "concepts",
+        "title": "Trei indicatori pentru trei întrebări",
+        "cards": [
+          [
+            "TP",
+            "Cât producem în total?"
+          ],
+          [
+            "AP",
+            "Cât revine unui lucrător?"
+          ],
+          [
+            "MP",
+            "Cât aduce încă un lucrător?"
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Trei indicatori pentru trei întrebări.\n\nProdusul total TP este întregul rezultat într-o perioadă. Produsul mediu AP împarte rezultatul la cantitatea unui factor. Produsul marginal MP măsoară sporul datorat unei unități suplimentare din factorul variabil cu celelalte condiții neschimbate.\n\nPe schemă urmărim următoarea legătură: TP. Cât producem în total?. AP. Cât revine unui lucrător?. MP. Cât aduce încă un lucrător?.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Mai mulți lucrători folosesc aceeași capacitate",
+        "steps": [
+          [
+            "La început",
+            "Pregătirea devine mai rapidă"
+          ],
+          [
+            "Apoi",
+            "Sporurile producției se reduc"
+          ],
+          [
+            "La limită",
+            "Tava este deja plină"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Mai mulți lucrători folosesc aceeași capacitate.\n\nLa început specializarea sarcinilor poate mări sporul adus de un angajat. După un punct echipamentul fix și spațiul limitează avantajul suplimentar. Legea productivității marginale descrescânde privește această comparație cu cel puțin un factor fix și tehnologie neschimbată.\n\nUn MP descrescător poate rămâne pozitiv. Atunci TP crește cu sporuri mai mici. La MP zero o unitate suplimentară nu schimbă TP. La MP negativ TP scade. Nu folosim cuvântul „descrescător” pentru a afirma automat că producția totală scade.\n\nCitim mecanismul în această ordine: La început. Pregătirea devine mai rapidă. Apoi. Sporurile producției se reduc. La limită. Tava este deja plină.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Media nu este sporul",
+        "formula": "AP = TP/L; MP = ΔTP/ΔL",
+        "lines": [
+          "L este numărul lucrătorilor pentru aceeași activitate.",
+          "Cuptorul și tehnologia rămân neschimbate."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Media nu este sporul.\n\nProdusul total TP este întregul rezultat într-o perioadă. Produsul mediu AP împarte rezultatul la cantitatea unui factor. Produsul marginal MP măsoară sporul datorat unei unități suplimentare din factorul variabil cu celelalte condiții neschimbate.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Totalul poate crește cu sporuri mai mici",
+        "lines": [
+          "La L = 0; 1; 2; 3; 4 avem TP = 0; 20; 28; 30; 30.",
+          "Plafonul tăvii nu dispare prin adăugarea unui lucrător."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Totalul poate crește cu sporuri mai mici.\n\nAP crește dacă sporul adus de resursa suplimentară depășește media anterioară. AP scade dacă sporul este sub medie. În modelul continuu uzual MP intersectează AP la maximul AP. Într-un tabel cu salturi nu este necesară o egalitate exactă între valorile afișate.\n\nÎn toate echipele păstrăm aceeași pregătire:30 de minute pentru amestecarea ingredientelor și frământarea aluatului. Dospirea înseamnă timpul în care aluatul crește. Dospirea și pregătirea pentru cuptor au aceeași durată între echipe. O coacere durează o oră iar cuptorul primește o singură tavă de cel mult 30 de pâini. Nu introducem o a doua tavă simultan pentru a explica sporul.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. Plafonul tăvii nu dispare prin adăugarea unui lucrător."
+      },
+      {
+        "kind": "compare",
+        "title": "Un spor mai mic nu înseamnă un total mai mic",
+        "cards": [
+          [
+            "MP pozitiv dar în scădere",
+            "Producția totală încă se mărește."
+          ],
+          [
+            "MP negativ",
+            "Producția totală scade."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Un spor mai mic nu înseamnă un total mai mic.\n\nRandamentul unui factor și randamentul la scară sunt comparații diferite. Primul schimbă un factor în prezența altuia fix. Al doilea schimbă toți factorii. O firmă poate avea productivitate marginală descrescătoare pe termen scurt fără a avea automat randamente descrescătoare la scară.\n\nPe schemă urmărim următoarea legătură: MP pozitiv dar în scădere. Producția totală încă se mărește. MP negativ. Producția totală scade.\n\nVerificare orală: Înseamnă MP mai mic că TP scade? Răspuns așteptat: Nu cât timp MP rămâne pozitiv."
+      },
+      {
+        "kind": "exercise",
+        "title": "Al treilea lucrător în brutărie",
+        "condition": "Cu 2 lucrători se obțin 28 de pâini. Cu 3 lucrători se obțin 30 de pâini. Folosim același cuptor și aceeași tavă pentru o coacere.",
+        "requirements": [
+          "Calculați AP pentru 3 lucrători.",
+          "Calculați MP al celui de-al treilea lucrător."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Cu 2 lucrători se obțin 28 de pâini. Cu 3 lucrători se obțin 30 de pâini. Folosim același cuptor și aceeași tavă pentru o coacere.\n\nCerințele sunt: Calculați AP pentru 3 lucrători. Calculați MP al celui de-al treilea lucrător.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Media și sporul au rezultate diferite",
+        "steps": [
+          [
+            "Totalul",
+            "TP = 30 de pâini"
+          ],
+          [
+            "Media",
+            "AP = 30/3 = 10 pâini pe lucrător"
+          ],
+          [
+            "Sporul",
+            "MP = (30 − 28)/(3 − 2) = 2 pâini"
+          ]
+        ],
+        "conclusion": "Al treilea lucrător aduce două pâini suplimentare. Media echipei este zece.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nTotalul. TP = 30 de pâini.\n\nMedia. AP = 30/3 = 10 pâini pe lucrător.\n\nSporul. MP = (30 − 28)/(3 − 2) = 2 pâini.\n\nAl treilea lucrător aduce două pâini suplimentare. Media echipei este zece.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Resursele și tehnologia determină posibilul.",
+          "AP este o medie. MP este un spor.",
+          "Decizia firmei cere și prețuri și costuri."
+        ],
+        "check": "Înseamnă MP mai mic că TP scade?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Resursele și tehnologia determină posibilul. AP este o medie. MP este un spor. Decizia firmei cere și prețuri și costuri.\n\nÎntrebarea de verificare este: Înseamnă MP mai mic că TP scade?\n\nRăspuns: Nu cât timp MP rămâne pozitiv.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 6,
+    "title": "Costurile de producție",
+    "duration_minutes": 11.0,
+    "source": "data/6.json /new/3",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Costurile de producție",
+        "hook": "Cât costă producția și cât costă încă un produs?",
+        "promise": "Separăm totalul de media pe produs și de costul suplimentar.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Aceeași producție poate fi obținută prin combinații diferite de resurse. Calculăm costul total și costurile pe produs. Comparăm apoi costul unei unități suplimentare cu media și explicăm alegerea factorilor.\n\nÎntrebarea care ne conduce este aceasta: Cât costă producția și cât costă încă un produs?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Un atelier plătește chiar înainte să producă",
+        "lead": "O parte din cost nu depinde de lotul zilei.",
+        "cards": [
+          [
+            "Cost fix",
+            "Capacitatea disponibilă"
+          ],
+          [
+            "Cost variabil",
+            "Resursele consumate de lot"
+          ],
+          [
+            "Cost total",
+            "Ambele componente"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Un atelier plătește chiar înainte să producă.\n\nProprietarul unui atelier poate folosi propriul spațiu sau îl poate închiria altcuiva. Dacă îl folosește în afacere nu plătește chirie unei alte persoane. Totuși renunță la un venit posibil. Costul economic include această oportunitate și nu doar plățile observate.\n\nCosturile explicite apar pentru resurse cumpărate de la alții. Costurile implicite reflectă utilizarea resurselor proprii și cea mai bună alternativă abandonată. Profitul contabil și profitul economic diferă deoarece al doilea include costurile implicite. Nu adăugăm de două ori aceeași alternativă.\n\nPe schemă urmărim următoarea legătură: Cost fix. Capacitatea disponibilă. Cost variabil. Resursele consumate de lot. Cost total. Ambele componente."
+      },
+      {
+        "kind": "concepts",
+        "title": "Trei moduri de a privi costul",
+        "cards": [
+          [
+            "TC",
+            "Costul întregii producții."
+          ],
+          [
+            "ATC",
+            "Costul pe produs în medie."
+          ],
+          [
+            "MC",
+            "Costul unei modificări suplimentare."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Trei moduri de a privi costul.\n\nCostul fix FC nu depinde de Q în perioada și intervalul analizat. Costul variabil VC se schimbă cu producția. Costul total este TC = FC + VC. „Fix” nu înseamnă neschimbat pentru totdeauna și nici identic între firme.\n\nVC poate crește proporțional cu Q sau mai repede sau mai încet. În cazul proporțional AVC este constant. Productivitatea și prețurile resurselor determină forma costului variabil. De aceea nu presupunem că orice cost variabil are aceeași curbă.\n\nPe schemă urmărim următoarea legătură: TC. Costul întregii producții. ATC. Costul pe produs în medie. MC. Costul unei modificări suplimentare.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Același cost fix se repartizează",
+        "steps": [
+          [
+            "Mai mult Q",
+            "Crește numărul produselor"
+          ],
+          [
+            "Același FC",
+            "Capacitatea nu se modifică"
+          ],
+          [
+            "AFC mai mic",
+            "Costul fix revine la mai multe produse"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Același cost fix se repartizează.\n\nATC = TC/Q arată costul repartizat pe unitate. AFC = FC/Q și AVC = VC/Q sunt componentele sale. Costul marginal MC arată schimbarea TC când Q crește. Pentru un tabel folosim ΔTC/ΔQ. Pentru o funcție netedă putem calcula valoarea punctuală prin derivată.\n\nDacă noul lot costă pe unitate mai puțin decât media existentă media scade. Dacă îl costă mai mult media crește. În modelul continuu uzual MC intersectează ATC și AVC la minimele lor interioare. Un minim la marginea domeniului nu trebuie forțat în aceeași regulă de egalitate.\n\nCitim mecanismul în această ordine: Mai mult Q. Crește numărul produselor. Același FC. Capacitatea nu se modifică. AFC mai mic. Costul fix revine la mai multe produse.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Întrebarea stabilește formula",
+        "formula": "TC = FC + VC; ATC = TC/Q",
+        "lines": [
+          "Pentru un interval folosim MC = ΔTC/ΔQ.",
+          "Mediile și MC sunt exprimate în lei pe produs."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Întrebarea stabilește formula.\n\nSchimbarea aditivă a FC mută TC și ATC dar nu schimbă MC sau AVC. În schimb scumpirea resursei variabile poate schimba MC. Trebuie verificat ce componentă a costului este afectată de eveniment.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Costul total poate crește iar media poate scădea",
+        "lines": [
+          "Folosim TC = 100 + 5Q.",
+          "ATC = 100/Q + 5 scade spre 5. MC rămâne 5."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Costul total poate crește iar media poate scădea.\n\nAceeași logică explică relația dintre MC și ATC în modelul continuu. Un cost marginal sub medie trage media în jos. Un cost marginal peste medie o ridică. Semnul modificării mediei și semnul modificării totalului trebuie deosebite.\n\nPentru funcția TC = 100 + 5Q fiecare produs suplimentar adaugă 5 lei. Costul fix de 100 de lei nu se modifică în comparație. La 20 de produse costul total este 200 iar media este 10. Pe măsură ce producția crește componenta fixă pe produs se reduce. Aceasta explică de ce media se poate apropia de 5 în timp ce totalul continuă să crească.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. ATC = 100/Q + 5 scade spre 5. MC rămâne 5."
+      },
+      {
+        "kind": "compare",
+        "title": "O medie mai mică nu înseamnă un total mai mic",
+        "cards": [
+          [
+            "Total",
+            "Mai multe produse pot cere mai mulți bani."
+          ],
+          [
+            "Medie",
+            "Costul fix se împarte la mai multe produse."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: O medie mai mică nu înseamnă un total mai mic.\n\nCosturile istorice arată sume aferente unei achiziții anterioare. Costul de înlocuire privește resursa în condițiile curente. Costul relevant pentru alegerea de astăzi depinde de alternativele disponibile. O sumă deja plătită și nerecuperabilă nu se schimbă prin producerea încă unei unități.\n\nÎnainte de comparație precizăm cantitatea și perioada și costurile care se pot evita. Întreruperea producției de mâine poate economisi materiale fără a elimina chiria lunii. Ieșirea definitivă din activitate poate schimba mai multe costuri. Același element poate fi fix pentru o decizie și variabil pentru alta.\n\nPe schemă urmărim următoarea legătură: Total. Mai multe produse pot cere mai mulți bani. Medie. Costul fix se împarte la mai multe produse.\n\nVerificare orală: Sunt media și costul următoarei unități același lucru? Răspuns așteptat: Nu. Media repartizează totalul. MC descrie sporul."
+      },
+      {
+        "kind": "exercise",
+        "title": "Costul unui lot de 20 de produse",
+        "condition": "Atelierul are TC = 100 + 5Q. Q este numărul de produse pe zi iar costul este în lei. Astăzi se produc 20 de produse.",
+        "requirements": [
+          "Calculați FC și VC și TC.",
+          "Calculați ATC și MC pentru încă un produs."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Atelierul are TC = 100 + 5Q. Q este numărul de produse pe zi iar costul este în lei. Astăzi se produc 20 de produse.\n\nCerințele sunt: Calculați FC și VC și TC. Calculați ATC și MC pentru încă un produs.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Fiecare indicator răspunde altei întrebări",
+        "steps": [
+          [
+            "Componente",
+            "FC = 100; VC = 5 × 20 = 100"
+          ],
+          [
+            "Total și medie",
+            "TC = 200; ATC = 200/20 = 10"
+          ],
+          [
+            "Spor",
+            "TC(21) − TC(20) = 5 lei"
+          ]
+        ],
+        "conclusion": "Media este 10 lei pe produs. Încă un produs costă 5 lei în această funcție.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nComponente. FC = 100; VC = 5 × 20 = 100.\n\nTotal și medie. TC = 200; ATC = 200/20 = 10.\n\nSpor. TC(21) − TC(20) = 5 lei.\n\nMedia este 10 lei pe produs. Încă un produs costă 5 lei în această funcție.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Totalul descrie întregul lot.",
+          "Media repartizează costul pe produs.",
+          "MC descrie schimbarea suplimentară."
+        ],
+        "check": "Sunt media și costul următoarei unități același lucru?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Totalul descrie întregul lot. Media repartizează costul pe produs. MC descrie schimbarea suplimentară.\n\nÎntrebarea de verificare este: Sunt media și costul următoarei unități același lucru?\n\nRăspuns: Nu. Media repartizează totalul. MC descrie sporul.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 7,
+    "title": "Maximizarea profitului și pragul de rentabilitate al firmei",
+    "duration_minutes": 11.0,
+    "source": "interactive.py model7",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Maximizarea profitului și pragul de rentabilitate al firmei",
+        "hook": "De ce mai multe vânzări nu înseamnă mereu mai mult profit?",
+        "promise": "Alegem cantitatea prin comparația marginală.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Vânzările mai mari nu garantează un profit mai mare. Comparăm încasarea suplimentară cu costul suplimentar. Calculăm pragul de rentabilitate și verificăm ce vânzări sunt necesare pentru ținta firmei.\n\nÎntrebarea care ne conduce este aceasta: De ce mai multe vânzări nu înseamnă mereu mai mult profit?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Firma urmărește rezultatul rămas",
+        "lead": "Încasările trebuie comparate cu resursele folosite.",
+        "cards": [
+          [
+            "Vânzări",
+            "Aduc încasări"
+          ],
+          [
+            "Producție",
+            "Consumă resurse"
+          ],
+          [
+            "Profit",
+            "Rămâne după costuri"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Firma urmărește rezultatul rămas.\n\nUn atelier vinde mai multe produse într-o săptămână. Încasările cresc. Pentru comenzile suplimentare însă folosește ore suplimentare și transport mai scump. Rezultatul net poate crește sau poate scădea. Firma trebuie să compare banii obținuți cu valoarea resurselor folosite.\n\nProfitul total este TR−TC. Profitul contabil scade costurile explicite din calculul respectiv. Profitul economic include și costurile implicite ale resurselor proprii. Un proprietar poate avea profit contabil pozitiv și totuși să câștige mai puțin decât în cea mai bună alternativă disponibilă.\n\nPe schemă urmărim următoarea legătură: Vânzări. Aduc încasări. Producție. Consumă resurse. Profit. Rămâne după costuri."
+      },
+      {
+        "kind": "concepts",
+        "title": "Totalul și sporul nu sunt același lucru",
+        "cards": [
+          [
+            "TR",
+            "Încasările întregului lot."
+          ],
+          [
+            "TC",
+            "Costul întregului lot."
+          ],
+          [
+            "MR și MC",
+            "Sporurile asociate producției suplimentare."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Totalul și sporul nu sunt același lucru.\n\nO firmă poate avea venituri din vânzări și servicii și alte activități. Pentru alegerea cantității unui produs izolăm venitul asociat vânzărilor sale. Încasarea unui împrumut nu este venitul din vânzări și nici profit.\n\nDacă pentru a vinde mai mult firma reduce prețul tuturor unităților MR este mai mic decât noul preț. Firma obține încasarea ultimei unități dar pierde o parte din încasarea unităților care s-ar fi vândut și înainte. Pentru variații finite calculăm diferența exactă a încasărilor.\n\nPe schemă urmărim următoarea legătură: TR. Încasările întregului lot. TC. Costul întregului lot. MR și MC. Sporurile asociate producției suplimentare.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Încă o unitate merită dacă aduce mai mult",
+        "steps": [
+          [
+            "MR peste MC",
+            "Profitul total crește"
+          ],
+          [
+            "MR egal cu MC",
+            "Verificăm candidatul interior"
+          ],
+          [
+            "MR sub MC",
+            "Unitatea reduce profitul"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Încă o unitate merită dacă aduce mai mult.\n\nDacă o unitate suplimentară aduce MR mai mare decât MC ea mărește profitul. Dacă MR este mai mic decât MC ea îl reduce. În modelul continuu neted căutăm un candidat cu MR = MC.\n\nEgalitatea singură nu garantează maximul. Verificăm dacă profitul trece de la creștere la descreștere. Comparăm limitele domeniului și oprirea. Pot exista mai multe intersecții. Un volum cu profit negativ poate fi totuși cea mai bună alegere pe termen scurt dacă alternativa produce o pierdere mai mare.\n\nCitim mecanismul în această ordine: MR peste MC. Profitul total crește. MR egal cu MC. Verificăm candidatul interior. MR sub MC. Unitatea reduce profitul.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Mai întâi alegerea apoi rezultatul",
+        "formula": "Profit = TR − TC",
+        "lines": [
+          "La un maxim interior verificat folosim MR = MC.",
+          "Egalitatea nu garantează singură profit pozitiv."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Mai întâi alegerea apoi rezultatul.\n\nPentru un tabel discret calculăm profitul fiecărei cantități. Pot exista două volume cu același profit maxim. Nu inventăm o egalitate exactă MR = MC între rânduri. Derivata într-un punct și diferența pentru încă o unitate nu sunt obligatoriu identice.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Cea mai mare distanță dintre încasări și cost",
+        "lines": [
+          "P = 50. TC = 100 + 10Q + Q².",
+          "La Q = 20 încasările depășesc costul cu 300 de lei."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Cea mai mare distanță dintre încasări și cost.\n\nÎn această situație prețul de 50 de lei este constant. Firma nu pierde încasări pe produsele vândute deja când adaugă încă o unitate. Costul marginal însă crește. La Q = 20 el ajunge la 50. Profitul poate fi rescris 300 − (Q−20)². Această formă confirmă maximul fără o demonstrație lungă cu derivate. Nu confundăm vârful profitului cu vârful încasărilor.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. La Q = 20 încasările depășesc costul cu 300 de lei."
+      },
+      {
+        "kind": "compare",
+        "title": "Nu confundăm două obiective",
+        "cards": [
+          [
+            "Încasări maxime",
+            "Privesc numai banii din vânzări."
+          ],
+          [
+            "Profit maxim",
+            "Ține cont și de costurile producției."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Nu confundăm două obiective.\n\nProfitul mediu este profitul total împărțit la Q. El este P−ATC la preț unic. Profitul marginal este MR−MC. Un profit marginal pozitiv mărește profitul total. Nu înseamnă obligatoriu că profitul marginal însuși crește.\n\nMaximul profitului mediu și maximul profitului total pot apărea la volume diferite. Un câștig mic pe multe unități poate depăși un câștig mare pe puține unități. Pentru obiectivul firmei comparăm în final profitul total.\n\nPe schemă urmărim următoarea legătură: Încasări maxime. Privesc numai banii din vânzări. Profit maxim. Ține cont și de costurile producției.\n\nVerificare orală: Dovedesc încasările mai mari un profit mai mare? Răspuns așteptat: Nu fără comparația cu costul suplimentar."
+      },
+      {
+        "kind": "exercise",
+        "title": "Cantitatea profitabilă a atelierului",
+        "condition": "Prețul este 50 de lei pe produs. TC = 100 + 10Q + Q² și MC = 10 + 2Q. Cantitatea poate varia continuu.",
+        "requirements": [
+          "Găsiți candidatul din MR = MC.",
+          "Calculați profitul și verificați maximul."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "Prețul este 50 de lei pe produs. TC = 100 + 10Q + Q² și MC = 10 + 2Q. Cantitatea poate varia continuu.\n\nCerințele sunt: Găsiți candidatul din MR = MC. Calculați profitul și verificați maximul.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Calculul confirmă alegerea",
+        "steps": [
+          [
+            "Cantitatea",
+            "50 = 10 + 2Q → Q = 20"
+          ],
+          [
+            "Încasări și cost",
+            "TR = 1000; TC = 700"
+          ],
+          [
+            "Profitul",
+            "1000 − 700 = 300 de lei"
+          ]
+        ],
+        "conclusion": "MR este constant iar MC crește. Profitul trece de la creștere la descreștere.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCantitatea. 50 = 10 + 2Q → Q = 20.\n\nÎncasări și cost. TR = 1000; TC = 700.\n\nProfitul. 1000 − 700 = 300 de lei.\n\nMR este constant iar MC crește. Profitul trece de la creștere la descreștere.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Vânzările singure nu măsoară succesul.",
+          "Comparația marginală ghidează cantitatea.",
+          "Profitul final cere toate costurile relevante."
+        ],
+        "check": "Dovedesc încasările mai mari un profit mai mare?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Vânzările singure nu măsoară succesul. Comparația marginală ghidează cantitatea. Profitul final cere toate costurile relevante.\n\nÎntrebarea de verificare este: Dovedesc încasările mai mari un profit mai mare?\n\nRăspuns: Nu fără comparația cu costul suplimentar.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 8,
+    "title": "Comportamentul firmelor pe piața cu concurență perfectă",
+    "duration_minutes": 11.0,
+    "source": "data/8.json theory Trei prețuri pentru aceeași tehnologie",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Comportamentul firmelor pe piața cu concurență perfectă",
+        "hook": "De ce o firmă poate continua chiar dacă pierde?",
+        "promise": "Comparăm producția cu oprirea pe termen scurt.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "O firmă mică ia prețul pieței ca dat și își alege cantitatea. Calculăm profitul și comparăm producția cu oprirea temporară. Explicăm apoi cum intrarea și ieșirea firmelor schimbă piața.\n\nÎntrebarea care ne conduce este aceasta: De ce o firmă poate continua chiar dacă pierde?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Firma mică ia prețul pieței ca dat",
+        "lead": "Ea își alege cantitatea și nu prețul întregii piețe.",
+        "cards": [
+          [
+            "Piață",
+            "Mulți participanți mici"
+          ],
+          [
+            "Preț",
+            "Dat pentru firmă"
+          ],
+          [
+            "Alegere",
+            "Cât merită produs"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Firma mică ia prețul pieței ca dat.\n\nExistă mulți participanți mici și produse omogene. Intrarea și ieșirea sunt libere în sensul absenței barierelor relevante. Informația necesară este disponibilă iar resursele pot fi realocate în condițiile modelului. Fiecare participant are o parte neglijabilă din piață.\n\nFirma ia P ca dat și alege q. Cererea adresată ei este orizontală la acel preț. Cererea întregii piețe poate fi descrescătoare. Nu desenăm aceeași curbă pentru o firmă și pentru întreaga ramură.\n\nPe schemă urmărim următoarea legătură: Piață. Mulți participanți mici. Preț. Dat pentru firmă. Alegere. Cât merită produs."
+      },
+      {
+        "kind": "concepts",
+        "title": "Trei rezultate la cantitatea aleasă",
+        "cards": [
+          [
+            "P peste ATC",
+            "Profit economic pozitiv."
+          ],
+          [
+            "P egal cu ATC",
+            "Profit economic zero."
+          ],
+          [
+            "P sub ATC",
+            "Pierdere. Verificăm și oprirea."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Trei rezultate la cantitatea aleasă.\n\nTR = Pq și MR = AR = P. Fiecare unitate suplimentară aduce același venit P. Dacă MC este mai mic firma poate mări profitul prin extindere. Dacă MC este mai mare unitatea suplimentară reduce profitul.\n\nCandidatul interior se află pe partea crescătoare relevantă a MC unde P = MC. Calculăm profitul și comparăm cu oprirea. Profitul este (P−ATC)q. Diferența verticală P−ATC este profitul mediu. Înmulțirea cu q dă aria profitului total.\n\nPe schemă urmărim următoarea legătură: P peste ATC. Profit economic pozitiv. P egal cu ATC. Profit economic zero. P sub ATC. Pierdere. Verificăm și oprirea.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Oprirea nu elimină orice cost",
+        "steps": [
+          [
+            "Producem",
+            "Obținem TR și suportăm TC"
+          ],
+          [
+            "Ne oprim",
+            "Evităm VC dar păstrăm FC"
+          ],
+          [
+            "Comparăm",
+            "Alegem pierderea mai mică"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Oprirea nu elimină orice cost.\n\nPe termen scurt comparăm TR cu VC. Când venitul recuperează VC și contribuie la FC producția poate fi preferabilă. Dacă P este sub minimul AVC niciun volum pozitiv nu recuperează costul variabil în modelul standard.\n\nLa egalitate cu minimul AVC firma poate fi indiferentă între oprire și volumul pozitiv care minimizează AVC. Costuri de repornire pot schimba comparația dar nu apar în modelul simplu. Suspendarea păstrează capacitatea. Ieșirea pe termen lung permite ajustarea mai multor costuri.\n\nCitim mecanismul în această ordine: Producem. Obținem TR și suportăm TC. Ne oprim. Evităm VC dar păstrăm FC. Comparăm. Alegem pierderea mai mică.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Prețul ghidează cantitatea",
+        "formula": "P = MC; profit = (P − ATC) × Q",
+        "lines": [
+          "Verificăm și dacă TR acoperă VC.",
+          "Costul fix neevitabil rămâne la oprire."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Prețul ghidează cantitatea.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Prețul poate acoperi costul variabil",
+        "lines": [
+          "TC = 100 + 10Q + Q². P = 20.",
+          "La Q = 5 avem P peste AVC. Producția contribuie la FC."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Prețul poate acoperi costul variabil.\n\nFolosim numai tehnologia TC = 100 + 10Q + Q² și prețul de 20. La cantitatea 5 încasările sunt 100 iar costul este 175. Costul variabil este 75. Producția aduce o contribuție de 25 la costul fix. Prin oprire am pierde întregul cost fix de 100. Decizia de continuare este pentru termenul scurt precizat și nu o promisiune că firma ar trebui să rămână permanent în ramură.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. La Q = 5 avem P peste AVC. Producția contribuie la FC."
+      },
+      {
+        "kind": "compare",
+        "title": "Pierdere nu înseamnă oprire automată",
+        "cards": [
+          [
+            "Termen scurt",
+            "Contează ce costuri se pot evita acum."
+          ],
+          [
+            "Termen lung",
+            "Ieșirea permite ajustarea mai multor costuri."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Pierdere nu înseamnă oprire automată.\n\nProfitul economic pozitiv poate atrage firme noi. Oferta crește și prețul tinde să scadă. Pierderile persistente încurajează ieșirea. Oferta se reduce și prețul poate reveni. În echilibrul standard nu mai există stimulent de intrare sau ieșire.\n\nCu firme identice și intrare liberă și condiții stabile avem P = MC = minimul LRAC. Profitul economic este zero. Costurile includ remunerația normală a resurselor proprii. Rezultatul nu afirmă că antreprenorul nu primește nimic.\n\nPe schemă urmărim următoarea legătură: Termen scurt. Contează ce costuri se pot evita acum. Termen lung. Ieșirea permite ajustarea mai multor costuri.\n\nVerificare orală: De ce mai contează FC după oprirea de astăzi? Răspuns așteptat: În exemplu acest cost nu poate fi evitat pe termen scurt."
+      },
+      {
+        "kind": "exercise",
+        "title": "Produce sau se oprește atelierul?",
+        "condition": "P = 20. TC = 100 + 10Q + Q² și MC = 10 + 2Q. Costul fix de 100 de lei nu se evită prin oprirea de astăzi.",
+        "requirements": [
+          "Găsiți cantitatea optimă pozitivă.",
+          "Comparați rezultatul cu oprirea."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "P = 20. TC = 100 + 10Q + Q² și MC = 10 + 2Q. Costul fix de 100 de lei nu se evită prin oprirea de astăzi.\n\nCerințele sunt: Găsiți cantitatea optimă pozitivă. Comparați rezultatul cu oprirea.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Continuarea poate reduce pierderea",
+        "steps": [
+          [
+            "Cantitatea",
+            "20 = 10 + 2Q → Q = 5"
+          ],
+          [
+            "Producția",
+            "TR = 100; TC = 175; profit = −75"
+          ],
+          [
+            "Oprirea",
+            "Q = 0; pierdere = 100 de lei"
+          ]
+        ],
+        "conclusion": "Producția este preferabilă azi: pierderea de 75 este mai mică decât pierderea de 100.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCantitatea. 20 = 10 + 2Q → Q = 5.\n\nProducția. TR = 100; TC = 175; profit = −75.\n\nOprirea. Q = 0; pierdere = 100 de lei.\n\nProducția este preferabilă azi: pierderea de 75 este mai mică decât pierderea de 100.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Firma este primitoare de preț.",
+          "Profitul și decizia de oprire sunt întrebări distincte.",
+          "Pe termen lung reevaluăm participarea."
+        ],
+        "check": "De ce mai contează FC după oprirea de astăzi?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Firma este primitoare de preț. Profitul și decizia de oprire sunt întrebări distincte. Pe termen lung reevaluăm participarea.\n\nÎntrebarea de verificare este: De ce mai contează FC după oprirea de astăzi?\n\nRăspuns: În exemplu acest cost nu poate fi evitat pe termen scurt.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 9,
+    "title": "Comportamentul firmelor pe piața de monopol",
+    "duration_minutes": 11.0,
+    "source": "interactive.py model9",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Comportamentul firmelor pe piața de monopol",
+        "hook": "De ce un singur vânzător nu poate cere orice preț?",
+        "promise": "Alegem cantitatea monopolistă și citim apoi prețul.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Un singur ofertant poate influența prețul dar nu poate ignora cumpărătorii. Alegem mai întâi cantitatea și citim apoi prețul pe cerere. Comparăm rezultatul firmei cu schimburile avantajoase pentru societate.\n\nÎntrebarea care ne conduce este aceasta: De ce un singur vânzător nu poate cere orice preț?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Puterea firmei are o limită",
+        "lead": "Cumpărătorii reacționează la preț chiar fără un rival apropiat.",
+        "cards": [
+          [
+            "Un ofertant",
+            "Fără substituenți apropiați"
+          ],
+          [
+            "Cerere",
+            "Limitează vânzările"
+          ],
+          [
+            "Decizie",
+            "Un preț pentru o cantitate"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Puterea firmei are o limită.\n\nO firmă este singurul ofertant al unui serviciu fără substituenți apropiați. Ea poate influența prețul. Dacă îl ridică însă unii cumpărători renunță sau reduc consumul. Puterea de piață nu elimină cererea. Firma alege o combinație preț–cantitate de pe ea.\n\nPiața trebuie delimitată. O firmă poate fi singura care vinde o marcă fără a fi singura care satisface nevoia clientului. Monopolul pur exclude substituenții apropiați pe piața relevantă. Alternativele de consum limitează puterea.\n\nPe schemă urmărim următoarea legătură: Un ofertant. Fără substituenți apropiați. Cerere. Limitează vânzările. Decizie. Un preț pentru o cantitate."
+      },
+      {
+        "kind": "concepts",
+        "title": "Ultima unitate aduce mai puțin decât prețul",
+        "cards": [
+          [
+            "P",
+            "Prețul plătit pe unitate."
+          ],
+          [
+            "MR",
+            "Sporul încasărilor totale."
+          ],
+          [
+            "MC",
+            "Sporul costului total."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Ultima unitate aduce mai puțin decât prețul.\n\nPentru a vinde mai mult pe o cerere descrescătoare firma cu preț unic trebuie să reducă prețul. Câștigă încasarea ultimei unități dar pierde o parte din încasarea unităților care se vindeau și înainte.\n\nPe schemă urmărim următoarea legătură: P. Prețul plătit pe unitate. MR. Sporul încasărilor totale. MC. Sporul costului total.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "O reducere de preț afectează și vânzările vechi",
+        "steps": [
+          [
+            "Vindem mai mult",
+            "Coborâm prețul unic"
+          ],
+          [
+            "Câștigăm",
+            "Încasarea unităților noi"
+          ],
+          [
+            "Pierdem",
+            "O parte din încasarea unităților vechi"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: O reducere de preț afectează și vânzările vechi.\n\nGăsim cantitatea candidată din MR = MC. Introducem Q în cerere pentru a găsi P. Calculăm profitul și verificăm maximul și limitele și oprirea. MR = MC singur nu garantează profit pozitiv.\n\nLa optimul interior obișnuit cu preț unic avem P > MR = MC. Maximul profitului și maximul încasărilor diferă. Cu MC pozitiv firma nu alege un segment cu MR negativ deoarece o reducere de Q ar mări încasările și ar economisi costuri.\n\nCitim mecanismul în această ordine: Vindem mai mult. Coborâm prețul unic. Câștigăm. Încasarea unităților noi. Pierdem. O parte din încasarea unităților vechi.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Două etape care nu trebuie inversate",
+        "formula": "MR = MC → Q; apoi P = P(Q)",
+        "lines": [
+          "Cantitatea se alege prin comparația marginală.",
+          "Prețul se citește pe cerere și nu pe MR."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Două etape care nu trebuie inversate.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Același Q are două valori diferite",
+        "lines": [
+          "Cerere: P = 100 − 2Q. MC = 20.",
+          "La Q = 20 avem MR = 20 dar P = 60."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Același Q are două valori diferite.\n\nÎn acest desen cererea este P = 100 − 2Q iar costul marginal este 20. Linia MR coboară mai repede decât cererea. Găsim cantitatea 20 la întâlnirea MR cu MC. Ridicăm apoi aceeași cantitate până la cerere pentru prețul 60. Aceste două puncte sunt distincte. Profitul de 700 ține cont și de costul fix de 100. Puterea asupra prețului nu elimină acel cost.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. La Q = 20 avem MR = 20 dar P = 60."
+      },
+      {
+        "kind": "compare",
+        "title": "Putere de piață nu înseamnă profit garantat",
+        "cards": [
+          [
+            "Alegerea optimă",
+            "Compară MR cu MC."
+          ],
+          [
+            "Rezultatul",
+            "Depinde de încasări și de toate costurile."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Putere de piață nu înseamnă profit garantat.\n\nIndicele Lerner este (P−MC)/P. La optimul interior cu preț unic el este inversul valorii absolute a elasticității cererii. Alternativele care fac cererea mai elastică limitează adaosul în acest model.\n\nÎn comparația standard cu aceleași cerere și MC monopolul cu preț unic produce mai puțin decât reperul P = MC. O parte din surplusul consumatorului se transferă firmei. Alte schimburi avantajoase nu mai au loc. Pierderea lor este pierderea socială. Ea nu este întreg profitul monopolistului.\n\nPe schemă urmărim următoarea legătură: Alegerea optimă. Compară MR cu MC. Rezultatul. Depinde de încasări și de toate costurile.\n\nVerificare orală: De unde citim prețul monopolist? Răspuns așteptat: De pe cerere după ce am ales cantitatea."
+      },
+      {
+        "kind": "exercise",
+        "title": "Prețul și profitul unui singur ofertant",
+        "condition": "P = 100 − 2Q. TC = 100 + 20Q. MR = 100 − 4Q iar MC = 20. Firma aplică un preț unic.",
+        "requirements": [
+          "Calculați Q și P la optim.",
+          "Calculați profitul total."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "P = 100 − 2Q. TC = 100 + 20Q. MR = 100 − 4Q iar MC = 20. Firma aplică un preț unic.\n\nCerințele sunt: Calculați Q și P la optim. Calculați profitul total.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Nu citim prețul pe MR",
+        "steps": [
+          [
+            "Cantitatea",
+            "100 − 4Q = 20 → Q = 20"
+          ],
+          [
+            "Prețul",
+            "P = 100 − 2 × 20 = 60"
+          ],
+          [
+            "Profitul",
+            "TR = 1200; TC = 500; profit = 700"
+          ]
+        ],
+        "conclusion": "Firma alege o combinație de pe cerere. Prețul de 60 diferă de venitul marginal de 20.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCantitatea. 100 − 4Q = 20 → Q = 20.\n\nPrețul. P = 100 − 2 × 20 = 60.\n\nProfitul. TR = 1200; TC = 500; profit = 700.\n\nFirma alege o combinație de pe cerere. Prețul de 60 diferă de venitul marginal de 20.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Cererea limitează puterea firmei.",
+          "MR și P sunt mărimi diferite.",
+          "Mai întâi cantitatea apoi prețul."
+        ],
+        "check": "De unde citim prețul monopolist?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Cererea limitează puterea firmei. MR și P sunt mărimi diferite. Mai întâi cantitatea apoi prețul.\n\nÎntrebarea de verificare este: De unde citim prețul monopolist?\n\nRăspuns: De pe cerere după ce am ales cantitatea.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 10,
+    "title": "Comportamentul firmelor pe piața cu concurență monopolistică",
+    "duration_minutes": 11.0,
+    "source": "interactive.py model10",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Comportamentul firmelor pe piața cu concurență monopolistică",
+        "hook": "De ce două cafenele pot cere prețuri diferite?",
+        "promise": "Legăm diferențierea de alegerea cantității și de profit.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Produsele apropiate pot atrage clienți diferiți. Explicăm cum diferențierea oferă o putere limitată asupra prețului. Urmărim apoi efectele intrării concurenților și comparăm beneficiul unei reclame cu costul ei.\n\nÎntrebarea care ne conduce este aceasta: De ce două cafenele pot cere prețuri diferite?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Clienții nu cumpără doar un obiect",
+        "lead": "Locul și serviciul și experiența pot conta.",
+        "cards": [
+          [
+            "Amplasare",
+            "Mai aproape de client"
+          ],
+          [
+            "Serviciu",
+            "Mai potrivit nevoii"
+          ],
+          [
+            "Alternative",
+            "Limitează prețul cerut"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Clienții nu cumpără doar un obiect.\n\nDouă cafenele folosesc ingrediente apropiate și totuși atrag clienți diferiți. Una este aproape de stație. Alta oferă liniște pentru lucru. Un consumator poate accepta un preț mai mare pentru varianta potrivită lui.\n\nConcurența monopolistică îmbină multe firme și intrare relativ ușoară cu produse diferențiate. Fiecare varietate are putere limitată asupra prețului. Alternativele apropiate limitează această putere. Monopolul unei varietăți nu este un monopol asupra întregii nevoi.\n\nPe schemă urmărim următoarea legătură: Amplasare. Mai aproape de client. Serviciu. Mai potrivit nevoii. Alternative. Limitează prețul cerut."
+      },
+      {
+        "kind": "concepts",
+        "title": "Concurență și diferențiere în același timp",
+        "cards": [
+          [
+            "Multe firme",
+            "Există alternative apropiate."
+          ],
+          [
+            "Produse diferite",
+            "Fiecare varietate are clienții săi."
+          ],
+          [
+            "Intrare posibilă",
+            "Profitul poate atrage rivali."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Concurență și diferențiere în același timp.\n\nCalitatea și aspectul și funcțiile pot diferenția produsul. Amplasarea și programul și livrarea pot face oferta mai utilă. Marca și reputația pot influența încrederea. Unele diferențe sunt fizice. Altele privesc experiența cumpărării și percepția.\n\nO variantă nu este automat superioară pentru toți. Un magazin apropiat economisește timpul unei persoane. O altă persoană are alt traseu. Varietatea poate răspunde unor nevoi diferite chiar dacă bunurile sunt apropiate.\n\nPe schemă urmărim următoarea legătură: Multe firme. Există alternative apropiate. Produse diferite. Fiecare varietate are clienții săi. Intrare posibilă. Profitul poate atrage rivali.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Avantajul unei varietăți poate fi temporar",
+        "steps": [
+          [
+            "Profit pozitiv",
+            "Atrage produse apropiate"
+          ],
+          [
+            "Intrare",
+            "Clientela se împarte"
+          ],
+          [
+            "Ajustare",
+            "Firma își recalculează alegerea"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Avantajul unei varietăți poate fi temporar.\n\nCererea unei varietăți este descrescătoare. La scumpire unii clienți aleg alternative. La ieftinire pot veni clienți noi. Cererea devine mai sensibilă când substituenții sunt mai apropiați și mai ușor de găsit.\n\nLa optimul interior firma alege Q din MR = MC și citește P pe cerere. Poate avea profit pozitiv sau zero sau pierdere. Diferența P−AC la cantitatea aleasă determină profitul mediu. Egalitatea marginală nu garantează un rezultat pozitiv.\n\nCitim mecanismul în această ordine: Profit pozitiv. Atrage produse apropiate. Intrare. Clientela se împarte. Ajustare. Firma își recalculează alegerea.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Alegem ca o firmă cu cerere proprie",
+        "formula": "MR = MC; profit = (P − AC) × Q",
+        "lines": [
+          "Prețul se citește pe cererea varietății.",
+          "Diferențierea nu elimină costurile."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Alegem ca o firmă cu cerere proprie.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Cererea proprie rămâne descrescătoare",
+        "lines": [
+          "P = 80 − Q. TC = 200 + 20Q + Q².",
+          "La Q = 15 prețul este 65 iar MR și MC sunt 50."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Cererea proprie rămâne descrescătoare.\n\nAceeași tehnologie și aceeași cerere sunt folosite în desen și în exercițiu. La Q = 15 avem P = 65 iar MR = MC = 50. Prețul peste costul marginal nu este întreaga marjă de profit pe produs. Pentru profit folosim costul total de 725 și încasările de 975. O altă cerere după intrarea rivalilor ar cere o alegere nouă.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. La Q = 15 prețul este 65 iar MR și MC sunt 50."
+      },
+      {
+        "kind": "compare",
+        "title": "Mai scump nu înseamnă automat mai profitabil",
+        "cards": [
+          [
+            "Avantaj pentru client",
+            "Poate susține un preț mai mare."
+          ],
+          [
+            "Cost pentru firmă",
+            "Trebuie recuperat din încasări."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Mai scump nu înseamnă automat mai profitabil.\n\nProfitul unei varietăți atrage oferte apropiate. Clienții se împart între mai multe firme. Cererea unei firme existente poate scădea și poate deveni mai elastică. Firma își recalculează cantitatea și prețul.\n\nÎn echilibrul standard de lungă durată cel mai bun profit economic este zero. Cererea este tangentă la LRAC în cazul neted interior. P acoperă LRAC la volumul ales și MR = LRMC. Remunerația normală a resurselor proprii rămâne inclusă în cost.\n\nPe schemă urmărim următoarea legătură: Avantaj pentru client. Poate susține un preț mai mare. Cost pentru firmă. Trebuie recuperat din încasări.\n\nVerificare orală: Garantează un produs diferit profit pozitiv? Răspuns așteptat: Nu. Încasările trebuie să acopere costurile."
+      },
+      {
+        "kind": "exercise",
+        "title": "Alegerea unui producător diferențiat",
+        "condition": "P = 80 − Q. TC = 200 + 20Q + Q². MR = 80 − 2Q și MC = 20 + 2Q. Cantitatea poate varia continuu.",
+        "requirements": [
+          "Calculați cantitatea și prețul optime.",
+          "Calculați profitul total."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "P = 80 − Q. TC = 200 + 20Q + Q². MR = 80 − 2Q și MC = 20 + 2Q. Cantitatea poate varia continuu.\n\nCerințele sunt: Calculați cantitatea și prețul optime. Calculați profitul total.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Diferențierea permite un adaos limitat",
+        "steps": [
+          [
+            "Cantitatea",
+            "80 − 2Q = 20 + 2Q → Q = 15"
+          ],
+          [
+            "Prețul",
+            "P = 80 − 15 = 65"
+          ],
+          [
+            "Profitul",
+            "TR = 975; TC = 725; profit = 250"
+          ]
+        ],
+        "conclusion": "Alegerea este profitabilă în condițiile date. Intrarea unor rivali poate modifica cererea.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nCantitatea. 80 − 2Q = 20 + 2Q → Q = 15.\n\nPrețul. P = 80 − 15 = 65.\n\nProfitul. TR = 975; TC = 725; profit = 250.\n\nAlegerea este profitabilă în condițiile date. Intrarea unor rivali poate modifica cererea.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Varietatea poate avea valoare pentru client.",
+          "Firma rămâne limitată de substituenți.",
+          "Profitul se calculează după toate costurile."
+        ],
+        "check": "Garantează un produs diferit profit pozitiv?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Varietatea poate avea valoare pentru client. Firma rămâne limitată de substituenți. Profitul se calculează după toate costurile.\n\nÎntrebarea de verificare este: Garantează un produs diferit profit pozitiv?\n\nRăspuns: Nu. Încasările trebuie să acopere costurile.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  },
+  {
+    "seminar": 11,
+    "title": "Comportamentul firmelor pe piața oligopolistă",
+    "duration_minutes": 11.0,
+    "source": "interactive.py model11",
+    "slides": [
+      {
+        "kind": "cover",
+        "title": "Comportamentul firmelor pe piața oligopolistă",
+        "hook": "Cum alegi când rezultatul depinde și de rival?",
+        "promise": "Înțelegem reacția optimă și verificăm un echilibru Cournot.",
+        "number": 1,
+        "planned_seconds": 45,
+        "notes": "Când pe piață sunt puține firme fiecare urmărește și alegerea rivalei. Comparăm deciziile simultane cu alegerea unui lider. Verificăm ce rezultat este stabil față de o schimbare unilaterală.\n\nÎntrebarea care ne conduce este aceasta: Cum alegi când rezultatul depinde și de rival?\n\nNu urmărim să refacem întreaga lecție. Alegem mecanismul central al temei și îl folosim într-un singur exemplu. La final trecem la problemele seminarului. Invităm studenții să observe cine alege și ce restricție întâlnește."
+      },
+      {
+        "kind": "context",
+        "title": "Două firme împart aceeași piață",
+        "lead": "Cantitatea uneia poate schimba rezultatul celeilalte.",
+        "cards": [
+          [
+            "Firma 1",
+            "Alege propria cantitate"
+          ],
+          [
+            "Firma 2",
+            "Alege propria cantitate"
+          ],
+          [
+            "Piață",
+            "Prețul depinde de total"
+          ]
+        ],
+        "number": 2,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Două firme împart aceeași piață.\n\nDouă firme oferă un serviciu. Dacă una își dublează oferta cealaltă poate pierde clienți sau poate reacționa prin preț. Rezultatul propriu depinde de răspunsul posibil al rivalei. Aceasta este interdependența strategică.\n\nOligopolul are puțini ofertanți relevanți și bariere la intrare. Bunurile pot fi omogene sau diferențiate. Economiile de scară pot permite numai câtorva firme să opereze eficient. Informația incompletă poate adăuga incertitudine fără a fi obligatorie în fiecare model.\n\nPe schemă urmărim următoarea legătură: Firma 1. Alege propria cantitate. Firma 2. Alege propria cantitate. Piață. Prețul depinde de total."
+      },
+      {
+        "kind": "concepts",
+        "title": "Stabilitatea cere două verificări",
+        "cards": [
+          [
+            "Strategie",
+            "Ce alege fiecare firmă."
+          ],
+          [
+            "Reacție optimă",
+            "Ce este mai bine la alegerea rivalei."
+          ],
+          [
+            "Nash",
+            "Nimeni nu câștigă prin abatere unilaterală."
+          ]
+        ],
+        "number": 3,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Stabilitatea cere două verificări.\n\nFuncția de reacție asociază fiecărei alegeri presupuse a rivalului cea mai bună alegere proprie. Într-un model simultan „reacție” nu înseamnă că firma așteaptă cronologic. Este o comparație de strategii.\n\nLa echilibrul Nash nicio firmă nu câștigă prin schimbare unilaterală dacă celelalte păstrează alegerile. Profitul comun nu trebuie să fie maxim. Un acord semnat nu este necesar.\n\nPe schemă urmărim următoarea legătură: Strategie. Ce alege fiecare firmă. Reacție optimă. Ce este mai bine la alegerea rivalei. Nash. Nimeni nu câștigă prin abatere unilaterală.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "flow",
+        "title": "Cournot înseamnă cantități alese simultan",
+        "steps": [
+          [
+            "Presupunem",
+            "Cantitatea celeilalte firme"
+          ],
+          [
+            "Optimizăm",
+            "Propriul rezultat"
+          ],
+          [
+            "Verificăm",
+            "Ambele alegeri sunt răspunsuri optime"
+          ]
+        ],
+        "number": 4,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Cournot înseamnă cantități alese simultan.\n\nIntersecția reacțiilor dă echilibrul Cournot. Cu costuri identice cantitățile sunt egale. Totalul este mai mare decât cantitatea cartelului și mai mic decât reperul concurențial în modelul standard. Concluzia depinde de ipotezele lui.\n\nCitim mecanismul în această ordine: Presupunem. Cantitatea celeilalte firme. Optimizăm. Propriul rezultat. Verificăm. Ambele alegeri sunt răspunsuri optime.\n\nFacem o pauză scurtă și cerem reformularea ideii în cuvinte proprii. Dacă răspunsul amestecă două noțiuni revenim la diferența dintre ele înaintea formulei."
+      },
+      {
+        "kind": "formula",
+        "title": "Două reacții pe aceeași piață",
+        "formula": "Q1 = 30 − Q2/2; Q2 = 30 − Q1/2",
+        "lines": [
+          "Folosim P = 90 − Q1 − Q2 și MC = 30.",
+          "Costurile fixe sunt zero pentru ambele firme."
+        ],
+        "number": 5,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Două reacții pe aceeași piață.\n\nCitim formula înainte de a introduce numerele. Precizăm ce măsoară fiecare simbol și folosim aceeași perioadă pentru toate mărimile. Separăm datele problemei de rezultatul pe care vrem să îl obținem."
+      },
+      {
+        "kind": "graph",
+        "title": "Intersecția reacțiilor este un echilibru",
+        "lines": [
+          "La Q1 = 20 și Q2 = 20 ambele răspunsuri sunt optime.",
+          "O singură reacție optimă nu este suficientă."
+        ],
+        "number": 6,
+        "planned_seconds": 75,
+        "notes": "Ideea acestui moment este: Intersecția reacțiilor este un echilibru.\n\nIntersecția reacțiilor dă echilibrul Cournot. Cu costuri identice cantitățile sunt egale. Totalul este mai mare decât cantitatea cartelului și mai mic decât reperul concurențial în modelul standard. Concluzia depinde de ipotezele lui.\n\nAmbele firme au cost marginal 30 și cost fix zero. La cantitatea 20 a rivalei cel mai bun răspuns este tot 20. Graficul arată o alegere simultană și nu o succesiune cronologică. Un echilibru Cournot este un echilibru Nash în acest model de cantități. Modelul nu spune că aceleași două firme ar avea obligatoriu același rezultat dacă ar alege prețuri sau dacă una s-ar angaja prima.\n\nÎncepem cu axele și unitățile. Urmărim apoi liniile și punctul marcat. Graficul nu este o a doua problemă. El explică aceeași situație numerică pe care o vom calcula. O singură reacție optimă nu este suficientă."
+      },
+      {
+        "kind": "compare",
+        "title": "Echilibru nu înseamnă cel mai mare profit comun",
+        "cards": [
+          [
+            "Nash",
+            "Nu merită o schimbare proprie unilaterală."
+          ],
+          [
+            "Cooperare",
+            "Firmele urmăresc un obiectiv comun."
+          ]
+        ],
+        "number": 7,
+        "planned_seconds": 60,
+        "notes": "Ideea acestui moment este: Echilibru nu înseamnă cel mai mare profit comun.\n\nUn cartel coordonează cantitatea și prețul pentru profitul comun. Din exterior seamănă cu un monopolist. Cantitatea este apoi împărțită între membri. Pentru minimizarea costului comun poate fi necesară egalitatea costurilor marginale între firmele active.\n\nDacă ceilalți păstrează cantități mici o firmă poate câștiga prin vânzări suplimentare. Avantajul grupului nu este obligatoriu cea mai bună alegere individuală la acțiunile date ale rivalilor. Detectarea abaterilor și repetarea interacțiunii pot schimba stimulentele.\n\nPe schemă urmărim următoarea legătură: Nash. Nu merită o schimbare proprie unilaterală. Cooperare. Firmele urmăresc un obiectiv comun.\n\nVerificare orală: Este suficient să verificăm numai alegerea firmei 1? Răspuns așteptat: Nu. Ambele alegeri trebuie să fie răspunsuri optime."
+      },
+      {
+        "kind": "exercise",
+        "title": "Verificăm rezultatul celor două firme",
+        "condition": "P = 90 − Q1 − Q2. MC = 30 și costurile fixe sunt zero. Firmele aleg simultan cantitățile. Propunem Q1 = 20 și Q2 = 20.",
+        "requirements": [
+          "Verificați fiecare funcție de reacție.",
+          "Calculați prețul și profitul fiecărei firme."
+        ],
+        "number": 8,
+        "planned_seconds": 90,
+        "notes": "P = 90 − Q1 − Q2. MC = 30 și costurile fixe sunt zero. Firmele aleg simultan cantitățile. Propunem Q1 = 20 și Q2 = 20.\n\nCerințele sunt: Verificați fiecare funcție de reacție. Calculați prețul și profitul fiecărei firme.\n\nLe oferim studenților timp să scrie relația necesară și să identifice datele. Nu afișăm încă soluția. Îi rugăm să explice ce caută și de ce formula aleasă răspunde cerinței. Păstrăm aceeași perioadă și aceeași unitate pe parcursul calculului. Corectăm întâi alegerea relației și abia apoi operațiile aritmetice."
+      },
+      {
+        "kind": "solution",
+        "title": "Fiecare alegere trebuie confirmată",
+        "steps": [
+          [
+            "Reacțiile",
+            "30 − 20/2 = 20 pentru fiecare firmă"
+          ],
+          [
+            "Prețul",
+            "P = 90 − 20 − 20 = 50"
+          ],
+          [
+            "Profiturile",
+            "(50 − 30) × 20 = 400 de lei fiecare"
+          ]
+        ],
+        "conclusion": "Fiecare firmă alege optim față de rivala sa. Profitul comun nu trebuie să fie maxim.",
+        "number": 9,
+        "planned_seconds": 90,
+        "notes": "Parcurgem soluția în ordinea cerințelor.\n\nReacțiile. 30 − 20/2 = 20 pentru fiecare firmă.\n\nPrețul. P = 90 − 20 − 20 = 50.\n\nProfiturile. (50 − 30) × 20 = 400 de lei fiecare.\n\nFiecare firmă alege optim față de rivala sa. Profitul comun nu trebuie să fie maxim.\n\nVerificăm prin înlocuire în relațiile inițiale și explicăm semnul rezultatului. O valoare negativă nu este automat o eroare de calcul. Ea poate exprima o pierdere sau o reducere a indicatorului. Cerem unui student să spună rezultatul împreună cu unitatea și sensul economic."
+      },
+      {
+        "kind": "end",
+        "title": "De aici încep exercițiile seminarului",
+        "points": [
+          "Strategia rivalei contează.",
+          "Verificăm toate cele mai bune răspunsuri.",
+          "Ordinea alegerilor poate schimba rezultatul."
+        ],
+        "check": "Este suficient să verificăm numai alegerea firmei 1?",
+        "number": 10,
+        "planned_seconds": 45,
+        "notes": "Reținem trei idei. Strategia rivalei contează. Verificăm toate cele mai bune răspunsuri. Ordinea alegerilor poate schimba rezultatul.\n\nÎntrebarea de verificare este: Este suficient să verificăm numai alegerea firmei 1?\n\nRăspuns: Nu. Ambele alegeri trebuie să fie răspunsuri optime.\n\nÎn continuare deschidem exercițiile seminarului. Folosim aceeași succesiune: identificăm datele și restricția. Alegem relația potrivită. Calculăm și verificăm. Încheiem cu o explicație economică în cuvinte proprii."
+      }
+    ]
+  }
+]

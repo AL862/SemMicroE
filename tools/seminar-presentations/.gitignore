@@ -1,0 +1,8 @@
+__pycache__/
+rendered/
+plain/
+language/
+manifest.json
+render-validation.json
+package-validation.json
+calculation-checks.json

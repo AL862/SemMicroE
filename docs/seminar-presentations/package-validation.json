@@ -1,0 +1,178 @@
+[
+  {
+    "seminar": 1,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1085,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 2,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1153,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 3,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 913,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 4,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1135,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 5,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1013,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 6,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1114,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 7,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1035,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 8,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 1012,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 9,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 956,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 10,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 967,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  },
+  {
+    "seminar": 11,
+    "slides": 10,
+    "raster_infographics": 8,
+    "editable_example_slides": [
+      8,
+      9
+    ],
+    "embedded_notes": 10,
+    "notes_words": 961,
+    "planned_minutes": 11,
+    "notes_match_docx": true,
+    "embedded_images_match_reviewed_png": true,
+    "external_dependencies": false,
+    "xml_package_integrity": true
+  }
+]

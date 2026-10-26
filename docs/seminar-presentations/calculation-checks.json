@@ -1,0 +1,129 @@
+{
+  "passed": 31,
+  "checks": [
+    {
+      "name": "S1 frontier",
+      "value": "30"
+    },
+    {
+      "name": "S1 sacrifice",
+      "value": "10"
+    },
+    {
+      "name": "S2 equilibrium P",
+      "value": "40"
+    },
+    {
+      "name": "S2 Qd",
+      "value": "60"
+    },
+    {
+      "name": "S2 Qs",
+      "value": "60"
+    },
+    {
+      "name": "S3 quantity",
+      "value": "20"
+    },
+    {
+      "name": "S3 elasticity",
+      "value": "-1"
+    },
+    {
+      "name": "S4 budget A",
+      "value": "120"
+    },
+    {
+      "name": "S4 budget B",
+      "value": "120"
+    },
+    {
+      "name": "S4 utility A",
+      "value": "18"
+    },
+    {
+      "name": "S4 utility B",
+      "value": "16"
+    },
+    {
+      "name": "S5 AP",
+      "value": "10"
+    },
+    {
+      "name": "S5 MP",
+      "value": "2"
+    },
+    {
+      "name": "S6 total",
+      "value": "200"
+    },
+    {
+      "name": "S6 average",
+      "value": "10"
+    },
+    {
+      "name": "S6 marginal",
+      "value": "5"
+    },
+    {
+      "name": "S7 optimum quantity",
+      "value": "20"
+    },
+    {
+      "name": "S7 profit",
+      "value": "300"
+    },
+    {
+      "name": "S8 quantity",
+      "value": "5"
+    },
+    {
+      "name": "S8 operating result",
+      "value": "-75"
+    },
+    {
+      "name": "S8 stopping result",
+      "value": "-100"
+    },
+    {
+      "name": "S9 quantity",
+      "value": "20"
+    },
+    {
+      "name": "S9 price",
+      "value": "60"
+    },
+    {
+      "name": "S9 profit",
+      "value": "700"
+    },
+    {
+      "name": "S10 quantity",
+      "value": "15"
+    },
+    {
+      "name": "S10 price",
+      "value": "65"
+    },
+    {
+      "name": "S10 cost",
+      "value": "725"
+    },
+    {
+      "name": "S10 profit",
+      "value": "250"
+    },
+    {
+      "name": "S11 response",
+      "value": "20"
+    },
+    {
+      "name": "S11 price",
+      "value": "50"
+    },
+    {
+      "name": "S11 profit",
+      "value": "400"
+    }
+  ]
+}

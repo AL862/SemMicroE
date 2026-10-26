@@ -2,7 +2,7 @@ name: Import Microeconomics materials
 on:
   push:
     branches: [main]
-    paths: ['.github/drive-import.json']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:

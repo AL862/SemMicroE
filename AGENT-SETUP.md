@@ -57,3 +57,15 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\Complete-CourseImpor
 Скрипт подготовлен, но не запускался на вашем компьютере. При отличии локального файла от проверенного снимка он остановится до копирования. После успешной загрузки счётчик материалов можно проверить по `tools/course-files.json`.
 
 Ограничение GitHub Actions снимает [поддержка GitHub](https://support.github.com/); для этого способа загрузки Actions не нужен.
+
+## Правила формирования семинаров
+
+Корневые README.md и README.txt заменены шестью предметными навыками: microeconomics-seminar, microeconomics-moodle, microeconomics-presentations, microeconomics-teacher-notes, microeconomics-interactive-tests и microeconomics-individual-work. Седьмой локальный навык languagetool-proofreading отвечает за языковую проверку.
+
+Начинать с [.agents/skills/microeconomics-seminar/SKILL.md](.agents/skills/microeconomics-seminar/SKILL.md). Полный текст исходных инструкций сохранён без изменения в [.agents/skills/microeconomics-seminar/references/course-rules.txt](.agents/skills/microeconomics-seminar/references/course-rules.txt); указатель разделов находится рядом. Исторические упоминания README.txt внутри полного справочника означают это новое расположение.
+
+Манифест переноса сохраняет 62 исходных записи. Для бывшего README.txt указан source_path; скрипт переносит его в справочник навыка и не восстанавливает корневой README.txt.
+
+## LanguageTool
+
+Подключён подмодуль third-party/languagetool. Настройка и команда проверки описаны в [docs/languagetool.md](docs/languagetool.md). Подключение исходников не подтверждает работающий сервер: для реальной проверки нужен локальный LanguageTool на порту 8081.

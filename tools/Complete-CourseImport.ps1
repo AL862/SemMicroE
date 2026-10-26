@@ -42,7 +42,9 @@ $sourceRoot = (Resolve-Path -LiteralPath $SourcePath).Path
 # Check every source before changing the clone.
 foreach ($file in $plan.files) {
     $relative = $file.path.Replace('/', [System.IO.Path]::DirectorySeparatorChar)
-    $source = Join-Path $sourceRoot $relative
+    $sourceRelative = $relative
+    if ($file.source_path) { $sourceRelative = $file.source_path.Replace('/', [System.IO.Path]::DirectorySeparatorChar) }
+    $source = Join-Path $sourceRoot $sourceRelative
     if (-not (Test-Path -LiteralPath $source -PathType Leaf)) {
         throw "Missing source file: $source"
     }
@@ -55,7 +57,9 @@ foreach ($file in $plan.files) {
 }
 foreach ($file in $plan.files) {
     $relative = $file.path.Replace('/', [System.IO.Path]::DirectorySeparatorChar)
-    $source = Join-Path $sourceRoot $relative
+    $sourceRelative = $relative
+    if ($file.source_path) { $sourceRelative = $file.source_path.Replace('/', [System.IO.Path]::DirectorySeparatorChar) }
+    $source = Join-Path $sourceRoot $sourceRelative
     $destination = Join-Path $RepoRoot $relative
     $alreadyCorrect = (Test-Path -LiteralPath $destination -PathType Leaf) -and ((Get-BlobHash $destination) -eq $file.sha)
     if (-not $alreadyCorrect) {

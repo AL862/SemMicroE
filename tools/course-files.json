@@ -1,9 +1,10 @@
 {
   "files": [
     {
-      "path": "README.txt",
+      "path": ".agents/skills/microeconomics-seminar/references/course-rules.txt",
       "sha": "be90dfa75038c073859b37bb2011c79f0221493a",
-      "bytes": 146110
+      "bytes": 146110,
+      "source_path": "README.txt"
     },
     {
       "path": "Sablon_Lucrare_Individuala_Microeconomie_ASEM.pptx",

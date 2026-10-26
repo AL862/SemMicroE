@@ -4,3 +4,7 @@
 [submodule "scientific-agent-skills"]
 	path = third-party/scientific-agent-skills
 	url = https://github.com/k-dense-ai/scientific-agent-skills.git
+[submodule "languagetool"]
+	path = third-party/languagetool
+	url = https://github.com/languagetool-org/languagetool.git
+	shallow = true

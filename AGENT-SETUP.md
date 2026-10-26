@@ -40,7 +40,7 @@ npx -y @agentmemory/agentmemory@0.9.31
 
 Снимок содержит 62 файла, 240040357 байт. Перечень, размеры и Git SHA-1 оригиналов находятся в `tools/course-files.json`. Четыре пустые папки сохранены файлами `.gitkeep`.
 
-В момент подготовки уже опубликованы и проверены 54 файла. Ещё 8 крупных файлов требуют завершения переноса: GitHub Actions отключён на уровне аккаунта, а подключение ChatGPT ограничивает размер одного запроса. Ограничение относится к подключению; сами файлы меньше лимита GitHub 100 МиБ.
+В момент подготовки уже опубликованы и проверены 55 файлов. Ещё 7 крупных файлов требуют завершения переноса: GitHub Actions отключён на уровне аккаунта, а подключение ChatGPT ограничивает размер одного запроса. Ограничение относится к подключению; сами файлы меньше лимита GitHub 100 МиБ.
 
 ### Завершить перенос с Windows без Actions
 
@@ -60,12 +60,17 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\Complete-CourseImpor
 
 ## Правила формирования семинаров
 
-Корневые README.md и README.txt заменены шестью предметными навыками: microeconomics-seminar, microeconomics-moodle, microeconomics-presentations, microeconomics-teacher-notes, microeconomics-interactive-tests и microeconomics-individual-work. Седьмой локальный навык languagetool-proofreading отвечает за языковую проверку.
+Входная точка: [.agents/skills/microeconomics-seminar/SKILL.md](.agents/skills/microeconomics-seminar/SKILL.md). В ней общие требования, а предметные навыки содержат процедуры Moodle, презентаций, конспектов/решений, тестов и индивидуальных работ. Правила не копируются между навыками. [Карта владельцев](.agents/skills/microeconomics-seminar/references/rules-index.md) связывает исходные разделы с новым расположением.
 
-Начинать с [.agents/skills/microeconomics-seminar/SKILL.md](.agents/skills/microeconomics-seminar/SKILL.md). Полный текст исходных инструкций сохранён без изменения в [.agents/skills/microeconomics-seminar/references/course-rules.txt](.agents/skills/microeconomics-seminar/references/course-rules.txt); указатель разделов находится рядом. Исторические упоминания README.txt внутри полного справочника означают это новое расположение.
+Бывший README.txt сохранён побайтно как архив source-instructions.txt рядом с общими справочниками. Он не является действующим дублирующим набором инструкций. Ссылки на цвета, ресурсы и специальные модели ведут в отдельные единые справочники.
 
-Манифест переноса сохраняет 62 исходных записи. Для бывшего README.txt указан source_path; скрипт переносит его в справочник навыка и не восстанавливает корневой README.txt.
+## Папки материалов
+
+- `0. ★ Resurse`: переименованные сканы Томша; решения задач остаются в семинарах.
+- `[1] Fișiere HTML ale cursului pentru încărcare pe Moodle`: копии шести существующих Moodle-страниц семинаров 1–6. HTML семинаров 7–11 пока не созданы.
+
+Перенесено десять сканов. Сканы семинаров 2 и 4 пока не загружены в GitHub. Манифест tools/course-files.json направляет последующий перенос этих файлов сразу в папку ресурсов и сохраняет исходные имена в source_path. Для бывшего README.txt назначение — исторический архив навыка. Скрипт не восстанавливает прежние пути после переноса.
 
 ## LanguageTool
 
-Подключён подмодуль third-party/languagetool. Настройка и команда проверки описаны в [docs/languagetool.md](docs/languagetool.md). Подключение исходников не подтверждает работающий сервер: для реальной проверки нужен локальный LanguageTool на порту 8081.
+Исходники подключены подмодулем third-party/languagetool. [Инструкция](docs/languagetool.md) описывает локальный сервис и команду проверки. Наличие исходников не подтверждает запущенный сервер.

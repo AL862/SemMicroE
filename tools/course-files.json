@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "path": ".agents/skills/microeconomics-seminar/references/course-rules.txt",
+      "path": ".agents/skills/microeconomics-seminar/references/source-instructions.txt",
       "sha": "be90dfa75038c073859b37bb2011c79f0221493a",
       "bytes": 146110,
       "source_path": "README.txt"
@@ -117,29 +117,34 @@
       "bytes": 23460693
     },
     {
-      "path": "Seminarul 11 — Comportamentul firmelor pe piața oligopolistă/tema11. Comportamentul firmelor pe piata oligopolista.pdf",
+      "path": "0. ★ Resurse/Seminarul 11 — Comportamentul firmelor pe piața oligopolistă.pdf",
       "sha": "cfb00a9a950f12b9eb83c45b0218a9a49a92b503",
-      "bytes": 7679020
+      "bytes": 7679020,
+      "source_path": "Seminarul 11 — Comportamentul firmelor pe piața oligopolistă/tema11. Comportamentul firmelor pe piata oligopolista.pdf"
     },
     {
-      "path": "Seminarul 10 — Comportamentul firmelor pe piața cu concurență monopolistică/tema10_Comportamentul_firmelor_pe_piata_cu_concurenta_monopolistica.pdf",
+      "path": "0. ★ Resurse/Seminarul 10 — Comportamentul firmelor pe piața cu concurență monopolistică.pdf",
       "sha": "2646b353cef444ffa185583ece300e920de3d588",
-      "bytes": 5999851
+      "bytes": 5999851,
+      "source_path": "Seminarul 10 — Comportamentul firmelor pe piața cu concurență monopolistică/tema10_Comportamentul_firmelor_pe_piata_cu_concurenta_monopolistica.pdf"
     },
     {
-      "path": "Seminarul 9 — Comportamentul firmelor pe piața de monopol/tema9. Comportamentul firmelor pe piata monopolista.pdf",
+      "path": "0. ★ Resurse/Seminarul 9 — Comportamentul firmelor pe piața de monopol.pdf",
       "sha": "c78c567eac4075c1575340c460380daa983ee48e",
-      "bytes": 8416262
+      "bytes": 8416262,
+      "source_path": "Seminarul 9 — Comportamentul firmelor pe piața de monopol/tema9. Comportamentul firmelor pe piata monopolista.pdf"
     },
     {
-      "path": "Seminarul 8 — Comportamentul firmelor pe piața cu concurență perfectă/tema8_Comportamentul_firmelor_pe_piata_cu_concurenta_perfecta.pdf",
+      "path": "0. ★ Resurse/Seminarul 8 — Comportamentul firmelor pe piața cu concurență perfectă.pdf",
       "sha": "ca0deda874459d6ccf75613300066776681f7833",
-      "bytes": 10277243
+      "bytes": 10277243,
+      "source_path": "Seminarul 8 — Comportamentul firmelor pe piața cu concurență perfectă/tema8_Comportamentul_firmelor_pe_piata_cu_concurenta_perfecta.pdf"
     },
     {
-      "path": "Seminarul 7 — Maximizarea profitului și pragul de rentabilitate al firmei/tema7_Maximizarea_profitului_si_pragul_de_rentabilitate_al_firmei.pdf",
+      "path": "0. ★ Resurse/Seminarul 7 — Maximizarea profitului și pragul de rentabilitate al firmei.pdf",
       "sha": "7cb1a783e1d7bc2f2a1f5d9dd2eac840120bcfce",
-      "bytes": 9270001
+      "bytes": 9270001,
+      "source_path": "Seminarul 7 — Maximizarea profitului și pragul de rentabilitate al firmei/tema7_Maximizarea_profitului_si_pragul_de_rentabilitate_al_firmei.pdf"
     },
     {
       "path": "Seminarul 6 — Costurile de producție/06_Seminarul_6_Moodle.html",
@@ -147,9 +152,10 @@
       "bytes": 97122
     },
     {
-      "path": "Seminarul 6 — Costurile de producție/tema 6. Costurile de productie.pdf",
+      "path": "0. ★ Resurse/Seminarul 6 — Costurile de producție.pdf",
       "sha": "fbb8c597313707a7e168079663fe24410d526fe1",
-      "bytes": 11979189
+      "bytes": 11979189,
+      "source_path": "Seminarul 6 — Costurile de producție/tema 6. Costurile de productie.pdf"
     },
     {
       "path": "Seminarul 5 — Teoria producției/Test Interactiv — Seminar 5 — Moodle.html",
@@ -207,9 +213,10 @@
       "bytes": 117324
     },
     {
-      "path": "Seminarul 4  — Teoria comportamentului consumatorului/Materiale/Tema 4.pdf",
+      "path": "0. ★ Resurse/Seminarul 4 — Teoria comportamentului consumatorului.pdf",
       "sha": "688d13052a8e267766892d2116e9977ace18fc7f",
-      "bytes": 16847231
+      "bytes": 16847231,
+      "source_path": "Seminarul 4  — Teoria comportamentului consumatorului/Materiale/Tema 4.pdf"
     },
     {
       "path": "Seminarul 3 — Elasticitatea cererii și ofertei/Materiale/Prelegerea_3_Elasticitatea_cererii_si_ofertei.pptx",
@@ -217,14 +224,16 @@
       "bytes": 24424420
     },
     {
-      "path": "Seminarul 3 — Elasticitatea cererii și ofertei/Materiale/Seminar_3_Sursa_02.pdf",
+      "path": "0. ★ Resurse/Seminarul 3 — Elasticitatea cererii și ofertei — Sursa 2.pdf",
       "sha": "d5cd6816adc4bdebdccd45d0dd91de3e66add20d",
-      "bytes": 4675561
+      "bytes": 4675561,
+      "source_path": "Seminarul 3 — Elasticitatea cererii și ofertei/Materiale/Seminar_3_Sursa_02.pdf"
     },
     {
-      "path": "Seminarul 3 — Elasticitatea cererii și ofertei/Materiale/Seminar_3_Sursa_01.pdf",
+      "path": "0. ★ Resurse/Seminarul 3 — Elasticitatea cererii și ofertei — Sursa 1.pdf",
       "sha": "7d3001110e74cbca94bbdd8aa2acbc0ac503538f",
-      "bytes": 5687257
+      "bytes": 5687257,
+      "source_path": "Seminarul 3 — Elasticitatea cererii și ofertei/Materiale/Seminar_3_Sursa_01.pdf"
     },
     {
       "path": "Seminarul 6 — Costurile de producție/Materiale/Seminar_6_Probleme_Solutii.pdf",
@@ -247,14 +256,16 @@
       "bytes": 943868
     },
     {
-      "path": "Seminarul 5 — Teoria producției/Materiale/Tema 5. Teoria producției.pdf",
+      "path": "0. ★ Resurse/Seminarul 5 — Teoria producției.pdf",
       "sha": "51f1cca6175c36d4f43950146cba79a94c549d37",
-      "bytes": 8903026
+      "bytes": 8903026,
+      "source_path": "Seminarul 5 — Teoria producției/Materiale/Tema 5. Teoria producției.pdf"
     },
     {
-      "path": "Seminarul 2 — Cererea și oferta. Echilibrul și dezechilibrul pieței/Materiale/Seminar_2_Sursa_01.pdf",
+      "path": "0. ★ Resurse/Seminarul 2 — Cererea și oferta. Echilibrul și dezechilibrul pieței.pdf",
       "sha": "13b42bd1d1807d6a96f01c901e669a4f4dc37bd6",
-      "bytes": 12742004
+      "bytes": 12742004,
+      "source_path": "Seminarul 2 — Cererea și oferta. Echilibrul și dezechilibrul pieței/Materiale/Seminar_2_Sursa_01.pdf"
     },
     {
       "path": "Seminarul 2 — Cererea și oferta. Echilibrul și dezechilibrul pieței/Materiale/SEMINARUL_2_Tomsa_Toate_Problemele_Teste_Explicatii.pdf",
@@ -297,9 +308,10 @@
       "bytes": 16137639
     },
     {
-      "path": "Seminarul 1 — Obiectul de studiu și metodologia microeconomiei/Materiale/Seminar_1_Sursa_01.pdf",
+      "path": "0. ★ Resurse/Seminarul 1 — Obiectul de studiu și metodologia microeconomiei.pdf",
       "sha": "af8b25c32596628d3f908b0c570fdd4443e0b9c6",
-      "bytes": 13507243
+      "bytes": 13507243,
+      "source_path": "Seminarul 1 — Obiectul de studiu și metodologia microeconomiei/Materiale/Seminar_1_Sursa_01.pdf"
     },
     {
       "path": "Seminarul 1 — Obiectul de studiu și metodologia microeconomiei/Materiale/TEma 2. 2026 Activitatea economica.pptx",

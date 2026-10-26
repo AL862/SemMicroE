@@ -1,0 +1,389 @@
+[
+  {
+    "seminar": 1,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "Qx = 0 și Qy = 50. Încă o unitate X sacrifică 5 unități Y. Resursele și tehnologia rămân constante."
+      },
+      {
+        "slider": 10,
+        "result": "Qx = 10 și Qy = 0. Încă o unitate X sacrifică 5 unități Y. Resursele și tehnologia rămân constante."
+      }
+    ],
+    "console_errors": [],
+    "initial": "Qx = 4 și Qy = 30. Încă o unitate X sacrifică 5 unități Y. Resursele și tehnologia rămân constante."
+  },
+  {
+    "seminar": 2,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 0 · Qd = 100 · Qs = 0. Deficit = 100."
+      },
+      {
+        "slider": 60,
+        "result": "P = 60 · Qd = 40 · Qs = 100. Exces de ofertă = 60."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 40 · Qd = 60 · Qs = 60. Echilibru."
+  },
+  {
+    "seminar": 3,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 1,
+        "result": "Q = 38 · Ed = -1/19 · TR = 38. Cerere inelastică."
+      },
+      {
+        "slider": 19,
+        "result": "Q = 2 · Ed = -19 · TR = 38. Cerere elastică."
+      }
+    ],
+    "console_errors": [],
+    "initial": "Q = 20 · Ed = -1 · TR = 200. Elasticitate unitară și încasări maxime."
+  },
+  {
+    "seminar": 4,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "I = 120 lei · Px = 20 lei · Py = 10 lei. X = 0 și Y = 12 · TU = 0. Optim: X = 3 și Y = 6 cu TU = 18."
+      },
+      {
+        "slider": 6,
+        "result": "I = 120 lei · Px = 20 lei · Py = 10 lei. X = 6 și Y = 0 · TU = 0. Optim: X = 3 și Y = 6 cu TU = 18."
+      }
+    ],
+    "console_errors": [],
+    "initial": "I = 120 lei · Px = 20 lei · Py = 10 lei. X = 3 și Y = 6 · TU = 18. Optim: X = 3 și Y = 6 cu TU = 18."
+  },
+  {
+    "seminar": 5,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "TP = 0 pâini. AP = nedefinit la zero angajați. MP = nu există o unitate anterioară. Aceeași tavă are maximum 30 pâini."
+      },
+      {
+        "slider": 4,
+        "result": "TP = 30 pâini. AP = 15/2. MP = 0. Aceeași tavă are maximum 30 pâini."
+      }
+    ],
+    "console_errors": [],
+    "initial": "TP = 28 pâini. AP = 14. MP = 8. Aceeași tavă are maximum 30 pâini."
+  },
+  {
+    "seminar": 6,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 1,
+        "result": "TC = 100 + 10Q + Q². Q = 1 · TC = 111 · ATC = 111 · MC punctual = 12. Minimul ATC este 30 la Q = 10."
+      },
+      {
+        "slider": 20,
+        "result": "TC = 100 + 10Q + Q². Q = 20 · TC = 700 · ATC = 35 · MC punctual = 50. Minimul ATC este 30 la Q = 10."
+      }
+    ],
+    "console_errors": [],
+    "initial": "TC = 100 + 10Q + Q². Q = 10 · TC = 300 · ATC = 30 · MC punctual = 30. Minimul ATC este 30 la Q = 10."
+  },
+  {
+    "seminar": 7,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 50 · TC = 100 + 10Q + Q². TR = 0 · TC = 100 · Profit = -100. Maximul este 300 la Q = 20. MR = 50 și MC = 10."
+      },
+      {
+        "slider": 45,
+        "result": "P = 50 · TC = 100 + 10Q + Q². TR = 2250 · TC = 2575 · Profit = -325. Maximul este 300 la Q = 20. MR = 50 și MC = 100."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 50 · TC = 100 + 10Q + Q². TR = 1000 · TC = 700 · Profit = 300. Maximul este 300 la Q = 20. MR = 50 și MC = 50."
+  },
+  {
+    "seminar": 8,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 0 · TC = 100 + 10Q + Q². Q optim = 0 · Profit = -100. Oprire: prețul nu depășește pragul de 10 lei."
+      },
+      {
+        "slider": 10,
+        "result": "P = 10 · TC = 100 + 10Q + Q². Q optim = 0 · Profit = -100. Oprire: prețul nu depășește pragul de 10 lei."
+      },
+      {
+        "slider": 20,
+        "result": "P = 20 · TC = 100 + 10Q + Q². Q optim = 5 · Profit = -75. Continuare cu pierdere mai mică decât FC."
+      },
+      {
+        "slider": 30,
+        "result": "P = 30 · TC = 100 + 10Q + Q². Q optim = 10 · Profit = 0. Profit economic zero."
+      },
+      {
+        "slider": 50,
+        "result": "P = 50 · TC = 100 + 10Q + Q². Q optim = 20 · Profit = 300. Profit economic pozitiv."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 30 · TC = 100 + 10Q + Q². Q optim = 10 · Profit = 0. Profit economic zero."
+  },
+  {
+    "seminar": 9,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 100 − 2Q · TC = 100 + 20Q. P = 100 · MR = 100 · MC = 20 · Profit = -100. Maximul este 700 la Q = 20 și P = 60."
+      },
+      {
+        "slider": 45,
+        "result": "P = 100 − 2Q · TC = 100 + 20Q. P = 10 · MR = -80 · MC = 20 · Profit = -550. Maximul este 700 la Q = 20 și P = 60."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 100 − 2Q · TC = 100 + 20Q. P = 60 · MR = 20 · MC = 20 · Profit = 700. Maximul este 700 la Q = 20 și P = 60."
+  },
+  {
+    "seminar": 10,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 80 − Q · TC = 200 + 20Q + Q². P = 80 · MR = 80 · MC = 20 · Profit = -200. Maxim: Q = 15 și P = 65 și profit = 250."
+      },
+      {
+        "slider": 35,
+        "result": "P = 80 − Q · TC = 200 + 20Q + Q². P = 45 · MR = 10 · MC = 90 · Profit = -550. Maxim: Q = 15 și P = 65 și profit = 250."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 80 − Q · TC = 200 + 20Q + Q². P = 65 · MR = 50 · MC = 50 · Profit = 250. Maxim: Q = 15 și P = 65 și profit = 250."
+  },
+  {
+    "seminar": 11,
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 320
+      },
+      {
+        "width": 390,
+        "scroll": 390
+      },
+      {
+        "width": 768,
+        "scroll": 768
+      },
+      {
+        "width": 1150,
+        "scroll": 1150
+      }
+    ],
+    "states": [
+      {
+        "slider": 0,
+        "result": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 20 · P = 70 · Profit 1 = 0 · Profit 2 = 800. Cele mai bune răspunsuri: Q1 = 20 și Q2 = 30. Punctul curent nu este echilibru Cournot."
+      },
+      {
+        "slider": 60,
+        "result": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 80 · P = 10 · Profit 1 = -1200 · Profit 2 = -400. Cele mai bune răspunsuri: Q1 = 20 și Q2 = 0. Punctul curent nu este echilibru Cournot."
+      },
+      {
+        "button": "data-stack",
+        "result": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 45 · P = 45 · Profit 1 = 450 · Profit 2 = 225. Cele mai bune răspunsuri: Q1 = 45/2 și Q2 = 15. Punctul curent nu este echilibru Cournot."
+      },
+      {
+        "button": "data-cartel",
+        "result": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 30 · P = 60 · Profit 1 = 450 · Profit 2 = 450. Cele mai bune răspunsuri: Q1 = 45/2 și Q2 = 45/2. Punctul curent nu este echilibru Cournot."
+      },
+      {
+        "button": "data-reset",
+        "result": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 40 · P = 50 · Profit 1 = 400 · Profit 2 = 400. Cele mai bune răspunsuri: Q1 = 20 și Q2 = 20. Ambele sunt răspunsuri optime simultan: Cournot."
+      }
+    ],
+    "console_errors": [],
+    "initial": "P = 90 − Q1 − Q2 · MC = 30 pentru ambele firme. Q total = 40 · P = 50 · Profit 1 = 400 · Profit 2 = 400. Cele mai bune răspunsuri: Q1 = 20 și Q2 = 20. Ambele sunt răspunsuri optime simultan: Cournot."
+  }
+]

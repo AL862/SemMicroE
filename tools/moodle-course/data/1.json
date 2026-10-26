@@ -1,0 +1,735 @@
+{
+  "description": "Pornim de la alegeri apropiate de viața de zi cu zi. Învățăm să recunoaștem raritatea și să evaluăm alternativa sacrificată. Folosim apoi un model simplu pentru a explica producția și metodele microeconomiei.",
+  "objectives": [
+    "Explicați legătura dintre raritate și alegere.",
+    "Deosebiți bunurile și resursele economice.",
+    "Calculați și interpretați costul de oportunitate.",
+    "Citiți o frontieră a posibilităților de producție.",
+    "Distingeți analiza pozitivă de cea normativă."
+  ],
+  "theory": [
+    [
+      "De ce începem cu alegerea?",
+      [
+        "Ai două ore libere. Le poți folosi pentru pregătirea unui test sau pentru un schimb plătit la serviciu. Ambele variante sunt utile. Timpul disponibil nu îți permite să le alegi integral pe amândouă. Aici începe problema economică: ce alegi și la ce renunți?",
+        "Raritatea înseamnă că resursele disponibile nu ajung pentru toate utilizările dorite în același timp. Ea nu privește doar persoanele cu venituri mici. Chiar și o firmă prosperă are un număr limitat de angajați și de ore de lucru. O societate trebuie să decidă cât produce și cum repartizează rezultatele.",
+        "Microeconomia studiază alegerile consumatorilor și ale producătorilor. Ea explică folosirea resurselor rare și formarea prețurilor pe piețe concrete. Macroeconomia urmărește rezultatele de ansamblu ale economiei. Rata șomajului unei țări este un indicator macroeconomic. Decizia unei brutării de a angaja încă un lucrător este o problemă microeconomică."
+      ]
+    ],
+    [
+      "De la gospodărie la studiul alegerii",
+      [
+        "Gândirea economică a evoluat odată cu problemele societății. Analizele vechi priveau gospodărirea și schimbul. Studiul economiei politice a extins atenția spre producție și distribuirea avuției. Adam Smith și alți economiști clasici au urmărit felul în care munca și schimbul și organizarea producției contribuie la rezultate.",
+        "Karl Marx a pus accent pe relațiile de producție. Revoluția marginalistă asociată cu Menger și Jevons și Walras a adus în centru alegerea la margine și utilitatea și echilibrul. Alfred Marshall a organizat analiza cererii și ofertei și a rolului timpului. Această evoluție ajută să înțelegem de ce există întrebări și instrumente economice diferite.",
+        "Teoria economică oferă un cadru pentru discipline aplicate precum managementul și contabilitatea și marketingul. Folosește matematica pentru relații cantitative și istoria pentru context. Psihologia ajută la explicarea comportamentului. Regulile juridice pot schimba stimulentele. Un model economic nu epuizează singur toate aceste perspective."
+      ]
+    ],
+    [
+      "Nevoi și bunuri economice",
+      [
+        "O nevoie este o dorință sau o necesitate pe care încercăm să o satisfacem. Unele nevoi sunt de bază. Altele țin de educație și de participarea la viața socială. Nevoile se pot regenera și diversifica. Satisfacerea unei nevoi nu înseamnă dispariția tuturor celorlalte.",
+        "Un bun este un mijloc de satisfacere a unei nevoi. Bunurile materiale au formă fizică. Serviciile sunt activități utile. Transportul este un serviciu chiar dacă pentru prestarea lui se folosește un autobuz. Bunurile de consum satisfac direct nevoile. Bunurile de producție ajută la obținerea altor bunuri.",
+        "Bunurile economice folosesc resurse rare. Bunurile libere sunt suficient de abundente în situația analizată. Aerul obișnuit poate fi un bun liber. Aerul purificat pentru un spital necesită echipamente și energie. Încadrarea depinde de condiții. Un preț egal cu zero pentru utilizator nu dovedește că bunul nu are cost economic.",
+        "Bunurile substituibile se pot înlocui într-o anumită utilizare. Bunurile complementare se folosesc împreună. Caracterul final sau intermediar depinde de destinație: făina cumpărată de o brutărie intră în producție. Bunurile publice pure sunt neexcludabile și nerivale. Această clasificare privește accesul și consumul. Ea nu se confundă cu proprietatea de stat."
+      ]
+    ],
+    [
+      "Resursele și întrebările economiei",
+      [
+        "Munca și competențele oamenilor sunt resurse umane. Terenul și apa sunt resurse naturale. Utilajele și clădirile sunt capital real creat prin producție anterioară. Informația ajută la organizarea activității. Banii finanțează procurarea resurselor. Ei nu înlocuiesc singuri munca și utilajele.",
+        "Resursele pot avea utilizări alternative. Același teren poate produce grâne sau poate găzdui o seră. Același timp poate susține studiul sau munca. Din această posibilitate apar întrebările: ce producem? Cum producem? Pentru cine producem? Răspunsul implică atât posibilități tehnice cât și reguli de distribuire."
+      ]
+    ],
+    [
+      "Costul de oportunitate: alternativa la care renunți",
+      [
+        "Costul de oportunitate este valoarea celei mai bune alternative abandonate. Nu adunăm toate alternativele respinse. Dacă în aceeași seară poți câștiga 300 de lei la serviciu sau 220 de lei prin meditații și alegi o activitate de voluntariat atunci componenta monetară sacrificată este de 300 de lei.",
+        "Costul nu se reduce la o plată. Valoarea timpului nu apare întotdeauna pe bon. La compararea a două opțiuni includem doar diferențele relevante. Hrana pe care ai cumpăra-o în ambele variante nu este integral un cost suplimentar al studiilor. O plată deja făcută și nerecuperabilă nu se schimbă prin decizia de astăzi."
+      ]
+    ],
+    [
+      "Frontiera posibilităților de producție",
+      [
+        "Curba posibilităților de producție arată combinațiile maxime de două bunuri realizabile cu resursele și tehnologia disponibile. Pe frontieră resursele sunt folosite eficient în sens productiv. În interior există posibilitatea de a produce mai mult din cel puțin un bun fără reducerea celuilalt. În exterior combinația nu poate fi obținută în condițiile date.",
+        "Pentru a obține mai mult dintr-un bun trebuie să realocăm resurse de la celălalt. Panta descrescătoare exprimă acest compromis. Sacrificiul pe unitate este raportul dintre producția pierdută și producția suplimentară. O frontieră liniară indică un cost de oportunitate constant. Forma arcuită poate exprima un cost crescător deoarece resursele nu sunt la fel de potrivite pentru toate utilizările.",
+        "Progresul tehnologic și creșterea resurselor pot extinde frontiera. Dacă îmbunătățirea privește numai un sector atunci extinderea poate fi asimetrică. Trecerea de la un punct interior la frontieră înseamnă folosirea mai bună a posibilităților existente. Ea nu este același lucru cu extinderea frontierei."
+      ]
+    ],
+    [
+      "Cum construim o explicație economică?",
+      [
+        "Un model păstrează legăturile importante pentru întrebarea studiată și lasă deoparte unele detalii. Ipoteza homo economicus descrie un agent care compară alternativele în mod consecvent. Este un punct de pornire pentru analiză. Nu susține că fiecare persoană cunoaște totul sau ia mereu decizia perfectă.",
+        "Analiza funcțională urmărește dependența dintre variabile. Analiza marginală compară avantajul unei unități suplimentare cu costul ei. Modelarea exprimă aceste relații prin cuvinte și tabele sau prin grafice și ecuații. Mai întâi precizăm întrebarea. Apoi formulăm ipotezele. Deducem consecințe și confruntăm explicația cu dovezile.",
+        "Expresia „ceilalți factori rămân neschimbați” arată ce păstrăm constant pentru a izola o relație. O asociere observată între două variabile nu demonstrează singură o cauză. O afirmație pozitivă poate fi testată prin dovezi chiar dacă se dovedește greșită. O afirmație normativă exprimă ce ar trebui făcut și presupune judecăți de valoare."
+      ]
+    ],
+    [
+      "Cum deosebim nevoia de mijlocul folosit?",
+      [
+        "O persoană are nevoie să ajungă la curs. Autobuzul și bicicleta sunt două mijloace posibile. Nevoia nu este identică bunului folosit pentru satisfacerea ei. Această distincție ajută când apar produse noi. O tehnologie poate înlocui mijlocul fără să elimine nevoia.",
+        "Nevoile fiziologice privesc întreținerea vieții. Nevoile sociale includ comunicarea și participarea. O nevoie individuală este resimțită de o persoană. O nevoie colectivă privește un grup. Categoriile se pot suprapune. Educația poate avea importanță atât individuală cât și pentru societate.",
+        "O nevoie concretă poate fi satisfăcută pentru moment. După un timp poate reapărea. În același timp apar alte dorințe odată cu informația și experiența. Ideea nevoilor nelimitate nu înseamnă că un om dorește o cantitate infinită din fiecare bun. Ea arată că totalul scopurilor posibile depășește resursele disponibile."
+      ]
+    ],
+    [
+      "Aceeași resursă poate avea valori alternative",
+      [
+        "O cameră proprie poate fi folosită ca birou sau închiriată. Costul economic al folosirii ca birou include chiria netă la care se renunță. Nu includem automat valoarea întregii camere ca un cost al unei singure luni. Comparăm aceeași resursă și aceeași perioadă.",
+        "Dacă alternativa de închiriere aduce 1800 de lei pe lună dar cere 200 de lei de costuri suplimentare venitul net sacrificat este 1600 de lei. Nu adunăm la această sumă și o a treia utilizare care ar fi adus numai 1000 de lei. Cea mai bună alternativă relevantă este reperul.",
+        "Un salariu sacrificat este doar o componentă a costului studiilor. Taxa suplimentară și materialele necesare pot fi alte componente. Hrana care ar fi fost cumpărată în ambele variante nu este integral un cost suplimentar. Analiza începe prin întrebarea ce se schimbă efectiv între opțiuni."
+      ]
+    ],
+    [
+      "Cum citim un punct dintr-un model?",
+      [
+        "Presupunem că o echipă poate realiza într-o zi 12 obiecte X sau 36 de obiecte Y. Dacă productivitatea relativă rămâne constantă frontiera liniară este Y = 36 − 3X. La X = 4 cantitatea maximă Y este 24. Coșul (4; 20) este posibil dar nu folosește întreaga capacitate.",
+        "Coșul (4; 28) este în afara posibilităților date. El nu este „interzis” prin definiție pentru totdeauna. Poate deveni accesibil dacă apar resurse suplimentare sau o tehnologie mai bună. Graficul descrie o situație precisă și nu o limită eternă.",
+        "Pe aceeași dreaptă încă un X sacrifică trei Y. Trecerea de la X = 4 la X = 6 pierde șase Y. Sacrificiul total și cel pe unitate trebuie raportate separat. Pentru o frontieră curbată costul pe interval poate diferi de costul exact într-un singur punct."
+      ]
+    ],
+    [
+      "De ce contează specializarea resurselor?",
+      [
+        "Un teren este potrivit pentru o cultură și mai puțin potrivit pentru alta. La început pot fi transferate parcelele care se adaptează ușor. Pentru extinderi suplimentare trebuie transferate și parcele mai puțin potrivite. Producția alternativă sacrificată pe unitate poate astfel crește.",
+        "Specializarea explică un cost de oportunitate crescător în modelul obișnuit. Nu explică singură orice curbă observată. Dacă două resurse sunt perfect adaptabile în aceleași proporții costul poate rămâne constant. Ipoteza despre resurse trebuie să fie compatibilă cu forma desenului.",
+        "Un punct de pe frontieră este eficient productiv dar nu spune singur ce combinație preferă societatea. Pentru alegerea între două puncte eficiente sunt necesare preferințe și criterii de distribuire. Posibilitatea tehnică și aprecierea rezultatului sunt două întrebări."
+      ]
+    ],
+    [
+      "O unitate suplimentară poate schimba decizia",
+      [
+        "Un mic comerciant decide dacă merită încă o oră de lucru. Prima oră suplimentară poate aduce un beneficiu de 150 de lei și un cost de 100 de lei. Ea mărește avantajul net cu 50 de lei. O a doua oră poate aduce numai 70 de lei cu același cost de 100 de lei. Ea reduce rezultatul cu 30 de lei.",
+        "Faptul că întreaga zi este profitabilă nu justifică automat încă o oră. Comparăm schimbarea suplimentară și nu media tuturor orelor. Aceasta este logica marginală. O decizie bună poate însemna oprirea extinderii chiar dacă fiecare oră aduce un venit pozitiv.",
+        "La egalitatea beneficiului și costului marginal cele două opțiuni pot fi la fel de bune în model. Nu este necesar să inventăm o preferință strictă. Când unitățile nu sunt divizibile comparăm variantele efectiv disponibile."
+      ]
+    ],
+    [
+      "Cum verificăm o afirmație?",
+      [
+        "Să presupunem că un magazin observă simultan mai mulți clienți și un preț mai mare pentru un produs. Nu putem spune imediat că scumpirea a produs creșterea vânzărilor. Poate fi sezonul de vârf sau poate fi o schimbare de calitate. Un alt factor poate explica ambele observații.",
+        "O comparație mai bună precizează ce este păstrat constant și ce diferență este studiată. Un model nu devine dovadă numai fiindcă este scris printr-o ecuație. El trebuie confruntat cu observațiile și cu explicațiile alternative.",
+        "Afirmația „o reducere a taxei poate crește numărul de înscrieri” este o ipoteză pozitivă. Afirmația „taxa ar trebui redusă pentru acces mai larg” este normativă. Prima cere verificare a efectului. A doua cere și discutarea obiectivului și a costului pentru ceilalți."
+      ]
+    ],
+    [
+      "Ipoteze despre oameni și reguli de cercetare",
+      [
+        "Modelul homo economicus presupune autonomie în alegere și orientare spre obiective proprii și raționalitate și informația necesară deciziei. Interesul propriu nu înseamnă obligatoriu egoism. Grija pentru alte persoane poate face parte din obiective. Informația perfectă este o simplificare care nu trebuie confundată cu situația fiecărui om real.",
+        "O clasificare cunoscută a nevoilor este cea asociată lui Maslow: fiziologie și securitate și relaționare și apreciere și dezvoltare personală. O folosim pentru organizarea ideilor. Nu presupunem că fiecare persoană urmează obligatoriu aceeași ordine rigidă în orice împrejurare.",
+        "Inducția pornește de la observații către o regulă. Deducția urmărește consecințele unor ipoteze. Analiza separă componentele unei probleme. Sinteza le reunește. Abstracția păstrează legăturile relevante și lasă deoparte unele detalii. Un rezultat trebuie verificat și prin logică și prin dovezi.",
+        "Eroarea de compoziție apare când transferăm automat un rezultat individual la întreg. O persoană poate vedea mai bine dacă se ridică la spectacol. Dacă se ridică toți avantajul nu se păstrează. În economie trebuie verificat dacă alegerile individuale schimbă condițiile tuturor.",
+        "Precizarea termenilor și a perioadei și a bazei comparației previne alte erori. Opinia unui expert nu înlocuiește dovada. O predicție greșită nu trebuie ascunsă prin schimbarea neanunțată a ipotezelor. Revedem modelul și căutăm explicația diferenței."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "COx = −ΔQy / ΔQx",
+      "Cantitatea de Y sacrificată pentru o unitate suplimentară X."
+    ],
+    [
+      "Avantaj marginal ≥ cost marginal",
+      "O unitate suplimentară merită aleasă dacă avantajul ei acoperă costul. La egalitate agentul poate fi indiferent."
+    ],
+    [
+      "Model economic",
+      "Întrebare → ipoteze → relații → consecințe → verificare."
+    ]
+  ],
+  "solved": [
+    {
+      "title": "Alegerea unei gospodării țărănești",
+      "condition": "O gospodărie poate produce combinațiile de grâne și carne din tabel. Cantitățile sunt exprimate în kg pe an.",
+      "requirements": [
+        "Trasați curba posibilităților de producție.",
+        "Stabiliți dacă sunt realizabile combinațiile 800 kg grâne și 900 kg carne respectiv 800 kg grâne și 1200 kg carne.",
+        "Calculați costul de oportunitate al majorării producției de carne de la 900 la 1200 kg pe an.",
+        "Calculați costul de oportunitate al majorării producției de grâne de la 400 la 600 kg pe an.",
+        "Explicați dacă la 400 kg grâne și 1300 kg carne resursele sunt utilizate pe deplin."
+      ],
+      "steps": [
+        "Punem grânele pe axa orizontală și carnea pe axa verticală. Unim punctele din tabel în ordinea lor. Frontiera astfel construită delimitează combinațiile accesibile.",
+        "Combinația 800 kg grâne și 900 kg carne se află pe frontieră. Este realizabilă. La 800 kg grâne cantitatea maximă de carne este 900 kg. Prin urmare combinația cu 1200 kg carne este în exterior și nu poate fi produsă cu resursele date.",
+        "Carnea crește cu 300 kg. Grânele scad de la 800 la 600 kg. Sacrificiul total este <strong>200 kg grâne</strong>. Costul mediu pe kg suplimentar de carne este 200/300 = <strong>2/3 kg grâne</strong>.",
+        "Grânele cresc cu 200 kg. Carnea scade de la 1400 la 1200 kg. Sacrificiul total este <strong>200 kg carne</strong>. Pe kg suplimentar de grâne costul este 200/200 = <strong>1 kg carne</strong>.",
+        "La 400 kg grâne gospodăria poate produce 1400 kg carne. Producerea a numai 1300 kg carne o plasează în interior. Modelul indică o rezervă de producție de 100 kg carne la aceeași cantitate de grâne."
+      ],
+      "conclusion": "Sacrificiul este specific trecerii dintre două combinații. O combinație posibilă poate fi eficientă sau poate lăsa posibilități de producție nefolosite.",
+      "tables": [
+        {
+          "headers": [
+            "Grâne · kg/an",
+            "Carne · kg/an"
+          ],
+          "rows": [
+            [
+              1000,
+              0
+            ],
+            [
+              800,
+              900
+            ],
+            [
+              600,
+              1200
+            ],
+            [
+              400,
+              1400
+            ],
+            [
+              200,
+              1450
+            ],
+            [
+              0,
+              1500
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Frontiera gospodăriei",
+          "xlabel": "Grâne · kg/an",
+          "ylabel": "Carne · kg/an",
+          "series": [
+            {
+              "label": "CPP",
+              "points": [
+                [
+                  0,
+                  1500
+                ],
+                [
+                  200,
+                  1450
+                ],
+                [
+                  400,
+                  1400
+                ],
+                [
+                  600,
+                  1200
+                ],
+                [
+                  800,
+                  900
+                ],
+                [
+                  1000,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Automobile și roboți de bucătărie",
+      "condition": "O economie poate produce combinațiile alternative din tabel.",
+      "requirements": [
+        "Completați tabelul prin calcularea costului de oportunitate al unui automobil suplimentar.",
+        "Explicați tendința observată.",
+        "Reprezentați grafic curba posibilităților de producție.",
+        "Arătați efectul retragerii unei părți din resursele economice."
+      ],
+      "steps": [
+        "Între două variante vecine producția de automobile crește cu 100. Pierderile de roboți sunt succesiv 100; 150; 200; 250 și 300.",
+        "Împărțim fiecare pierdere la cele 100 automobile suplimentare. Costurile pe automobil sunt <strong>1; 3/2; 2; 5/2 și 3 roboți</strong>. În varianta A nu există o creștere anterioară pentru calcul.",
+        "Costul crește. Pe măsură ce resursele sunt transferate spre automobile sunt folosite și resurse mai potrivite pentru producerea roboților.",
+        "Unim cele șase combinații pentru a obține frontiera. Retragerea resurselor reduce posibilitățile de producție. Noua frontieră se deplasează spre interior. Mărimea deplasării nu poate fi calculată fără informații suplimentare."
+      ],
+      "conclusion": "Mai multe automobile presupun sacrificii tot mai mari în roboți pe intervalele date.",
+      "tables": [
+        {
+          "headers": [
+            "Varianta",
+            "Automobile",
+            "Roboți de bucătărie",
+            "CO pe automobil suplimentar"
+          ],
+          "rows": [
+            [
+              "A",
+              0,
+              1000,
+              "—"
+            ],
+            [
+              "B",
+              100,
+              900,
+              "1"
+            ],
+            [
+              "C",
+              200,
+              750,
+              "3/2"
+            ],
+            [
+              "D",
+              300,
+              550,
+              "2"
+            ],
+            [
+              "E",
+              400,
+              300,
+              "5/2"
+            ],
+            [
+              "F",
+              500,
+              0,
+              "3"
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Producție alternativă",
+          "xlabel": "Automobile · unități",
+          "ylabel": "Roboți · unități",
+          "series": [
+            {
+              "label": "CPP",
+              "points": [
+                [
+                  0,
+                  1000
+                ],
+                [
+                  100,
+                  900
+                ],
+                [
+                  200,
+                  750
+                ],
+                [
+                  300,
+                  550
+                ],
+                [
+                  400,
+                  300
+                ],
+                [
+                  500,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Extinderea posibilităților de producție",
+      "condition": "O frontieră are punctele extreme Qx = 0 și Qy = 50 respectiv Qx = 10 și Qy = 0.",
+      "requirements": [
+        "Reprezentați frontiera inițială.",
+        "Arătați efectul progresului tehnologic care permite producerea a 60 de unități Y. Ceilalți factori rămân neschimbați.",
+        "Arătați efectul resurselor suplimentare care permit producerea a 20 de unități X. Ceilalți factori rămân neschimbați.",
+        "Arătați efectul simultan al celor două modificări."
+      ],
+      "steps": [
+        "Marcăm punctele (0; 50) și (10; 0). Pentru reprezentare unim punctele printr-un segment. Cele două interceptări singure nu determină forma exactă a unei frontiere curbe.",
+        "Îmbunătățirea numai pentru Y mută interceptarea verticală de la 50 la <strong>60</strong>. Interceptarea pentru X rămâne 10.",
+        "Resursele suplimentare pentru X mută interceptarea orizontală de la 10 la <strong>20</strong>. Interceptarea pentru Y rămâne 50.",
+        "Când ambele schimbări au loc noile interceptări sunt <strong>(0; 60)</strong> și <strong>(20; 0)</strong>. Posibilitățile se extind pentru ambele bunuri."
+      ],
+      "conclusion": "Modificarea posibilităților maxime se deosebește de simpla deplasare între punctele aceleiași frontiere.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Frontiere înainte și după modificări",
+          "xlabel": "X · unități",
+          "ylabel": "Y · unități",
+          "series": [
+            {
+              "label": "Inițial",
+              "points": [
+                [
+                  0,
+                  50
+                ],
+                [
+                  10,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "Progres numai pentru Y",
+              "points": [
+                [
+                  0,
+                  60
+                ],
+                [
+                  10,
+                  0
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            },
+            {
+              "label": "Resurse numai pentru X",
+              "points": [
+                [
+                  0,
+                  50
+                ],
+                [
+                  20,
+                  0
+                ]
+              ],
+              "color": "#556374",
+              "dash": true
+            },
+            {
+              "label": "Ambele modificări",
+              "points": [
+                [
+                  0,
+                  60
+                ],
+                [
+                  20,
+                  0
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "O seară cu trei alternative",
+      "condition": "Irina poate lucra la cafenea pentru 240 de lei sau poate oferi meditații pentru 300 de lei în aceeași seară. Ea alege o activitate de voluntariat.",
+      "requirements": [
+        "Determinați componenta monetară a costului de oportunitate.",
+        "Explicați de ce nu adunați cele două venituri."
+      ],
+      "hints": "Comparați alternativele incompatibile în aceeași perioadă.",
+      "question": "De ce o activitate fără plată poate avea totuși un cost economic?",
+      "answer": "300 de lei. Cea mai bună alternativă abandonată este meditația. Nu 540 de lei."
+    },
+    {
+      "title": "Biletul deja cumpărat",
+      "condition": "Un bilet de 100 de lei nu poate fi revândut sau rambursat. În seara spectacolului apare un schimb de muncă plătit cu 250 de lei. Transportul la spectacol costă încă 20 de lei.",
+      "requirements": [
+        "Calculați costul relevant al alegerii spectacolului în această seară.",
+        "Identificați plata care nu se mai schimbă."
+      ],
+      "hints": "Separați costul nerecuperabil de costul suplimentar și de venitul sacrificat.",
+      "question": "Ce rol are faptul că biletul este deja plătit?",
+      "answer": "270 de lei cost relevant: 250 salariu sacrificat și 20 transport. Biletul de 100 este nerecuperabil."
+    },
+    {
+      "title": "Mese sau rafturi",
+      "condition": "Un atelier poate produce într-o zi 4 mese sau 12 rafturi. Presupunem productivitate constantă și aceleași resurse.",
+      "requirements": [
+        "Calculați costul unei mese în rafturi.",
+        "Calculați costul a 6 rafturi în mese."
+      ],
+      "hints": "Comparați producțiile alternative pentru aceeași zi.",
+      "question": "Ce înseamnă rezultatul pentru folosirea timpului atelierului?",
+      "answer": "O masă costă 3 rafturi. Șase rafturi costă 2 mese."
+    },
+    {
+      "title": "O frontieră simplă",
+      "condition": "O echipă are frontiera Qy = 24 − 2Qx pentru cantități nenegative. X sunt afișe și Y sunt invitații realizate într-o zi.",
+      "requirements": [
+        "Găsiți cele două interceptări.",
+        "Stabiliți poziția combinațiilor (6; 12) și (6; 10)."
+      ],
+      "hints": "Înlocuiți pe rând una dintre cantități cu zero. Comparați apoi fiecare punct cu frontiera.",
+      "question": "Ce deosebire există între realizabil și eficient?",
+      "answer": "Interceptări (0;24) și (12;0). (6;12) este eficient. (6;10) este interior și realizabil."
+    },
+    {
+      "title": "Mai mult din ambele bunuri",
+      "condition": "O clasă produce 8 afișe și 10 invitații. Cu aceleași resurse și aceeași tehnologie poate produce 8 afișe și 14 invitații.",
+      "requirements": [
+        "Stabiliți dacă prima combinație este pe frontieră.",
+        "Calculați sporul de invitații posibil fără reducerea afișelor."
+      ],
+      "hints": "Folosiți definiția eficienței productive.",
+      "question": "Dovedește această schimbare extinderea frontierei?",
+      "answer": "Prima combinație este interioară. Spor posibil 4 invitații. Nu dovedește extinderea frontierei."
+    },
+    {
+      "title": "O seră nouă",
+      "condition": "O gospodărie produce legume și fructe. O seră permite mai multe legume cu aceleași resurse. Capacitatea maximă de a produce numai fructe rămâne neschimbată.",
+      "requirements": [
+        "Descrieți modificarea frontierei.",
+        "Explicați dacă ambele interceptări trebuie să se schimbe."
+      ],
+      "hints": "Identificați sectorul în care apare progresul.",
+      "question": "De ce poate fi extinderea asimetrică?",
+      "answer": "Extindere spre axa legumelor. Interceptarea fructelor rămâne. Nu este o deplasare uniformă obligatorie."
+    },
+    {
+      "title": "Încă o oră de pregătire",
+      "condition": "Avantajele estimate pentru trei ore succesive de pregătire sunt 90 de lei apoi 60 de lei și 30 de lei. Fiecare oră sacrifică o activitate plătită cu 50 de lei.",
+      "requirements": [
+        "Alegeți numărul de ore care maximizează avantajul net.",
+        "Calculați avantajul net pentru alegerea făcută."
+      ],
+      "hints": "Comparați separat avantajul și costul fiecărei ore.",
+      "question": "De ce nu este suficient faptul că a treia oră are un avantaj pozitiv?",
+      "answer": "Două ore. Avantaj net 90+60−100=50 de lei. A treia aduce 30 dar costă 50."
+    },
+    {
+      "title": "Fapte și recomandări",
+      "condition": "Afirmația A: majorarea prețului biletului a redus numărul de călătorii. Afirmația B: transportul pentru elevi ar trebui să fie gratuit.",
+      "requirements": [
+        "Clasificați fiecare afirmație.",
+        "Indicați ce dovezi ar putea verifica afirmația A."
+      ],
+      "hints": "Distingem o relație testabilă de o judecată despre ce ar trebui făcut.",
+      "question": "Poate o afirmație pozitivă să fie greșită?",
+      "answer": "A pozitivă. B normativă. Date înainte/după și factori de control. Da o afirmație pozitivă poate fi greșită."
+    },
+    {
+      "title": "Un cuptor pentru două produse",
+      "condition": "Cuptorul poate produce într-o oră 30 de pâini sau 60 de chifle. În ziua analizată este folosit două ore pentru pâine și o oră pentru chifle.",
+      "requirements": [
+        "Calculați producția zilei.",
+        "Calculați costul a încă 30 de pâini dacă durata totală rămâne trei ore."
+      ],
+      "hints": "Identificați ora care trebuie realocată.",
+      "question": "Ce limită împiedică sporirea simultană a ambelor producții?",
+      "answer": "60 de pâini și 60 de chifle. Încă30 pâini costă60 chifle. Timpul cuptorului este fix."
+    },
+    {
+      "title": "Model și dovadă",
+      "condition": "Într-un magazin prețul umbrelelor și vânzările cresc în aceeași săptămână ploioasă. Un elev concluzionează că majorarea prețului a provocat creșterea vânzărilor.",
+      "requirements": [
+        "Identificați un alt factor care poate explica observația.",
+        "Formulați o comparație mai potrivită pentru testarea efectului prețului."
+      ],
+      "hints": "Întrebați-vă dacă ceilalți factori au rămas neschimbați.",
+      "question": "De ce asocierea nu dovedește singură cauza?",
+      "answer": "Ploaia a mărit cererea. Trebuie comparate situații cu condiții similare și prețuri diferite. Asocierea poate avea o cauză comună."
+    }
+  ],
+  "questions": [
+    [
+      "Sunt identice sau nu noțiunile „Teorie economică” și „Microeconomie”? Care este deosebirea dintre ele?",
+      "Teoria economică este cadrul mai larg. Microeconomia este partea care studiază deciziile agenților individuali și piețele concrete. Macroeconomia studiază economia în ansamblu."
+    ],
+    [
+      "Determinați nivelul analizei pentru următoarele afirmații: ajutor anual de 1/2% din PIB pentru reducerea de două ori a sărăciei mondiale către 2015; tarifele la gaz depind de acordurile cu furnizorii; cotele impozitului pe venit stimulează activitatea economică; fabrica „Viorica” a obținut facilități impozitare pentru stimularea exportului; rata șomajului a depășit nivelul anului precedent.",
+      "Ajutorul între state privește nivelul mondoeconomic. Acordurile pentru tarifele la gaz și situația fabricii „Viorica” privesc nivelul microeconomic. Politica fiscală asupra activității de ansamblu și rata șomajului privesc nivelul macroeconomic. Anul 2015 aparține situației propuse și nu este o recomandare actuală. Procentul din enunț este o jumătate de procent."
+    ],
+    [
+      "Caracterizați esența și tipurile nevoilor umane. De ce oamenii primitivi sunt considerați de unii drept „cei mai fericiți”?",
+      "Nevoile sunt trebuințe pe care oamenii încearcă să le satisfacă. Pot fi primare sau secundare și individuale sau colective. Ele se regenerează și se diversifică. Ideea despre fericirea oamenilor primitivi exprimă presupunerea unor aspirații mai puțin numeroase. Ea nu constituie o măsurare obiectivă a fericirii."
+    ],
+    [
+      "Caracterizați categoriile de bunuri și aduceți exemple pentru fiecare categorie.",
+      "Pâinea este un bun material de consum. Transportul este un serviciu. Un cuptor de brutărie este un bun de producție. Făina folosită la coacere este intermediară. Ceaiul și cafeaua pot fi substituibile. Imprimanta și cartușul sunt complementare. Apărarea națională este un exemplu de bun public pur."
+    ],
+    [
+      "Caracterizați categoriile de resurse economice. Ce înseamnă utilizarea alternativă a resurselor?",
+      "Resursele pot fi naturale sau umane și pot include capitalul real și informația. Unele resurse sunt originare. Altele provin din activități anterioare. Utilizarea alternativă înseamnă că aceeași resursă poate servi unor scopuri concurente. Alegerea unei utilizări exclude o altă utilizare în aceeași perioadă."
+    ],
+    [
+      "Ce reprezintă modelul posibilităților de producție și pe ce premise se bazează?",
+      "Modelul arată combinațiile maxime din două bunuri. Fixăm resursele și tehnologia pentru perioada analizată. Frontiera presupune utilizarea eficientă a acestora. Comparația inițială nu folosește schimbul extern pentru a mări consumul peste producția proprie."
+    ],
+    [
+      "Care este sensul economic al costului de oportunitate? Aduceți exemple.",
+      "Este valoarea celei mai bune alternative abandonate. Studiul poate presupune sacrificarea unui salariu. Folosirea terenului pentru grâne poate sacrifica venitul net dintr-o altă cultură. Nu însumăm toate alternativele respinse."
+    ],
+    [
+      "Care condiții pot determina creșterea sau reducerea posibilităților de producție?",
+      "Cantitatea și calitatea resurselor și tehnologia pot modifica frontiera. Mai multe resurse potrivite și progresul tehnologic pot extinde posibilitățile. Pierderea resurselor le poate reduce. Folosirea mai bună a resurselor existente mută producția din interior spre frontieră."
+    ],
+    [
+      "Care sunt metodele specifice de cercetare microeconomică? Exemplificați fiecare metodă.",
+      "Analiza funcțională studiază legătura dintre preț și cantitatea cerută. Analiza marginală compară venitul unei unități suplimentare cu costul ei. Modelarea economică folosește de exemplu frontiera producției pentru a explica alegerea."
+    ],
+    [
+      "Clasificați afirmațiile: experții recomandă investiții în educație și sănătate pentru reducerea sărăciei; emigrarea va diminua odată cu majorarea salariilor interne; lipsa resurselor energetice și deficitul de apă vor îngreuna dezvoltarea și opțiunile geopolitice; rata dobânzii în Republica Moldova ar trebui redusă pentru încurajarea investițiilor.",
+      "Prima și ultima sunt normative deoarece recomandă acțiuni. Cele două afirmații intermediare sunt predicții pozitive. Ele pot fi confruntate cu dovezi. Caracterul pozitiv nu garantează adevărul unei predicții."
+    ],
+    [
+      "Ce reprezintă abstracția homo economicus? Cât este de veridică și necesară în cercetarea teoretică?",
+      "Este un model al agentului care își urmărește obiectivele și compară consecvent alternativele în condițiile unor restricții. Ipotezele de informare și raționalitate simplifică realitatea. Modelul este util dacă îi precizăm limitele și nu îl confundăm cu descrierea fiecărei persoane."
+    ]
+  ],
+  "tf": [
+    [
+      "Teoria economică este o știință fundamentală care nu are nimic comun cu viața reală.",
+      "Fals. Teoria economică urmărește explicarea alegerilor și a relațiilor economice reale prin modele verificabile."
+    ],
+    [
+      "Microeconomia explică comportamentul economic la nivel individual.",
+      "Adevărat. Ea studiază consumatorii și producătorii și interacțiunea lor pe piețe concrete."
+    ],
+    [
+      "Bunurile economice sunt disponibile pentru orice agent economic.",
+      "Fals. Disponibilitatea depinde de resurse și de acces. Raritatea împiedică satisfacerea tuturor dorințelor simultan."
+    ],
+    [
+      "Resursele economice se epuizează în timp.",
+      "Fals ca afirmație generală. Unele stocuri sunt epuizabile. Resursele regenerabile se pot reface în anumite condiții. Competențele și capitalul pot fi dezvoltate."
+    ],
+    [
+      "Curba posibilităților de producție semnifică o cantitate minimală de bunuri care poate fi produsă.",
+      "Fals. Frontiera arată combinațiile maxime accesibile cu resursele și tehnologia date."
+    ],
+    [
+      "Costul de oportunitate este un sacrificiu al altor variante de utilizare a resurselor și bunurilor economice.",
+      "Adevărat dacă sacrificiul este evaluat prin cea mai bună alternativă abandonată. Nu se însumează toate variantele respinse."
+    ],
+    [
+      "Pe măsură ce se produce tot mai mult dintr-un bun în defavoarea altuia costul de oportunitate crește.",
+      "Adevărat pentru frontiera cu resurse specializate și cost crescător. Nu este o regulă pentru orice model. Pe o frontieră liniară costul rămâne constant."
+    ],
+    [
+      "Curba posibilităților de producție este influențată de modificarea cantității și productivității resurselor economice.",
+      "Adevărat. Aceste schimbări pot modifica producția maximă realizabilă."
+    ],
+    [
+      "Analiza pozitivă reflectă depistarea rezultatelor pozitive în dezvoltarea activității economice.",
+      "Fals. „Pozitivă” înseamnă descriptivă sau explicativă și testabilă. Ea poate studia și scăderi sau pierderi."
+    ],
+    [
+      "Analiza marginală se efectuează la finele oricărui studiu științific.",
+      "Fals. Ea analizează schimbări suplimentare. Termenul nu indică poziția unei secțiuni în lucrare."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Raritatea rezultă din:",
+      "options": [
+        "faptul că oamenii produc prea puțin și consumă prea mult",
+        "confruntarea nevoilor economice nelimitate cu resursele economice relativ limitate",
+        "confruntarea resurselor economice nelimitate cu nevoile economice limitate",
+        "faptul că subiecții economiei utilizează ineficient resursele economice"
+      ],
+      "answer": "b. Resursele nu ajung pentru toate utilizările dorite. Ineficiența poate agrava problema fără a fi definiția rarității."
+    },
+    {
+      "q": "Curba posibilităților de producție ilustrează:",
+      "options": [
+        "prețul bunurilor care pot fi produse",
+        "cantitatea minimă de bunuri care poate fi produsă cu resursele disponibile",
+        "cantitatea maximă de bunuri care poate fi produsă cu resursele disponibile",
+        "nivelul necesar satisfacerii totalității nevoilor economice"
+      ],
+      "answer": "c. Frontiera arată combinațiile maxime realizabile pentru două bunuri."
+    },
+    {
+      "q": "Curba posibilităților de producție are panta descrescătoare deoarece:",
+      "options": [
+        "resursele economice sunt specializate",
+        "bunurile economice sunt eterogene",
+        "creșterea producției unui bun necesită reducerea producției altui bun",
+        "creșterea producției unui bun mărește și costul său de oportunitate"
+      ],
+      "answer": "c. Panta descrescătoare exprimă un compromis. Specializarea poate explica forma arcuită și costul crescător."
+    },
+    {
+      "q": "Costul de oportunitate este determinat de:",
+      "options": [
+        "prețul plătit pentru bunul cumpărat",
+        "costurile efectuate pentru producerea unui bun",
+        "cea mai proastă variantă abandonată pentru obținerea bunului",
+        "cea mai bună variantă sacrificată pentru obținerea bunului"
+      ],
+      "answer": "d. Reperul este cea mai valoroasă alternativă abandonată."
+    },
+    {
+      "q": "Pentru un student costul de oportunitate al instruirii universitare este determinat de:",
+      "options": [
+        "bursa primită",
+        "câștigul maximal care ar putea fi obținut prin angajare",
+        "costurile părinților pentru întreținerea lui",
+        "niciun răspuns nu este corect"
+      ],
+      "answer": "b este componenta relevantă dintre variante. Costul complet poate include și plăți suplimentare pentru studii. Întreținerea suportată în ambele variante nu este integral un cost suplimentar al studiilor."
+    },
+    {
+      "q": "Oamenii săraci călătoresc mai mult cu autobuzul iar oamenii bogați de obicei cu avionul deoarece:",
+      "options": [
+        "autobuzul este prea ieftin pentru statutul lor social",
+        "oamenii bogați preferă confortul avionului",
+        "autobuzul este foarte scump pentru cei cu un cost ridicat al timpului sacrificat",
+        "niciun răspuns nu este corect"
+      ],
+      "answer": "c exprimă mecanismul economic urmărit. O durată mai mare poate avea un cost de oportunitate ridicat. Este o explicație condițională și nu o regulă pentru fiecare persoană."
+    },
+    {
+      "q": "Curba posibilităților de producție se deplasează spre dreapta deoarece:",
+      "options": [
+        "au fost implementate noi tehnologii",
+        "costul de oportunitate pentru două bunuri crește",
+        "a crescut cantitatea resurselor disponibile",
+        "niciun răspuns nu este corect"
+      ],
+      "answer": "a și c. Ambele pot extinde posibilitățile. Costul crescător singur descrie forma frontierei și nu dovedește deplasarea ei."
+    },
+    {
+      "q": "Metodologia cercetării științifice semnifică:",
+      "options": [
+        "totalitatea datelor factologice",
+        "totalitatea viziunilor economice ale cercetătorului",
+        "totalitatea metodelor și procedeelor de cercetare"
+      ],
+      "answer": "c. Metodologia privește modul de construire și verificare a explicațiilor."
+    },
+    {
+      "q": "Măsurile de politică economică promovate într-un domeniu se bazează pe abordarea:",
+      "options": [
+        "pozitivă",
+        "negativă",
+        "normativă",
+        "exclusivă"
+      ],
+      "answer": "c este varianta privind alegerea obiectivelor și recomandările. Evaluarea consecințelor acelor măsuri folosește și analiza pozitivă."
+    }
+  ],
+  "conclusions": [
+    "Raritatea obligă la alegere. Costul economic include cea mai bună alternativă abandonată.",
+    "Frontiera descrie posibilități maxime. Eficiența productivă și extinderea posibilităților sunt idei diferite.",
+    "O explicație economică bună precizează ipotezele și poate fi confruntată cu dovezile."
+  ],
+  "number": 1,
+  "title": "Obiectul de studiu și metodologia microeconomiei",
+  "model_fallback": {
+    "result": "Q<sub style=\"font-size:75%;line-height:0;\">x</sub> = 4 și Q<sub style=\"font-size:75%;line-height:0;\">y</sub> = 30. Încă o unitate X sacrifică 5 unități Y. Resursele și tehnologia rămân constante.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"265\" text-anchor=\"end\">14</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"195\" text-anchor=\"end\">28</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">8</text><text x=\"60\" y=\"125\" text-anchor=\"end\">42</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"55\" text-anchor=\"end\">56</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">X · unități</text><text x=\"18\" y=\"28\">Y · unități</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"281.3207547169811\" cy=\"180\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">CPP</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

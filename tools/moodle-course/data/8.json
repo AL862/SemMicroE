@@ -1,0 +1,469 @@
+{
+  "theory": [
+    [
+      "Concurența și puterea asupra prețului",
+      [
+        "Un mic producător al unui bun identic cu al multor altora nu poate cere ușor un preț mult mai mare. Cumpărătorii se pot orienta spre alternative. Acest exemplu explică firma primitoare de preț. Nu orice piață reală îndeplinește însă toate condițiile modelului.",
+        "Concurența este rivalitatea pentru condiții mai bune de vânzare și cumpărare. Ea poate stimula adaptarea la cerere și inovarea și reducerea risipei. Rezultatele depind de informație și intrare și respectarea regulilor. Inducerea în eroare sau blocarea rivalilor nu echivalează cu îmbunătățirea produsului.",
+        "Un singur vânzător este reperul monopolului. Puțini ofertanți relevanți descriu oligopolul. Mulți vânzători cu produse diferențiate descriu concurența monopolistică. Un singur cumpărător descrie monopsonul. Puțini cumpărători relevanți descriu oligopsonul."
+      ]
+    ],
+    [
+      "Ipotezele concurenței perfecte",
+      [
+        "Există mulți participanți mici și produse omogene. Intrarea și ieșirea sunt libere în sensul absenței barierelor relevante. Informația necesară este disponibilă iar resursele pot fi realocate în condițiile modelului. Fiecare participant are o parte neglijabilă din piață.",
+        "Firma ia P ca dat și alege q. Cererea adresată ei este orizontală la acel preț. Cererea întregii piețe poate fi descrescătoare. Nu desenăm aceeași curbă pentru o firmă și pentru întreaga ramură.",
+        "Producția unei singure firme mici nu schimbă prețul în ipoteza modelului. Intrarea multor firme poate modifica oferta totală și prețul. Nu este o contradicție. Comparăm o decizie individuală cu o schimbare a pieței."
+      ]
+    ],
+    [
+      "Producția pe termen scurt",
+      [
+        "TR = Pq și MR = AR = P. Fiecare unitate suplimentară aduce același venit P. Dacă MC este mai mic firma poate mări profitul prin extindere. Dacă MC este mai mare unitatea suplimentară reduce profitul.",
+        "Candidatul interior se află pe partea crescătoare relevantă a MC unde P = MC. Calculăm profitul și comparăm cu oprirea. Profitul este (P−ATC)q. Diferența verticală P−ATC este profitul mediu. Înmulțirea cu q dă aria profitului total.",
+        "P peste ATC indică profit pozitiv la volumul respectiv. Egalitatea înseamnă profit zero. P sub ATC înseamnă pierdere. Aceste situații nu decid singure dacă firma ar trebui să oprească producția de mâine."
+      ]
+    ],
+    [
+      "De ce poate merita continuarea cu pierdere?",
+      [
+        "Producția aduce 2500 de lei. VC este 2000 de lei și FC neevitabil este 800 de lei. Dacă produce firma pierde 300 de lei. Dacă se oprește nu mai încasează dar suportă 800 de lei. Continuarea reduce pierderea cu 500 de lei.",
+        "Pe termen scurt comparăm TR cu VC. Când venitul recuperează VC și contribuie la FC producția poate fi preferabilă. Dacă P este sub minimul AVC niciun volum pozitiv nu recuperează costul variabil în modelul standard.",
+        "La egalitate cu minimul AVC firma poate fi indiferentă între oprire și volumul pozitiv minimizant. Costuri de repornire pot schimba comparația dar nu apar în modelul simplu. Suspendarea păstrează capacitatea. Ieșirea pe termen lung permite ajustarea mai multor costuri."
+      ]
+    ],
+    [
+      "Oferta firmei și a ramurii",
+      [
+        "Oferta de termen scurt urmează partea relevantă a MC crescător situată deasupra pragului de închidere. Sub prag firma oferă zero. Nu identificăm întreaga curbă MC cu oferta dacă unele puncte nu maximizează profitul.",
+        "Oferta pieței însumează orizontal ofertele individuale. Pentru N firme identice Q = Nq la același P. Echilibrul pieței rezultă din cererea și oferta totale. Apoi fiecare firmă alege q la prețul astfel stabilit."
+      ]
+    ],
+    [
+      "Intrare și ieșire pe termen lung",
+      [
+        "Profitul economic pozitiv poate atrage firme noi. Oferta crește și prețul tinde să scadă. Pierderile persistente încurajează ieșirea. Oferta se reduce și prețul poate reveni. În echilibrul standard nu mai există stimulent de intrare sau ieșire.",
+        "Cu firme identice și intrare liberă și condiții stabile avem P = MC = minimul LRAC. Profitul economic este zero. Costurile includ remunerația normală a resurselor proprii. Rezultatul nu afirmă că antreprenorul nu primește nimic.",
+        "Oferta pe termen lung poate fi orizontală dacă extinderea nu schimbă costul minim. Dacă resursele se scumpesc poate fi ascendentă. Economii externe relevante pot produce o pantă descendentă. Contează evoluția costurilor și nu numai numărul firmelor."
+      ]
+    ],
+    [
+      "Un reper de eficiență",
+      [
+        "Minimul costului mediu descrie scara eficientă pentru tehnologia dată. P = MC leagă disponibilitatea de plată pentru ultima unitate de costul ei marginal. În lipsa externalităților și a altor distorsiuni aceasta susține eficiența alocativă.",
+        "Eficiența nu implică automat o distribuire considerată echitabilă. Înaintea aplicării concluziei unei piețe reale verificăm ipotezele. Modelul ajută să identificăm ce condiție diferă și ce efect poate avea diferența."
+      ]
+    ],
+    [
+      "Trei prețuri pentru aceeași tehnologie",
+      [
+        "Păstrăm TC = 100 + 10Q + Q². Costul fix este 100 de lei. AVC = 10 + Q iar MC = 10 + 2Q. La prețul pieței de 50 de lei candidatul este Q = 20. Venitul este 1000 de lei iar costul este 700 de lei. Firma are profit de 300 de lei.",
+        "La prețul de 20 de lei cantitatea optimă pozitivă este 5. Venitul este 100 de lei iar VC este 75 de lei. Firma contribuie cu 25 de lei la costul fix și pierde 75 de lei. Oprirea ar lăsa o pierdere de 100 de lei. Continuarea este preferabilă pe termen scurt în aceste condiții.",
+        "La prețul de 8 lei fiecare unitate ar aduce mai puțin decât costul variabil mediu pentru orice Q pozitiv. Firma alege zero. Limita inferioară a AVC este 10 atunci când Q tinde spre zero. La P = 10 această funcție are tot Q = 0 ca alegere optimă. Nu inventăm un volum pozitiv de indiferență când minimul nu este atins la Q pozitiv."
+      ]
+    ],
+    [
+      "Două grafice care răspund la întrebări diferite",
+      [
+        "Graficul pieței are pe axa orizontală Q total. Cererea și oferta tuturor participanților stabilesc P. Graficul firmei are cantitatea proprie q. Linia prețului este orizontală deoarece firma este prea mică pentru a modifica P prin propria alegere.",
+        "O creștere a cererii pieței poate mări prețul. În graficul firmei se deplasează în sus linia P. Firma se mișcă pe partea relevantă a MC și își mărește producția. Nu este necesară deplasarea costului marginal pentru a explica această creștere.",
+        "Dacă intră firme noi oferta totală se poate deplasa spre dreapta. Prețul pieței scade iar firmele existente își pot reduce cantitatea. Cantitatea totală poate totuși crește. Mai mulți producători și o producție individuală mai mică sunt compatibile. Distincția dintre q și Q evită confuzia."
+      ]
+    ],
+    [
+      "Ce recuperează prețul de lungă durată?",
+      [
+        "La TC = Q² + 4Q + 16 costul mediu este Q + 4 + 16/Q. La Q = 4 el este 12. Pentru orice Q pozitiv diferența față de 12 este (Q−4)²/Q. Aceasta nu poate fi negativă. Prin urmare 12 este minimul costului mediu iar 4 este scara eficientă.",
+        "La această cantitate MC = 2Q + 4 = 12. Cu firme identice și intrare liberă prețul de echilibru de lungă durată este 12. Fiecare firmă încasează 48 și suportă TC = 48. Profitul economic este zero. Costul include alternativele relevante ale resurselor.",
+        "Numărul firmelor rezultă apoi din cantitatea cerută de piață la prețul 12. Dacă cererea este de 400 de unități sunt necesare 100 de firme care produc câte 4 în modelul cu număr ajustabil de firme. Nu calculăm numărul folosind o cantitate cerută la alt preț."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "TR = Pq și MR = AR = P",
+      "Firma este primitoare de preț."
+    ],
+    [
+      "P = MC",
+      "Candidat interior pe ramura relevantă."
+    ],
+    [
+      "Profit = (P−ATC)q",
+      "Profitul sau pierderea totală."
+    ],
+    [
+      "P &lt; minimul AVC",
+      "Criteriu de oprire pe termen scurt în modelul standard."
+    ],
+    [
+      "Q ofertă = suma q individuale",
+      "Cantități adunate la același preț."
+    ],
+    [
+      "P = MC = minimul LRAC",
+      "Echilibru standard de lungă durată."
+    ]
+  ],
+  "description": "Analizăm firma care ia prețul pieței ca dat. Legăm producția de profit și de oprire. Urmărim intrarea și ieșirea pe termen lung.",
+  "objectives": [
+    "Explicați ipotezele firmei primitoare de preț.",
+    "Calculați producția optimă și profitul.",
+    "Distingeți continuarea cu pierdere de oprire și ieșire.",
+    "Explicați oferta și echilibrul pe termen lung."
+  ],
+  "conclusions": [
+    "Firma individuală ia P ca dat și alege q.",
+    "Producția poate reduce pierderea pe termen scurt chiar fără recuperarea întregului TC.",
+    "Intrarea și ieșirea explică profitul economic zero în echilibrul standard pe termen lung."
+  ],
+  "questions": [
+    [
+      "Axându-vă pe funcțiile concurenței explicați aportul ei la progresul economic.",
+      "Concurența stimulează adaptarea la cerere și folosirea eficientă a resurselor. Posibilitatea de a pierde clienți încurajează reducerea costurilor și îmbunătățirea produselor. Rezultatele depind de condițiile pieței și de regulile aplicate."
+    ],
+    [
+      "Definiți piața cu concurență perfectă. De ce este un model ipotetic?",
+      "Modelul presupune mulți participanți mici și produse omogene și intrare liberă și informație disponibilă. Niciun participant nu controlează singur prețul. Condițiile exacte sunt rare în realitate. Modelul este un reper de comparație."
+    ],
+    [
+      "Ce este o firmă primitoare de preț? De ce firma perfect concurentă are această calitate?",
+      "Firma ia prețul pieței ca dat. Partea ei din ofertă este prea mică pentru a modifica semnificativ prețul. Ea alege cantitatea care merită produsă la acel preț."
+    ],
+    [
+      "Prezentați analitic și grafic echilibrul firmei pe termen scurt și lung. De ce condițiile respective descriu echilibrul?",
+      "Pe termen scurt alegem P = MC pe porțiunea potrivită și verificăm dacă TR acoperă VC. Profitul este (P−ATC)Q. Pe termen lung cu intrare liberă și firme identice avem P = MC = minimul LRAC. Modelele grafice și exercițiile arată intersecția și relația cu mediile. Nicio ajustare unilaterală sau intrare profitabilă nu rămâne în echilibrul standard."
+    ],
+    [
+      "Explicați în baza graficului cum se determină profitul sau pierderea. Scrieți formula.",
+      "Diferența verticală P−ATC la cantitatea aleasă este profitul mediu. Înmulțită cu Q ea dă aria dreptunghiului de profit. Dacă ATC este peste P aria reprezintă pierderea. Formula este profit = TR−TC = (P−ATC)Q."
+    ],
+    [
+      "De ce firmele perfect concurente pot obține profit economic doar pe termen scurt în modelul cu intrare liberă?",
+      "Profitul pozitiv atrage alte firme. Oferta crește și prețul tinde să scadă. Ajustarea continuă până când nu mai există profit economic suplimentar în echilibrul standard cu firme identice. Profitul normal rămâne acoperit în costuri."
+    ],
+    [
+      "Ce este punctul de închidere? Care sunt condițiile sale analitice?",
+      "Este minimul AVC în reprezentarea standard. Sub acest preț producția nu recuperează costul variabil. La egalitate firma poate fi indiferentă între producție și oprire dacă volumul pozitiv minimizant există și nu există alte costuri de oprire."
+    ],
+    [
+      "Ce tendințe pot avea prețurile pe termen lung pe o piață concurențială și ce le determină?",
+      "Dacă extinderea ramurii nu schimbă prețurile resurselor oferta de lungă durată poate fi orizontală. Dacă resursele devin mai scumpe poate fi ascendentă. Dacă apar economii externe relevante poate fi descendentă. Contează evoluția costului minim al firmelor și nu numai intrarea lor."
+    ]
+  ],
+  "tf": [
+    [
+      "Dublarea producției unei firme perfect concurente produce exces de ofertă și reduce prețul produsului.",
+      "Fals în ipoteza firmei neglijabile. Schimbarea ofertei unei singure firme nu modifică prețul pe care ea îl ia ca dat. Modificarea ofertei întregii ramuri este altă comparație."
+    ],
+    [
+      "Pentru firma perfect concurentă orice majorare a vânzărilor mărește veniturile totale.",
+      "Adevărat la un preț constant pozitiv. TR crește cu P pentru fiecare unitate suplimentară. Profitul poate totuși să scadă."
+    ],
+    [
+      "Dacă ATC este sub preț orice majorare a vânzărilor mărește profitul total.",
+      "Fals. Profitul mediu pozitiv nu spune cât costă unitatea suplimentară. Comparația relevantă este P = MR față de MC."
+    ],
+    [
+      "Dacă pe termen scurt costul mediu este sub preț firma își suspendă imediat activitatea.",
+      "Fals. Această situație înseamnă profit pozitiv la cantitatea respectivă. Ea nu justifică oprirea."
+    ],
+    [
+      "Profiturile obținute pe termen scurt se păstrează pe termen lung datorită barierelor de intrare caracteristice concurenței perfecte.",
+      "Fals. Modelul presupune intrare liberă. Intrarea tinde să elimine profitul economic pozitiv în condițiile standard."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Care caracteristică nu privește concurența perfectă?",
+      "options": [
+        "atomicitatea cererii și ofertei",
+        "omogenitatea produselor",
+        "fluiditatea perfectă",
+        "transparența perfectă",
+        "informația asimetrică"
+      ],
+      "answer": "e. Modelul presupune informație disponibilă tuturor participanților și nu avantaj informațional sistematic."
+    },
+    {
+      "q": "Prețul pe piața perfect concurentă este:",
+      "options": [
+        "stabilit de stat",
+        "fixat prin negocieri bilaterale",
+        "expresia raportului cerere–ofertă",
+        "impus de un vânzător"
+      ],
+      "answer": "c. Interacțiunea cererii cu oferta totală stabilește prețul pieței."
+    },
+    {
+      "q": "Vânzătorii perfect concurenți pot determina în mod suveran:",
+      "options": [
+        "cantitatea oferită",
+        "prețul bunurilor oferite",
+        "prețul și cantitatea",
+        "nici prețul nici cantitatea"
+      ],
+      "answer": "a. Fiecare firmă alege cantitatea sa la prețul pieței."
+    },
+    {
+      "q": "În concurența perfectă:",
+      "options": [
+        "cererea firmei coincide cu cererea pieței",
+        "oferta firmei este perfect elastică",
+        "firma oferă bunuri la orice preț",
+        "cererea pieței este descrescătoare și cererea firmei este orizontală"
+      ],
+      "answer": "d în modelul obișnuit. O firmă mică poate vinde cantitatea aleasă la prețul dat. Cererea pieței însumează reacțiile tuturor cumpărătorilor."
+    },
+    {
+      "q": "Pe termen scurt volumul optim al firmei corespunde:",
+      "options": [
+        "punctului AC",
+        "punctului TR",
+        "egalității MC = P",
+        "egalității AC = MC"
+      ],
+      "answer": "c pentru un optim interior pe ramura potrivită a MC. Trebuie verificată și alternativa opririi."
+    },
+    {
+      "q": "Firma își întrerupe activitatea pe termen scurt dacă:",
+      "options": [
+        "P &lt; minimul ATC",
+        "P &lt; minimul AVC",
+        "P &lt; MC",
+        "TR = TC"
+      ],
+      "answer": "b. Un preț sub minimul AVC nu acoperă costul variabil la niciun volum pozitiv."
+    },
+    {
+      "q": "P este 24 u.m. La volumul produs ATC este 30 și MC este 25 și AFC este 5. Pentru profit maxim sau pierdere minimă firma trebuie:",
+      "options": [
+        "să mărească producția",
+        "să păstreze producția",
+        "să reducă producția",
+        "să oprească activitatea"
+      ],
+      "answer": "d în reprezentarea uzuală cu AVC în formă de U. AVC = 30−5 = 25 și MC = AVC indică minimul interior al AVC. P = 24 este sub acel minim. Fără ipoteza formei uzuale valorile dintr-un singur punct nu ar determina minimul global."
+    },
+    {
+      "q": "Pe termen lung firma părăsește piața dacă:",
+      "options": [
+        "ATC &lt; MC",
+        "P &lt; MC",
+        "TR &lt; TC",
+        "MC &gt; AVC"
+      ],
+      "answer": "c dacă inegalitatea persistă la cea mai bună alegere posibilă. Pe termen lung firma trebuie să recupereze toate costurile economice."
+    }
+  ],
+  "number": 8,
+  "solved": [
+    {
+      "title": "Echilibru pe termen scurt și pierdere",
+      "condition": "Firma este perfect concurentă. TC = 3Q^2 + 7Q + 90. Prețul de piață este 30 u.m.",
+      "requirements": [
+        "Determinați profitul firmei în echilibrul pe termen scurt."
+      ],
+      "steps": [
+        "MC = 6Q + 7. Condiția pentru candidatul interior este 30 = 6Q + 7. Rezultă <strong>Q = 23/6</strong>.",
+        "AVC = 3Q + 7. La cantitatea găsită AVC = 37/2. Prețul de 30 acoperă costul variabil mediu. Producția este preferabilă opririi.",
+        "Profitul este 30Q − (3Q^2 + 7Q + 90) = 23Q − 3Q^2 − 90. La Q = 23/6 obținem <strong>profit = −551/12 u.m.</strong>",
+        "Dacă firma se oprește pierde costul fix de 90 u.m. Pierderea din producție este mai mică. MC este crescător și candidatul maximizează profitul continuu."
+      ],
+      "conclusion": "Un volum optim poate produce pierdere. Pe termen scurt comparația relevantă este și cu oprirea.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Oferta unei firme și oferta ramurii",
+      "condition": "AVC = Q/10 + 2. Costul fix este 3. Pe piață activează 100 de firme identice. Cererea este Qd = 5000 − 100P.",
+      "requirements": [
+        "Deduceți oferta firmei pe termen scurt.",
+        "Deduceți oferta pieței.",
+        "Determinați echilibrul pe termen scurt.",
+        "Explicați perspectiva ramurii pe termen lung."
+      ],
+      "steps": [
+        "VC = Q^2/10 + 2Q. MC = Q/5 + 2. Minimul limită al AVC la Q care tinde spre zero este 2. Oferta firmei este <strong>q = 5P − 10 pentru P ≥ 2</strong>. Pentru P sub 2 oferta este zero.",
+        "Oferta a 100 de firme este <strong>Qs = 500P − 1000</strong> pentru P ≥ 2.",
+        "Egalăm 500P − 1000 = 5000 − 100P. Rezultă <strong>P = 10</strong> și <strong>Q = 4000</strong>. Fiecare firmă produce 40 de unități.",
+        "La q = 40 avem TC = 3 + 160 + 80 = 243. TR = 400. Profitul unei firme este <strong>157</strong>. Profitul atrage intrare dacă aceasta este liberă.",
+        "ATC = 3/q + q/10 + 2 are minimul la q = √30. Prețul de echilibru standard pe termen lung tinde spre <strong>2 + √30/5</strong>. Cantitatea și numărul firmelor se ajustează. Numărul exact de firme întregi poate produce o mică abatere de la reperul continuu."
+      ],
+      "conclusion": "Profitul pe termen scurt nu garantează menținerea lui după intrarea concurenților.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Douăzeci de firme în echilibru pe termen lung",
+      "condition": "În ramură sunt 20 de firme identice. Costul unei firme este TC = 3q^3 − 2q^2 + q. Piața se află în echilibru pe termen lung.",
+      "requirements": [
+        "Determinați producția unei firme.",
+        "Determinați producția totală.",
+        "Determinați prețul."
+      ],
+      "steps": [
+        "ATC = 3q^2 − 2q + 1. Completăm pătratul: ATC = 3(q − 1/3)^2 + 2/3. Minimul este la <strong>q = 1/3</strong>.",
+        "În echilibrul standard cu intrare liberă prețul este egal cu minimul ATC: <strong>P = 2/3</strong>.",
+        "Q = 20 × 1/3 = <strong>20/3</strong>. Control: MC = 9q^2 − 4q + 1. La q = 1/3 acesta este tot 2/3."
+      ],
+      "conclusion": "Fiecare firmă acoperă toate costurile economice și obține profit economic zero la scara eficientă.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Cost fix de 50 și ofertă concurențială",
+      "condition": "FC = 50 u.m. VC = 5Q(Q + 1). Prețul de piață este 45 u.m.",
+      "requirements": [
+        "Determinați volumul optim.",
+        "Calculați venitul total.",
+        "Calculați profitul."
+      ],
+      "steps": [
+        "VC = 5Q^2 + 5Q și MC = 10Q + 5. Din 45 = 10Q + 5 rezultă <strong>Q = 4</strong>.",
+        "AVC = 5Q + 5 = 25 la Q = 4. P depășește AVC și producția merită continuată.",
+        "TR = 45 × 4 = <strong>180</strong>. VC = 5 × 4 × 5 = 100. TC = 150. Profitul este <strong>30 u.m.</strong>"
+      ],
+      "conclusion": "Prețul acoperă costul variabil și costul fix. Diferența rămasă este profitul economic.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Pragul de profit zero și pragul de închidere",
+      "condition": "TC = 100 + 15q + q^2. Firma este perfect concurentă.",
+      "requirements": [
+        "Determinați cantitatea pentru profit economic zero.",
+        "Găsiți prețul corespunzător.",
+        "Găsiți prețul de suspendare pe termen scurt.",
+        "Stabiliți intervalul de preț pentru pierdere cu activitate continuată."
+      ],
+      "steps": [
+        "ATC = 100/q + 15 + q. Diferența ATC − 35 = (q − 10)^2/q este nenegativă. Minimul ATC este <strong>35</strong> la <strong>q = 10</strong>.",
+        "MC = 15 + 2q. La q = 10 obținem P = MC = <strong>35</strong>. Profitul este zero.",
+        "AVC = 15 + q. Valoarea sa minimă limită este <strong>15</strong>. Pentru P sub 15 orice producție pozitivă aduce TR sub VC. La P = 15 volumul optim continuu este zero.",
+        "Pentru <strong>15 &lt; P &lt; 35</strong> firma produce q = (P − 15)/2 și suportă o pierdere mai mică decât costul fix. La P = 35 profitul devine zero."
+      ],
+      "conclusion": "Pragul de închidere privește costul variabil. Pragul de rentabilitate privește costul total.",
+      "tables": [],
+      "charts": []
+    }
+  ],
+  "new": [
+    {
+      "title": "Primitor de preț",
+      "condition": "Pe piață prețul este 40 de lei pe produs. O firmă mică își mărește vânzările de la 20 la 25 de produse. Presupunem concurență perfectă.",
+      "requirements": [
+        "Calculați TR în ambele situații.",
+        "Calculați MR pe interval."
+      ],
+      "hints": "Prețul firmei nu se modifică odată cu vânzările sale.",
+      "question": "De ce cererea firmei diferă de cererea întregii piețe?",
+      "answer": "TR800și1000. MR40. FirmaprimestePdat."
+    },
+    {
+      "title": "Decizia marginală",
+      "condition": "Prețul de piață este 30 de lei. Costurile marginale ale unor unități succesive sunt 18; 24; 28; 35 de lei. Costurile fixe sunt deja suportate. Fiecare unitate poate fi produsă separat.",
+      "requirements": [
+        "Alegeți câte dintre aceste unități merită produse.",
+        "Calculați contribuția lor totală la acoperirea costurilor fixe."
+      ],
+      "hints": "Comparați fiecare MC cu același MR.",
+      "question": "De ce nu producem și ultima unitate?",
+      "answer": "Primele3. Contribuții12+6+2=20lei. Ultimacostă35daraduce30."
+    },
+    {
+      "title": "Pierdere suportabilă",
+      "condition": "La volumul optim de 100 de unități P = 25 de lei și AVC = 20 de lei. FC = 800 de lei. Oprirea nu elimină FC.",
+      "requirements": [
+        "Calculați pierderea dacă firma produce.",
+        "Comparați cu pierderea la oprire."
+      ],
+      "hints": "Încasările trebuie comparate mai întâi cu VC.",
+      "question": "De ce firma poate continua deși profitul este negativ?",
+      "answer": "TR2500VC2000TC2800 pierdere300. Oprirepierdere800. Continuă."
+    },
+    {
+      "title": "Oprirea pe termen scurt",
+      "condition": "Pentru fiecare volum pozitiv disponibil costul variabil mediu este cel puțin 18 lei. Prețul este 15 lei. Costul fix este 500 de lei.",
+      "requirements": [
+        "Stabiliți decizia de producție.",
+        "Calculați pierderea dacă firma se oprește."
+      ],
+      "hints": "Comparați prețul cu minimul AVC.",
+      "question": "De ce producția nu ajută aici la acoperirea costului fix?",
+      "answer": "Seoprește Q0 pierdere500. OriceproducțieaduceTRsubVC."
+    },
+    {
+      "title": "Profitul firmei",
+      "condition": "Firma produce volumul optim de 60 de unități. Prețul este 40 de lei și ATC este 32 de lei.",
+      "requirements": [
+        "Calculați profitul total.",
+        "Calculați TR și TC."
+      ],
+      "hints": "Înmulțiți diferența P−ATC cu Q.",
+      "question": "Ce stimulent creează profitul pentru firmele din afara ramurii?",
+      "answer": "Profit480 TR2400 TC1920. Stimuleazăintrarea dacăesteposibilă."
+    },
+    {
+      "title": "O ofertă simplă",
+      "condition": "O firmă are MC = 10 + 2Q și AVC = 10 + Q. Costul fix este 100 de lei. Piața are prețul 30 de lei.",
+      "requirements": [
+        "Găsiți volumul optim pozitiv.",
+        "Calculați profitul și verificați continuarea activității."
+      ],
+      "hints": "Folosiți P = MC și comparați apoi P cu AVC.",
+      "question": "Este profitul zero incompatibil cu producția?",
+      "answer": "Q10. TR300VC200FC100profit0. P30>AVC20. Produce."
+    },
+    {
+      "title": "O sută de firme",
+      "condition": "Fiecare dintre 100 de firme identice oferă q = 2P − 10 pentru P ≥ 5 lei. Cererea pieței este Qd = 1000 − 20P.",
+      "requirements": [
+        "Construiți oferta pieței.",
+        "Calculați echilibrul și producția unei firme."
+      ],
+      "hints": "Însumați cantitățile oferite la același preț.",
+      "question": "De ce cantitatea unei firme este mult mai mică decât cea a pieței?",
+      "answer": "Qs200P−1000. P100/11. Q9000/11. q90/11."
+    },
+    {
+      "title": "Intrarea pe piață",
+      "condition": "La început 20 de firme vând fiecare câte 100 de unități. Profitul economic pozitiv atrage alte 5 firme. Pentru comparație presupunem că fiecare continuă să ofere 100 de unități la prețul inițial.",
+      "requirements": [
+        "Calculați oferta inițială și oferta după intrare la acel preț.",
+        "Indicați sensul presiunii asupra prețului dacă cererea nu se schimbă."
+      ],
+      "hints": "Se modifică numărul vânzătorilor.",
+      "question": "De ce nu putem afirma că noul preț este exact cu 25% mai mic?",
+      "answer": "Oferta2000 apoi2500. Presiunedesprețînjos. Funcțiacereriișiaofertelor estenecesară pentruprețexact."
+    },
+    {
+      "title": "Echilibru pe termen lung",
+      "condition": "Într-o ramură cu intrare liberă toate firmele au minimul costului mediu pe termen lung de 24 de lei la 80 de unități. Cererea pieței la prețul de 24 de lei este 4000 de unități.",
+      "requirements": [
+        "Găsiți prețul și numărul firmelor în echilibrul standard pe termen lung.",
+        "Calculați producția unei firme."
+      ],
+      "hints": "Profitul economic este zero în echilibrul cu firme identice.",
+      "question": "De ce profitul normal rămâne acoperit?",
+      "answer": "P24. q80. N50. LRACincludecosturiled eoportunitate."
+    },
+    {
+      "title": "Două perioade",
+      "condition": "O firmă are costuri economice totale de 5000 de lei și încasări de 4700 de lei. Pe termen scurt ar evita doar 4000 de lei de costuri dacă s-ar opri. Pe termen lung toate costurile pot fi evitate dacă părăsește ramura.",
+      "requirements": [
+        "Comparați producția cu oprirea pe termen scurt.",
+        "Indicați perspectiva pe termen lung dacă situația persistă."
+      ],
+      "hints": "Separați costurile evitabile de cele neevitabile.",
+      "question": "De ce diferă deciziile între perioade?",
+      "answer": "Producepescurt:−300fațăde−1000laoprire. Ieseplung dacăpierdereapersistă."
+    }
+  ],
+  "title": "Comportamentul firmelor pe piața cu concurență perfectă",
+  "model_fallback": {
+    "result": "P = 30 · TC = 100 + 10Q + Q². Q optim = 10 · Profit = 0. Profit economic zero.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"265\" text-anchor=\"end\">17</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"195\" text-anchor=\"end\">35</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"125\" text-anchor=\"end\">52</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"55\" text-anchor=\"end\">69</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"70,289.6774193548387 598.3018867924528,128.3870967741936\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,289.6774193548387 598.3018867924528,209.03225806451616\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,209.03225806451616 598.3018867924528,209.03225806451616\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><polyline points=\"122.83018867924528,80.00000000000006 129.43396226415092,101.3933691756273 136.03773584905662,118.30645161290329 142.64150943396226,131.96114369501467 149.2452830188679,143.1720430107527 155.84905660377356,152.50310173697272 162.45283018867923,160.3571428571429 169.0566037735849,167.02956989247312 175.66037735849056,172.741935483871 182.2641509433962,177.6636622390892 188.86792452830187,181.92652329749106 195.47169811320754,185.63455008488967 202.0754716981132,188.87096774193552 208.67924528301884,191.7031490015361 215.28301886792448,194.18621700879766 221.88679245283018,196.36570827489484 228.49056603773582,198.27956989247312 235.09433962264148,199.95967741935488 241.69811320754712,201.4330024813896 248.30188679245282,202.7225209080048 254.9056603773585,203.84792626728114 261.5094339622641,204.82619577308122 268.1132075471698,205.6720430107527 274.71698113207543,206.39828303850157 281.3207547169811,207.01612903225808 287.92452830188677,207.53543499511244 294.5283018867924,207.96489563567366 301.13207547169804,208.31221198156683 307.73584905660374,208.58422939068103 314.33962264150944,208.7870531822145 320.9433962264151,208.92614601018676 327.5471698113207,209.00641025641028 334.1509433962264,209.03225806451616 340.75471698113205,209.00767112509834 347.3584905660377,208.9362519201229 353.9622641509434,208.82126781695425 360.56603773584897,208.66568914956014 367.16981132075466,208.47222222222223 373.77358490566036,208.24333800841518 380.377358490566,207.98129718599864 386.98113207547163,207.68817204301075 393.58490566037733,207.3658657011192 400.18867924528297,207.01612903225808 406.79245283018867,206.64057558507275 413.39622641509425,206.24069478908189 419.99999999999994,205.81786366402923 426.60377358490564,205.37335722819597 433.2075471698113,204.90835777126102 439.811320754717,204.42396313364057 446.41509433962256,203.92119411431807 453.01886792452825,203.4010011123471 459.62264150943395,202.86427009294698 466.2264150943396,202.31182795698925 472.8301886792452,201.74444738233743 479.43396226415086,201.16285119667015 486.03773584905656,200.5677163338454 492.64150943396226,199.95967741935488 499.24528301886784,199.33933002481393 505.84905660377353,198.70723362658848 512.4528301886792,198.0639142994704 519.0566037735848,197.40986717267555 525.6603773584905,196.7455586722768 532.2641509433961,196.07142857142858 538.8679245283018,195.38789186733305 545.4716981132075,194.69534050179212 552.0754716981131,193.9941449403447 558.6792452830189,193.28465562336532 565.2830188679245,192.56720430107532 571.8867924528302,191.84210526315792 578.4905660377358,191.10965647255972 585.0943396226414,190.37014061207614 591.6981132075471,189.6238260514496 598.3018867924528,188.87096774193552\" fill=\"none\" stroke=\"#3F8F1F\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"209.03225806451616\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">AVC</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">P</span><span style=\"display:inline-block;border-left:5px solid #3F8F1F;padding-left:8px;margin:4px 16px 4px 0;\">ATC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

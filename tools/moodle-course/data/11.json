@@ -1,0 +1,659 @@
+{
+  "theory": [
+    [
+      "De ce trebuie urmărit rivalul?",
+      [
+        "Două firme oferă un serviciu. Dacă una își dublează oferta cealaltă poate pierde clienți sau poate reacționa prin preț. Rezultatul propriu depinde de răspunsul posibil al rivalei. Aceasta este interdependența strategică.",
+        "Oligopolul are puțini ofertanți relevanți și bariere la intrare. Bunurile pot fi omogene sau diferențiate. Economiile de scară pot permite numai câtorva firme să opereze eficient. Informația incompletă poate adăuga incertitudine fără a fi obligatorie în fiecare model.",
+        "Nu există o singură predicție pentru toate oligopolurile. Precizăm ce aleg firmele și în ce ordine și ce cunosc. Alegerea simultană de cantități și alegerea simultană de prețuri sunt jocuri diferite. Un angajament credibil poate schimba rezultatul."
+      ]
+    ],
+    [
+      "Cooperare și abatere",
+      [
+        "Un cartel coordonează cantitatea și prețul pentru profitul comun. Din exterior seamănă cu un monopolist. Cantitatea este apoi împărțită între membri. Pentru minimizarea costului comun poate fi necesară egalitatea costurilor marginale între firmele active.",
+        "Dacă ceilalți păstrează cantități mici o firmă poate câștiga prin vânzări suplimentare. Avantajul grupului nu este obligatoriu cea mai bună alegere individuală la acțiunile date ale rivalilor. Detectarea abaterilor și repetarea interacțiunii pot schimba stimulentele.",
+        "Războiul prețurilor constă în reduceri succesive pentru atragerea clienților. Marjele pot scădea. Costul mic ajută rezistența dar contează și capacitatea și finanțarea și durata. Prețurile reduse pot avantaja consumatorii pe termen scurt."
+      ]
+    ],
+    [
+      "Funcția de reacție și echilibrul Nash",
+      [
+        "Funcția de reacție asociază fiecărei alegeri presupuse a rivalului cea mai bună alegere proprie. Într-un model simultan „reacție” nu înseamnă că firma așteaptă cronologic. Este o comparație de strategii.",
+        "La echilibrul Nash nicio firmă nu câștigă prin schimbare unilaterală dacă celelalte păstrează alegerile. Profitul comun nu trebuie să fie maxim. Un acord semnat nu este necesar.",
+        "O matrice de profit permite analiza fără ecuații complicate. Menținem alegerea rivalei și comparăm profitul propriu pentru fiecare opțiune. Repetăm pentru cealaltă firmă. Alegerile care sunt simultan cele mai bune răspunsuri formează echilibrul."
+      ]
+    ],
+    [
+      "Cournot: cantități alese simultan",
+      [
+        "Fiecare firmă își alege cantitatea tratând-o pe cea a rivalei ca dată. Cantitățile se adună. Cererea pieței stabilește prețul. Pentru P = a−b(Q1+Q2) și MC constant c reacția simetrică este Q1 = (a−c)/(2b) − Q2/2 în domeniul pozitiv.",
+        "Intersecția reacțiilor dă echilibrul Cournot. Cu costuri identice cantitățile sunt egale. Totalul este mai mare decât cantitatea cartelului și mai mic decât reperul concurențial în modelul standard. Concluzia depinde de ipotezele lui.",
+        "La P = 90−Q1−Q2 și c = 30 fiecare produce 20. Q total este 40 și P este 50. Dacă ar coordona ca un singur monopol Q ar fi 30 și P ar fi 60. Comparația păstrează aceeași cerere și aceleași costuri."
+      ]
+    ],
+    [
+      "Stackelberg și dubla dominație",
+      [
+        "Liderul Stackelberg alege înaintea urmăritorului. El introduce reacția acestuia în propriul profit și își alege cantitatea. Avantajul presupune un angajament de cantitate observabil și credibil.",
+        "Cu datele exemplului anterior liderul produce 30 și urmăritorul 15. Prețul este 45. Liderul nu folosește propria reacție statică de urmăritor ca și cum ambele firme ar alege simultan. Ordinea schimbă problema.",
+        "În situația Bowley fiecare planifică să fie lider. Planurile pot presupune răspunsuri incompatibile. Punctul rezultat nu este automat echilibru Nash. Prețul efectiv se calculează din cantitățile efectiv alese și nu din două scenarii anticipate diferite."
+      ]
+    ],
+    [
+      "Bertrand și alte forme de conducere",
+      [
+        "În Bertrand de bază firmele aleg simultan prețuri pentru un produs omogen. Clienții aleg oferta mai ieftină. Cu MC identice și capacitate suficientă și condițiile standard prețul poate ajunge la MC chiar cu două firme.",
+        "Diferențierea și capacitatea limitată și costurile diferite și interacțiunea repetată pot modifica rezultatul. Nu transferăm P = MC într-un model de cantități fără verificarea ipotezelor.",
+        "Firma dominantă poate avea o cerere reziduală egală cu cererea pieței minus oferta celorlalți la fiecare preț. Ea optimizează față de acea cerere. Un lider barometru este urmat pentru informația pe care rivalii presupun că o deține. Acesta nu este angajamentul de cantitate Stackelberg."
+      ]
+    ],
+    [
+      "Cererea frântă și rigiditatea prețului",
+      [
+        "În modelul Sweezy rivalii urmează reducerile de preț dar nu majorările. La scumpire firma poate pierde mulți clienți. La ieftinire câștigă puțini deoarece rivalii procedează la fel. Cererea este mai elastică deasupra prețului curent.",
+        "Frângerea produce un gol în MR. Dacă MC se deplasează în interiorul golului cantitatea și prețul pot rămâne neschimbate. Modelul explică rigiditatea unui preț existent. Nu stabilește singur originea lui.",
+        "Pentru alegerea unui model nu este suficient numărul firmelor. Precizăm strategia și ordinea și costurile și cererea. Rezolvăm apoi și interpretăm în limitele condițiilor precizate."
+      ]
+    ],
+    [
+      "Aceleași date pentru trei reguli de joc",
+      [
+        "Folosim P = 90 − Q1 − Q2 și MC = 30 pentru ambele firme. Nu există cost fix în comparație. Profitul primei firme este (60−Q1−Q2)Q1. Dacă rivala produce 20 cea mai bună cantitate proprie este 20. Dacă rivala produce 15 cea mai bună cantitate proprie este 45/2.",
+        "În Cournot ambele produc 20. Prețul este 50 iar profitul fiecăreia este 400 de lei. În Stackelberg liderul produce 30 și urmăritorul 15. Prețul devine 45. Profiturile sunt 450 și 225 de lei. Poziția în ordine schimbă profitul chiar când tehnologia rămâne identică.",
+        "Un cartel care maximizează profitul comun alege totalul 30. Cu împărțire egală fiecare produce 15 iar prețul este 60. Fiecare obține 450 de lei. Dacă una păstrează 15 cealaltă poate câștiga mai mult prin 45/2. Acordul și echilibrul fără cooperare răspund la întrebări diferite."
+      ]
+    ],
+    [
+      "De ce abaterea de la cartel este tentantă?",
+      [
+        "La alegerea de cartel de 15 unități pentru rivală o firmă poate trece la 45/2. Totalul devine 75/2 iar prețul este 105/2. Profitul firmei care se abate este (105/2−30) × 45/2 = 2025/4 lei. El depășește cele 450 de lei din acord cu 225/4 lei.",
+        "Dacă ambele măresc cantitatea rezultatul final poate reduce profitul comun. Fiecare comparație unilaterală pare avantajoasă la alegerea fixă a celeilalte. Această logică explică instabilitatea unui acord într-un joc unic. Nu este necesar ca participanții să nu înțeleagă efectul comun.",
+        "Interacțiunea repetată poate permite alte stimulente dacă abaterea este observabilă și reacția viitoare este credibilă. Nu presupunem automat că orice cartel rezistă. Coordonarea prețurilor între concurenți poate încălca regulile de concurență. Analiza stimulentelor nu este o recomandare de coordonare."
+      ]
+    ],
+    [
+      "Cum citim o matrice de profit?",
+      [
+        "Fiecare firmă alege preț ridicat sau preț mic. Dacă ambele aleg ridicat primesc câte 80. Dacă una alege mic iar cealaltă ridicat prima primește 100 iar cealaltă 20. Dacă ambele aleg mic primesc câte 40. Prima cifră dintr-o pereche aparține mereu aceleiași firme.",
+        "Dacă rivala alege ridicat prețul mic aduce 100 în loc de 80. Dacă rivala alege mic aceeași alegere aduce 40 în loc de 20. Prețul mic este dominant. Prin simetrie ambele îl aleg la echilibrul Nash. Rezultatul 40 pentru fiecare este inferior celor 80 posibile prin alegerea comună ridicată.",
+        "Nu alegem celula cu suma cea mai mare și nu o numim automat Nash. Verificăm separat dacă vreun participant poate câștiga printr-o schimbare proprie. Echilibrul descrie stabilitatea față de această schimbare și nu garantează cel mai bun rezultat comun."
+      ]
+    ],
+    [
+      "Concentrarea și concurența observată",
+      [
+        "Două firme cu cote de 60% și 40% au HHI = 60² + 40² = 5200. Patru firme cu cote egale de 25% au HHI = 2500. Indicele rezumă distribuirea cotelor. El nu conține direct informații despre costuri sau ușurința intrării.",
+        "Două piețe cu același HHI pot avea produse și bariere diferite. Cumpărătorii pot găsi ușor alternative într-una și greu în cealaltă. Pentru a vorbi despre putere de piață sunt utile informații despre cerere și comportament și intrare. Concentrarea este un indiciu și nu o demonstrație suficientă.",
+        "Modelele Cournot și Bertrand arată chiar că aceleași două firme pot avea rezultate diferite dacă aleg cantități sau prețuri. Alegerea modelului trebuie susținută prin regulile pieței. Un număr mic de firme nu determină singur o singură formulă pentru preț."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "Q = Q1 + Q2",
+      "Cantitatea totală a duopolului."
+    ],
+    [
+      "R1(Q2) și R2(Q1)",
+      "Cele mai bune răspunsuri."
+    ],
+    [
+      "Q1 = R1(Q2) și Q2 = R2(Q1)",
+      "Intersecția reacțiilor în Cournot."
+    ],
+    [
+      "Stackelberg",
+      "Introduceți reacția urmăritorului în profitul liderului."
+    ],
+    [
+      "MR comun = MC relevant",
+      "Alegerea cartelului urmată de împărțirea producției."
+    ],
+    [
+      "HHI = suma cotelor procentuale la pătrat",
+      "Concentrarea nu dovedește singură cooperarea."
+    ]
+  ],
+  "description": "Comparăm câteva firme care se influențează reciproc. Precizăm strategiile și ordinea înainte de calcularea cantităților și prețurilor.",
+  "objectives": [
+    "Explicați interdependența strategică.",
+    "Distingeți cooperarea de echilibrul necooperant.",
+    "Rezolvați Cournot și Stackelberg și Bowley.",
+    "Interpretați Bertrand și Sweezy în ipotezele lor."
+  ],
+  "conclusions": [
+    "Rezultatul depinde de reacțiile rivalilor și regulile jocului.",
+    "Alegerile simultane și secvențiale pot da rezultate diferite la aceleași cerere și costuri.",
+    "Un plan comun profitabil poate crea stimulente individuale de abatere."
+  ],
+  "questions": [
+    [
+      "Care sunt caracteristicile unei piețe oligopoliste?",
+      "Puține firme dețin o parte mare din ofertă. Există interdependență strategică și bariere relevante la intrare. Produsele pot fi omogene sau diferențiate. Nici profitul pozitiv permanent și nici cooperarea nu sunt garantate."
+    ],
+    [
+      "Ce este războiul prețurilor?",
+      "Este o succesiune de reduceri de preț prin care firmele încearcă să atragă clienți de la rivali. Poate reduce marjele și poate produce pierderi. Rezultatul depinde de costuri și capacitate și finanțare."
+    ],
+    [
+      "Cum diferă comportamentul cooperant de cel concurențial?",
+      "În cooperare firmele coordonează alegeri pentru un obiectiv comun precum profitul total. În comportamentul necooperant fiecare își alege strategia ținând cont de reacțiile rivalilor fără un acord obligatoriu comun."
+    ],
+    [
+      "Cum se definește funcția de reacție a firmei?",
+      "Ea asociază fiecărei alegeri presupuse a rivalului cea mai bună alegere proprie. În Cournot arată cantitatea optimă a firmei pentru o cantitate dată a celeilalte firme."
+    ],
+    [
+      "Caracterizați comportamentul firmei în modelul Sweezy.",
+      "Firma anticipează că rivalii urmează reducerile sale de preț dar nu și majorările. Cererea are o frângere la prețul curent. Dacă MC se schimbă în interiorul golului lui MR cantitatea și prețul pot rămâne neschimbate. Modelul explică rigiditatea și nu determină singur prețul inițial."
+    ]
+  ],
+  "tf": [
+    [
+      "Comportamentul cartelului este similar celui al unui monopolist.",
+      "Adevărat pentru decizia comună asupra prețului și cantității. Membrii încearcă să maximizeze profitul comun. Repartizarea și stimulentele de abatere pot destabiliza acordul."
+    ],
+    [
+      "Existența mai multor modele ale oligopolului se explică prin numărul relativ mare de firme.",
+      "Fals. Oligopolul are puține firme relevante. Diversitatea modelelor provine din variabilele strategice și succesiunea alegerilor și condițiile de cooperare."
+    ],
+    [
+      "Războiul prețurilor este de lungă durată și permite firmelor să își mărească profitul.",
+      "Fals ca regulă. Reducerile pot diminua profitul. Durata depinde de costuri și capacitatea de a suporta pierderi."
+    ],
+    [
+      "Războiul prețurilor are consecințe nefavorabile pentru consumatori.",
+      "Fals ca afirmație generală. Prețurile mai mici îi pot avantaja pe termen scurt. Efectele ulterioare depind de ieșiri și calitate și evoluția concurenței."
+    ],
+    [
+      "Firmele oligopoliste obțin permanent profit economic pozitiv.",
+      "Fals. Pot exista pierderi sau profit zero. Barierele nu garantează o cerere suficientă și nici succesul fiecărei strategii."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Oligopolul este caracterizat prin:",
+      "options": [
+        "multe firme mici",
+        "puține firme mari relevante pentru ramură",
+        "interdependența acțiunilor concurenților",
+        "acces liber pe piață"
+      ],
+      "answer": "b și c. Numărul mic și interdependența strategică sunt esențiale. Nu impunem o singură literă."
+    },
+    {
+      "q": "Care trăsături sunt caracteristice oligopolului?",
+      "options": [
+        "puțini producători mari",
+        "control limitat asupra prețurilor",
+        "interdependența acțiunilor",
+        "comportament autonom fără influența rivalilor",
+        "toate variantele"
+      ],
+      "answer": "a și b și c. Independența juridică nu elimină interdependența economică. Prin urmare e nu este corectă."
+    },
+    {
+      "q": "Pentru un preț care să împiedice intrarea firmelor noi oligopoliștii țin cont de:",
+      "options": [
+        "maximizarea profitului propriu",
+        "minimul costului mediu propriu pe termen lung",
+        "egalitatea MR = MC",
+        "toate răspunsurile",
+        "niciun răspuns precedent"
+      ],
+      "answer": "Nicio variantă nu definește complet prețul-limită. Sunt necesare costurile și așteptările potențialului nou intrat. Costul propriu minim și MR = MC nu sunt suficiente. Dacă este cerută o regulă completă e este alegerea potrivită. Obiectivul profitului din a rămâne relevant fără a determina numeric acel preț."
+    },
+    {
+      "q": "În duopolul Cournot:",
+      "options": [
+        "liderul alege primul cantitatea",
+        "firmele se înțeleg pentru maximizarea profitului individual",
+        "fiecare își adaptează alegerea optimă la producția celeilalte",
+        "toate variantele"
+      ],
+      "answer": "c. Alegerile sunt simultane în modelul de bază. Nu este un acord de cartel."
+    },
+    {
+      "q": "În echilibrul Stackelberg:",
+      "options": [
+        "ambele firme se înțeleg pentru profit individual",
+        "firmele își adaptează alegerea la strategia rivalei",
+        "firma dominantă își alege cantitatea în afara propriei reacții statice de urmăritor",
+        "toate variantele"
+      ],
+      "answer": "b și c în sensul modelului secvențial. Liderul anticipează reacția urmăritorului. Urmăritorul se află pe propria reacție. Un acord nu este necesar și d nu este corectă."
+    },
+    {
+      "q": "În duopolul Bowley:",
+      "options": [
+        "ambele firme au comportament de lider",
+        "ambele sunt urmăritori",
+        "una este lider și cealaltă urmăritor",
+        "firmele cooperează ca un monopol"
+      ],
+      "answer": "a. Două planuri de lider pot fi incompatibile. Nu numim automat rezultatul echilibru Nash."
+    },
+    {
+      "q": "În cadrul pieței oligopoliste există:",
+      "options": [
+        "atomicitatea producătorilor",
+        "asimetrie informațională între producători și consumatori",
+        "mobilitate perfectă a factorilor",
+        "toate variantele"
+      ],
+      "answer": "b este situația frecvent discutată în acest model. Asimetria nu este însă necesară pentru orice model de oligopol. Cournot poate fi analizat și cu costuri cunoscute. a și c nu sunt trăsături definitorii."
+    },
+    {
+      "q": "Pentru succesul unui cartel:",
+      "options": [
+        "cererea pieței trebuie să fie inelastică după preț",
+        "cartelul trebuie să controleze o mare parte a ofertei",
+        "oferta firmelor din afara cartelului trebuie să fie inelastică",
+        "toate condițiile sunt valabile"
+      ],
+      "answer": "b și c favorizează puterea cartelului deoarece limitează înlocuirea ofertei sale. O cerere relativ mai puțin elastică poate spori puterea de piață dar o cerere strict inelastică la cantitatea optimă nu este necesară. La cost marginal pozitiv optimul cu preț unic este în zona elastică. Prin urmare d nu poate fi acceptată ca listă de condiții necesare."
+    },
+    {
+      "q": "Teoria cererii frânte a oligopolistului:",
+      "options": [
+        "explică formarea prețului inițial",
+        "descrie numai relația producător–consumator",
+        "explică menținerea unui preț deja stabilit o perioadă",
+        "toate variantele"
+      ],
+      "answer": "c. Reacțiile anticipate ale rivalilor sunt esențiale. Modelul nu determină singur nivelul inițial al prețului."
+    },
+    {
+      "q": "Într-un război al prețurilor avantajul este al firmei cu:",
+      "options": [
+        "cea mai mare capacitate",
+        "cea mai mare experiență",
+        "cele mai mici costuri pe unitate",
+        "toate variantele"
+      ],
+      "answer": "c este avantajul de cost urmărit de comparație. Capacitatea și experiența pot conta dar nu garantează victoria. Nici costul mic singur nu dovedește rezultatul final fără date despre finanțare și cerere."
+    }
+  ],
+  "number": 11,
+  "solved": [
+    {
+      "title": "Duopol Cournot",
+      "condition": "Două firme produc un bun omogen. P = 206 − 3Q și Q = Q1 + Q2. Costul marginal al fiecărei firme este constant la 26 u.m.",
+      "requirements": [
+        "Determinați producția fiecărei firme în echilibrul Cournot.",
+        "Calculați prețul și cantitatea totală.",
+        "Reprezentați funcțiile de reacție și echilibrul pieței."
+      ],
+      "steps": [
+        "Venitul marginal al firmei 1 este 206 − 6Q1 − 3Q2. Din MR1 = 26 obținem reacția <strong>Q1 = 30 − Q2/2</strong>. Simetric <strong>Q2 = 30 − Q1/2</strong>. Cantitățile negative se înlocuiesc cu zero la marginile domeniului.",
+        "În punctul comun Q1 = Q2. Din Q1 = 30 − Q1/2 rezultă <strong>Q1 = Q2 = 20</strong>.",
+        "Cantitatea totală este <strong>40</strong> și prețul este 206 − 3 × 40 = <strong>86</strong>. Fiecare firmă produce optim față de cantitatea celeilalte."
+      ],
+      "conclusion": "Echilibrul Cournot este o alegere simultană de cantități. Niciuna dintre firme nu câștigă prin schimbarea unilaterală a cantității la producția dată a rivalei.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Intersecția reacțiilor Cournot",
+          "xlabel": "Q1 · unități",
+          "ylabel": "Q2 · unități",
+          "series": [
+            {
+              "label": "Reacția firmei 1",
+              "points": [
+                [
+                  0,
+                  60
+                ],
+                [
+                  30,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "Reacția firmei 2",
+              "points": [
+                [
+                  0,
+                  30
+                ],
+                [
+                  60,
+                  0
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Prețul pe piața Cournot",
+          "xlabel": "Q total · unități",
+          "ylabel": "P · u.m.",
+          "series": [
+            {
+              "label": "Cerere",
+              "points": [
+                [
+                  0,
+                  206
+                ],
+                [
+                  68.66666666666667,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "P la Q = 40",
+              "points": [
+                [
+                  0,
+                  86
+                ],
+                [
+                  40,
+                  86
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": true
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Dubla dominație de tip Bowley",
+      "condition": "Q = 40 − P/5. TC1 = 20Q1^2 + 50Q1 + 100. TC2 = −5Q2^2/2 + 140Q2 + 200. Fiecare firmă dorește să domine piața și se comportă ca lider.",
+      "requirements": [
+        "Calculați cantitățile planificate de fiecare lider.",
+        "Calculați profiturile efective la aceste două cantități.",
+        "Reprezentați punctul de dublă dominație."
+      ],
+      "steps": [
+        "P = 200 − 5(Q1 + Q2). Reacțiile de urmăritor sunt R1(Q2) = 3 − Q2/10 și R2(Q1) = 12 − Q1 în domeniul pozitiv. Ele provin din MR1 = MC1 și MR2 = MC2.",
+        "Ca lider firma 1 anticipează Q2 = 12 − Q1. Prețul anticipat este 140. Profitul anticipat devine 90Q1 − 20Q1^2 − 100. Vârful este la <strong>Q1 = 9/4</strong>.",
+        "Ca lider firma 2 anticipează Q1 = 3 − Q2/10. Profitul anticipat este 45Q2 − 2Q2^2 − 200. Vârful este la <strong>Q2 = 45/4</strong>.",
+        "Când ambele își aplică planul de lider cantitatea totală este <strong>27/2</strong> și prețul efectiv este <strong>265/2</strong>. Nu putem folosi simultan prețurile anticipate separat de cei doi lideri.",
+        "Profitul efectiv al firmei 1 este (265/2)(9/4) − [20(9/4)^2 + 50(9/4) + 100] = <strong>−125/8</strong>. Profitul firmei 2 este (265/2)(45/4) − [−(5/2)(45/4)^2 + 140(45/4) + 200] = <strong>1025/32</strong>.",
+        "Punctul Bowley este <strong>(9/4; 45/4)</strong>. El nu este echilibru Nash: la Q2 = 45/4 reacția optimă a firmei 1 ar fi 15/8. La Q1 = 9/4 reacția firmei 2 ar fi 39/4. Ambele planuri de lider nu pot fi confirmate simultan."
+      ],
+      "conclusion": "Dubla dominație generează planuri incompatibile. Profitele trebuie calculate la rezultatul efectiv și nu la două scenarii diferite.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Punctul de dublă dominație",
+          "xlabel": "Q1 · unități",
+          "ylabel": "Q2 · unități",
+          "series": [
+            {
+              "label": "R1",
+              "points": [
+                [
+                  0,
+                  30
+                ],
+                [
+                  3,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "R2",
+              "points": [
+                [
+                  0,
+                  12
+                ],
+                [
+                  12,
+                  0
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            },
+            {
+              "label": "Punctul Bowley",
+              "points": [
+                [
+                  2.25,
+                  11.25
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Duopol Stackelberg",
+      "condition": "Q = 300 − P. Două firme oferă bunul. Costul marginal al fiecăreia este constant la 20 u.m. Firma 1 este lider și firma 2 este urmăritor.",
+      "requirements": [
+        "Determinați producția fiecărei firme.",
+        "Calculați prețul și cantitatea totală.",
+        "Reprezentați funcția de reacție și soluția pieței."
+      ],
+      "steps": [
+        "P = 300 − Q1 − Q2. Urmăritorul alege cantitatea din 300 − Q1 − 2Q2 = 20. Reacția sa este <strong>Q2 = 140 − Q1/2</strong>.",
+        "Liderul introduce reacția în preț: P = 160 − Q1/2. Contribuția liderului înainte de un eventual cost fix este (140 − Q1/2)Q1.",
+        "Vârful acestei expresii este la <strong>Q1 = 140</strong>. Atunci <strong>Q2 = 70</strong>. Cantitatea totală este <strong>210</strong> și prețul este <strong>90</strong>.",
+        "Înlocuirea în reacție confirmă 140 − 140/2 = 70. Dacă firma 2 ar fi lider cantitățile s-ar inversa deoarece costurile sunt identice."
+      ],
+      "conclusion": "Avantajul liderului provine din angajamentul de cantitate și anticiparea răspunsului firmei care alege după el.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Reacția urmăritorului și alegerea liderului",
+          "xlabel": "Q1 · unități",
+          "ylabel": "Q2 · unități",
+          "series": [
+            {
+              "label": "R2",
+              "points": [
+                [
+                  0,
+                  140
+                ],
+                [
+                  280,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "Stackelberg",
+              "points": [
+                [
+                  140,
+                  70
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Echilibrul pieței Stackelberg",
+          "xlabel": "Q total · unități",
+          "ylabel": "P · u.m.",
+          "series": [
+            {
+              "label": "Cerere",
+              "points": [
+                [
+                  0,
+                  300
+                ],
+                [
+                  300,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "P la Q = 210",
+              "points": [
+                [
+                  0,
+                  90
+                ],
+                [
+                  210,
+                  90
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": true
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "Cotele celor două firme",
+      "condition": "Pe o piață două firme vând 300 și 200 de unități pe lună. Nu există alți vânzători.",
+      "requirements": [
+        "Calculați cotele de piață.",
+        "Calculați indicele HHI folosind cote în procente."
+      ],
+      "hints": "Ridicați fiecare cotă procentuală la pătrat și adunați.",
+      "question": "De ce o piață cu puține firme cere atenție la reacțiile reciproce?",
+      "answer": "Cote60%40%. HHI5200. Deciziilepotafectasemnificativrivalii."
+    },
+    {
+      "title": "Producție simultană",
+      "condition": "Cererea este P = 90 − Q1 − Q2. Ambele firme au MC constant de 30 de lei și costuri fixe zero. Ele aleg simultan cantitățile.",
+      "requirements": [
+        "Determinați cantitățile Cournot.",
+        "Calculați prețul și profitul fiecărei firme."
+      ],
+      "hints": "Reacția fiecărei firme este jumătate din 60 minus cantitatea celeilalte.",
+      "question": "De ce fiecare firmă ține cont de producția rivalului?",
+      "answer": "q1q2=20 Q40P50. Profit400fiecare."
+    },
+    {
+      "title": "Un lider și un urmăritor",
+      "condition": "Cererea și costurile sunt P = 90 − Q1 − Q2 și MC = 30 de lei. Firma 1 alege prima cantitatea. Firma 2 îi observă alegerea.",
+      "requirements": [
+        "Calculați cantitățile Stackelberg.",
+        "Calculați prețul și profiturile."
+      ],
+      "hints": "Introduceți reacția urmăritorului în decizia liderului.",
+      "question": "Ce avantaj oferă angajamentul credibil de a produce primul?",
+      "answer": "q1=30q2=15 P45. Profit450și225."
+    },
+    {
+      "title": "Un acord",
+      "condition": "Două firme cu costuri fixe zero au cererea P = 90 − Q și MC = 30 de lei. Ele maximizează profitul comun și împart egal producția.",
+      "requirements": [
+        "Calculați cantitatea comună și prețul.",
+        "Calculați profitul fiecărei firme."
+      ],
+      "hints": "Tratați decizia comună ca alegerea unui singur ofertant.",
+      "question": "De ce fiecare firmă ar putea dori să vândă suplimentar după acord?",
+      "answer": "Q30P60. Fiecareq15profit450. Existăstimulentsuplimentardeproducție."
+    },
+    {
+      "title": "Abaterea de la acord",
+      "condition": "Firma B menține 15 unități. Cererea este P = 90 − Q1 − Q2. MC = 30 de lei și nu există costuri fixe. Firma A poate alege singură cantitatea.",
+      "requirements": [
+        "Găsiți cea mai bună reacție a firmei A.",
+        "Comparați profitul ei cu profitul de 450 de lei din acordul cu 15 unități fiecare."
+      ],
+      "hints": "Folosiți cererea rămasă după producția lui B.",
+      "question": "Ce arată rezultatul despre stabilitatea acordului?",
+      "answer": "qA45/2 P105/2 profit2025/4. Peste450cu225/4."
+    },
+    {
+      "title": "Matrice de decizie",
+      "condition": "Două firme aleg un preț ridicat sau un preț mic. Dacă ambele aleg ridicat profitul fiecăreia este 80. Dacă una alege mic și cealaltă ridicat profiturile sunt 110 și 20. Dacă ambele aleg mic fiecare obține 40.",
+      "requirements": [
+        "Identificați cea mai bună alegere a fiecărei firme pentru fiecare decizie a rivalei.",
+        "Găsiți echilibrul Nash."
+      ],
+      "hints": "Comparați profitul propriu menținând fixă alegerea celeilalte firme.",
+      "question": "De ce rezultatul individual poate fi mai slab decât cooperarea comună?",
+      "answer": "Micestedominant. Nashmic/mic40/40. Cooperarearidicat/ridicat80/80darinstabilăînjocunic."
+    },
+    {
+      "title": "Războiul prețurilor",
+      "condition": "Firma A are un cost evitabil de 18 lei pe produs și B de 24 de lei. Ambele pot vinde la 22 de lei. Costurile fixe nu sunt luate în calcul în această comparație pe unitate.",
+      "requirements": [
+        "Calculați marja fiecărei firme.",
+        "Explicați cine poate susține mai ușor acest preț."
+      ],
+      "hints": "Comparați același preț cu costurile relevante ale fiecărei firme.",
+      "question": "Dovedește această comparație singură cine va rezista pe termen lung?",
+      "answer": "A+4 B−2. Arezistămai ușorpeunitate. Nuștimcapacitateșifinanțarepe termenlung."
+    },
+    {
+      "title": "Cerere frântă",
+      "condition": "La prețul actual o firmă vinde 100 de unități. Dacă majorează prețul cu 5% rivalii nu o urmează și pierde 20% din vânzări. Dacă reduce prețul cu 5% rivalii o urmează și câștigă doar 2% în cantitate.",
+      "requirements": [
+        "Calculați cantitățile în cele două situații.",
+        "Comparați sensibilitatea cererii pe cele două segmente."
+      ],
+      "hints": "Folosiți aceeași cantitate inițială.",
+      "question": "Cum poate această asimetrie să favorizeze stabilitatea prețului?",
+      "answer": "Cantități80și102. Elasticitățidupăprocente−4și−2/5. Segmentulsuperioreste maielastic."
+    },
+    {
+      "title": "Un interval fără schimbare",
+      "condition": "Într-un model cu cerere frântă venitul marginal are un gol între 20 și 35 de lei la cantitatea curentă. MC crește de la 25 la 30 de lei și rămâne în acest gol.",
+      "requirements": [
+        "Stabiliți efectul asupra cantității și prețului în model.",
+        "Explicați limita concluziei."
+      ],
+      "hints": "Identificați poziția MC față de cele două capete ale golului.",
+      "question": "Explică modelul și originea prețului inițial?",
+      "answer": "QșiPneschimbateînmodel. NuexplicăorigineaPinițial."
+    },
+    {
+      "title": "Un nou concurent",
+      "condition": "Trei firme au vânzări de 50; 30 și 20 de unități pe lună. După intrare patru firme vând fiecare 25 de unități. Cantitatea totală rămâne 100.",
+      "requirements": [
+        "Calculați HHI înainte și după.",
+        "Comparați concentrarea."
+      ],
+      "hints": "Folosiți aceeași convenție a cotelor în procente.",
+      "question": "Este scăderea concentrării o dovadă suficientă că prețul a scăzut?",
+      "answer": "HHI3800apoi2500. Concentrareascade. Fărăprețurișialtedatenudovedeștescădereaprețului."
+    }
+  ],
+  "title": "Comportamentul firmelor pe piața oligopolistă",
+  "model_fallback": {
+    "result": "P = 90 − Q<sub style=\"font-size:75%;line-height:0;\">1</sub> − Q<sub style=\"font-size:75%;line-height:0;\">2</sub> · MC = 30 pentru ambele firme. Q total = 40 · P = 50 · Profit 1 = 400 · Profit 2 = 400. Cele mai bune răspunsuri: Q<sub style=\"font-size:75%;line-height:0;\">1</sub> = 20 și Q<sub style=\"font-size:75%;line-height:0;\">2</sub> = 20. Ambele sunt răspunsuri optime simultan: Cournot.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"265\" text-anchor=\"end\">17</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">32</text><text x=\"60\" y=\"195\" text-anchor=\"end\">34</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">48</text><text x=\"60\" y=\"125\" text-anchor=\"end\">50</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">64</text><text x=\"60\" y=\"55\" text-anchor=\"end\">67</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Firma 1 · unități</text><text x=\"18\" y=\"28\">Firma 2 · unități</text><polyline points=\"70,80.00000000000003 334.1509433962264,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,205 598.3018867924528,330\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"246.1006289308176\" cy=\"246.66666666666669\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Reacția firmei 1</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">Reacția firmei 2</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

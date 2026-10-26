@@ -1,0 +1,633 @@
+{
+  "theory": [
+    [
+      "Costul este valoarea resurselor folosite",
+      [
+        "Proprietarul unui atelier poate folosi propriul spațiu sau îl poate închiria altcuiva. Dacă îl folosește în afacere nu plătește chirie unei alte persoane. Totuși renunță la un venit posibil. Costul economic include această oportunitate și nu doar plățile observate.",
+        "Costurile explicite apar pentru resurse cumpărate de la alții. Costurile implicite reflectă utilizarea resurselor proprii și cea mai bună alternativă abandonată. Profitul contabil și profitul economic diferă deoarece al doilea include costurile implicite. Nu adăugăm de două ori aceeași alternativă.",
+        "Costul și plata și recunoașterea în rezultatul perioadei sunt noțiuni diferite. Un utilaj poate fi plătit la cumpărare și consumat în mai multe perioade. O resursă folosită în producție poate fi inclusă inițial în valoarea stocurilor. Momentul ieșirii banilor nu determină singur momentul costului de producție."
+      ]
+    ],
+    [
+      "Ce decizie evaluăm?",
+      [
+        "Costurile istorice arată sume aferente unei achiziții anterioare. Costul de înlocuire privește resursa în condițiile curente. Costul relevant pentru alegerea de astăzi depinde de alternativele disponibile. O sumă deja plătită și nerecuperabilă nu se schimbă prin producerea încă unei unități.",
+        "Înainte de comparație precizăm cantitatea și perioada și costurile care se pot evita. Întreruperea producției de mâine poate economisi materiale fără a elimina chiria lunii. Ieșirea definitivă din activitate poate schimba mai multe costuri. Același element poate fi fix pentru o decizie și variabil pentru alta."
+      ]
+    ],
+    [
+      "Fix și variabil",
+      [
+        "Costul fix FC nu depinde de Q în perioada și intervalul analizat. Costul variabil VC se schimbă cu producția. Costul total este TC = FC + VC. „Fix” nu înseamnă neschimbat pentru totdeauna și nici identic între firme.",
+        "La Q zero firma poate continua să suporte FC. Când Q crește costul fix total rămâne același în model dar costul fix mediu scade. Nu confundăm totalul cu suma pe unitate. O chirie de 1000 de lei repartizată asupra a 100 de produse înseamnă 10 lei pe produs. Repartizată asupra a 200 de produse înseamnă 5 lei pe produs.",
+        "VC poate crește proporțional cu Q sau mai repede sau mai încet. În cazul proporțional AVC este constant. Productivitatea și prețurile resurselor determină forma costului variabil. De aceea nu presupunem că orice cost variabil are aceeași curbă."
+      ]
+    ],
+    [
+      "Costul mediu și costul următoarei unități",
+      [
+        "ATC = TC/Q arată costul repartizat pe unitate. AFC = FC/Q și AVC = VC/Q sunt componentele sale. Costul marginal MC arată schimbarea TC când Q crește. Pentru un tabel folosim ΔTC/ΔQ. Pentru o funcție netedă putem calcula valoarea punctuală prin derivată.",
+        "Dacă noul lot costă pe unitate mai puțin decât media existentă media scade. Dacă îl costă mai mult media crește. În modelul continuu uzual MC intersectează ATC și AVC la minimele lor interioare. Un minim la marginea domeniului nu trebuie forțat în aceeași regulă de egalitate.",
+        "Schimbarea aditivă a FC mută TC și ATC dar nu schimbă MC sau AVC. În schimb scumpirea resursei variabile poate schimba MC. Trebuie verificat ce componentă a costului este afectată de eveniment."
+      ]
+    ],
+    [
+      "Productivitate și cost",
+      [
+        "Dacă munca este singurul factor variabil și salariul pe unitate de muncă este w atunci VC = wL. Rezultă AVC = w/APl. Un produs mediu mai mare reduce costul salarial pe produs la salariu constant.",
+        "În aceleași condiții MC = w/MPl pentru comparația marginală potrivită. Un spor de productivitate reduce costul obținerii unei unități suplimentare. Când MPl scade costul marginal poate crește. Relațiile cer aceleași perioade și unități. Nu împărțim un salariu lunar la un spor zilnic fără conversie."
+      ]
+    ],
+    [
+      "Izocostul și alegerea combinației",
+      [
+        "Izocostul unește combinații de factori care au același cost total. Pentru muncă L la prețul w și capital K la prețul r ecuația este C = wL + rK. Cu L pe axa orizontală panta este −w/r. Ea exprimă raportul de schimb financiar dintre factori.",
+        "Izocuanta spune ce este tehnic posibil pentru un Q dat. Izocostul spune cât costă combinația. Alegerea economică urmărește cel mai mic cost compatibil cu producția dorită. La un optim interior neted produsele marginale pe leu sunt egale: MPl/w = MPk/r.",
+        "Dacă un leu folosit pentru muncă aduce mai mult produs decât un leu folosit pentru capital o mică înlocuire spre muncă poate reduce costul pentru același Q. Direcția nu oferă automat cantitățile finale. Avem nevoie de întreaga tehnologie și de domeniul ajustărilor. Cu proporții fixe optimul poate apărea în unghi.",
+        "La prețuri constante și producții diferite punctele de cost minim formează traiectoria de extindere. Ea leagă alegerile optime ale resurselor. Nu este curba costului total deoarece axele ei sunt cantitățile factorilor."
+      ]
+    ],
+    [
+      "Termen lung și economii de scară",
+      [
+        "Pe termen lung toate resursele pot fi ajustate. Costul mediu de lungă durată alege cea mai ieftină scară pentru fiecare volum. El este anvelopa posibilităților de cost ale capacităților diferite. Nu fiecare punct este minimul separat al unei curbe de scurtă durată.",
+        "La prețuri ale factorilor și tehnologie date randamentele crescătoare la scară pot reduce costul mediu. Randamentele constante pot păstra media. Randamentele descrescătoare o pot mări. Pentru comparații reale trebuie separate schimbările tehnice de scumpirea resurselor.",
+        "Elasticitatea costului total este raportul dintre modificarea procentuală a costului și cea a producției. Punctual ea este MC/ATC. Sub 1 costul total crește mai lent decât producția și ATC scade local. Peste 1 ATC crește. La 1 media este staționară în condițiile netede potrivite."
+      ]
+    ],
+    [
+      "O medie care scade și un total care crește",
+      [
+        "La 100 de produse TC este 1800 de lei. La 120 de produse TC este 2060 de lei. Totalul a crescut cu 260 de lei. Media inițială este 18 lei. Media finală este 103/6 lei. Așadar ATC a scăzut chiar dacă TC a crescut.",
+        "Noul lot de 20 de produse a costat în medie 13 lei pe produs. Fiind sub media inițială el a coborât media întregii producții. Nu este necesar ca totalul costurilor să scadă pentru ca media să scadă.",
+        "Aceeași logică explică relația dintre MC și ATC în modelul continuu. Un cost marginal sub medie trage media în jos. Un cost marginal peste medie o ridică. Semnul modificării mediei și semnul modificării totalului trebuie deosebite."
+      ]
+    ],
+    [
+      "O chirie mai mare nu scumpește automat ultima unitate",
+      [
+        "Un atelier plătește cu 200 de lei mai multă chirie în luna dată. La 100 de produse AFC crește cu 2 lei pe produs. ATC crește cu aceeași valoare dacă VC nu se schimbă. La 200 de produse creșterea mediei ar fi de 1 leu.",
+        "Costul suplimentar al trecerii de la 100 la 101 produse nu primește încă o dată cei 200 de lei. Aceștia sunt deja un cost comun al lunii și nu depind de acel pas. Prin urmare o modificare aditivă a FC nu schimbă MC.",
+        "Dacă un spațiu mai mare permite și o altă tehnologie atunci nu mai analizăm numai o chirie diferită. Se poate schimba și funcția VC. Trebuie descrise separat ambele efecte înainte de a folosi regula."
+      ]
+    ],
+    [
+      "O alegere de resurse prin costul pe unitate de efect",
+      [
+        "O resursă are produs marginal 30 și costă 60 de lei. Alta are produs marginal 20 și costă 80 de lei. Prima aduce 1/2 unitate de produs pe leu. A doua aduce 1/4. La marginea combinației date prima este mai eficientă în folosirea banilor.",
+        "Pentru același rezultat o mică înlocuire spre prima resursă poate economisi costuri dacă substituția este tehnic posibilă. Nu putem continua nelimitat cu același raport. Produsele marginale se pot schimba pe măsură ce modificăm combinația.",
+        "La un optim interior neted avantajul unei realocări mici dispare când produsele marginale pe leu sunt egale. Pentru proporții fixe nu putem elimina arbitrar un factor și să păstrăm rezultatul. Forma tehnologiei trebuie respectată."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "TC = FC + VC",
+      "Costul total și componentele sale."
+    ],
+    [
+      "ATC = TC/Q = AFC + AVC",
+      "Costurile medii sunt definite pentru Q pozitiv."
+    ],
+    [
+      "MC pe interval = ΔTC/ΔQ = ΔVC/ΔQ",
+      "Egalitatea componentelor cere FC neschimbat."
+    ],
+    [
+      "AVC = w/APl și MC = w/MPl",
+      "Când munca este singurul factor variabil și w este constant."
+    ],
+    [
+      "C = wL + rK",
+      "Ecuația izocostului."
+    ],
+    [
+      "MPl/w = MPk/r",
+      "Condiție de minim interior al costului la Q dat."
+    ],
+    [
+      "Elasticitatea TC = MC/ATC",
+      "Relație punctuală într-un model diferențiabil."
+    ]
+  ],
+  "description": "Legăm costul de resursele consumate și de alternativele sacrificate. Calculăm indicatorii de cost și explicăm alegerea combinației de factori pentru o producție dată.",
+  "objectives": [
+    "Distingeți costurile explicite de cele implicite.",
+    "Calculați costurile totale și medii și marginale.",
+    "Explicați relația productivitate–cost.",
+    "Verificați condiția costului minim și sensul unei ajustări."
+  ],
+  "conclusions": [
+    "Costul economic include oportunitățile resurselor proprii. Nu se reduce la plăți.",
+    "Media privește întregul volum. Marginalul privește o schimbare suplimentară.",
+    "Combinația tehnic posibilă trebuie verificată și prin prețurile resurselor pentru a identifica cel mai mic cost."
+  ],
+  "questions": [
+    [
+      "Explicați deosebirile dintre conținutul noțiunilor „costuri” și „cheltuieli”.",
+      "Costul măsoară resursele consumate pentru obținerea unui rezultat. În contabilitate costul de producție poate rămâne inclus în valoarea stocului. O cheltuială este recunoscută în rezultatul perioadei conform regulilor contabile. Plata este o a treia noțiune: ieșirea banilor. Cumpărarea unei resurse și consumul ei și recunoașterea în rezultat pot avea loc în momente diferite."
+    ],
+    [
+      "Astfel sunt numite costurile aferente utilizării factorilor de producție aflați în proprietatea firmei.",
+      "Costuri implicite. Acestea privesc resursele proprii. Valoarea celei mai bune utilizări alternative intră în analiza economică."
+    ],
+    [
+      "Care indicator exprimă costurile suplimentare necesare pentru majorarea cantității de produse fabricate cu o unitate?",
+      "Costul marginal MC. Pentru un interval folosim MC = ΔTC/ΔQ."
+    ],
+    [
+      "Cum sunt numite costurile mărimea cărora nu depinde de cantitatea de produse fabricate?",
+      "Costuri fixe FC. Independența față de Q se referă la perioada și intervalul analizat."
+    ],
+    [
+      "Astfel este numită dreapta care desemnează toate combinațiile factorilor de producție cărora le corespund aceleași costuri totale.",
+      "Dreapta izocostului. Ecuația sa pentru muncă și capital este TC = wL + rK."
+    ],
+    [
+      "Cum sunt numite costurile variabile care cresc sau scad exact în proporția în care se majorează sau se reduce cantitatea de produse fabricate?",
+      "Costuri variabile proporționale. AVC rămâne constant în acest interval."
+    ],
+    [
+      "Semnifică modificarea relativă a costurilor în cazul modificării cantității de produse fabricate cu un procent.",
+      "Elasticitatea costurilor. Ea raportează modificarea procentuală a costului la modificarea procentuală a producției."
+    ],
+    [
+      "Cum este numită curba care trece prin punctele în care dreptele izocosturilor sunt tangente la izocuantele ce corespund diferitor cantități de produse fabricate?",
+      "Curba producțiilor optime sau traiectoria extinderii producției. Ea reunește combinațiile de factori care minimizează costul pentru nivelurile respective ale producției."
+    ]
+  ],
+  "tf": [
+    [
+      "Costurile medii variabile se află într-o dependență direct proporțională de cantitatea de produse fabricate.",
+      "Fals. AVC poate scădea sau crește și poate rămâne constant. Forma depinde de funcția VC."
+    ],
+    [
+      "Majorarea cantității de produse fabricate conduce la creșterea costurilor fixe.",
+      "Fals. FC nu depinde de Q în intervalul analizat."
+    ],
+    [
+      "Costurile marginale sunt egale cu costurile medii variabile în cazul în care acestea din urmă înregistrează valoare minimă.",
+      "Adevărat pentru un minim interior al AVC într-un model continuu diferențiabil. Din derivarea AVC = VC/Q rezultă MC = AVC în acel punct."
+    ],
+    [
+      "Randamentul de scară crescător condiționează creșterea costurilor medii pe termen lung.",
+      "Fals. Cu tehnologia și prețurile factorilor neschimbate randamentul de scară crescător permite reducerea LRAC."
+    ],
+    [
+      "Modificarea costurilor fixe determină modificarea echivalentă a costurilor marginale ale producției.",
+      "Fals. O modificare aditivă a FC nu modifică MC. Derivata unei constante este zero."
+    ],
+    [
+      "Curba costurilor marginale poate fi derivată atât din curba costurilor totale cât și din curba costurilor variabile.",
+      "Adevărat. Pentru FC constant avem ΔTC = ΔVC și derivatele celor două funcții coincid."
+    ],
+    [
+      "În condițiile unor salarii constante între costurile medii variabile și produsul mediu al factorului muncă există o dependență direct proporțională.",
+      "Fals. Dacă munca este singurul factor variabil avem AVC = w/AP l. Relația este inversă pentru w constant."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Punctele care aparțin unei drepte a izocostului desemnează:",
+      "options": [
+        "aceeași cantitate de produse exprimată în unități naturale",
+        "aceeași cantitate de produse exprimată în unități monetare",
+        "aceeași combinație a factorilor de producție",
+        "același nivel al costurilor totale",
+        "același nivel al costurilor variabile"
+      ],
+      "answer": "Răspuns corect: d. Izocostul este definit prin același TC pentru diferite combinații de factori."
+    },
+    {
+      "q": "Care din enunțurile de mai jos definește corect costurile fixe?",
+      "options": [
+        "costuri care nu se modifică în timp",
+        "costuri care depind de cantitatea de produse fabricate",
+        "costuri aferente procurării factorilor de producție evaluate în prețurile existente la momentul procurării",
+        "costuri pe care le suportă firma și în cazul în care își întrerupe activitatea pe termen scurt",
+        "niciun răspuns precedent nu este corect"
+      ],
+      "answer": "Răspuns corect: d. Întreruperea temporară a producției nu elimină costurile fixe din perioada analizată."
+    },
+    {
+      "q": "Care din curbele nominalizate mai jos are doar pantă descrescătoare?",
+      "options": [
+        "curba costurilor variabile",
+        "curba costurilor marginale",
+        "curba costurilor fixe",
+        "curba costurilor medii fixe",
+        "curba costurilor medii totale"
+      ],
+      "answer": "Răspuns corect: d. Pentru FC pozitiv și constant AFC = FC/Q scade când Q crește."
+    },
+    {
+      "q": "În cadrul unei firme cantitatea de produse fabricate constituie 50 de unități. Costurile medii variabile sunt egale cu 20 de lei iar costurile medii fixe sunt 5 lei. Care este mărimea costurilor variabile?",
+      "options": [
+        "20 de lei",
+        "25 de lei",
+        "250 de lei",
+        "1 000 de lei",
+        "1 250 de lei"
+      ],
+      "answer": "Răspuns corect: d. VC = AVC × Q = 20 × 50 = 1 000 de lei."
+    },
+    {
+      "q": "În cadrul unei firme cantitatea de produse fabricate constituie 50 de unități. MC = 2 × Q și FC = 500 de lei. Care este mărimea costurilor totale?",
+      "options": [
+        "100 de lei",
+        "500 de lei",
+        "2 500 de lei",
+        "2 600 de lei",
+        "3 000 de lei"
+      ],
+      "answer": "Răspuns corect: e. Interpretăm MC ca derivată. VC = Q² deoarece VC(0) = 0. TC = 500 + 50² = 3 000 de lei. O sumă de costuri marginale discrete ar reprezenta o altă convenție."
+    },
+    {
+      "q": "Care din afirmațiile referitoare la costurile de producție pe termen scurt este falsă?",
+      "options": [
+        "toate costurile de producție sunt variabile",
+        "costurile marginale sunt egale cu costurile medii totale în cazul în care acestea din urmă înregistrează valoare minimă",
+        "dacă costurile medii variabile se reduc costurile marginale sunt sub nivelul costurilor medii variabile",
+        "modificarea prețurilor factorilor de producție variabili influențează costurile marginale",
+        "costurile marginale nu sunt influențate de modificările în nivelul costurilor fixe"
+      ],
+      "answer": "Răspuns corect: a. Pe termen scurt există un factor fix. Afirmațiile despre minim și variația mediei folosesc modelul continuu obișnuit și un minim interior."
+    },
+    {
+      "q": "Dacă odată cu majorarea cantității de produse fabricate costurile medii totale pe termen scurt se reduc:",
+      "options": [
+        "costurile totale ale producției descresc",
+        "costurile fixe ale producției cresc",
+        "costurile totale ale producției nu se modifică",
+        "costurile medii totale înregistrează valori sub nivelul costurilor medii variabile",
+        "costurile marginale înregistrează valori sub nivelul costurilor medii totale"
+      ],
+      "answer": "Răspuns corect: e. MC < ATC explică reducerea ATC în modelul continuu. Costul total poate crește în același timp."
+    },
+    {
+      "q": "Costurile marginale ale producției pot fi calculate ca raportul dintre:",
+      "options": [
+        "modificarea costurilor variabile și modificarea cantității de produse fabricate",
+        "costurile fixe și cantitatea de produse fabricate",
+        "modificarea costurilor totale și modificarea cantității de produse fabricate",
+        "modificarea costurilor fixe și modificarea cantității de produse fabricate",
+        "sunt corecte răspunsurile a și c"
+      ],
+      "answer": "Răspuns corect: a și c. Varianta de sinteză este e. Pentru FC constant avem ΔTC = ΔVC. Ambele rapoarte sunt corecte. Opțiunea e recunoaște explicit acest lucru."
+    },
+    {
+      "q": "Care din relațiile de mai jos poate fi aplicată pentru determinarea costurilor totale ale producției?",
+      "options": [
+        "ΔMC × ΔQ",
+        "VC − FC + MC",
+        "VC + MC",
+        "(FC + VC) / Q",
+        "FC + AVC × Q"
+      ],
+      "answer": "Răspuns corect: e. AVC × Q = VC pentru Q > 0. Prin urmare FC + AVC × Q = TC."
+    },
+    {
+      "q": "Pentru a fabrica o anumită cantitate de produse cu costuri minime firma trebuie:",
+      "options": [
+        "să procure factorii de producție la același preț",
+        "să utilizeze cantități egale ale factorilor de producție",
+        "să asigure egalitatea dintre costurile fixe și costurile variabile",
+        "să utilizeze factorii de producție astfel încât produsele marginale ale acestora să fie egale",
+        "niciun răspuns precedent nu este corect"
+      ],
+      "answer": "Răspuns corect: e. Condiția interioară este egalitatea produselor marginale pe leu. Egalitatea produselor marginale singură nu este suficientă când prețurile diferă."
+    }
+  ],
+  "number": 6,
+  "solved": [
+    {
+      "title": "Costul factorilor și izocostul",
+      "condition": "Munca se procură la 50 de lei pe unitate și capitalul la 100 de lei pe unitate. Pentru 200 de produse se folosesc L = 10 și K = 15.",
+      "requirements": [
+        "Deduceți ecuația costului total.",
+        "Calculați TC și ATC pentru Q = 200.",
+        "Construiți izocostul.",
+        "Calculați panta.",
+        "Arătați efectul reducerii ambelor prețuri cu 50%."
+      ],
+      "steps": [
+        "Ecuația este <strong>TC = 50L + 100K</strong>. La combinația dată TC = 500 + 1500 = <strong>2000 de lei</strong>. ATC = 2000/200 = <strong>10 lei</strong>.",
+        "Izocostul este 50L + 100K = 2000. Cu L pe axa orizontală rezultă <strong>K = 20 − L/2</strong>. Interceptările sunt L = 40 și K = 20. Panta este <strong>−1/2</strong>.",
+        "Noile prețuri sunt 25 și 50. Costul aceleiași combinații devine <strong>1000 de lei</strong>. ATC devine <strong>5 lei</strong>.",
+        "Izocostul care trece prin combinația inițială este 25L + 50K = 1000. După împărțire el coincide cu dreapta inițială. Panta nu se schimbă.",
+        "Dacă în schimb păstrăm bugetul nominal TC = 2000 atunci noua dreaptă este K = 40 − L/2. Ea se deplasează paralel spre exterior. Precizarea bugetului este necesară când descriem poziția izocostului."
+      ],
+      "conclusion": "O reducere proporțională a prețurilor factorilor micșorează costul aceleiași combinații fără a schimba prețul relativ.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Izocostul și bugetul păstrat",
+          "xlabel": "L · unități",
+          "ylabel": "K · unități",
+          "series": [
+            {
+              "label": "Combinația inițială la costul ei",
+              "points": [
+                [
+                  0,
+                  20
+                ],
+                [
+                  40,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "După reducerea prețurilor la TC = 2000",
+              "points": [
+                [
+                  0,
+                  40
+                ],
+                [
+                  80,
+                  0
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Descompunerea unei funcții de cost",
+      "condition": "TC = (50 + 4Q)^2. Cantitatea este Q = 50.",
+      "requirements": [
+        "Calculați TC și FC și VC și ATC și AFC și AVC și MC."
+      ],
+      "steps": [
+        "Dezvoltăm funcția: TC = 2500 + 400Q + 16Q^2. Termenul independent de Q este <strong>FC = 2500</strong>. VC = 400Q + 16Q^2.",
+        "La Q = 50 avem TC = 250^2 = <strong>62500</strong>. VC = 62500 − 2500 = <strong>60000</strong>.",
+        "ATC = 62500/50 = <strong>1250</strong>. AFC = 2500/50 = <strong>50</strong>. AVC = 60000/50 = <strong>1200</strong>.",
+        "Costul marginal punctual este MC = 400 + 32Q. La 50 rezultă <strong>2000</strong>. Costul exact al trecerii de la 50 la 51 este 2016. Distincția dintre derivată și variația finită contează."
+      ],
+      "conclusion": "Costul mediu repartizează întreg costul pe unitate. Costul marginal privește schimbarea din apropierea cantității alese.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Al cincilea muncitor și costul suplimentar",
+      "condition": "Cu 4 muncitori produsul mediu zilnic este 15. Cu 5 muncitori produsul mediu este 20. FC este 600 de lei pe zi și salariul este 100 de lei pe muncitor pe zi.",
+      "requirements": [
+        "Calculați TC și FC și VC și ATC și AFC și AVC pentru 5 muncitori.",
+        "Calculați MC pe interval."
+      ],
+      "steps": [
+        "Producția inițială este 4 × 15 = 60. Producția nouă este 5 × 20 = <strong>100</strong>.",
+        "La 5 muncitori VC = 5 × 100 = <strong>500 de lei</strong>. FC = <strong>600 de lei</strong>. TC = <strong>1100 de lei</strong>.",
+        "ATC = <strong>11</strong>. AFC = <strong>6</strong>. AVC = <strong>5 lei pe unitate</strong>.",
+        "Sporul costului este 100 de lei și sporul producției este 40. MC mediu pe interval este 100/40 = <strong>5/2 lei pe unitate</strong>."
+      ],
+      "conclusion": "Al cincilea muncitor aduce 40 de produse suplimentare. Costul lor mediu suplimentar este sub costul mediu al întregii producții.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Costurile din al doilea an",
+      "condition": "În anul 1 se produc 1800 de unități. Costurile în lei sunt în tabel. În anul 2 producția se triplează și costurile variabile cresc proporțional cu producția. Pentru comparație costurile fixe sunt păstrate.",
+      "requirements": [
+        "Calculați TC și FC și VC și ATC și AFC și AVC și MC în anul 2."
+      ],
+      "steps": [
+        "În clasificarea problemei materialele și energia productivă și 80% din salarii sunt variabile. VC1 = 200000 + 100000 + 50000 + 75000 + 120000 = <strong>545000 de lei</strong>.",
+        "Salariile rămase sunt 30000 de lei. Împreună cu amortizarea și celelalte costuri considerate fixe rezultă FC = 30000 + 85000 + 120000 = <strong>235000 de lei</strong>.",
+        "Q2 = <strong>5400</strong>. VC2 = 3 × 545000 = <strong>1635000 de lei</strong>. TC2 = 1635000 + 235000 = <strong>1870000 de lei</strong>.",
+        "ATC2 = <strong>9350/27</strong>. AFC2 = <strong>1175/27</strong>. AVC2 = <strong>2725/9 lei pe unitate</strong>. Suma componentelor medii este egală cu ATC.",
+        "Cu VC proporțional avem MC = <strong>2725/9</strong>. Pe interval ΔTC/ΔQ = (1870000 − 780000)/(5400 − 1800) dă același rezultat.",
+        "Clasificarea încălzirii și iluminării ca fixe este o ipoteză a acestui calcul. Într-o firmă reală o parte poate varia. Fără ipoteza privind costurile fixe nu putem determina unic TC2."
+      ],
+      "conclusion": "Producția mai mare repartizează costul fix asupra mai multor unități. AVC rămâne constant prin ipoteza de proporționalitate.",
+      "tables": [
+        {
+          "headers": [
+            "Element",
+            "Lei în anul 1"
+          ],
+          "rows": [
+            [
+              "Materii prime",
+              200000
+            ],
+            [
+              "Materii auxiliare",
+              100000
+            ],
+            [
+              "Combustibil productiv",
+              50000
+            ],
+            [
+              "Energie electrică productivă",
+              75000
+            ],
+            [
+              "Salarii totale · 80% productive",
+              150000
+            ],
+            [
+              "Amortizare liniară",
+              85000
+            ],
+            [
+              "Arendă și iluminare și încălzire",
+              120000
+            ]
+          ]
+        }
+      ],
+      "charts": []
+    },
+    {
+      "title": "Direcția reducerii costului resurselor",
+      "condition": "Pentru 750 de produse firma utilizează K = 5 și L = 3. Produsul marginal al muncii este 100 și al capitalului este 80. Prețul unei unități de muncă este 30 de lei. Prețul unei unități de capital este 50 de lei.",
+      "requirements": [
+        "Verificați condiția de cost minim.",
+        "Stabiliți direcția locală de ajustare prin calcule și grafic."
+      ],
+      "steps": [
+        "Costul combinației inițiale este TC = 30 × 3 + 50 × 5 = <strong>340 de lei</strong>. Produsul marginal pe leu este 100/30 = <strong>10/3 pentru muncă</strong> și 80/50 = <strong>8/5 pentru capital</strong>.",
+        "Un leu folosit pentru muncă aduce local mai mult produs decât un leu folosit pentru capital. Pentru aceeași producție firma poate folosi <strong>mai multă muncă și mai puțin capital</strong>.",
+        "Panta izocuantei în punctul dat este −MPl/MPk = <strong>−5/4</strong>. Panta izocostului este −w/r = <strong>−3/5</strong>. Cele două pante diferă. Combinația inițială nu îndeplinește condiția de optim interior.",
+        "Pentru o reducere mică a capitalului cu h unități producția se păstrează local printr-o creștere a muncii cu 4h/5. Costul se schimbă cu 30 × 4h/5 − 50h = <strong>−26h lei</strong>. Aceasta confirmă direcția reducerii costului.",
+        "Fără funcția de producție nu se pot calcula noile cantități exacte și nici costul minim final. Graficul ilustrează doar tangenta locală și izocostul."
+      ],
+      "conclusion": "La un optim interior produsele marginale pe leu sunt egale. Combinația dată poate fi îmbunătățită local prin înlocuirea unei părți din capital cu muncă.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Comparație locală la L = 3 și K = 5",
+          "xlabel": "L · unități",
+          "ylabel": "K · unități",
+          "series": [
+            {
+              "label": "Tangentă locală la izocuantă",
+              "points": [
+                [
+                  1,
+                  7.5
+                ],
+                [
+                  3,
+                  5
+                ],
+                [
+                  5,
+                  2.5
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "Izocost pentru w = 30 și r = 50",
+              "points": [
+                [
+                  0,
+                  6.8
+                ],
+                [
+                  8,
+                  2
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "Costurile unei zile",
+      "condition": "O mică firmă produce 50 de obiecte pe zi. Costul fix este 200 de lei și costul variabil este 600 de lei.",
+      "requirements": [
+        "Calculați TC și ATC.",
+        "Calculați AFC și AVC."
+      ],
+      "hints": "Adunați costurile totale și apoi împărțiți componentele la cantitate.",
+      "question": "Ce cost continuă să existe dacă producția zilei se oprește?",
+      "answer": "TC800 ATC16 AFC4 AVC12. Costulfix200rămâne."
+    },
+    {
+      "title": "Încă un lot",
+      "condition": "La 100 de unități costul total este 1800 de lei. La 120 de unități costul total este 2060 de lei. Costul fix nu se schimbă.",
+      "requirements": [
+        "Calculați costul marginal mediu pe interval.",
+        "Comparați-l cu ATC inițial."
+      ],
+      "hints": "Împărțiți sporul de cost la sporul de producție.",
+      "question": "De ce scade sau crește ATC după acest lot?",
+      "answer": "MC13. ATCinițial18. ATCfinal103/6. Scade fiindcălotul costăsubmediainițială."
+    },
+    {
+      "title": "Chirie mai mare",
+      "condition": "O firmă produce 80 de unități pe zi. Chiria fixă crește cu 160 de lei pe zi. Costul variabil pentru fiecare nivel de producție rămâne neschimbat.",
+      "requirements": [
+        "Calculați modificarea AFC și ATC la 80 de unități.",
+        "Descrieți efectul asupra MC."
+      ],
+      "hints": "O modificare fixă nu depinde de numărul unităților.",
+      "question": "De ce costul următoarei unități nu crește automat?",
+      "answer": "AFCșiATC cresc2lei. MCneschimbat."
+    },
+    {
+      "title": "O funcție de cost",
+      "condition": "TC = 100 + 5Q. Q este numărul de obiecte pe zi și costul este în lei.",
+      "requirements": [
+        "Calculați FC și VC pentru Q = 20.",
+        "Calculați ATC și MC."
+      ],
+      "hints": "Separați termenul constant de termenul care depinde de Q.",
+      "question": "Ce se întâmplă cu ATC când producția crește în acest model?",
+      "answer": "FC100 VC100 TC200 ATC10 MC5. ATCscade spre5."
+    },
+    {
+      "title": "Mai multă productivitate",
+      "condition": "Salariul este 120 de lei pe zi pentru fiecare angajat. La 4 angajați produsul mediu este 10 obiecte. La 5 angajați produsul mediu este 12 obiecte. Munca este singura resursă variabilă.",
+      "requirements": [
+        "Calculați AVC în fiecare situație.",
+        "Calculați costul marginal pe interval."
+      ],
+      "hints": "Folosiți producția totală și diferența salariilor.",
+      "question": "Cum se leagă productivitatea de costul pe obiect?",
+      "answer": "Q40și60. AVC12și10. MC120/20=6."
+    },
+    {
+      "title": "Izocostul",
+      "condition": "O zi de muncă L costă 100 de lei și o oră de utilaj K costă 50 de lei. Bugetul firmei pentru resurse este 1000 de lei.",
+      "requirements": [
+        "Scrieți ecuația izocostului.",
+        "Calculați interceptările și panta cu L pe axa orizontală."
+      ],
+      "hints": "Exprimați K în funcție de L.",
+      "question": "De ce toate punctele aceleiași drepte au același cost?",
+      "answer": "100L+50K1000. InterceptăriL10K20. K20−2L panta−2."
+    },
+    {
+      "title": "Comparație între tehnologii",
+      "condition": "Pentru 200 de obiecte tehnologia A cere 6 zile de muncă și 4 ore de utilaj. Tehnologia B cere 4 zile de muncă și 7 ore de utilaj. Prețurile sunt 80 de lei pe zi de muncă și 40 de lei pe oră de utilaj.",
+      "requirements": [
+        "Calculați costul fiecărei tehnologii.",
+        "Găsiți economia variantei mai ieftine."
+      ],
+      "hints": "Păstrați aceeași producție pentru comparație.",
+      "question": "De ce o tehnologie cu mai multe utilaje poate costa mai puțin?",
+      "answer": "A640 B600. Economia40lei laB."
+    },
+    {
+      "title": "Capital propriu",
+      "condition": "Un atelier are încasări lunare de 12000 de lei și costuri explicite de 8500 de lei. Proprietarul sacrifică un salariu de 2500 de lei și o chirie posibilă de 600 de lei pentru spațiul propriu.",
+      "requirements": [
+        "Calculați profitul contabil.",
+        "Calculați profitul economic."
+      ],
+      "hints": "Includeți separat costurile implicite.",
+      "question": "Este profitul contabil suficient pentru evaluarea alegerii proprietarului?",
+      "answer": "Profitcontabil3500. Implicite3100. Profiteconomic400."
+    },
+    {
+      "title": "Cost pe termen lung",
+      "condition": "Pentru 100 de unități costul mediu pe termen lung este 20 de lei. Pentru 200 de unități acesta este 16 lei. Prețurile resurselor și tehnologia sunt aceleași.",
+      "requirements": [
+        "Calculați costul total la fiecare scară.",
+        "Identificați economiile de scară."
+      ],
+      "hints": "Comparați costul pe unitate și nu numai costul total.",
+      "question": "Poate costul total să crească în timp ce costul mediu scade?",
+      "answer": "TC2000și3200. Economiidescară. DaTCcrește ATCscade."
+    },
+    {
+      "title": "Resursa care aduce mai mult",
+      "condition": "Produsul marginal al muncii este 30 de obiecte și prețul muncii este 60 de lei. Produsul marginal al capitalului este 20 de obiecte și prețul capitalului este 80 de lei. Factorii sunt divizibili și ajustările mici sunt posibile.",
+      "requirements": [
+        "Calculați produsul marginal pe leu pentru fiecare factor.",
+        "Indicați direcția realocării pentru un nivel dat al producției."
+      ],
+      "hints": "Comparați MP/P și țineți seama că prețurile diferă.",
+      "question": "De ce egalitatea produselor marginale nu este condiția generală a costului minim?",
+      "answer": "Muncă1/2 obiectpe leu capital1/4. Ma imultămuncă maipuțincapital pânălaegalizare."
+    }
+  ],
+  "title": "Costurile de producție",
+  "model_fallback": {
+    "result": "TC = 100 + 10Q + Q². Q = 10 · TC = 300 · ATC = 30 · MC punctual = 30. Minimul ATC este 30 la Q = 10.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"265\" text-anchor=\"end\">31</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"195\" text-anchor=\"end\">62</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"125\" text-anchor=\"end\">93</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"55\" text-anchor=\"end\">124</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"96.41509433962264,80.00000000000003 103.01886792452831,124.48198198198199 109.62264150943395,153.94894894894895 116.22641509433961,174.83590733590736 122.83018867924528,190.36036036036037 129.43396226415092,202.30980980980985 136.03773584905662,211.75675675675677 142.64150943396226,219.38370188370186 149.2452830188679,225.64564564564566 155.84905660377356,230.85758835758836 162.45283018867923,235.24453024453027 169.0566037735849,238.97147147147146 175.66037735849056,242.16216216216216 182.2641509433962,244.91123476417596 188.86792452830187,247.2922922922923 195.47169811320754,249.36344238975818 202.0754716981132,251.17117117117118 208.67924528301884,252.75311025311026 215.28301886792448,254.14004914004914 221.88679245283018,255.35742264003136 228.49056603773582,256.4264264264264 235.09433962264148,257.3648648648649 241.69811320754712,258.1878031878032 248.30188679245282,258.9080747414081 254.9056603773585,259.53667953667957 261.5094339622641,260.08310034172104 268.1132075471698,260.55555555555554 274.71698113207543,260.9612031386225 281.3207547169811,261.3063063063063 287.92452830188677,261.59636909636913 294.5283018867924,261.8362480127186 301.13207547169804,262.03024453024454 307.73584905660374,262.1821821821822 314.33962264150944,262.2954711468225 320.9433962264151,262.37316263632056 327.5471698113207,262.4179949179949 334.1509433962264,262.43243243243245 340.75471698113205,262.4186991869919 347.3584905660377,262.3788073788074 353.9622641509434,262.3145820238843 360.56603773584897,262.22768222768224 367.16981132075466,262.11961961961964 373.77358490566036,261.99177438307873 380.377358490566,261.84540923902625 386.98113207547163,261.68168168168165 393.58490566037733,261.50165471594045 400.18867924528297,261.3063063063063 406.79245283018867,261.09653771418476 413.39622641509425,260.8731808731809 419.99999999999994,260.63700492945776 426.60377358490564,260.3887220553887 433.2075471698113,260.12899262899265 439.811320754717,259.8584298584299 446.41509433962256,259.5776039197092 453.01886792452825,259.287045666356 459.62264150943395,258.98724996182625 466.2264150943396,258.6786786786787 472.8301886792452,258.361763402747 479.43396226415086,258.03690787561754 486.03773584905656,257.7044902044902 492.64150943396226,257.3648648648649 499.24528301886784,257.01836451836454 505.84905660377353,256.6653016653016 512.4528301886792,256.30597014925377 519.0566037735848,255.9406465288818 525.6603773584905,255.56959133046092 532.2641509433961,255.1930501930502 538.8679245283018,254.81125491688874 545.4716981132075,254.42442442442444 552.0754716981131,254.0327656423547 558.6792452830189,253.63647431214997 565.2830188679245,253.23573573573574 571.8867924528302,252.83072546230443 578.4905660377358,252.4216099216099 585.0943396226414,252.00854700854703 591.6981132075471,251.59168662333218 598.3018867924528,251.17117117117118\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,307.47747747747746 598.3018867924528,217.38738738738738\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"262.43243243243245\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">ATC</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

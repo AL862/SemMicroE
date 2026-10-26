@@ -1,0 +1,670 @@
+{
+  "theory": [
+    [
+      "Multe firme și produse diferite",
+      [
+        "Două cafenele folosesc ingrediente apropiate și totuși atrag clienți diferiți. Una este aproape de stație. Alta oferă liniște pentru lucru. Un consumator poate accepta un preț mai mare pentru varianta potrivită lui.",
+        "Concurența monopolistică îmbină multe firme și intrare relativ ușoară cu produse diferențiate. Fiecare varietate are putere limitată asupra prețului. Alternativele apropiate limitează această putere. Monopolul unei varietăți nu este un monopol asupra întregii nevoi.",
+        "În model fiecare firmă este suficient de mică pentru a nu calcula separat răspunsul strategic al fiecărui rival. Aici se deosebește de oligopol. Totuși intrarea altor firme poate schimba condițiile cererii proprii."
+      ]
+    ],
+    [
+      "Formele diferențierii",
+      [
+        "Calitatea și aspectul și funcțiile pot diferenția produsul. Amplasarea și programul și livrarea pot face oferta mai utilă. Marca și reputația pot influența încrederea. Unele diferențe sunt fizice. Altele privesc experiența cumpărării și percepția.",
+        "O variantă nu este automat superioară pentru toți. Un magazin apropiat economisește timpul unei persoane. O altă persoană are alt traseu. Varietatea poate răspunde unor nevoi diferite chiar dacă bunurile sunt apropiate.",
+        "Promovarea și formarea clientelei costă. Intrarea relativ ușoară nu înseamnă intrare gratuită. Reputația poate da avantaje temporare. Posibilitatea imitării și apariția unor produse apropiate influențează persistența profitului."
+      ]
+    ],
+    [
+      "Cererea și alegerea pe termen scurt",
+      [
+        "Cererea unei varietăți este descrescătoare. La scumpire unii clienți aleg alternative. La ieftinire pot veni clienți noi. Cererea devine mai sensibilă când substituenții sunt mai apropiați și mai ușor de găsit.",
+        "La optimul interior firma alege Q din MR = MC și citește P pe cerere. Poate avea profit pozitiv sau zero sau pierdere. Diferența P−AC la cantitatea aleasă determină profitul mediu. Egalitatea marginală nu garantează un rezultat pozitiv.",
+        "Verificăm și costurile evitabile și oprirea. P sub AC poate permite continuarea pe termen scurt dacă TR acoperă VC și o parte din FC. O pierdere persistentă cere reconsiderarea participării."
+      ]
+    ],
+    [
+      "Cum elimină intrarea profitul?",
+      [
+        "Profitul unei varietăți atrage oferte apropiate. Clienții se împart între mai multe firme. Cererea unei firme existente poate scădea și poate deveni mai elastică. Firma își recalculează cantitatea și prețul.",
+        "În echilibrul standard de lungă durată cel mai bun profit economic este zero. Cererea este tangentă la LRAC în cazul neted interior. P acoperă LRAC la volumul ales și MR = LRMC. Remunerația normală a resurselor proprii rămâne inclusă în cost.",
+        "Aceasta descrie un echilibru al modelului. O inovație sau schimbarea preferințelor poate crea din nou profit temporar. Nu presupunem că fiecare firmă reală obține exact zero profit economic în fiecare an."
+      ]
+    ],
+    [
+      "Capacitatea excedentară și valoarea varietății",
+      [
+        "Firma produce sub cantitatea care ar minimiza LRAC. Diferența este capacitatea excedentară în model. Ea nu este o cantitate identică de produse deja fabricate și nevândute.",
+        "P poate depăși MC când profitul economic este zero. Prețul acoperă costul mediu total și nu numai costul ultimei unități. Profit zero nu implică P = MC.",
+        "Față de reperul omogen perfect concurent pot apărea costuri de eficiență. Varietatea poate aduce beneficii. Evaluarea bunăstării trebuie să considere ambele. Nu rezultă că orice diferențiere este inutilă sau că fiecare varietate nouă este automat avantajoasă."
+      ]
+    ],
+    [
+      "Publicitatea și rezultatul net",
+      [
+        "Reclama poate informa despre existența produsului și locul cumpărării și caracteristici. Ea poate reduce timpul de căutare. Poate și schimba percepțiile fără schimbarea fizică a produsului. Efectele sunt diferite de simpla creștere a calității.",
+        "O campanie de 400 de lei care aduce o contribuție suplimentară de 600 de lei după costul produselor mărește profitul cu 200 de lei. Trebuie recuperate și campania și costul producției suplimentare. Vânzările mai mari singure nu demonstrează rentabilitatea.",
+        "Un cost publicitar fix nu modifică direct MC la cerere dată. Un cost care depinde de Q îl poate modifica. Separăm schimbarea cererii de schimbarea costurilor. Nu deplasăm mecanic toate curbele în același sens.",
+        "Imitarea și intrarea pot reduce avantajul campaniei pe termen lung. Pentru consumator contează calitatea informației. Pentru firmă contează beneficiul net. O campanie poate avea efect pozitiv sau negativ sau insuficient pentru recuperarea costului."
+      ]
+    ],
+    [
+      "Un calcul complet pentru o varietate",
+      [
+        "O firmă are P = 80 − Q și TC = 200 + 20Q + Q². Venitul este 80Q − Q². Profitul devine 60Q − 2Q² − 200 = 250 − 2(Q−15)². Cantitatea optimă este 15 iar prețul este 65. Firma obține profit de 250 de lei.",
+        "La Q = 15 costul total este 725 de lei. Costul mediu este 145/3 lei. Diferența dintre preț și costul mediu este 50/3 lei. Înmulțirea cu 15 dă profitul de 250 de lei. Adaosul peste MC este altă mărime. MC = 50 iar P−MC = 15.",
+        "Faptul că produsul are o cerere proprie nu elimină concurența. Apariția unei variante apropiate poate micșora prețul acceptat la fiecare cantitate. Firma trebuie să rezolve din nou alegerea. Nu păstrăm automat cantitatea 15 după o schimbare a cererii."
+      ]
+    ],
+    [
+      "De ce tangenta nu apare la minimul LRAC?",
+      [
+        "În echilibrul neted de lungă durată cererea descrescătoare atinge LRAC fără să permită profit economic pozitiv la altă cantitate. În punctul de atingere pantele sunt egale. Cum panta cererii este negativă și LRAC este descrescător în acel punct cantitatea se află înaintea minimului LRAC.",
+        "De aici rezultă capacitatea excedentară a modelului. Dacă firma produce 70 de porții iar costul mediu minim s-ar atinge la 100 diferența este 30 de porții de capacitate. Acestea nu sunt 30 de porții aruncate. Sunt o comparație între volumul ales și scara de cost minim.",
+        "Un preț egal cu LRAC poate fi mai mare decât MC. Firma acoperă toate costurile relevante dar nu obține profit economic suplimentar. Această situație este compatibilă cu o cerere descrescătoare. Ea se deosebește de reperul omogen perfect concurent unde P = MC = minimul LRAC."
+      ]
+    ],
+    [
+      "Ce ar trebui să comparăm după o reclamă?",
+      [
+        "O cafenea plătește 400 de lei pentru o campanie. Campania aduce 30 de comenzi suplimentare cu prețul de 40 de lei. Costul suplimentar al preparării este 20 de lei pe comandă. Venitul suplimentar este 1200 de lei iar costul producției suplimentare este 600 de lei.",
+        "Contribuția de 600 de lei acoperă campania și lasă un spor de profit de 200 de lei. Dacă ar apărea numai 15 comenzi contribuția ar fi 300 de lei. Campania ar reduce atunci profitul cu 100 de lei. Numărul de aprecieri ale reclamei nu înlocuiește această comparație.",
+        "Pragul campaniei este 400/(40−20) = 20 de comenzi suplimentare dacă marja rămâne constantă. Trebuie numărate comenzile produse de campanie și nu toate comenzile zilei. Clienții care ar fi cumpărat oricum nu reprezintă integral un rezultat suplimentar."
+      ]
+    ],
+    [
+      "Varietatea ca alegere a consumatorului",
+      [
+        "Două produse apropiate pot economisi timp diferit pentru persoane diferite. Un client ar plăti cu 5 lei mai mult pentru o ofertă care îi aduce un avantaj personal evaluat la 8 lei. Avantajul său net față de alternativa dată este 3 lei. Alt client poate prefera produsul mai ieftin.",
+        "Această comparație explică de ce o varietate poate avea clienți chiar când prețul ei este mai mare. Nu dovedește că orice cost de diferențiere este justificat. Pentru o evaluare comună trebuie considerate beneficiile cumpărătorilor și costurile resurselor și efectele asupra altor firme.",
+        "Intrarea poate extinde alegerea și poate împărți clientela. Ambele efecte pot apărea în același timp. Concluzia despre prea multe sau prea puține varietăți cere mai multe informații decât simpla existență a capacității excedentare."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "MR = MC",
+      "Candidat interior pe termen scurt."
+    ],
+    [
+      "Profit = (P−AC)Q",
+      "Calculați AC pentru aceeași cantitate."
+    ],
+    [
+      "P = LRAC și MR = LRMC",
+      "Echilibru standard pe termen lung."
+    ],
+    [
+      "Capacitate excedentară = Q la minimul LRAC − Q efectiv",
+      "Cantități ale aceleiași firme."
+    ],
+    [
+      "Δprofit = ΔTR − Δcost total",
+      "Includeți publicitatea și producția suplimentară."
+    ]
+  ],
+  "description": "Explicăm puterea limitată de preț a firmelor cu produse diferențiate. Legăm intrarea și publicitatea de producție și profit.",
+  "objectives": [
+    "Identificați forme ale diferențierii.",
+    "Calculați alegerea pe termen scurt.",
+    "Explicați profitul zero și capacitatea excedentară.",
+    "Evaluați efectul net al publicității."
+  ],
+  "conclusions": [
+    "Diferențierea oferă varietate și o putere limitată de preț.",
+    "Intrarea poate elimina profitul economic fără a elimina adaosul peste MC.",
+    "Publicitatea se evaluează după toate costurile suplimentare."
+  ],
+  "questions": [
+    [
+      "Care sunt caracteristicile concurenței monopolistice?",
+      "Sunt multe firme cu produse diferențiate și intrare relativ ușoară. Fiecare are o putere limitată asupra prețului. În model firma nu urmărește strategic fiecare reacție individuală a rivalilor."
+    ],
+    [
+      "Ce trăsături comune are cu concurența perfectă și cu monopolul?",
+      "Cu concurența perfectă împarte numărul mare de firme și posibilitatea intrării. Cu monopolul împarte cererea proprie descrescătoare și alegerea unui preț peste MR. Produsele au totuși substituenți apropiați."
+    ],
+    [
+      "Poate firma obține profit pe termen scurt?",
+      "Da. La volumul optim poate avea P &gt; ATC. Sunt posibile și profit zero sau pierderi."
+    ],
+    [
+      "Care este condiția de maximizare a profitului?",
+      "La un optim interior MR = MC și comparația cu alte cantități și cu oprirea confirmă maximul. Prețul se determină din cererea firmei."
+    ],
+    [
+      "Poate firma suporta pierderi pe termen scurt?",
+      "Da. Dacă prețul la cantitatea optimă este sub ATC profitul este negativ. Continuarea depinde de recuperarea costurilor evitabile."
+    ],
+    [
+      "De ce profitul economic în echilibrul de lungă durată este zero?",
+      "Profitul atrage produse similare și noi firme. Cererea fiecărei firme existente tinde să scadă. Intrarea continuă până la eliminarea profitului economic suplimentar în modelul standard."
+    ],
+    [
+      "Echilibrul pe termen lung are un volum eficient de producție?",
+      "În modelul standard firma produce sub cantitatea care minimizează LRAC. P depășește MC. Diferențierea oferă varietate dar nu asigură aceeași eficiență productivă și alocativă ca reperul perfect concurent."
+    ],
+    [
+      "Ce este excesul capacităților de producție?",
+      "Diferența dintre cantitatea la minimul LRAC și cantitatea efectivă din echilibrul de lungă durată. Nu este identic cu producția nevândută."
+    ],
+    [
+      "Care este condiția echilibrului pe termen lung?",
+      "MR = LRMC și P = LRAC la cantitatea aleasă. Cererea este tangentă la LRAC în cazul neted standard. Cantitatea rămâne sub scara minimului LRAC."
+    ],
+    [
+      "Ce rezultate poate obține firma după publicitate?",
+      "Poate crește cererea și poate schimba sensibilitatea clienților. Profitul crește numai dacă avantajul depășește costul campaniei și costul producției suplimentare. O campanie poate avea și rezultat negativ."
+    ]
+  ],
+  "tf": [
+    [
+      "Cu restul condițiilor comparabile cererea firmei în concurență monopolistică este mai elastică decât în monopol.",
+      "Adevărat ca tendință deoarece există substituenți mai apropiați. Nu este o comparație numerică garantată pentru oricare două piețe."
+    ],
+    [
+      "Firmele în concurență monopolistică obțin profit normal pe termen lung.",
+      "Adevărat în echilibrul standard. Costurile economice acoperă remunerația normală a resurselor proprii. Profitul economic este zero."
+    ],
+    [
+      "În echilibrul pe termen lung firmele produc cu costuri medii peste minimul lor.",
+      "Adevărat în modelul standard cu cerere descrescătoare și capacitate excedentară."
+    ],
+    [
+      "Brevetele și licențele pot fi bariere de intrare.",
+      "Adevărat când conferă exclusivitate sau restrâng accesul. O simplă formalitate administrativă nu are automat aceeași putere."
+    ],
+    [
+      "Valoarea capitalului necesar poate servi ca barieră de intrare.",
+      "Adevărat când scara minimă și finanțarea necesară limitează intrarea. Nu orice investiție este o barieră semnificativă."
+    ],
+    [
+      "În concurență monopolistică firmele oferă bunuri omogene.",
+      "Fals. Diferențierea produselor este o trăsătură definitorie."
+    ],
+    [
+      "Concurența monopolistică asigură utilizarea eficientă a resurselor.",
+      "Fals dacă afirmația privește automat eficiența productivă și alocativă standard. La echilibru P poate depăși MC și LRAC nu este minim. Varietatea poate avea totuși valoare pentru consumatori."
+    ],
+    [
+      "Cantitatea este mai mare și prețul mai mic decât în concurența perfectă.",
+      "Fals în comparația standard cu aceleași condiții relevante. Cantitatea firmei este sub scara eficientă și prețul include un adaos peste MC."
+    ],
+    [
+      "Firma obține permanent profit economic pozitiv.",
+      "Fals. Intrarea tinde să îl elimine în echilibrul standard pe termen lung."
+    ],
+    [
+      "Echilibrul de lungă durată se atinge când MR = MC și P = AC.",
+      "Adevărat cu costurile și condițiile de lungă durată și verificarea tangenței și maximului."
+    ],
+    [
+      "Firmele pot suporta pierderi.",
+      "Adevărat pe termen scurt când cererea nu permite acoperirea costului total."
+    ],
+    [
+      "În echilibrul de lungă durată firmele obțin profit economic maxim.",
+      "Adevărat dacă „maxim” este definit față de alegerile disponibile ale firmei: cel mai bun profit este zero în echilibrul standard. Este fals dacă formularea intenționează profit economic pozitiv. Profit maxim nu înseamnă neapărat profit pozitiv."
+    ],
+    [
+      "Capacitatea excedentară este diferența dintre cantitatea la minimul ATC și cantitatea de echilibru pe termen lung.",
+      "Adevărat în modelul standard. Ambele mărimi sunt cantități ale aceleiași firme."
+    ],
+    [
+      "Barierele de intrare lipsesc sau sunt nesemnificative.",
+      "Adevărat ca ipoteză de bază privind intrarea relativ ușoară. Promovarea și formarea clientelei pot necesita totuși resurse."
+    ],
+    [
+      "Prețul produsului este mai mare decât MR.",
+      "Adevărat pentru preț unic și cerere strict descrescătoare la cantitate pozitivă."
+    ],
+    [
+      "Pe termen lung firmele au profit economic pozitiv spre deosebire de firmele perfect concurente.",
+      "Fals în echilibrul standard cu intrare liberă. În ambele modele profitul economic este zero."
+    ],
+    [
+      "Echilibrul pe termen lung este la tangența cererii cu costul mediu.",
+      "Adevărat în cazul interior neted standard. Prețul acoperă exact costul mediu și condiția marginală este respectată."
+    ],
+    [
+      "În alegerea cantității firmele nu țin cont de reacția concurenților.",
+      "Adevărat ca ipoteză a modelului cu multe firme mici. Aceasta îl deosebește de analiza strategică a oligopolului."
+    ],
+    [
+      "Consumatorii plătesc prețuri mai mari pentru produse diferențiate decât pentru produse omogene în reperul perfect concurent.",
+      "Adevărat în comparația teoretică standard cu condiții de cost comparabile. Nu este o regulă de preț pentru orice două produse observate."
+    ],
+    [
+      "Publicitatea realizată de firme le mărește profitul.",
+      "Fals ca garanție. Ea mărește costurile și poate să nu aducă o creștere suficientă a cererii."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "În concurență monopolistică:",
+      "options": [
+        "produsele sunt diferențiate",
+        "cererea firmei este mai puțin elastică decât în concurența perfectă",
+        "nu se atinge eficiența standard a alocării resurselor",
+        "toate răspunsurile sunt corecte"
+      ],
+      "answer": "d pentru comparația standard. Produsele sunt diferențiate și cererea proprie este descrescătoare și P depășește MC."
+    },
+    {
+      "q": "În concurență monopolistică:",
+      "options": [
+        "produsele sunt substituenți perfecți",
+        "firmele urmăresc reacția fiecărui concurent în alegerea prețului și cantității",
+        "nu există intrare și ieșire liberă",
+        "există relativ mulți vânzători"
+      ],
+      "answer": "d. Produsele sunt substituenți apropiați dar nu perfecți. Intrarea este relativ ușoară."
+    },
+    {
+      "q": "Susținătorii ideii că această concurență avantajează consumatorii invocă:",
+      "options": [
+        "folosirea eficientă a resurselor",
+        "satisfacerea unor nevoi diferite prin diferențiere",
+        "volumul eficient al fiecărei firme",
+        "toate răspunsurile"
+      ],
+      "answer": "b. Varietatea poate avea valoare pentru consumatori chiar dacă există costuri de eficiență."
+    },
+    {
+      "q": "În concurență monopolistică:",
+      "options": [
+        "publicitatea nu este importantă",
+        "firmele au același acces la informație",
+        "bunurile diferă după unele caracteristici",
+        "un consumator poate influența prețul"
+      ],
+      "answer": "c este trăsătura definitorie. Accesul perfect egal la informație nu este o condiție necesară."
+    },
+    {
+      "q": "Față de concurența perfectă comparația standard indică:",
+      "options": [
+        "cantitate și prețuri mai mici",
+        "cantitate și prețuri mai mari",
+        "cantitate mai mică și prețuri mai mari",
+        "cantitate mai mare și prețuri mai mici"
+      ],
+      "answer": "c pentru firma reprezentativă și condiții de cost comparabile. Nu comparăm automat cantitățile totale a două piețe de mărimi diferite."
+    },
+    {
+      "q": "Cele două forme de concurență se aseamănă deoarece:",
+      "options": [
+        "produc bunuri omogene",
+        "au multe firme",
+        "comportamentul fiecărei firme depinde strategic de rivali",
+        "produc bunuri diferențiate"
+      ],
+      "answer": "b. Diferențierea este o deosebire între modele."
+    },
+    {
+      "q": "Firma obține profit pe termen scurt dacă:",
+      "options": [
+        "MR = MC și P = minimul AC",
+        "MR = MC și P &lt; AC",
+        "MR = MC și P &gt; AC",
+        "MR = MC și P &lt; minimul AC"
+      ],
+      "answer": "c pentru volumul optim valid. P−AC pozitiv înseamnă profit pe unitate pozitiv."
+    },
+    {
+      "q": "Pe termen scurt pot obține profit economic:",
+      "options": [
+        "firmele perfect concurente",
+        "firmele în concurență monopolistică",
+        "monopolurile",
+        "toate răspunsurile"
+      ],
+      "answer": "d. Posibilitatea de profit pe termen scurt nu este exclusivă unei structuri."
+    },
+    {
+      "q": "Echilibrul pe termen lung este atins dacă:",
+      "options": [
+        "P = LRMC dar P &gt; minimul LRAC",
+        "MR = MC și P &lt; minimul LRAC",
+        "MR &lt; LRMC și P &lt; minimul LRAC",
+        "MR = LRMC și P = LRAC și P &gt; minimul LRAC",
+        "P = LRMC = minimul LRAC"
+      ],
+      "answer": "d pentru modelul standard. Firma acoperă costul mediu la cantitatea aleasă fără a produce la minimul său."
+    },
+    {
+      "q": "Echilibrul pe termen lung presupune:",
+      "options": [
+        "P = MC",
+        "P = minimul ATC",
+        "utilizarea întregii capacități eficiente",
+        "profit economic zero"
+      ],
+      "answer": "d. Celelalte condiții sunt specifice reperului perfect concurent și nu acestui model."
+    },
+    {
+      "q": "Drept exemplu de concurență prin preț poate servi:",
+      "options": [
+        "publicitatea",
+        "serviciile postvânzare",
+        "perfecționarea și dezvoltarea produselor",
+        "producerea când MR = MC"
+      ],
+      "answer": "Nicio variantă nu este un exemplu explicit de concurență prin preț. Primele trei sunt instrumente de diferențiere. Ultima este o regulă de alegere a volumului. Un exemplu direct ar fi o reducere a prețului. Păstrăm variantele fără a atribui o literă greșită."
+    },
+    {
+      "q": "Diferențierea produselor privește:",
+      "options": [
+        "caracteristicile fizice precum mirosul și gustul",
+        "marca producătorului",
+        "condițiile de vânzare precum amplasarea și programul",
+        "toate răspunsurile"
+      ],
+      "answer": "d. Fiecare element poate schimba felul în care consumatorii percep și folosesc produsul."
+    }
+  ],
+  "number": 10,
+  "solved": [
+    {
+      "title": "Cantitate și preț pe termen scurt",
+      "condition": "Firma activează în concurență monopolistică. AC = 2Q + 2 și P = 130 − 2Q.",
+      "requirements": [
+        "Determinați cantitatea și prețul de echilibru pe termen scurt."
+      ],
+      "steps": [
+        "TC = Q × AC = 2Q^2 + 2Q. MC = 4Q + 2. TR = 130Q − 2Q^2 și MR = 130 − 4Q.",
+        "Din 130 − 4Q = 4Q + 2 rezultă <strong>Q = 16</strong>. Prețul este 130 − 32 = <strong>98</strong>.",
+        "Control: MR = MC = 66. AC = 34. Profitul este 16 × (98 − 34) = 1024. Prețul este citit pe cerere și nu pe MR."
+      ],
+      "conclusion": "Diferențierea permite un preț peste costul marginal. Cantitatea este determinată prin comparația marginală.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Profitul înainte și după publicitate",
+      "condition": "AC = 6Q − 4. Cererea inițială este Q = 44 − 2P. După publicitate cererea devine Q = 90 − 2P. Costul total al campaniei este TC publicitate = 5Q + Q^2/2.",
+      "requirements": [
+        "Calculați profitul maxim înainte de campanie.",
+        "Calculați profitul maxim după campanie cu includerea costului publicitar."
+      ],
+      "steps": [
+        "Inițial TC = 6Q^2 − 4Q și P = 22 − Q/2. MR = 22 − Q. MC = 12Q − 4. Din MR = MC rezultă <strong>Q0 = 2</strong> și <strong>P0 = 21</strong>.",
+        "TR0 = 42 și TC0 = 16. Profitul inițial este <strong>26</strong>.",
+        "După campanie TC total = 13Q^2/2 + Q. P = 45 − Q/2. MR = 45 − Q și MC total = 13Q + 1.",
+        "45 − Q = 13Q + 1 dă <strong>Q1 = 22/7</strong>. Prețul este <strong>304/7</strong>. Profitul este 44Q − 7Q^2 = <strong>484/7</strong>.",
+        "Sporul de profit este 484/7 − 26 = <strong>302/7</strong>. Campania este avantajoasă în condițiile cererii și costurilor date."
+      ],
+      "conclusion": "Succesul se apreciază după profitul rămas după costul campaniei. Vânzările suplimentare singure nu sunt suficiente.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Cost total și cerere descrescătoare",
+      "condition": "P = 100 − 2Q. TC = 5Q^2 + 30Q. Firma activează în concurență monopolistică.",
+      "requirements": [
+        "Determinați cantitatea și prețul pe termen scurt.",
+        "Calculați profitul firmei."
+      ],
+      "steps": [
+        "MR = 100 − 4Q și MC = 10Q + 30. Egalitatea dă 70 = 14Q. Rezultă <strong>Q = 5</strong>.",
+        "Prețul este 100 − 2 × 5 = <strong>90</strong>. TR = 450. TC = 125 + 150 = 275.",
+        "Profitul este <strong>175</strong>. MC și MR sunt ambele 80 la cantitatea optimă."
+      ],
+      "conclusion": "Profitul pozitiv pe termen scurt poate atrage intrarea unor produse apropiate.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Alegerea dintr-un tabel de costuri",
+      "condition": "Prețul este P = 70 − 3Q. Costurile medii pentru cantitățile 1–7 sunt în tabel. Firma poate alege numai aceste cantități întregi în comparația solicitată.",
+      "requirements": [
+        "Calculați TC și MC și MR pentru fiecare cantitate.",
+        "Determinați cantitatea și prețul optim pe termen scurt.",
+        "Calculați profitul."
+      ],
+      "steps": [
+        "TC = Q × AC. Pentru Q = 1–7 obținem 80; 140; 180; 200; 230; 264; 336.",
+        "TR = Q × (70 − 3Q). Valorile sunt 67; 128; 183; 232; 275; 312; 343.",
+        "Între două cantități succesive MC este diferența costurilor totale. MR este diferența încasărilor. Pentru prima unitate MC nu poate fi calculat fără TC(0). MR pentru prima unitate este 67 deoarece TR(0) = 0.",
+        "Profiturile pentru cantitățile 1–7 sunt −13; −12; 3; 32; 45; <strong>48</strong>; 7. Cea mai mare valoare din tabel este la <strong>Q = 6</strong> și <strong>P = 52</strong>.",
+        "Trecerea de la 5 la 6 aduce MR = 37 și MC = 34. Trecerea de la 6 la 7 aduce MR = 31 și MC = 72. Ultima extindere reduce profitul."
+      ],
+      "conclusion": "Într-un tabel discret alegem profitul total cel mai mare. Egalitatea exactă MR = MC poate să nu apară.",
+      "tables": [
+        {
+          "headers": [
+            "Q",
+            "AC"
+          ],
+          "rows": [
+            [
+              1,
+              80
+            ],
+            [
+              2,
+              70
+            ],
+            [
+              3,
+              60
+            ],
+            [
+              4,
+              50
+            ],
+            [
+              5,
+              46
+            ],
+            [
+              6,
+              44
+            ],
+            [
+              7,
+              48
+            ]
+          ]
+        }
+      ],
+      "charts": [],
+      "result_tables": [
+        {
+          "headers": [
+            "Q",
+            "P",
+            "TC",
+            "MC",
+            "TR",
+            "MR",
+            "Profit"
+          ],
+          "rows": [
+            [
+              1,
+              67,
+              80,
+              "Nedeterminat",
+              67,
+              67,
+              -13
+            ],
+            [
+              2,
+              64,
+              140,
+              60,
+              128,
+              61,
+              -12
+            ],
+            [
+              3,
+              61,
+              180,
+              40,
+              183,
+              55,
+              3
+            ],
+            [
+              4,
+              58,
+              200,
+              20,
+              232,
+              49,
+              32
+            ],
+            [
+              5,
+              55,
+              230,
+              30,
+              275,
+              43,
+              45
+            ],
+            [
+              6,
+              52,
+              264,
+              34,
+              312,
+              37,
+              48
+            ],
+            [
+              7,
+              49,
+              336,
+              72,
+              343,
+              31,
+              7
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "O cafenea diferită",
+      "condition": "Două cafenele au produse apropiate. Una oferă un spațiu liniștit și program prelungit. Prețul ei este 35 de lei față de 30 de lei la cealaltă. Nu avem date despre costuri sau cerere.",
+      "requirements": [
+        "Identificați două forme de diferențiere.",
+        "Precizați dacă puteți calcula profitul numai din prețuri."
+      ],
+      "hints": "Separați caracteristicile produsului de rezultatul financiar.",
+      "question": "De ce un preț mai mare nu dovedește profit mai mare?",
+      "answer": "Diferențiereprinserviciușiprogram. Nuavemcostșicantitatepentruprofit."
+    },
+    {
+      "title": "Producția optimă",
+      "condition": "Cererea pentru un mic producător este P = 50 − Q. Costul total este TC = 10Q + 80.",
+      "requirements": [
+        "Calculați Q și P care maximizează profitul.",
+        "Calculați profitul."
+      ],
+      "hints": "MR = 50 − 2Q și MC = 10.",
+      "question": "Cum se deosebește această cerere de cea a unei firme perfect concurente?",
+      "answer": "Q20P30profit320. Cerereafirmeiestedescrescătoare."
+    },
+    {
+      "title": "Intrarea concurenților",
+      "condition": "O firmă vinde inițial 100 de produse pe săptămână la 30 de lei. După intrarea unor firme similare vinde 80 la același preț. ATC este 28 de lei la 80 de produse.",
+      "requirements": [
+        "Calculați încasările înainte și după.",
+        "Calculați profitul în situația finală."
+      ],
+      "hints": "Cererea proprie se poate reduce fără schimbarea prețului observat.",
+      "question": "Ce presiune creează intrarea asupra profitului firmei existente?",
+      "answer": "TR3000 apoi2400. Profitfinal160. Intrareareducecerereaproprie."
+    },
+    {
+      "title": "Profit economic zero",
+      "condition": "În echilibrul pe termen lung o firmă produce 60 de unități. Prețul și ATC sunt 40 de lei. MC este 30 de lei.",
+      "requirements": [
+        "Calculați profitul.",
+        "Calculați adaosul P−MC."
+      ],
+      "hints": "Nu confundați profitul total cu diferența față de MC.",
+      "question": "Cum poate exista adaos pozitiv când profitul economic este zero?",
+      "answer": "Profit0. Adaos10. Costulmediuincludecostfixșicostimplicit."
+    },
+    {
+      "title": "Capacitate excedentară",
+      "condition": "Firma vinde 70 de unități în echilibrul pe termen lung. Costul mediu ar fi minim la 100 de unități.",
+      "requirements": [
+        "Calculați capacitatea excedentară în unități.",
+        "Exprimați-o ca procent din scara eficientă de 100 de unități."
+      ],
+      "hints": "Comparați producția efectivă cu cea care minimizează ATC.",
+      "question": "De ce diferențierea poate fi însoțită de acest rezultat?",
+      "answer": "Exces30unități sau30% dinscaraeficientă."
+    },
+    {
+      "title": "Publicitate utilă",
+      "condition": "O campanie costă 400 de lei. Ea aduce 30 de vânzări suplimentare la prețul de 40 de lei. Costul de producție suplimentar este 20 de lei pe produs. Prețul și costul produselor deja vândute nu se schimbă.",
+      "requirements": [
+        "Calculați sporul de încasări și de cost total.",
+        "Calculați sporul profitului."
+      ],
+      "hints": "Includeți atât producția suplimentară cât și campania.",
+      "question": "De ce nu comparăm numai vânzările cu prețul publicității?",
+      "answer": "TRsuplimentar1200 cost600+4001000 profit+200."
+    },
+    {
+      "title": "O campanie nereușită",
+      "condition": "O campanie costă 600 de lei și aduce 20 de vânzări suplimentare. Marja înainte de publicitate este 20 de lei pe produs. Restul rezultatelor rămân neschimbate.",
+      "requirements": [
+        "Calculați modificarea profitului.",
+        "Găsiți numărul minim de vânzări suplimentare pentru recuperarea campaniei."
+      ],
+      "hints": "Folosiți contribuția pe unitate și costul campaniei.",
+      "question": "Înseamnă vânzări mai mari că publicitatea a fost rentabilă?",
+      "answer": "Sporprofit400−600=−200. Prag30vânzări."
+    },
+    {
+      "title": "Cost fix de promovare",
+      "condition": "O firmă plătește o sumă fixă de 300 de lei pentru publicitate. Cererea nu se modifică. Costul variabil pentru fiecare volum rămâne același. Firma continuă să producă.",
+      "requirements": [
+        "Descrieți efectul asupra MC și volumului optim.",
+        "Calculați modificarea profitului."
+      ],
+      "hints": "Costul campaniei nu depinde de cantitate în acest caz.",
+      "question": "De ce nu trebuie adăugată aceeași sumă la MC?",
+      "answer": "MCșiQneschimbate. Profit−300."
+    },
+    {
+      "title": "Mai mulți substituenți",
+      "condition": "După deschiderea a două magazine similare un magazin observă că o majorare de preț de 5% reduce vânzările cu 15%.",
+      "requirements": [
+        "Calculați elasticitatea după preț pe baza procentelor.",
+        "Explicați rolul substituenților."
+      ],
+      "hints": "Comparați procentele cu semnele lor.",
+      "question": "Cum limitează substituenții puterea de stabilire a prețului?",
+      "answer": "E−3 elastic. Cliențiise potorientasprealternative."
+    },
+    {
+      "title": "Varietate și cost",
+      "condition": "Pentru un produs standard prețul este 25 de lei. O variantă adaptată preferințelor clientului costă 30 de lei. Clientul apreciază adaptarea la 8 lei suplimentari. Toate celelalte caracteristici sunt identice.",
+      "requirements": [
+        "Calculați diferența de preț.",
+        "Comparați-o cu avantajul apreciat de client."
+      ],
+      "hints": "Evaluați alegerea din perspectiva clientului dat.",
+      "question": "Poate varietatea să aducă un avantaj chiar dacă prețul este mai mare?",
+      "answer": "Diferență5 avantaj8 net+3. Da pentruacestclient."
+    }
+  ],
+  "title": "Comportamentul firmelor pe piața cu concurență monopolistică",
+  "model_fallback": {
+    "result": "P = 80 − Q · TC = 200 + 20Q + Q². P = 65 · MR = 50 · MC = 50 · Profit = 250. Maxim: Q = 15 și P = 65 și profit = 250.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">9</text><text x=\"60\" y=\"265\" text-anchor=\"end\">25</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">19</text><text x=\"60\" y=\"195\" text-anchor=\"end\">50</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">28</text><text x=\"60\" y=\"125\" text-anchor=\"end\">76</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">37</text><text x=\"60\" y=\"55\" text-anchor=\"end\">101</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"70,107.7777777777778 598.3018867924528,205\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,274.44444444444446 598.3018867924528,80.00000000000003\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,107.7777777777778 598.3018867924528,302.22222222222223\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><circle cx=\"296.41509433962267\" cy=\"149.44444444444446\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">MR</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

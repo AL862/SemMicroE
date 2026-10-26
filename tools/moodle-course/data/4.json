@@ -1,0 +1,831 @@
+{
+  "theory": [
+    [
+      "Ce înseamnă să alegi un coș?",
+      [
+        "La prânz poți cumpăra o porție mai mare sau poți păstra bani pentru o băutură. Nu alegi numai un bun izolat. Compari coșuri de bunuri în limita venitului. Un coș este o combinație de cantități pentru aceeași perioadă.",
+        "Preferințele descriu ordinea în care un consumator apreciază coșurile. Raționalitatea înseamnă că această ordine este consecventă. Nu înseamnă că toate persoanele trebuie să prefere același coș. Scopul modelului este explicarea alegerii date de preferințe și de restricție."
+      ]
+    ],
+    [
+      "Utilitate totală și utilitate marginală",
+      [
+        "Utilitatea este satisfacția asociată consumului în model. Abordarea cardinală reprezintă satisfacția prin numere convenționale. Utilitatea totală TU este satisfacția întregii cantități. Utilitatea marginală MU este sporul produs de o unitate suplimentară.",
+        "Prima porție poate răspunde unei nevoi intense. O porție în plus poate aduce satisfacție mai mică. Aceasta este ideea utilității marginale descrescânde la preferințe și context date. TU poate încă să crească atunci când MU scade. Ea începe să scadă numai când sporul devine negativ.",
+        "Valorile de utilitate dintr-un exercițiu nu sunt o măsurătoare care permite compararea directă a fericirii între persoane. Dacă aceeași ordine a preferințelor este păstrată o altă scară numerică poate descrie aceeași alegere. Această observație conduce la abordarea ordinală."
+      ]
+    ],
+    [
+      "Curbe de indiferență",
+      [
+        "O curbă de indiferență unește coșuri pe care aceeași persoană le apreciază la fel. Pe o astfel de curbă mai mult X poate compensa mai puțin Y. Pentru bunuri dorite curbele uzuale sunt descrescătoare. Preferințele consecvente nu permit ca două curbe de niveluri diferite să se intersecteze.",
+        "Rata marginală de substituție MRS arată cât Y este dispus consumatorul să sacrifice pentru încă puțin X la aceeași satisfacție. Precizăm întotdeauna sensul schimbului. Pentru preferințe convexe rata scade când X devine mai abundent în coș.",
+        "Substituenții perfecți pot produce curbe drepte. Complementele perfecte produc curbe în unghi deoarece unitățile fără partener nu adaugă satisfacție. Un element nedorit cere o interpretare diferită de aceea a unui bun dorit. Forma curbei depinde de preferințe și nu trebuie impusă mecanic."
+      ]
+    ],
+    [
+      "Bugetul arată ce este posibil",
+      [
+        "La venit I și prețuri Px și Py coșurile accesibile satisfac Px × X + Py × Y ≤ I. Linia bugetară este limita cu egalitate. Interceptarea pe X este I/Px. Interceptarea pe Y este I/Py. Cu X pe axa orizontală panta este −Px/Py.",
+        "Un venit mai mare cu prețuri constante deplasează linia paralel spre exterior. O modificare a unui singur preț rotește linia în jurul interceptării celuilalt bun. Dublarea simultană a venitului și a ambelor prețuri lasă linia neschimbată. Venitul nominal și puterea de cumpărare nu sunt aceeași mărime.",
+        "Dacă un coș este preferat dar depășește venitul el nu poate fi ales. Preferința răspunde întrebării „ce îmi place mai mult?”. Bugetul răspunde întrebării „ce pot cumpăra?”. Optimul combină ambele informații."
+      ]
+    ],
+    [
+      "Alegerea optimă și limitele egalităților",
+      [
+        "Pentru un optim interior neted cu bunuri divizibile comparăm satisfacția adusă de ultimul leu folosit pentru fiecare bun. Dacă MUx/Px este mai mare decât MUy/Py o mică realocare spre X poate mări utilitatea. La optimul interior rapoartele sunt egale și bugetul este folosit integral în lipsa saturației.",
+        "Aceeași condiție se scrie MRSxy = Px/Py. Ea descrie tangența dintre o curbă de indiferență și linia bugetară în condițiile potrivite. Nu este o rețetă pentru orice situație. Cu substituenți perfecți consumatorul poate aloca tot venitul unui bun. Cu bunuri indivizibile trebuie comparate coșurile întregi accesibile.",
+        "Într-un exercițiu cu porții întregi enumerarea câtorva coșuri este adesea mai clară decât căutarea forțată a unei egalități imposibile. Pentru fiecare coș calculăm costul și utilitatea totală. Eliminăm variantele inaccesibile și alegem satisfacția cea mai mare dintre cele rămase."
+      ]
+    ],
+    [
+      "Cum se schimbă alegerea când se schimbă venitul?",
+      [
+        "Curba venit–consum unește coșurile optime pentru venituri diferite la aceleași prețuri. Din ea putem urmări cantitatea unui bun în raport cu venitul. Relația cantitate–venit pentru un bun este curba Engel.",
+        "La un bun normal venitul mai mare sporește cantitatea dorită în intervalul analizat. La un bun inferior o reduce. Reacția poate diferi între intervale. Faptul că un produs este ieftin nu dovedește singur că este inferior. Trebuie observat sensul reacției la venit cu ceilalți factori neschimbați."
+      ]
+    ],
+    [
+      "Prețul schimbă și alternativele și puterea de cumpărare",
+      [
+        "Curba preț–consum unește alegerile optime când se schimbă prețul unui bun. Celelalte prețuri și venitul nominal rămân date. Pentru fiecare preț notăm cantitatea aleasă și astfel construim cererea individuală.",
+        "Scumpirea lui X îl face relativ mai puțin atractiv. Efectul de substituție împinge consumul spre alternative. În același timp venitul nominal cumpără mai puțin. Efectul de venit depinde de natura bunului. Pentru un bun normal cele două efecte ale scumpirii reduc cantitatea X.",
+        "Pentru un bun inferior efectul de venit poate acționa în sens opus. Numai dacă el domină efectul de substituție apare cazul Giffen. Acesta cere condiții speciale. O schimbare de preferințe sau de calitate nu trebuie confundată cu mișcarea pe aceeași cerere."
+      ]
+    ],
+    [
+      "O comparație de coșuri înainte de formule",
+      [
+        "Un consumator poate alege între două coșuri care costă fiecare 60 de lei. Primul are mai multă mâncare iar al doilea mai mult divertisment. Faptul că ambele sunt pe buget nu decide care este preferat. Pentru aceasta avem nevoie de preferințe.",
+        "Dacă persoana preferă A față de B și B față de C consecvența cere să nu prefere C față de A. Aceasta este tranzitivitatea. Posibilitatea comparării coșurilor relevante este completitudinea. Sunt ipoteze despre ordinea alegerilor și nu despre cât de repede decide persoana.",
+        "Nesaturația spune că în domeniul analizat mai mult dintr-un bun dorit nu este mai rău dacă restul rămâne același. Nu o aplicăm automat la un element nedorit sau după saturație. Convexitatea exprimă preferința pentru combinații echilibrate în raport cu extremele în condițiile modelului."
+      ]
+    ],
+    [
+      "Un leu și utilitatea sa suplimentară",
+      [
+        "Un bun X are MU = 18 și costă 6 lei. Un bun Y are MU = 20 și costă 10 lei. Compararea utilităților absolute ar putea sugera Y. Pe leu însă X aduce 3 iar Y aduce 2 unități convenționale.",
+        "Cu bunuri divizibile o mică realocare din Y spre X poate mări satisfacția la același buget dacă rapoartele locale rămân valabile. Pe măsură ce X devine mai abundent MUx poate scădea. Egalizarea rapoartelor poate opri avantajul realocării.",
+        "Dacă se pot cumpăra numai unități întregi realocarea unui singur leu poate fi imposibilă. Atunci verificăm costul și utilitatea fiecărui coș posibil. Nu respingem un coș optim numai fiindcă ultimele raporturi afișate nu sunt exact egale."
+      ]
+    ],
+    [
+      "Un optim interior ușor de urmărit",
+      [
+        "Considerăm TU = X × Y și un buget de 120 de lei cu Px = 20 și Py = 10. Linia este Y = 12−2X. Utilitatea pe această linie este X(12−2X) = 18−2(X−3)^2.",
+        "Pătratul arată că maximul este 18 la X = 3. Atunci Y = 6. Coșul costă 60 de lei pentru X și 60 de lei pentru Y. La acest coș MUx = Y = 6 și MUy = X = 3. Raporturile pe leu sunt ambele 3/10.",
+        "Împărțirea egală a banilor este rezultatul acestei funcții și acestor prețuri. Nu este o regulă pentru orice preferințe. Dacă utilitatea ar acorda o importanță diferită unuia dintre bunuri coșul optim s-ar schimba."
+      ]
+    ],
+    [
+      "Când tangența nu este soluția",
+      [
+        "La TU = X+Y cele două bunuri sunt substituenți perfecți în proporția unu la unu. Dacă X costă 5 lei și Y costă 1 leu același leu aduce mai multe unități de satisfacție prin Y. Un buget de 50 de lei este folosit numai pentru 50 de unități Y.",
+        "La complemente perfecte situația este diferită. Dacă se folosește o unitate X împreună cu două Y excesul de Y fără X poate să nu aducă satisfacție. Optimul se caută în raportul de utilizare. Forma în unghi exprimă această limită.",
+        "Prin urmare tangența unei curbe netede este numai un caz. Colțul și unghiul și coșurile indivizibile sunt alegeri economice coerente. Algoritmul trebuie să respecte forma preferințelor și domeniul cantităților."
+      ]
+    ],
+    [
+      "Efectul de venit nu este schimbarea salariului",
+      [
+        "Când un bun se ieftinește salariul nominal poate rămâne același. Totuși venitul cumpără un coș mai mare. Efectul de venit din schimbarea prețului privește această schimbare a puterii de cumpărare.",
+        "Pentru a separa efectele imaginăm o compensare care păstrează un reper de putere de cumpărare sau de satisfacție. Analiza intermediară izolează substituția produsă de prețul relativ. Trecerea de la reperul compensat la venitul efectiv arată efectul de venit. Convenția exactă a compensării trebuie precizată într-un calcul avansat.",
+        "Pentru înțelegerea de bază este suficient să urmărim cele două întrebări: ce bun a devenit relativ mai ieftin? Ce coșuri sunt acum accesibile? Nu atribuim întregul efect unuia singur dintre aceste mecanisme."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "MU = ΔTU/ΔQ",
+      "Satisfacția suplimentară pe unitate."
+    ],
+    [
+      "Px × X + Py × Y ≤ I",
+      "Mulțimea coșurilor accesibile."
+    ],
+    [
+      "Y = I/Py − (Px/Py)X",
+      "Linia bugetară la venit folosit integral."
+    ],
+    [
+      "MUx/Px = MUy/Py",
+      "Condiție de optim interior în ipotezele precizate."
+    ],
+    [
+      "MRSxy = −dY/dX = MUx/MUy",
+      "Y sacrificat pentru X suplimentar la utilitate constantă."
+    ],
+    [
+      "Enumerarea coșurilor",
+      "Pentru unități întregi verificați costul și TU pentru fiecare alternativă accesibilă."
+    ]
+  ],
+  "description": "Comparăm coșuri de consum care trebuie să încapă într-un buget. Explicăm preferințele și utilitatea și alegerea optimă prin situații și grafice și calcule.",
+  "objectives": [
+    "Distingeți TU de MU și abordarea cardinală de cea ordinală.",
+    "Construiți linia bugetară și curbele de indiferență.",
+    "Determinați un optim interior sau de colț sau pentru unități întregi.",
+    "Explicați efectele venitului și prețului."
+  ],
+  "conclusions": [
+    "Preferințele stabilesc ordinea coșurilor. Bugetul stabilește accesibilitatea lor.",
+    "Tangența este o condiție pentru un anumit tip de optim. Colțurile și unitățile întregi cer comparații potrivite.",
+    "Un preț schimbă atât alternativele relative cât și puterea de cumpărare."
+  ],
+  "questions": [
+    [
+      "Ce semnifică noțiunea de „consumator rațional”? Ce principii folosiți la procurarea cadourilor?",
+      "Consumatorul compară coșurile accesibile și alege conform preferințelor sale. Raționalitatea presupune consecvență. Pentru cadouri contează preferințele destinatarului și bugetul și alternativele. Prețul mai mare singur nu garantează o alegere mai bună."
+    ],
+    [
+      "Cum se modifică utilitatea marginală a bunurilor spirituale precum cărțile și muzica și teatrul?",
+      "Depinde de experiență și de cantitatea relevantă și de context. Repetarea aceleiași experiențe poate reduce satisfacția suplimentară. Învățarea poate forma gusturi și poate mări aprecierea viitoare. Legea utilității marginale descrescânde presupune preferințe și context date și nu exclude formarea preferințelor."
+    ],
+    [
+      "Prin ce se explică legea utilității marginale descrescânde?",
+      "Primele unități satisfac utilizări mai importante. Unitățile ulterioare răspund unor nevoi mai puțin intense în aceeași perioadă. Exemplul unei a doua porții după ce foamea a fost redusă ilustrează ideea. Nu este o comparație a utilității între persoane diferite."
+    ],
+    [
+      "Ce informație prezintă linia bugetară și punctul ei de tangență cu o curbă de indiferență?",
+      "Linia arată coșurile care folosesc întreg venitul la prețurile date. Tangența poate identifica optimul interior pentru preferințe convexe și bunuri divizibile. Egalitatea pantelor singură nu este suficientă în orice problemă. Pot exista și soluții de colț."
+    ],
+    [
+      "Care este semnificația curbelor venit–consum și preț–consum?",
+      "Curba venit–consum unește alegerile optime la venituri diferite și prețuri constante. Curba preț–consum unește alegerile optime când se schimbă prețul unui bun și celelalte date rămân aceleași. Din a doua putem construi relația dintre preț și cantitatea cerută."
+    ],
+    [
+      "Prin ce efecte poate fi explicată modificarea structurii consumului în condiții de criză?",
+      "Venitul real mai mic poate reduce consumul bunurilor normale și poate spori cererea pentru unele bunuri inferioare. Modificarea prețurilor relative creează și un efect de substituție. Reacțiile depind de preferințe și de accesibilitate. Nu toate gospodăriile aleg identic."
+    ]
+  ],
+  "tf": [
+    [
+      "Utilitatea totală exprimă satisfacția aferentă tuturor unităților consumate dintr-un bun.",
+      "Adevărat în reprezentarea cardinală dată. Ea se deosebește de sporul adus de ultima unitate."
+    ],
+    [
+      "Abordarea ordinală se bazează pe evaluarea cantitativă a utilității.",
+      "Fals. Ea ordonează coșurile după preferință fără a cere măsurarea satisfacției în unități comparabile."
+    ],
+    [
+      "Curba de indiferență este liniară iar linia bugetară este convexă față de origine.",
+      "Fals. La prețuri constante linia bugetară este dreaptă. Curbele de indiferență au forme care depind de preferințe. Forma obișnuită este convexă spre origine."
+    ],
+    [
+      "Echilibrul consumatorului nu presupune neapărat echilibrul pieței.",
+      "Adevărat. Optimul individual la prețuri date nu garantează egalitatea cererii totale cu oferta totală."
+    ],
+    [
+      "Curba cererii pentru un bun poate fi dedusă din curba preț–consum.",
+      "Adevărat. Fiecărui preț îi asociem cantitatea optimă a bunului când celelalte date rămân constante."
+    ],
+    [
+      "Utilitatea marginală reflectă satisfacția totală a unei cantități de bun.",
+      "Fals. Ea arată modificarea utilității totale la o unitate suplimentară."
+    ],
+    [
+      "Legea întâi a lui Gossen afirmă că utilitatea marginală crește odată cu cantitatea consumată.",
+      "Fals. Legea descrie reducerea satisfacției suplimentare în condițiile date."
+    ],
+    [
+      "Legea a doua a lui Gossen cere egalitatea utilităților marginale ponderate la preț pentru maximizarea utilității.",
+      "Adevărat pentru un optim interior cu bunuri divizibile și condițiile uzuale. Raporturile sunt MUx/Px și MUy/Py. La colț sau la bunuri indivizibile folosim comparația coșurilor accesibile."
+    ],
+    [
+      "Orice modificare a prețurilor schimbă panta liniei bugetare.",
+      "Fals. Dacă toate prețurile se modifică în aceeași proporție raportul lor rămâne același. Panta nu se schimbă."
+    ],
+    [
+      "În echilibru consumatorul obține utilitate totală maximă folosind integral venitul disponibil.",
+      "Adevărat în modelul cu bunuri dorite și fără saturație și cu divizibilitate. Fără aceste ipoteze un optim poate lăsa venit nefolosit."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Teoria comportamentului consumatorului presupune că orice consumator:",
+      "options": [
+        "are gusturi și preferințe;",
+        "dispune de venituri limitate;",
+        "are ca scop maximizarea utilității de care beneficiază consumând anumite bunuri;",
+        "toate răspunsurile sunt corecte."
+      ],
+      "answer": "d. Toate descriu ipotezele de bază privind preferințele și bugetul și obiectivul consumatorului."
+    },
+    {
+      "q": "Utilitatea marginală reprezintă:",
+      "options": [
+        "nivelul maxim de utilitate pe care îl obține consumatorul;",
+        "utilitatea obținută de consumator prin consumul unei unități suplimentare din bun;",
+        "utilitatea maximă care poate fi obținută prin consumul volumului dat de bun;",
+        "utilitatea maximă care poate fi obținută prin folosirea unei sume de bani."
+      ],
+      "answer": "b. MU este satisfacția suplimentară și nu cea totală."
+    },
+    {
+      "q": "Legea utilității marginale descrescânde susține că:",
+      "options": [
+        "bunurile au utilități diferite pentru indivizi fără posibilitatea ordonării lor descrescătoare după aceste utilități;",
+        "cele mai importante bunuri pentru individ urmează a fi consumate înaintea celorlalte;",
+        "utilitatea obținută din consumul unității ulterioare a bunului este mai mică decât utilitatea unității anterioare;",
+        "poate fi calculată doar utilitatea totală fără cea marginală."
+      ],
+      "answer": "c. Unitățile succesive aduc satisfacții suplimentare tot mai mici la preferințe și condiții date."
+    },
+    {
+      "q": "Majorarea venitului consumatorului se reflectă în modelul grafic prin:",
+      "options": [
+        "modificarea pantei liniei bugetului;",
+        "deplasarea paralelă a liniei bugetului spre dreapta;",
+        "deplasarea paralelă a liniei bugetului la stânga;",
+        "niciun răspuns nu este corect."
+      ],
+      "answer": "b. La prețuri constante creșterea venitului mută linia paralel spre exterior."
+    },
+    {
+      "q": "Modificarea prețului unuia dintre bunurile consumate cu ceilalți factori neschimbați va determina:",
+      "options": [
+        "deplasarea paralelă a liniei bugetului;",
+        "modificarea pantei liniei bugetului;",
+        "nu va modifica linia bugetului;",
+        "niciun răspuns nu este corect."
+      ],
+      "answer": "b. Modificarea unui singur preț schimbă raportul prețurilor și rotește linia."
+    },
+    {
+      "q": "Care dintre relațiile de mai jos este corectă?",
+      "options": [
+        "I = P x × X − P y × Y;",
+        "MRS xy = −ΔY/ΔX;",
+        "TU = f(U);",
+        "TU < MU."
+      ],
+      "answer": "b pentru convenția MRSxy = −ΔY/ΔX. La un punct neted folosim limita raportului. Formula bugetului are o sumă de valori și nu o diferență."
+    },
+    {
+      "q": "Care variantă de date despre utilitatea totală ilustrează legea utilității marginale descrescânde?",
+      "options": [
+        "200; 300; 400; 500",
+        "200; 450; 750; 1100",
+        "200; 400; 1600; 9600",
+        "200; 250; 270; 280",
+        "200; 350; 450; 600"
+      ],
+      "answer": "d. Sporurile după prima valoare sunt 50 apoi 20 și 10. În varianta a sporurile sunt constante. Celelalte serii nu au sporuri succesiv descrescătoare."
+    },
+    {
+      "q": "Dacă utilitatea marginală a unui bun este egală cu zero atunci utilitatea totală este:",
+      "options": [
+        "zero;",
+        "negativă;",
+        "crescătoare;",
+        "descrescătoare;",
+        "maximă."
+      ],
+      "answer": "e în reprezentarea netedă obișnuită în care MU trece de la pozitiv la negativ. La o valoare MU zero izolată nu este garantat un maxim global."
+    },
+    {
+      "q": "În punctul de optim al consumatorului:",
+      "options": [
+        "panta liniei bugetului este egală cu panta curbei posibilităților de consum;",
+        "curba de indiferență se suprapune peste linia bugetului;",
+        "curbele de indiferență se intersectează;",
+        "panta liniei bugetului și panta curbei de indiferență sunt egale."
+      ],
+      "answer": "d pentru optimul interior cu preferințe convexe. La un optim de colț egalitatea pantelor nu este necesară."
+    },
+    {
+      "q": "Dublarea venitului consumatorului și a prețurilor bunurilor X și Y determină o linie bugetară care:",
+      "options": [
+        "se deplasează spre dreapta;",
+        "se deplasează spre stânga;",
+        "rămâne neschimbată;",
+        "niciun răspuns nu este corect."
+      ],
+      "answer": "c. Împărțirea bugetului și prețurilor prin același factor păstrează toate coșurile accesibile."
+    }
+  ],
+  "number": 4,
+  "solved": [
+    {
+      "title": "Completarea utilității totale și marginale",
+      "condition": "Utilitatea totală și marginală a bunului sunt prezentate parțial în tabel. Folosim TU(0) = 0.",
+      "requirements": [
+        "Completați TU și MU.",
+        "Construiți curbele și comentați tendințele."
+      ],
+      "steps": [
+        "MU este variația TU la o unitate suplimentară. Pentru prima unitate MU = 25 − 0 = 25. Pentru a doua TU = 25 + 22 = 47. Pentru a treia TU = 47 + 20 = 67.",
+        "La a patra unitate TU este 82. MU = 82 − 67 = 15. La a cincea MU = 90 − 82 = 8.",
+        "MU6 = 0 dă TU6 = 90. MU7 = −10 dă TU7 = 80. TU8 = 50 dă MU8 = 50 − 80 = −30.",
+        "Utilitatea totală crește până la 90 și rămâne la 90 pentru unitatea a șasea. Apoi scade. Utilitatea marginală scade și devine negativă."
+      ],
+      "conclusion": "MU pozitiv mărește TU. MU zero lasă TU neschimbată pe pas. MU negativ reduce TU.",
+      "tables": [
+        {
+          "headers": [
+            "Qx",
+            "TUx inițial",
+            "MUx inițial"
+          ],
+          "rows": [
+            [
+              1,
+              25,
+              "—"
+            ],
+            [
+              2,
+              "—",
+              22
+            ],
+            [
+              3,
+              "—",
+              20
+            ],
+            [
+              4,
+              82,
+              "—"
+            ],
+            [
+              5,
+              90,
+              "—"
+            ],
+            [
+              6,
+              "—",
+              0
+            ],
+            [
+              7,
+              "—",
+              -10
+            ],
+            [
+              8,
+              50,
+              "—"
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Utilitatea totală",
+          "xlabel": "Qx · unități",
+          "ylabel": "TU · unități convenționale",
+          "series": [
+            {
+              "label": "TU",
+              "points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  1,
+                  25
+                ],
+                [
+                  2,
+                  47
+                ],
+                [
+                  3,
+                  67
+                ],
+                [
+                  4,
+                  82
+                ],
+                [
+                  5,
+                  90
+                ],
+                [
+                  6,
+                  90
+                ],
+                [
+                  7,
+                  80
+                ],
+                [
+                  8,
+                  50
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Utilitatea marginală",
+          "xlabel": "Qx · unități",
+          "ylabel": "MU · unități convenționale",
+          "series": [
+            {
+              "label": "MU",
+              "points": [
+                [
+                  1,
+                  25
+                ],
+                [
+                  2,
+                  22
+                ],
+                [
+                  3,
+                  20
+                ],
+                [
+                  4,
+                  15
+                ],
+                [
+                  5,
+                  8
+                ],
+                [
+                  6,
+                  0
+                ],
+                [
+                  7,
+                  -10
+                ],
+                [
+                  8,
+                  -30
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ],
+      "result_tables": [
+        {
+          "headers": [
+            "Qx",
+            "TUx",
+            "MUx"
+          ],
+          "rows": [
+            [
+              1,
+              25,
+              25
+            ],
+            [
+              2,
+              47,
+              22
+            ],
+            [
+              3,
+              67,
+              20
+            ],
+            [
+              4,
+              82,
+              15
+            ],
+            [
+              5,
+              90,
+              8
+            ],
+            [
+              6,
+              90,
+              0
+            ],
+            [
+              7,
+              80,
+              -10
+            ],
+            [
+              8,
+              50,
+              -30
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pizza și Fanta",
+      "condition": "Un student poate folosi 70 de lei pentru pizza și Fanta. O pizza costă 20 de lei și o sticlă Fanta costă 10 lei. Utilitățile marginale sunt în tabel. Considerăm unități întregi și utilități aditive.",
+      "requirements": [
+        "Determinați programul optim de consum.",
+        "Calculați utilitatea totală.",
+        "Determinați efectul creșterii venitului cu 80 de lei."
+      ],
+      "steps": [
+        "Cumulăm utilitățile marginale pentru fiecare bun. TU pizza pentru 0–7 unități este 0; 10; 18; 25; 30; 34; 37; 38. TU Fanta este 0; 6; 11; 15; 18; 20; 21; 21.",
+        "Cu 70 de lei comparăm coșurile care epuizează bugetul: (0; 7) are TU 21. (1; 5) are TU 30. (2; 3) are TU 33. (3; 1) are TU 31. Niciun coș cu mai puține bunuri nu depășește aceste valori deoarece utilitățile marginale din tabel sunt nenegative.",
+        "Optimul este <strong>2 pizza și 3 sticle Fanta</strong>. Costul este 40 + 30 = 70 de lei și utilitatea este 18 + 15 = <strong>33</strong>.",
+        "Venitul nou este 70 + 80 = <strong>150 de lei</strong>. Pentru coșurile de pe buget în domeniul tabelului obținem (4; 7) cu TU 51. (5; 5) cu TU 54. (6; 3) cu TU 52. (7; 1) cu TU 44.",
+        "Optimul nou este <strong>5 pizza și 5 sticle Fanta</strong>. Costul este 100 + 50 = 150 de lei. Utilitatea este 34 + 20 = <strong>54</strong>. Creșterea venitului permite un coș mai satisfăcător în datele oferite."
+      ],
+      "conclusion": "Pentru bunuri indivizibile verificăm coșurile accesibile. Egalitatea exactă a utilităților marginale pe leu nu este obligatorie.",
+      "tables": [
+        {
+          "headers": [
+            "Cantitate",
+            "MU pizza",
+            "MU Fanta"
+          ],
+          "rows": [
+            [
+              1,
+              10,
+              6
+            ],
+            [
+              2,
+              8,
+              5
+            ],
+            [
+              3,
+              7,
+              4
+            ],
+            [
+              4,
+              5,
+              3
+            ],
+            [
+              5,
+              4,
+              2
+            ],
+            [
+              6,
+              3,
+              1
+            ],
+            [
+              7,
+              1,
+              0
+            ]
+          ]
+        }
+      ],
+      "charts": []
+    },
+    {
+      "title": "Preferințe exprimate printr-o funcție",
+      "condition": "TU = X^2 × Y^4. Prețul lui X este 6 u.m. și prețul lui Y este 8 u.m. Venitul este 200 u.m. Bunurile sunt divizibile.",
+      "requirements": [
+        "Determinați cantitățile care asigură echilibrul consumatorului."
+      ],
+      "steps": [
+        "Bugetul este 6X + 8Y = 200. Pentru un coș interior MUx = 2XY^4 și MUy = 4X^2Y^3.",
+        "MUx/MUy = Y/(2X). La optim acesta este egal cu Px/Py = 6/8 = 3/4. Rezultă <strong>Y = 3X/2</strong>.",
+        "În buget obținem 6X + 8 × 3X/2 = 18X = 200. Prin urmare <strong>X = 100/9</strong> și <strong>Y = 50/3</strong>.",
+        "Control: 6 × 100/9 + 8 × 50/3 = 200. Utilitatea la oricare colț cu un bun zero este zero. Coșul interior este preferabil și maximizează funcția pe buget."
+      ],
+      "conclusion": "Preferințele și prețurile determină împărțirea bugetului. Numărul unităților nu trebuie să fie întreg în modelul dat.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Utilitate liniară și alegere de colț",
+      "condition": "TU = 2Qx + 3Qy. Linia bugetară este 15Qx + 30Qy = 1200.",
+      "requirements": [
+        "Determinați combinația care maximizează utilitatea."
+      ],
+      "steps": [
+        "MUx/Px = 2/15. MUy/Py = 3/30 = 1/10. Primul raport este mai mare.",
+        "Înlocuirea unei unități Y cu două unități X păstrează costul de 30. Utilitatea se modifică de la 3 la 4. Consumatorul câștigă 1 unitate de utilitate.",
+        "Întreg venitul este alocat lui X: <strong>Qx = 80 și Qy = 0</strong>. Utilitatea maximă este <strong>160</strong>."
+      ],
+      "conclusion": "Cu substituenți perfecți optimul poate fi un colț. Nu impunem o tangență interioară acolo unde nu există.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Curbe de indiferență liniare",
+      "condition": "TU(X; Y) = X + Y. Venitul este 50 u.m. Px = 5 u.m. și Py = 1 u.m.",
+      "requirements": [
+        "Reprezentați curbele de indiferență pentru utilitățile 40 și 50 și 60.",
+        "Reprezentați restricția bugetară pe același grafic.",
+        "Determinați alegerea consumatorului."
+      ],
+      "steps": [
+        "Curbele sunt <strong>Y = 40 − X</strong> și <strong>Y = 50 − X</strong> și <strong>Y = 60 − X</strong>. Fiecare are panta −1.",
+        "Linia bugetară este <strong>Y = 50 − 5X</strong>. Interceptările sunt (0; 50) și (10; 0).",
+        "Ambele bunuri aduc o unitate de utilitate pe unitate consumată. X costă de cinci ori mai mult. MUx/Px = 1/5 și MUy/Py = 1.",
+        "Optimul este <strong>X = 0 și Y = 50</strong>. Utilitatea este <strong>50</strong>. Curba de utilitate 60 nu este accesibilă. Curba de utilitate 50 atinge bugetul în colț."
+      ],
+      "conclusion": "Preferința pentru o unitate din fiecare bun este egală în funcție. Prețurile diferite orientează tot bugetul către Y.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Indiferență și buget",
+          "xlabel": "X · unități",
+          "ylabel": "Y · unități",
+          "series": [
+            {
+              "label": "TU = 40",
+              "points": [
+                [
+                  0,
+                  40
+                ],
+                [
+                  40,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "TU = 50",
+              "points": [
+                [
+                  0,
+                  50
+                ],
+                [
+                  50,
+                  0
+                ]
+              ],
+              "color": "#556374",
+              "dash": true
+            },
+            {
+              "label": "TU = 60",
+              "points": [
+                [
+                  0,
+                  60
+                ],
+                [
+                  60,
+                  0
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            },
+            {
+              "label": "Buget",
+              "points": [
+                [
+                  0,
+                  50
+                ],
+                [
+                  10,
+                  0
+                ]
+              ],
+              "color": "#3F8F1F",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "Buget pentru două bunuri",
+      "condition": "Elena are 120 de lei. Un caiet costă 20 de lei și un pix costă 10 lei.",
+      "requirements": [
+        "Scrieți restricția bugetară.",
+        "Calculați interceptările și verificați coșul cu 4 caiete și 4 pixuri."
+      ],
+      "hints": "Înmulțiți fiecare cantitate cu prețul ei.",
+      "question": "De ce un coș accesibil nu este automat coșul preferat?",
+      "answer": "20X+10Y≤120. Interceptări6caiete și12pixuri. Coșul costă120 accesibil pefrontieră."
+    },
+    {
+      "title": "Mai mult venit",
+      "condition": "Prețurile sunt 15 lei pentru X și 10 lei pentru Y. Venitul crește de la 90 la 120 de lei.",
+      "requirements": [
+        "Calculați interceptările înainte și după schimbare.",
+        "Comparați panta liniilor."
+      ],
+      "hints": "Raportul prețurilor nu se schimbă.",
+      "question": "Ce se modifică în mulțimea coșurilor accesibile?",
+      "answer": "InițialX6Y9. FinalX8Y12. Panta−3/2 neschimbată. Mulțimea se extinde."
+    },
+    {
+      "title": "Un preț mai mic",
+      "condition": "Venitul este 100 de lei. X costă inițial 20 de lei și apoi 10 lei. Prețul lui Y rămâne 10 lei.",
+      "requirements": [
+        "Calculați interceptările inițiale și finale.",
+        "Explicați rotația liniei bugetare."
+      ],
+      "hints": "Modificați doar prețul lui X.",
+      "question": "Care bun devine relativ mai ieftin?",
+      "answer": "InițialX5Y10. FinalX10Y10. Linia pivotează spreaxaX. Xdevinemaiieftin relativ."
+    },
+    {
+      "title": "Utilitate totală și marginală",
+      "condition": "Utilitatea totală după 0 până la 4 porții de fructe este 0; 18; 32; 42; 48 de unități convenționale.",
+      "requirements": [
+        "Calculați utilitatea marginală pentru fiecare porție.",
+        "Descrieți evoluția utilității totale."
+      ],
+      "hints": "Calculați diferențele între valori succesive.",
+      "question": "Poate utilitatea totală să crească atunci când utilitatea marginală scade?",
+      "answer": "MU18;14;10;6. TUcrește cu sporuri descrescătoare."
+    },
+    {
+      "title": "Ultimul leu folosit",
+      "condition": "Ultima unitate din X aduce utilitate marginală 30 și costă 10 lei. Ultima unitate din Y aduce utilitate marginală 20 și costă 5 lei. Bunurile sunt divizibile.",
+      "requirements": [
+        "Calculați utilitatea marginală pe leu pentru fiecare bun.",
+        "Indicați direcția realocării unui buget mic."
+      ],
+      "hints": "Comparați MU/P și nu doar MU.",
+      "question": "De ce nu este suficientă compararea utilităților marginale absolute?",
+      "answer": "X3 șiY4 utileu/leu. Realocare spreY dinspreX până laegalizare dacăpreferințeconcave."
+    },
+    {
+      "title": "Porții întregi",
+      "condition": "Mara are 40 de lei. O porție X costă 20 de lei și una Y costă 10 lei. Utilitățile marginale pentru X sunt 30 și 20. Pentru primele patru porții Y sunt 18; 14; 10; 6. Se cumpără numai porții întregi. Utilitățile celor două bunuri se adună.",
+      "requirements": [
+        "Comparați toate coșurile care folosesc integral bugetul.",
+        "Alegeți coșul cu utilitate maximă."
+      ],
+      "hints": "Enumerați numărul posibil de porții X și calculați restul pentru Y.",
+      "question": "De ce egalitatea exactă MU/P poate lipsi pentru porții întregi?",
+      "answer": "Coșuri(0;4)TU48;(1;2)TU62;(2;0)TU50. Optim1X2Y."
+    },
+    {
+      "title": "Preferințe și accesibilitate",
+      "condition": "Coșul A conține 2 unități X și 4 unități Y. Coșul B conține 3 unități X și 4 unități Y. Ambele bunuri sunt dorite. Prețul fiecăruia este 10 lei și venitul este 60 de lei.",
+      "requirements": [
+        "Comparați coșurile după preferințe.",
+        "Verificați accesibilitatea fiecăruia."
+      ],
+      "hints": "Separați preferința de restricția bugetară.",
+      "question": "Poate fi ales coșul preferat dacă depășește venitul?",
+      "answer": "B estepreferat subnesaturație darcostă70 inaccesibil. A costă60 accesibil."
+    },
+    {
+      "title": "Proporții fixe",
+      "condition": "Pentru o activitate un consumator folosește o cutie X împreună cu două unități Y. X costă 20 de lei și Y costă 5 lei. Bugetul este 90 de lei. Unitățile fără pereche nu aduc satisfacție suplimentară.",
+      "requirements": [
+        "Calculați costul unui set complet.",
+        "Găsiți coșul optim."
+      ],
+      "hints": "Păstrați proporția de o unitate X la două unități Y.",
+      "question": "De ce o reducere de preț nu impune neapărat înlocuirea unui bun cu celălalt?",
+      "answer": "Set30lei.3seturi:3X6Y. Bunurile suntcomplementeperfecte."
+    },
+    {
+      "title": "Aceeași putere de cumpărare",
+      "condition": "Venitul este 200 de lei. Prețurile sunt 20 de lei pentru X și 10 lei pentru Y. Toate trei se dublează.",
+      "requirements": [
+        "Comparați interceptările înainte și după dublare.",
+        "Comparați panta."
+      ],
+      "hints": "Împărțiți venitul la fiecare preț în ambele situații.",
+      "question": "De ce venitul nominal mai mare nu mărește aici coșurile accesibile?",
+      "answer": "InițialX10Y20. Finalaceleași. Panta−2 neschimbată. Venitul realnucrește."
+    },
+    {
+      "title": "Schimbare în consum",
+      "condition": "Venitul Anei scade cu 10%. Prețurile rămân constante. Ea cumpără mai puține excursii și mai multe porții dintr-un aliment ieftin. Preferințele rămân aceleași.",
+      "requirements": [
+        "Descrieți schimbarea liniei bugetare.",
+        "Interpretați reacția fiecărui bun după venit."
+      ],
+      "hints": "Folosiți direcția schimbării venitului și a consumului.",
+      "question": "Putem deduce utilitățile exacte numai din aceste informații?",
+      "answer": "Linia se deplasează paralelinterior. Excursiile suntnormale iaralimentul inferior îninterval. Nu sepotdeduceutilitățileexacte."
+    }
+  ],
+  "title": "Teoria comportamentului consumatorului",
+  "model_fallback": {
+    "result": "I = 120 lei · P<sub style=\"font-size:75%;line-height:0;\">x</sub> = 20 lei · P<sub style=\"font-size:75%;line-height:0;\">y</sub> = 10 lei. X = 3 și Y = 6 · TU = 18. Optim: X = 3 și Y = 6 cu TU = 18.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">2</text><text x=\"60\" y=\"265\" text-anchor=\"end\">3</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"195\" text-anchor=\"end\">7</text><path d=\"M490 50 V330 M70 119.99999999999997 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"124.99999999999997\" text-anchor=\"end\">10</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">6</text><text x=\"60\" y=\"55\" text-anchor=\"end\">13</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">X · unități</text><text x=\"18\" y=\"28\">Y · unități</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"202.0754716981132,80.00000000000003 210.88050314465409,95.625 219.68553459119497,109.41176470588238 228.49056603773587,121.66666666666671 237.29559748427675,132.6315789473685 246.10062893081763,142.50000000000006 254.90566037735854,151.4285714285715 263.7106918238994,159.54545454545462 272.5157232704403,166.9565217391305 281.3207547169812,173.75000000000006 290.1257861635221,180.00000000000006 298.93081761006295,185.76923076923086 307.73584905660385,191.11111111111117 316.54088050314476,196.07142857142864 325.3459119496856,200.68965517241386 334.1509433962265,205.00000000000006 342.95597484276743,209.0322580645162 351.7610062893083,212.81250000000006 360.5660377358492,216.36363636363643 369.37106918239004,219.70588235294125 378.17610062893095,222.8571428571429 386.98113207547186,225.8333333333334 395.78616352201277,228.6486486486487 404.5911949685536,231.31578947368428 413.39622641509453,233.84615384615392 422.2012578616353,236.25000000000006 431.0062893081762,238.53658536585368 439.8113207547171,240.71428571428575 448.6163522012579,242.79069767441865 457.4213836477988,244.77272727272728 466.2264150943396,246.66666666666669 475.0314465408805,248.47826086956522 483.8364779874213,250.2127659574468 492.64150943396214,251.875 501.446540880503,253.46938775510202 510.25157232704385,254.99999999999997 519.0566037735847,256.4705882352941 527.8616352201255,257.88461538461536 536.6666666666664,259.2452830188679 545.4716981132073,260.55555555555554 554.276729559748,261.81818181818176 563.081761006289,263.0357142857142 571.8867924528297,264.2105263157894 580.6918238993707,265.34482758620686 589.4968553459115,266.44067796610165 598.3018867924524,267.49999999999994\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"205\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Buget</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">Indiferență TU = 18</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

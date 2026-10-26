@@ -1,0 +1,90 @@
+[
+  {
+    "seminar": 6,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 8,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 11,
+    "original_solved": 3,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 9,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 4,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 1,
+    "original_solved": 3,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 3,
+    "original_solved": 6,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 2,
+    "original_solved": 6,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 5,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 10,
+    "original_solved": 4,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  },
+  {
+    "seminar": 7,
+    "original_solved": 5,
+    "new_exercises": 10,
+    "static_model_fallback": true,
+    "source_names_absent": true,
+    "course_punctuation": true
+  }
+]

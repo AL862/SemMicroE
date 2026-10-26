@@ -1,0 +1,1266 @@
+{
+  "theory": [
+    [
+      "Producția este transformarea resurselor",
+      [
+        "O brutărie transformă ingrediente prin munca angajaților și folosirea cuptorului. Făina și apa intră în aluat. Electricitatea încălzește cuptorul. Munca include atât efort fizic cât și cunoștințe. Producția este procesul prin care resursele sunt combinate pentru bunuri și servicii utile.",
+        "Factorii tradiționali sunt natura și munca și capitalul real. Capitalul real cuprinde bunuri create anterior pentru a participa la producție. Tehnologia și informația și organizarea întreprinzătorului influențează folosirea lor. Banii finanțează procurarea utilajelor și plata angajaților. Nu coacem pâine folosind bani în locul cuptorului.",
+        "Un utilaj folosit în mai multe cicluri de producție diferă de un ingredient consumat într-un singur lot. Această diferență tehnică este importantă pentru organizare și pentru costuri. Înaintea unui calcul precizăm ce resursă măsurăm și în ce unități."
+      ]
+    ],
+    [
+      "Funcția de producție și perioada analizată",
+      [
+        "Funcția Q = f(L; K) arată producția maximă posibilă cu munca L și capitalul K la o tehnologie și o perioadă date. Litera f înseamnă dependență. Ea nu este un semn de înmulțire și nu reprezintă singură o formulă de calcul.",
+        "Pe termen scurt cel puțin un factor este fix. Mai mulți angajați pot fi adăugați înainte de instalarea unui cuptor nou. Pe termen lung toate cantitățile factorilor pot fi ajustate. „Scurt” și „lung” depind de tehnologia și decizia studiate. Nu sunt definite obligatoriu prin un an calendaristic.",
+        "Unele tehnologii permit înlocuirea treptată a muncii cu capital. Alte tehnologii cer proporții fixe. O funcție liniară descrie o substituție foarte ușoară în domeniul ei. O funcție cu proporții fixe este limitată de factorul insuficient. O funcție de tip Cobb–Douglas permite o substituție graduală cu contribuții care depind de cantități."
+      ]
+    ],
+    [
+      "Produsul total și media și sporul",
+      [
+        "Produsul total TP este întregul rezultat într-o perioadă. Produsul mediu AP împarte rezultatul la cantitatea unui factor. Produsul marginal MP măsoară sporul datorat unei unități suplimentare din factorul variabil cu celelalte condiții neschimbate.",
+        "Presupunem o singură tavă cu maximum 30 de pâini identice. Amestecarea ingredientelor și frământarea durează 30 de minute. Dospirea înseamnă timpul de creștere a aluatului și are aceeași durată în comparație. Urmează pregătirea pentru coacere și o oră de coacere. O pâine și 30 de pâini identice cer aceeași durată de coacere în cuptorul dat.",
+        "Pentru aceeași coacere echipele cu 0; 1; 2; 3; 4 angajați obțin 0; 20; 28; 30; 30 de pâini. Sporurile sunt 20; 8; 2; 0. Cu trei angajați media este 10 pâini pe angajat. Al patrulea nu mărește lotul în aceste condiții. Aceasta nu spune că persoana este inutilă în orice altă organizare."
+      ]
+    ],
+    [
+      "De ce scade produsul marginal?",
+      [
+        "La început specializarea sarcinilor poate mări sporul adus de un angajat. După un punct echipamentul fix și spațiul limitează avantajul suplimentar. Legea productivității marginale descrescânde privește această comparație cu cel puțin un factor fix și tehnologie neschimbată.",
+        "Un MP descrescător poate rămâne pozitiv. Atunci TP crește cu sporuri mai mici. La MP zero o unitate suplimentară nu schimbă TP. La MP negativ TP scade. Nu folosim cuvântul „descrescător” pentru a afirma automat că producția totală scade.",
+        "AP crește dacă sporul adus de resursa suplimentară depășește media anterioară. AP scade dacă sporul este sub medie. În modelul continuu uzual MP intersectează AP la maximul AP. Într-un tabel cu salturi nu este necesară o egalitate exactă între valorile afișate."
+      ]
+    ],
+    [
+      "Izocuanta și înlocuirea factorilor",
+      [
+        "Izocuanta unește combinațiile L și K care produc aceeași cantitate. O combinație cu mai multă muncă și mai puține utilaje poate aparține aceleiași curbe. Mișcarea pe curbă nu arată creșterea producției. O altă izocuantă reprezintă un alt nivel al rezultatului.",
+        "Un mixer pentru aluat preia amestecarea și frământarea. El poate economisi ore de muncă pentru aceeași cantitate și același rezultat de calitate. Nu înlocuiește automat timpul de dospire și nu mărește capacitatea cuptorului. Pentru a produce mai multe loturi sunt necesare timp suplimentar sau capacitate de coacere suplimentară.",
+        "MRTS precizează cât dintr-un factor poate fi economisit prin folosirea altui factor la Q constant. În acest seminar îl citim prin diferențe între combinații. Convenția sensului trebuie precizată. Pentru capital economisit prin muncă suplimentară folosim −ΔK/ΔL. Prețurile resurselor sunt necesare pentru a decide care combinație costă mai puțin."
+      ]
+    ],
+    [
+      "Randamentele la scară",
+      [
+        "Pentru analiza scării modificăm toți factorii în aceeași proporție la tehnologie neschimbată. Dacă producția inițială este 20 și toate resursele se dublează reperul proporțional este 40. O producție finală peste 40 indică randamente crescătoare. Valoarea 40 indică randamente constante. O valoare între 20 și 40 indică randamente descrescătoare.",
+        "Nu putem deduce un rezultat exact de 50 numai din faptul că resursele s-au dublat. El trebuie dat de tehnologie sau de condițiile exemplului. Randamentele descrescătoare la scară nu înseamnă că firma produce mai puțin decât înainte. Înseamnă că rezultatul crește mai puțin decât proporțional cu toate resursele.",
+        "Randamentul unui factor și randamentul la scară sunt comparații diferite. Primul schimbă un factor în prezența altuia fix. Al doilea schimbă toți factorii. O firmă poate avea productivitate marginală descrescătoare pe termen scurt fără a avea automat randamente descrescătoare la scară."
+      ]
+    ],
+    [
+      "De la posibilitate tehnică la decizie",
+      [
+        "Producția posibilă nu este încă profit. O combinație trebuie evaluată prin costul resurselor și prin venitul produselor vândute. Un utilaj care economisește muncă poate fi prea scump pentru cantitatea planificată. Un spor de producție poate aduce venit mai mic decât costul său.",
+        "Ordinea utilă este: precizăm cantitatea și perioada. Identificăm combinațiile tehnic posibile. Calculăm costul lor. Verificăm cererea și rezultatul economic. Pentru încă o tavă în cuptorul cu o singură tavă avem nevoie de alt interval de coacere sau de alt cuptor. Un angajat suplimentar nu poate înlătura singur această limită fizică."
+      ]
+    ],
+    [
+      "Tehnic posibil și economic convenabil",
+      [
+        "Două combinații produc același lot de 100 de obiecte. Prima folosește 2 zile de muncă și 6 ore de utilaj. A doua folosește 4 zile de muncă și 3 ore de utilaj. Ambele sunt tehnic potrivite în datele exemplului.",
+        "La 80 de lei pe zi de muncă și 40 de lei pe oră de utilaj prima costă 400 de lei și a doua 440 de lei. Prima este mai ieftină. Dacă salariul devine 40 de lei și utilajul costă 80 de lei prima costă 560 de lei și a doua 400 de lei. Alegerea economică se inversează deși tehnologia nu s-a schimbat.",
+        "Izocuanta arată posibilitățile tehnice. Prețurile arată costul lor. O tehnologie cu mai multe utilaje nu este automat mai productivă în sensul unui rezultat mai mare și nici automat mai ieftină. Trebuie să precizăm ce păstrăm constant."
+      ]
+    ],
+    [
+      "Orele de muncă nu sunt întotdeauna numărul persoanelor",
+      [
+        "Doi angajați care lucrează câte patru ore oferă împreună opt ore de muncă. Un angajat care lucrează opt ore oferă același total de ore. Rezultatele nu trebuie să fie identice dacă lucrul simultan sau specializarea contează. Unitatea aleasă de model trebuie menținută.",
+        "Dacă L este măsurat în ore atunci AP = Q/L este produs pe oră de muncă. Dacă L este număr de lucrători pe zi AP este produs pe lucrător în ziua dată. Nu schimbăm unitatea la jumătatea calculului.",
+        "Capitalul poate fi măsurat ca număr de utilaje sau ore de funcționare în exerciții diferite. O valoare K = 27 de ore nu înseamnă 27 de utilaje. O formulă corectă numeric poate avea o interpretare greșită dacă unitățile nu sunt urmărite."
+      ]
+    ],
+    [
+      "Cum se completează un tabel cu intervale inegale?",
+      [
+        "La L = 10 se produc 60 de unități iar la L = 20 se produc 170. Sporul total este 110 dar sporul mediu pe unitate suplimentară de muncă este 110/10 = 11. Nu înscriem 110 ca MP pe lucrător.",
+        "Dacă la L = 30 se produc 300 de unități și la L = 35 se produc 350 atunci sporul este 50 pentru cinci unități de muncă. MP pe acest interval este 10. Diferențele de lungime ale intervalelor contează.",
+        "Raportul pe interval nu este obligatoriu egal cu derivata într-un punct. Pentru un tabel care nu oferă o funcție continuă nu pretindem o precizie care nu există. Graficul poate uni punctele pentru a arăta tendința fără a dovedi forma exactă dintre ele."
+      ]
+    ],
+    [
+      "Izocuante și sensul substituirii",
+      [
+        "O firmă trece între două combinații care produc 420 de unități. L crește de la 20 la 30 și K scade de la 40 la 30. Pentru fiecare unitate suplimentară de muncă se economisește în medie o unitate de capital.",
+        "Dacă următoarea trecere este de la (30; 30) la (50; 20) se economisesc 10 unități K prin 20 de unități L. Raportul este 1/2. Munca suplimentară economisește tot mai puțin capital pe aceste intervale.",
+        "Dacă întrebarea cere înlocuirea muncii prin capital raportul relevant se inversează. De aceea cuvintele „factor care înlocuiește” și „factor înlocuit” trebuie citite înainte de calcul. Un raport fără sens precizat poate fi numeric corect și economic interpretat invers."
+      ]
+    ],
+    [
+      "Extinderea proporțională și limitele ei",
+      [
+        "Un atelier folosește 4 lucrători și 2 utilaje și produce 80 de unități. O comparație de scară dublează ambele la 8 lucrători și 4 utilaje. Pentru randamente constante rezultatul ar fi 160. Pentru randamente crescătoare ar depăși 160. Pentru randamente descrescătoare ar crește mai puțin decât până la 160.",
+        "Dacă se adaugă numai lucrători până la 8 dar se păstrează 2 utilaje nu este aceeași comparație. Rezultatul privește randamentul muncii la capital fix. Nu îl folosim ca dovadă a randamentului la scară.",
+        "O tehnologie nouă schimbă însăși funcția de producție. Randamentul la scară compară cantități ale factorilor în aceeași tehnologie. Separarea acestor schimbări ajută să înțelegem de unde provine creșterea rezultatului."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "Q = f(L; K)",
+      "Producția maximă la resurse și tehnologie date."
+    ],
+    [
+      "APl = TP/L",
+      "Produsul mediu al muncii."
+    ],
+    [
+      "MPl pe interval = ΔTP/ΔL",
+      "Sporul pe unitate de muncă suplimentară. La intervale inegale nu folosim numai diferența TP."
+    ],
+    [
+      "MRTSlk pe interval = −ΔK/ΔL",
+      "Capital economisit prin muncă suplimentară la aceeași producție."
+    ],
+    [
+      "Comparația scării",
+      "Multiplicați toți factorii cu t și comparați noul Q cu t × Q inițial."
+    ]
+  ],
+  "description": "Pornim de la munca și utilajele unei firme. Deosebim rezultatul total de media pe factor și de sporul unei resurse suplimentare. Comparăm apoi combinații și scări de producție.",
+  "objectives": [
+    "Identificați factorii și perioada producției.",
+    "Calculați TP și AP și MP.",
+    "Interpretați izocuantele și substituția factorilor.",
+    "Distingeți randamentul unui factor de randamentul la scară."
+  ],
+  "conclusions": [
+    "Mai multă muncă nu produce automat un spor constant. Factorii fixați și tehnologia contează.",
+    "Izocuanta păstrează rezultatul constant în timp ce se schimbă combinația resurselor.",
+    "Schimbarea unui factor și schimbarea proporțională a tuturor factorilor sunt două întrebări diferite."
+  ],
+  "questions": [
+    [
+      "Definiți conceptul de producție.",
+      "Producția este procesul prin care întreprinderea combină și transformă resursele pentru a obține bunuri sau servicii utile. Noțiunea desemnează și rezultatul acestui proces. Munca angajaților împreună cu echipamentele și materialele permite obținerea produselor care vor fi oferite consumatorilor."
+    ],
+    [
+      "Caracterizați factorii de producție tradiționali și neofactorii.",
+      "Factorii tradiționali sunt munca și natura și capitalul real. Munca reprezintă activitatea fizică și intelectuală a oamenilor. Natura cuprinde resursele naturale. Capitalul real include bunurile produse anterior și folosite pentru a produce alte bunuri. Neofactorii includ tehnologia și informația și capacitatea de organizare a întreprinzătorului. Ei influențează modul în care sunt folosite resursele. Banii finanțează cumpărarea echipamentelor și a materialelor. Ei nu înlocuiesc singuri capacitatea tehnică a unui cuptor."
+    ],
+    [
+      "Explicați funcția de producție.",
+      "Funcția de producție arată cantitatea maximă care se poate obține cu resursele date și cu o tehnologie dată într-o perioadă precizată. Notăm Q pentru cantitatea de produs și L pentru muncă și K pentru capital. Relația se scrie Q = f(L; K). Funcția descrie o posibilitate tehnică. Ea nu arată direct profitul. Aceeași cantitate de produs poate fi obținută prin combinații diferite de muncă și capital atunci când tehnologia permite substituirea."
+    ],
+    [
+      "Ce se înțelege prin combinarea factorilor de producție și ce împrejurări o determină?",
+      "Combinarea factorilor înseamnă alegerea cantităților de muncă și capital și a celorlalte resurse care vor participa la producție. Alegerea depinde de tehnologie și de resursele disponibile și de prețurile factorilor. Un utilaj poate prelua o operațiune manuală și poate reduce orele de muncă necesare pentru aceeași cantitate. Întreprinderea compară posibilitățile tehnice și costurile pentru a alege o combinație potrivită."
+    ],
+    [
+      "Ce importanță are determinarea produsului total și a produsului mediu și a produsului marginal al unui factor? Care sunt modalitățile de determinare?",
+      "Produsul total TP arată întreaga cantitate obținută în perioada analizată. Produsul mediu AP arată cantitatea care revine unei unități de factor. Produsul marginal MP arată sporul producției asociat unei unități suplimentare de factor. Pentru muncă notăm L pentru cantitatea utilizată. Calculăm AP = TP/L și MP = ΔTP/ΔL. Simbolul Δ arată modificarea indicatorului. Calculul marginal compară aceeași durată de producție cu capitalul și tehnologia neschimbate. Indicatorii disting mărimea producției de media obținută și de sporul adus de resursa suplimentară."
+    ],
+    [
+      "Un întreprinzător dorește să își extindă producția. Îi este necesară analiza evoluției produsului marginal? Argumentați.",
+      "Analiza produsului marginal este necesară deoarece producția totală poate crește cu sporuri tot mai mici. Un lucrător suplimentar poate adăuga producție fără a fi la fel de productiv ca lucrătorul angajat anterior. Întreprinzătorul verifică sporul posibil și capacitatea utilajelor. Decizia de extindere cere și compararea venitului suplimentar cu costul resurselor suplimentare. Numai creșterea produsului total nu demonstrează rentabilitatea extinderii."
+    ],
+    [
+      "Explicați importanța legii productivității marginale descrescânde în organizarea producției.",
+      "Legea arată că sporirea unui factor variabil reduce după un anumit punct sporul său de producție atunci când cel puțin un alt factor este fix și tehnologia rămâne aceeași. Mai mulți lucrători pot pregăti aluatul mai repede. Același cuptor păstrează însă capacitatea de coacere pentru aceeași perioadă. Organizarea producției trebuie să țină cont de această limită. Extinderea capacității poate deveni necesară pentru creșterea în continuare a producției."
+    ],
+    [
+      "Ce este izocuanta și care sunt proprietățile sale?",
+      "Izocuanta este curba combinațiilor de muncă și capital care asigură același volum al producției cu aceeași tehnologie. Deplasarea pe aceeași curbă schimbă combinația factorilor fără a schimba cantitatea produsă. Izocuantele aceleiași tehnologii nu se intersectează. O curbă mai îndepărtată de origine indică de regulă un nivel mai mare al producției. Forma obișnuită este descrescătoare și convexă spre origine. Forma exactă depinde de tehnologie. Proporțiile fixe dintre factori limitează substituirea."
+    ],
+    [
+      "Ce este rata marginală de substituție tehnologică a factorilor de producție și ce semnificație are ea?",
+      "Rata marginală de substituție tehnologică arată cantitatea dintr-un factor care poate fi înlocuită printr-o unitate suplimentară din celălalt factor fără schimbarea producției. Pentru înlocuirea capitalului cu muncă urmărim cât capital poate fi economisit prin muncă suplimentară. Pentru înlocuirea muncii cu capital urmărim câtă muncă poate fi economisită prin capital suplimentar. Sensul substituirii trebuie precizat înaintea calculului. Raportul variațiilor dintre două combinații descrie rata medie pe acel segment."
+    ],
+    [
+      "Care este distincția dintre randamentele factoriale și randamentele la scară?",
+      "Randamentele factoriale privesc modificarea unui singur factor cu ceilalți factori păstrați constanți. Randamentele la scară privesc modificarea tuturor factorilor în aceeași proporție la tehnologie neschimbată. La dublarea tuturor factorilor o producție inițială de 100 de unități poate fi comparată cu 250 de unități pentru randamente crescătoare sau cu 200 pentru randamente constante sau cu 160 pentru randamente descrescătoare. Ultimul rezultat înseamnă o creștere a producției mai mică decât dublarea resurselor. Nu înseamnă scăderea producției față de nivelul inițial."
+    ]
+  ],
+  "tf": [
+    [
+      "Posibilitățile de producție ale unei firme pot fi descrise cu ajutorul funcției de producție.",
+      "corect: Adevărat Funcția de producție leagă cantitățile de factori de producția maximă posibilă pentru aceeași tehnologie. Ea descrie posibilitățile tehnice ale firmei."
+    ],
+    [
+      "Izocuanta este expresia grafică a unor cantități diferite de producție obținute cu aceleași cantități de factori de producție.",
+      "corect: Fals O izocuantă arată combinații diferite de factori care asigură aceeași producție. Niveluri diferite de producție aparțin unor izocuante diferite."
+    ],
+    [
+      "Rata marginală de substituție tehnologică a muncii prin capital exprimă cantitatea de muncă necesară pentru a suplini pierderea de producție generată de renunțarea la o unitate de capital.",
+      "corect: Fals Enunțul inversează sensul substituirii. Renunțarea la capital compensată prin muncă suplimentară descrie înlocuirea capitalului cu muncă. Înlocuirea muncii cu capital înseamnă folosirea de capital suplimentar pentru a reduce cantitatea de muncă fără schimbarea producției."
+    ],
+    [
+      "Un produs marginal negativ al factorului variabil reduce volumul total al producției.",
+      "corect: Adevărat Un produs marginal negativ înseamnă că unitatea suplimentară din factorul variabil reduce produsul total. Comparația se face la aceeași durată a activității cu ceilalți factori și tehnologia neschimbați."
+    ],
+    [
+      "Reducerea produsului mediu al factorului variabil implică și reducerea volumului total al producției.",
+      "corect: Fals Produsul mediu poate scădea în timp ce producția totală crește. Un lucrător produce 10 unități. Doi lucrători produc 18 unități în aceeași perioadă cu același capital. Media scade de la 10 la 9 unități pe lucrător și totalul crește de la 10 la 18."
+    ],
+    [
+      "Acțiunea legii productivității marginale descrescânde se manifestă doar când cantitățile utilizate ale tuturor factorilor de producție se modifică cu aceeași mărime.",
+      "corect: Fals Legea privește creșterea unui factor variabil în condițiile unui factor fix și ale unei tehnologii neschimbate. Modificarea tuturor factorilor în aceeași proporție ține de analiza randamentelor la scară."
+    ],
+    [
+      "Dublarea volumului producției în cazul unui randament de scară crescător presupune o creștere proporțională a consumului de factori de producție.",
+      "corect: Fals Randamentele crescătoare înseamnă că dublarea tuturor factorilor produce mai mult decât dublul producției inițiale. Dublarea producției poate necesita în aceste condiții o creștere a tuturor factorilor mai mică decât dublarea lor. O creștere proporțională a producției și a tuturor factorilor caracterizează randamentele constante."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "O funcție de producție relevă:",
+      "options": [
+        "cantitatea minimă de factori necesari pentru realizarea unui anumit volum al producției;",
+        "producția maximă care poate fi obținută cu un anumit volum de factori de producție;",
+        "corelația dintre factorii de producție utilizați și rezultatele obținute sub formă de produse și servicii;",
+        "variantele de combinare a factorilor de producție care sunt eficiente din punct de vedere tehnic;",
+        "toate răspunsurile sunt corecte;",
+        "niciun răspuns nu este corect."
+      ],
+      "answer": "Răspuns corect: e Funcția descrie frontiera tehnică a producției. Ea asociază resursele cu producția maximă posibilă și permite identificarea combinațiilor tehnic eficiente pentru un volum dat. Variantele a și b și c și d descriu aspecte ale aceleiași relații tehnice. Varianta e le reunește."
+    },
+    {
+      "q": "Cantitatea de factori de producție crește cu 25% și producția se majorează cu 40%. Randamentele la scară sunt:",
+      "options": [
+        "crescătoare;",
+        "descrescătoare;",
+        "constante."
+      ],
+      "answer": "Răspuns corect: a Producția crește cu 40% la o creștere a tuturor factorilor cu 25%. Producția crește mai mult decât proporțional față de resurse. Aceasta indică randamente la scară crescătoare. Comparația presupune aceeași tehnologie și creșterea tuturor factorilor în aceeași proporție."
+    },
+    {
+      "q": "Capitalul ca factor de producție reprezintă:",
+      "options": [
+        "sumele de bani pe care un întreprinzător le investește în desfășurarea unei activități economice;",
+        "bunuri rezultate din alte activități economice și utilizate în procesul de producție a altor bunuri;",
+        "veniturile întreprinzătorilor rezultate în urma activităților economice desfășurate;",
+        "motivul substituirii pe scară largă a muncii în majoritatea firmelor moderne."
+      ],
+      "answer": "Răspuns corect: b Capitalul real cuprinde bunuri produse anterior și folosite pentru producerea altor bunuri. Cuptoarele și utilajele sunt exemple. Banii pot finanța cumpărarea lor. Venitul întreprinzătorului reprezintă o altă noțiune."
+    },
+    {
+      "q": "Care enunț exprimă rata marginală de substituție tehnologică a factorilor de producție?",
+      "options": [
+        "produsul marginal al factorului care substituie raportat la produsul marginal al factorului substituit;",
+        "numărul de unități ale factorului substituit care revine la o unitate a factorului care substituie;",
+        "creșterea producției raportată la creșterea cantităților utilizate ale factorilor de producție;",
+        "produsul marginal al factorului substituit raportat la produsul marginal al factorului care substituie."
+      ],
+      "answer": "Răspunsuri corecte: a și b Varianta a exprimă rata prin raportul produselor marginale. Varianta b exprimă aceeași idee prin cantitatea din factorul înlocuit care revine unei unități suplimentare din factorul care îl înlocuiește. Ambele descrieri presupun producție constantă. Raportul produselor marginale dă rata într-un punct. Raportul variațiilor dintre două combinații dă rata medie pe segment."
+    },
+    {
+      "q": "Producția totală crește cu o rată crescătoare atunci când:",
+      "options": [
+        "produsul marginal este mai mare decât produsul mediu;",
+        "produsul marginal este mai mic decât produsul mediu;",
+        "produsul mediu este egal cu produsul marginal;",
+        "produsul mediu este mai mic decât produsul marginal până la nivelul la care acesta din urmă este maxim."
+      ],
+      "answer": "Răspuns corect: d Varianta d delimitează în reprezentarea obișnuită intervalul de dinaintea maximului produsului marginal. Produsul marginal crește în acest interval și fiecare unitate suplimentară de muncă adaugă mai mult decât cea precedentă. Criteriul decisiv este creșterea lui MP. Relația MP > AP singură nu este suficientă. Produsul marginal poate începe să scadă în timp ce rămâne încă deasupra produsului mediu."
+    },
+    {
+      "q": "Care enunț definește produsul marginal al unui factor de producție?",
+      "options": [
+        "raportul dintre volumul producției și factorul de producție consumat;",
+        "raportul dintre factorul de producție consumat și volumul producției obținute;",
+        "sporul de producție obținut prin creșterea cu o unitate a volumului factorului de producție variabil."
+      ],
+      "answer": "Răspuns corect: c Produsul marginal este sporul producției obținut printr-o unitate suplimentară din factorul variabil cu ceilalți factori păstrați constanți. Raportul dintre producția totală și cantitatea factorului măsoară produsul mediu."
+    },
+    {
+      "q": "Funcția de producție semnifică:",
+      "options": [
+        "costurile necesare pentru producerea unui volum de bunuri;",
+        "volumul maximal de bunuri care poate fi obținut cu diferite combinații de factori de producție;",
+        "volumul minimal de bunuri care poate fi obținut cu o anumită combinație de factori de producție."
+      ],
+      "answer": "Răspuns corect: b Funcția de producție arată producția maximă posibilă pentru cantitățile de factori și tehnologia date. Costurile necesită și prețurile factorilor. Ele nu sunt descrise numai de funcția tehnică de producție."
+    },
+    {
+      "q": "Dublarea producției în cazul randamentelor la scară descrescătoare presupune:",
+      "options": [
+        "creșterea proporțională a factorilor de producție;",
+        "sporirea cantității factorilor consumați într-o proporție mai mare decât creșterea producției;",
+        "reducerea factorilor de producție utilizați."
+      ],
+      "answer": "Răspuns corect: b Randamentele descrescătoare la scară înseamnă că sporirea tuturor factorilor cu un anumit procent mărește producția cu un procent mai mic. Dublarea producției necesită astfel o creștere a tuturor factorilor mai mare decât dublarea lor la aceeași tehnologie."
+    },
+    {
+      "q": "Factorii variabili ai producției sunt acei factori:",
+      "options": [
+        "care pot fi modificați relativ rapid în cazul modificării volumului producției;",
+        "care nu pot fi modificați relativ rapid în cazul modificării volumului producției;",
+        "al căror preț este instabil;",
+        "al căror preț nu poate fi controlat."
+      ],
+      "answer": "Răspuns corect: a Un factor variabil poate fi ajustat în perioada analizată în funcție de producția dorită. Caracterul variabil privește cantitatea utilizată. El nu este definit prin instabilitatea prețului."
+    },
+    {
+      "q": "Una dintre următoarele afirmații nu se referă la produsul marginal:",
+      "options": [
+        "descrește în cele din urmă prin sporirea continuă a cantității din factorul de producție variabil;",
+        "se poate determina și ca derivată de ordinul întâi a funcției producției totale;",
+        "este întotdeauna mai mare decât produsul mediu;",
+        "reprezintă sporul de producție obținut prin creșterea cu o unitate a cantității din factorul de producție variabil."
+      ],
+      "answer": "Răspuns corect: c Produsul marginal nu este întotdeauna mai mare decât produsul mediu. El poate fi mai mare sau egal sau mai mic. După atingerea maximului produsului mediu produsul marginal devine mai mic decât acesta în reprezentarea obișnuită."
+    }
+  ],
+  "number": 5,
+  "solved": [
+    {
+      "title": "Dublarea producției cu productivitate mai mare",
+      "condition": "Producția este de 3000 de unități cu 125 de muncitori. Se dorește dublarea producției și creșterea produsului mediu al muncii cu 25%.",
+      "requirements": [
+        "Determinați numărul suplimentar de muncitori necesari."
+      ],
+      "steps": [
+        "Produsul mediu inițial este 3000/125 = <strong>24 de unități pe muncitor</strong>.",
+        "Produsul mediu nou este 24 × 5/4 = <strong>30</strong>. Producția dorită este 6000.",
+        "Numărul total necesar este 6000/30 = <strong>200 de muncitori</strong>. Angajările suplimentare sunt 200 − 125 = <strong>75</strong>."
+      ],
+      "conclusion": "O productivitate mai mare permite dublarea producției cu o creștere mai mică decât dublarea numărului de muncitori.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Funcție cu muncă și capital",
+      "condition": "Q = 30 × K<sup>1/3</sup> × L<sup>1/2</sup>. Cantitatea zilnică a capitalului este 27 de ore și a muncii este 25 de ore.",
+      "requirements": [
+        "Calculați produsul total și produsul mediu al muncii.",
+        "Determinați modificarea producției dacă K crește cu 10% și L scade cu 20%."
+      ],
+      "steps": [
+        "Rădăcina cubică din 27 este 3 și rădăcina pătrată din 25 este 5. Producția este 30 × 3 × 5 = <strong>450</strong>.",
+        "Produsul mediu al muncii este 450/25 = <strong>18 unități pe oră de muncă</strong>.",
+        "Noile valori sunt K1 = 297/10 și L1 = 20. Raportul producțiilor este <strong>(11/10)<sup>1/3</sup> × (4/5)<sup>1/2</sup></strong>.",
+        "Producția nouă este exact 450 × (11/10)<sup>1/3</sup> × (4/5)<sup>1/2</sup>. Este aproximativ 415 și 48 de sutimi. Scăderea este de aproximativ 7 și 67 de sutimi de procent. Nu folosim simpla însumare a procentelor resurselor."
+      ],
+      "conclusion": "Reducerea muncii domină creșterea capitalului în această modificare combinată.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Izocuante și productivitatea muncii",
+      "condition": "Tabelul prezintă producția pentru combinații de muncă L și capital K.",
+      "requirements": [
+        "Construiți izocuantele pentru Q = 300 și Q = 420.",
+        "Determinați TP și AP și MP al muncii la K = 20. Construiți graficele și analizați relațiile.",
+        "Calculați rata de substituție tehnologică pe intervalele izocuantei Q = 420."
+      ],
+      "steps": [
+        "Pentru Q = 300 punctele (L; K) sunt <strong>(20; 30)</strong> și <strong>(30; 20)</strong>. Pentru Q = 420 punctele sunt <strong>(20; 40)</strong> și <strong>(30; 30)</strong> și <strong>(50; 20)</strong>. Unirea lor ilustrează izocuantele cunoscute din tabel.",
+        "La K = 20 valorile TP sunt 60; 170; 300; 350; 380; 420. Împărțim fiecare valoare la L pentru AP.",
+        "MP pe interval este ΔQ/ΔL. Obținem <strong>11; 13; 10; 6; 4</strong> pe intervalele 10–20 și 20–30 și 30–35 și 35–40 și 40–50. MP pentru prima poziție nu este determinat fără un nivel anterior.",
+        "Definim MRTSlk drept capitalul economisit pe o unitate suplimentară de muncă la același Q: −ΔK/ΔL. Pentru Q = 420 valorile sunt <strong>1</strong> între primele două puncte și <strong>1/2</strong> între ultimele două.",
+        "Pe intervalele târzii TP continuă să crească deși MP scade. AP crește când sporul pe muncitor depășește media anterioară și scade când sporul este sub medie. Tabelul nu permite deducerea unei funcții continue unice."
+      ],
+      "conclusion": "Izocuanta păstrează producția constantă. Curba produsului total schimbă munca la capital constant. Sunt două comparații diferite.",
+      "tables": [
+        {
+          "headers": [
+            "L / K",
+            10,
+            20,
+            30,
+            40
+          ],
+          "rows": [
+            [
+              10,
+              40,
+              60,
+              70,
+              76
+            ],
+            [
+              20,
+              60,
+              170,
+              300,
+              420
+            ],
+            [
+              30,
+              110,
+              300,
+              420,
+              540
+            ],
+            [
+              35,
+              120,
+              350,
+              470,
+              590
+            ],
+            [
+              40,
+              130,
+              380,
+              500,
+              630
+            ],
+            [
+              50,
+              144,
+              420,
+              540,
+              640
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Izocuante din combinațiile cunoscute",
+          "xlabel": "L · unități",
+          "ylabel": "K · unități",
+          "series": [
+            {
+              "label": "Q = 300",
+              "points": [
+                [
+                  20,
+                  30
+                ],
+                [
+                  30,
+                  20
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "Q = 420",
+              "points": [
+                [
+                  20,
+                  40
+                ],
+                [
+                  30,
+                  30
+                ],
+                [
+                  50,
+                  20
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Produsul total la K = 20",
+          "xlabel": "L · unități",
+          "ylabel": "Q · unități",
+          "series": [
+            {
+              "label": "TP",
+              "points": [
+                [
+                  10,
+                  60
+                ],
+                [
+                  20,
+                  170
+                ],
+                [
+                  30,
+                  300
+                ],
+                [
+                  35,
+                  350
+                ],
+                [
+                  40,
+                  380
+                ],
+                [
+                  50,
+                  420
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Produsul mediu și marginal la K = 20",
+          "xlabel": "L · unități",
+          "ylabel": "Unități de produs / L",
+          "series": [
+            {
+              "label": "AP",
+              "points": [
+                [
+                  10,
+                  6
+                ],
+                [
+                  20,
+                  8.5
+                ],
+                [
+                  30,
+                  10
+                ],
+                [
+                  35,
+                  10
+                ],
+                [
+                  40,
+                  9.5
+                ],
+                [
+                  50,
+                  8.4
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "MP pe interval la capătul drept",
+              "points": [
+                [
+                  20,
+                  11
+                ],
+                [
+                  30,
+                  13
+                ],
+                [
+                  35,
+                  10
+                ],
+                [
+                  40,
+                  6
+                ],
+                [
+                  50,
+                  4
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ],
+      "result_tables": [
+        {
+          "headers": [
+            "L",
+            "K",
+            "TP",
+            "AP",
+            "MP pe interval"
+          ],
+          "rows": [
+            [
+              10,
+              20,
+              60,
+              6,
+              "—"
+            ],
+            [
+              20,
+              20,
+              170,
+              "17/2",
+              11
+            ],
+            [
+              30,
+              20,
+              300,
+              10,
+              13
+            ],
+            [
+              35,
+              20,
+              350,
+              10,
+              10
+            ],
+            [
+              40,
+              20,
+              380,
+              "19/2",
+              6
+            ],
+            [
+              50,
+              20,
+              420,
+              "42/5",
+              4
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Completarea indicatorilor de producție",
+      "condition": "Datele parțiale sunt în tabel. Pentru prima unitate de muncă folosim reperul Q(0) = 0.",
+      "requirements": [
+        "Completați TP și AP și MP.",
+        "Trasați curbele și explicați tendința."
+      ],
+      "steps": [
+        "Din AP1 = 6 rezultă Q1 = 6. MP2 = 12 dă Q2 = 18. Q3 = 33 dă MP3 = 15.",
+        "MP4 = 7 dă Q4 = 40. AP5 = 9 dă Q5 = 45 și MP5 = 5. Q6 = 48 dă MP6 = 3.",
+        "AP7 = 7 dă Q7 = 49 și MP7 = 1. MP8 = −9 dă Q8 = 40.",
+        "Calculăm AP = Q/L. Producția atinge maximul discret de 49 la 7 muncitori. După al treilea muncitor sporurile scad. La al optulea sporul este negativ și TP scade."
+      ],
+      "conclusion": "Un produs marginal descrescător poate rămâne pozitiv. Numai după trecerea sub zero producția totală scade.",
+      "tables": [
+        {
+          "headers": [
+            "L",
+            "TP inițial",
+            "AP inițial",
+            "MP inițial"
+          ],
+          "rows": [
+            [
+              1,
+              "—",
+              6,
+              "—"
+            ],
+            [
+              2,
+              "—",
+              "—",
+              12
+            ],
+            [
+              3,
+              33,
+              "—",
+              "—"
+            ],
+            [
+              4,
+              "—",
+              "—",
+              7
+            ],
+            [
+              5,
+              "—",
+              9,
+              "—"
+            ],
+            [
+              6,
+              48,
+              "—",
+              "—"
+            ],
+            [
+              7,
+              "—",
+              7,
+              "—"
+            ],
+            [
+              8,
+              "—",
+              "—",
+              -9
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Produsul total",
+          "xlabel": "L · muncitori",
+          "ylabel": "Q · unități",
+          "series": [
+            {
+              "label": "TP",
+              "points": [
+                [
+                  1,
+                  6
+                ],
+                [
+                  2,
+                  18
+                ],
+                [
+                  3,
+                  33
+                ],
+                [
+                  4,
+                  40
+                ],
+                [
+                  5,
+                  45
+                ],
+                [
+                  6,
+                  48
+                ],
+                [
+                  7,
+                  49
+                ],
+                [
+                  8,
+                  40
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Produsul mediu și marginal",
+          "xlabel": "L · muncitori",
+          "ylabel": "Unități / muncitor",
+          "series": [
+            {
+              "label": "AP",
+              "points": [
+                [
+                  1,
+                  6
+                ],
+                [
+                  2,
+                  9
+                ],
+                [
+                  3,
+                  11
+                ],
+                [
+                  4,
+                  10
+                ],
+                [
+                  5,
+                  9
+                ],
+                [
+                  6,
+                  8
+                ],
+                [
+                  7,
+                  7
+                ],
+                [
+                  8,
+                  5
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "MP",
+              "points": [
+                [
+                  1,
+                  6
+                ],
+                [
+                  2,
+                  12
+                ],
+                [
+                  3,
+                  15
+                ],
+                [
+                  4,
+                  7
+                ],
+                [
+                  5,
+                  5
+                ],
+                [
+                  6,
+                  3
+                ],
+                [
+                  7,
+                  1
+                ],
+                [
+                  8,
+                  -9
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ],
+      "result_tables": [
+        {
+          "headers": [
+            "L",
+            "TP",
+            "AP",
+            "MP"
+          ],
+          "rows": [
+            [
+              1,
+              6,
+              6,
+              6
+            ],
+            [
+              2,
+              18,
+              9,
+              12
+            ],
+            [
+              3,
+              33,
+              11,
+              15
+            ],
+            [
+              4,
+              40,
+              10,
+              7
+            ],
+            [
+              5,
+              45,
+              9,
+              5
+            ],
+            [
+              6,
+              48,
+              8,
+              3
+            ],
+            [
+              7,
+              49,
+              7,
+              1
+            ],
+            [
+              8,
+              40,
+              5,
+              -9
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Utilaj fix și muncă variabilă",
+      "condition": "Firma folosește un singur utilaj. Producțiile totale pentru 1–7 muncitori sunt în tabel. Pentru primul muncitor folosim Q(0) = 0.",
+      "requirements": [
+        "Calculați AP și MP.",
+        "Reprezentați grafic TP și AP și MP.",
+        "Comentați relațiile dintre indicatori."
+      ],
+      "steps": [
+        "AP = Q/L. Valorile sunt <strong>100; 110; 150; 160; 156; 120; 80</strong>.",
+        "MP = ΔQ pentru creșteri de câte un muncitor. Valorile sunt <strong>100; 120; 230; 190; 140; −60; −160</strong>.",
+        "AP este maxim la 4 muncitori. La al patrulea muncitor MP = 190 depășește media anterioară de 150. La al cincilea MP = 140 este sub media anterioară de 160.",
+        "TP este maxim la 5 muncitori. La 6 și 7 muncitori MP este negativ. Utilajul și organizarea fixă nu permit creșterea continuă a producției doar prin adăugarea de muncitori."
+      ],
+      "conclusion": "Media și sporul măsoară lucruri diferite. Maximul AP și maximul TP nu trebuie să apară la aceeași cantitate de muncă.",
+      "tables": [
+        {
+          "headers": [
+            "L",
+            "K",
+            "TP",
+            "AP",
+            "MP"
+          ],
+          "rows": [
+            [
+              1,
+              1,
+              100,
+              "—",
+              "—"
+            ],
+            [
+              2,
+              1,
+              220,
+              "—",
+              "—"
+            ],
+            [
+              3,
+              1,
+              450,
+              "—",
+              "—"
+            ],
+            [
+              4,
+              1,
+              640,
+              "—",
+              "—"
+            ],
+            [
+              5,
+              1,
+              780,
+              "—",
+              "—"
+            ],
+            [
+              6,
+              1,
+              720,
+              "—",
+              "—"
+            ],
+            [
+              7,
+              1,
+              560,
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ],
+      "charts": [
+        {
+          "title": "Produsul total",
+          "xlabel": "L · muncitori",
+          "ylabel": "Q · unități",
+          "series": [
+            {
+              "label": "TP",
+              "points": [
+                [
+                  1,
+                  100
+                ],
+                [
+                  2,
+                  220
+                ],
+                [
+                  3,
+                  450
+                ],
+                [
+                  4,
+                  640
+                ],
+                [
+                  5,
+                  780
+                ],
+                [
+                  6,
+                  720
+                ],
+                [
+                  7,
+                  560
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        },
+        {
+          "title": "Produsul mediu și marginal",
+          "xlabel": "L · muncitori",
+          "ylabel": "Unități / muncitor",
+          "series": [
+            {
+              "label": "AP",
+              "points": [
+                [
+                  1,
+                  100
+                ],
+                [
+                  2,
+                  110
+                ],
+                [
+                  3,
+                  150
+                ],
+                [
+                  4,
+                  160
+                ],
+                [
+                  5,
+                  156
+                ],
+                [
+                  6,
+                  120
+                ],
+                [
+                  7,
+                  80
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "MP",
+              "points": [
+                [
+                  1,
+                  100
+                ],
+                [
+                  2,
+                  120
+                ],
+                [
+                  3,
+                  230
+                ],
+                [
+                  4,
+                  190
+                ],
+                [
+                  5,
+                  140
+                ],
+                [
+                  6,
+                  -60
+                ],
+                [
+                  7,
+                  -160
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ],
+      "result_tables": [
+        {
+          "headers": [
+            "L",
+            "TP",
+            "AP",
+            "MP"
+          ],
+          "rows": [
+            [
+              1,
+              100,
+              100,
+              100
+            ],
+            [
+              2,
+              220,
+              110,
+              120
+            ],
+            [
+              3,
+              450,
+              150,
+              230
+            ],
+            [
+              4,
+              640,
+              160,
+              190
+            ],
+            [
+              5,
+              780,
+              156,
+              140
+            ],
+            [
+              6,
+              720,
+              120,
+              -60
+            ],
+            [
+              7,
+              560,
+              80,
+              -160
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "new": [
+    {
+      "title": "O brutărie cu un cuptor",
+      "condition": "Pentru aceeași oră de coacere un cuptor poate primi o singură tavă de cel mult 30 de pâini. Cu 1; 2; 3 și 4 angajați pregătirea permite obținerea a 20; 28; 30 și 30 de pâini. Fără angajați producția este zero.",
+      "requirements": [
+        "Calculați produsul marginal al fiecărui angajat.",
+        "Calculați produsul mediu pentru trei angajați."
+      ],
+      "hints": "Comparați producțiile succesive. Împărțiți producția totală la numărul angajaților.",
+      "question": "De ce al patrulea angajat nu mărește producția în condițiile date?",
+      "answer": "MP20;8;2;0. APpentru3=10. Cuptorullimiteazălotul."
+    },
+    {
+      "title": "Mai multă muncă",
+      "condition": "Un atelier produce 48 de obiecte pe zi cu 4 angajați și 65 de obiecte cu 5 angajați. Utilajele și durata zilei rămân aceleași.",
+      "requirements": [
+        "Calculați produsul marginal al celui de-al cincilea angajat.",
+        "Comparați produsele medii."
+      ],
+      "hints": "Diferența de producție se raportează la un singur angajat suplimentar.",
+      "question": "De ce poate crește produsul mediu în acest caz?",
+      "answer": "MP17. APinițial12 și final13. MPeste pesteAPinițial."
+    },
+    {
+      "title": "Extinderea producției",
+      "condition": "O firmă produce 1200 de unități pe săptămână cu 40 lucrători. Vrea să producă 1800 de unități. Se estimează un produs mediu de 36 de unități pe lucrător.",
+      "requirements": [
+        "Calculați numărul total necesar de lucrători.",
+        "Găsiți angajările suplimentare."
+      ],
+      "hints": "Împărțiți producția dorită la noul produs mediu.",
+      "question": "De ce producția poate crește mai repede decât numărul angajaților?",
+      "answer": "50lucrătoriîn total.10suplimentari. APinițial30 și final36."
+    },
+    {
+      "title": "Aceeași producție",
+      "condition": "Pentru 100 de obiecte sunt posibile combinațiile L = 2 și K = 6 respectiv L = 4 și K = 3. L reprezintă zile de muncă și K ore de utilaj. Prețurile sunt 80 de lei pentru L și 40 de lei pentru K.",
+      "requirements": [
+        "Calculați costul fiecărei combinații.",
+        "Alegeți combinația mai ieftină dintre cele două."
+      ],
+      "hints": "Ambele variante produc aceeași cantitate.",
+      "question": "Dovedește alegerea costului minim că varianta produce mai mult?",
+      "answer": "Costuri400 și440. Primaeste maiieftină. Producțiaesteaceeași100."
+    },
+    {
+      "title": "Scară mai mare",
+      "condition": "O echipă dublează toate resursele la aceeași tehnologie. Producția crește de la 50 la 120 de unități pe zi.",
+      "requirements": [
+        "Comparați creșterea producției cu cea a resurselor.",
+        "Identificați randamentul la scară."
+      ],
+      "hints": "Producția de referință pentru dublare este 100.",
+      "question": "De ce nu numim aceasta simpla creștere a unui factor variabil?",
+      "answer": "Resurse+100% producție+140%. Randamente crescătoare. Toate resurselesemodifică."
+    },
+    {
+      "title": "Un rezultat mai mic decât dublul",
+      "condition": "Toate resursele unui atelier se dublează. Producția crește de la 80 la 140 de unități. Tehnologia rămâne aceeași.",
+      "requirements": [
+        "Clasificați randamentul la scară.",
+        "Explicați dacă producția totală scade."
+      ],
+      "hints": "Comparați 140 cu 160 și separat cu 80.",
+      "question": "De ce „descrescător” nu înseamnă aici producție mai mică?",
+      "answer": "Randamente descrescătoare. Producția crește60unități darmai puțindecâtdublul."
+    },
+    {
+      "title": "Produs marginal negativ",
+      "condition": "Cu 5 angajați într-un spațiu fix se produc 90 de unități pe zi. Cu 6 angajați se produc 84. Restul condițiilor nu se schimbă.",
+      "requirements": [
+        "Calculați produsul marginal al ultimului angajat.",
+        "Calculați noul produs mediu."
+      ],
+      "hints": "Păstrați semnul diferenței de producție.",
+      "question": "Ce problemă de organizare ar putea explica rezultatul?",
+      "answer": "MP−6. AP14. Aglomerareasauincomodarea înspațiulfix."
+    },
+    {
+      "title": "Factori în proporții fixe",
+      "condition": "Fiecare post funcțional cere un angajat și două aparate. Firma are 3 angajați și 8 aparate. Un post complet produce 10 unități pe oră.",
+      "requirements": [
+        "Calculați numărul de posturi complete și producția.",
+        "Arătați efectul adăugării unui angajat fără alte aparate."
+      ],
+      "hints": "Numărul de posturi este limitat de factorul insuficient.",
+      "question": "De ce aparatele nefolosite nu produc singure?",
+      "answer": "Inițial3posturi30unități. După4posturi40unități. Douăaparateerau neutilizate."
+    },
+    {
+      "title": "Funcție simplă de producție",
+      "condition": "Producția este Q = 4L + 2K. Firma folosește L = 5 și K = 6. Presupunem că funcția este valabilă în intervalul analizat.",
+      "requirements": [
+        "Calculați producția.",
+        "Calculați producția dacă ambii factori se dublează."
+      ],
+      "hints": "Înlocuiți valorile în aceeași funcție.",
+      "question": "Ce randament la scară descrie acest exemplu?",
+      "answer": "Q32. DupădublareQ64. Randamenteconstante."
+    },
+    {
+      "title": "Două combinații pe o izocuantă",
+      "condition": "Pentru același lot o firmă poate trece de la L = 4 și K = 10 la L = 6 și K = 7. Prețurile resurselor nu sunt cunoscute.",
+      "requirements": [
+        "Calculați capitalul economisit pe unitate suplimentară de muncă pe acest interval.",
+        "Precizați dacă puteți alege varianta cu cost minim."
+      ],
+      "hints": "Raportați reducerea lui K la creșterea lui L.",
+      "question": "Ce informație lipsește pentru alegerea economică?",
+      "answer": "Se economisesc3K pentru2L deci3/2KperL. Fărăprețurinu știmcostul minim."
+    }
+  ],
+  "title": "Teoria producției",
+  "model_fallback": {
+    "result": "TP = 28 pâini. AP = 14. MP = 8. Aceeași tavă are maximum 30 pâini.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">1</text><text x=\"60\" y=\"265\" text-anchor=\"end\">8</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">2</text><text x=\"60\" y=\"195\" text-anchor=\"end\">17</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"125\" text-anchor=\"end\">25</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">4</text><text x=\"60\" y=\"55\" text-anchor=\"end\">34</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">L · angajați</text><text x=\"18\" y=\"28\">Pâini / coacere</text><polyline points=\"70,330 202.0754716981132,163.33333333333334 334.1509433962264,96.66666666666669 466.2264150943396,80.00000000000003 598.3018867924528,80.00000000000003\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"96.66666666666669\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">TP</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

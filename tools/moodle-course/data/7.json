@@ -1,0 +1,523 @@
+{
+  "theory": [
+    [
+      "De ce vânzări mai mari nu înseamnă profit mai mare?",
+      [
+        "Un atelier vinde mai multe produse într-o săptămână. Încasările cresc. Pentru comenzile suplimentare însă folosește ore suplimentare și transport mai scump. Rezultatul net poate crește sau poate scădea. Firma trebuie să compare banii obținuți cu valoarea resurselor folosite.",
+        "Profitul total este TR−TC. Profitul contabil scade costurile explicite din calculul respectiv. Profitul economic include și costurile implicite ale resurselor proprii. Un proprietar poate avea profit contabil pozitiv și totuși să câștige mai puțin decât în cea mai bună alternativă disponibilă.",
+        "Profitul normal este remunerația necesară pentru păstrarea resurselor proprii în activitate. El este inclus în costul economic. Profit economic zero nu înseamnă muncă fără remunerație. Înseamnă că afacerea acoperă inclusiv alternativa relevantă."
+      ]
+    ],
+    [
+      "Venit total și mediu și marginal",
+      [
+        "O firmă poate avea venituri din vânzări și servicii și alte activități. Pentru alegerea cantității unui produs izolăm venitul asociat vânzărilor sale. Încasarea unui împrumut nu este venitul din vânzări și nici profit.",
+        "La un preț unic TR = P × Q. Venitul mediu AR = TR/Q este egal cu P pentru Q pozitiv. Venitul marginal MR măsoară sporul încasărilor la o creștere a vânzărilor. Dacă P rămâne la 30 de lei fiecare produs suplimentar aduce 30 de lei.",
+        "Dacă pentru a vinde mai mult firma reduce prețul tuturor unităților MR este mai mic decât noul preț. Firma obține încasarea ultimei unități dar pierde o parte din încasarea unităților care s-ar fi vândut și înainte. Pentru variații finite calculăm diferența exactă a încasărilor."
+      ]
+    ],
+    [
+      "Trei maxime care nu trebuie confundate",
+      [
+        "Profitul mediu este profitul total împărțit la Q. El este P−ATC la preț unic. Profitul marginal este MR−MC. Un profit marginal pozitiv mărește profitul total. Nu înseamnă obligatoriu că profitul marginal însuși crește.",
+        "Maximul profitului mediu și maximul profitului total pot apărea la volume diferite. Un câștig mic pe multe unități poate depăși un câștig mare pe puține unități. Pentru obiectivul firmei comparăm în final profitul total.",
+        "Maximul încasărilor este o a treia țintă. La maximul interior al TR venitul marginal este zero. La maximul interior al profitului MR acoperă MC. Dacă producția suplimentară are cost pozitiv cele două maxime nu coincid în general."
+      ]
+    ],
+    [
+      "Cum alegem cantitatea?",
+      [
+        "Dacă o unitate suplimentară aduce MR mai mare decât MC ea mărește profitul. Dacă MR este mai mic decât MC ea îl reduce. În modelul continuu neted căutăm un candidat cu MR = MC.",
+        "Egalitatea singură nu garantează maximul. Verificăm dacă profitul trece de la creștere la descreștere. Comparăm limitele domeniului și oprirea. Pot exista mai multe intersecții. Un volum cu profit negativ poate fi totuși cea mai bună alegere pe termen scurt dacă alternativa produce o pierdere mai mare.",
+        "Pentru un tabel discret calculăm profitul fiecărei cantități. Pot exista două volume cu același profit maxim. Nu inventăm o egalitate exactă MR = MC între rânduri. Derivata într-un punct și diferența pentru încă o unitate nu sunt obligatoriu identice."
+      ]
+    ],
+    [
+      "Pragul de rentabilitate",
+      [
+        "La prag TR = TC. Firma nu are nici profit economic pozitiv nici pierdere în calculul tuturor costurilor relevante. Cu un preț unic și Q pozitiv condiția este P = ATC.",
+        "Dacă P și costul variabil unitar v sunt constante marja P−v contribuie la recuperarea FC. La FC = 1200 de lei și marjă de 15 lei pragul este 80 de produse. Sub prag o parte din costul fix rămâne neacoperită. Peste prag fiecare unitate adaugă marja la profit atât timp cât ipotezele se păstrează.",
+        "Dacă P este cel mult egal cu v și FC este pozitiv nu există un prag pozitiv finit de recuperare. Nu folosim un numitor zero sau negativ ca și cum formula ar da o țintă realizabilă."
+      ]
+    ],
+    [
+      "Ținta de profit și vânzările posibile",
+      [
+        "Pentru un profit dorit adăugăm ținta la FC înainte de împărțirea la marja unitară. Pentru un lot dat prețul necesar este suma TC și a profitului dorit împărțită la cantitatea vândută. Rezultatul arată prețul necesar și nu dovedește că cererea îl acceptă.",
+        "Dacă prețul scade odată cu cantitatea sau costul variabil unitar se schimbă folosim funcțiile complete. Pot exista două praguri de rentabilitate. După un volum prea mare costul suplimentar poate depăși din nou venitul suplimentar.",
+        "O decizie finală verifică vânzările posibile și perioada și capacitatea și costurile evitabile. Astfel legăm cifra calculată de o alegere economică înțeleasă."
+      ]
+    ],
+    [
+      "De la un tabel de vânzări la o alegere explicată",
+      [
+        "Un atelier are FC = 100 de lei și VC = 10Q + Q². Vinde fiecare produs cu 50 de lei. La Q = 10 venitul este 500 de lei iar costul total este 300 de lei. Profitul este 200 de lei. La Q = 20 venitul ajunge la 1000 de lei iar costul este 700 de lei. Profitul urcă la 300 de lei.",
+        "La Q = 30 venitul continuă să crească până la 1500 de lei. Costul ajunge însă la 1300 de lei. Profitul revine la 200 de lei. Vânzările mai mari decât cele de la Q = 20 nu sunt o dovadă că extinderea merită. Creșterea costului suplimentar depășește treptat venitul suplimentar.",
+        "În funcția continuă profitul este 40Q − Q² − 100. Completarea pătratului dă 300 − (Q−20)². Această formă arată direct că nicio cantitate nu poate da un profit peste 300 de lei. Egalitatea apare la Q = 20. Nu este necesar un calcul complicat pentru a verifica maximul."
+      ]
+    ],
+    [
+      "Cât putem produce și cât putem vinde?",
+      [
+        "Pragul calculat nu este o comandă de producție. Dacă un atelier trebuie să vândă 80 de obiecte pentru a recupera costurile dar clienții cumpără cel mult 60 la prețul respectiv există o problemă de fezabilitate comercială. Fabricarea a 80 de obiecte nu rezolvă singură lipsa cumpărătorilor.",
+        "Presupunem FC = 1200 de lei și cost variabil de 25 de lei pe obiect. La prețul de 40 de lei marja este 15 lei. Cele 80 de vânzări necesare acoperă costul fix. Dacă firma poate vinde numai 60 profitul este 15 × 60 − 1200 = −300 de lei. Stocul rămas nu este o încasare.",
+        "Firma poate căuta reducerea costurilor sau o ofertă diferită sau altă piață. O majorare a prețului poate mări marja dar poate reduce numărul cumpărătorilor. Pentru evaluarea acestei variante avem nevoie și de cerere. Formula pragului arată ce trebuie realizat în ipotezele sale. Cererea arată dacă ținta este posibilă."
+      ]
+    ],
+    [
+      "De ce profitul economic schimbă comparația?",
+      [
+        "O persoană obține 6000 de lei după plata tuturor costurilor explicite ale afacerii. Ar putea primi un salariu net comparabil de 4500 de lei pentru același timp. Capitalul propriu ar putea aduce încă 500 de lei într-o alternativă relevantă. Costurile implicite sunt 5000 de lei iar profitul economic este 1000 de lei.",
+        "Nu scădem salariul alternativ încă o dată dacă el a fost deja inclus în costul total folosit. Nu comparăm venitul unei luni cu alternativa unui an. Perioada și volumul resurselor trebuie să fie aceleași. Numai astfel diferența calculată are un sens economic.",
+        "Un profit economic negativ indică o alternativă mai avantajoasă în condițiile comparației. Nu impune o închidere instantanee. Pot exista obligații temporare sau costuri de schimbare. Acestea trebuie introduse explicit în decizie. O regulă corectă începe prin identificarea alternativelor efectiv disponibile."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "Profit = TR − TC",
+      "Rezultatul total."
+    ],
+    [
+      "AR = TR/Q = P",
+      "La preț unic și Q pozitiv."
+    ],
+    [
+      "MR = ΔTR/ΔQ",
+      "Sporul de venit pe interval. Punctual se poate folosi derivata."
+    ],
+    [
+      "Profit mediu = P − ATC",
+      "Nu se confundă cu profitul total."
+    ],
+    [
+      "Profit marginal = MR − MC",
+      "Semnul arată sensul schimbării profitului total."
+    ],
+    [
+      "Q prag = FC/(P−v)",
+      "Preț și cost variabil unitar constante cu P &gt; v."
+    ],
+    [
+      "Q țintă = (FC + profit dorit)/(P−v)",
+      "Aceleași ipoteze și verificarea cererii."
+    ]
+  ],
+  "description": "Deosebim încasările de profit și alegem volumul prin comparații marginale. Calculăm pragul de rentabilitate și verificăm țintele firmei.",
+  "objectives": [
+    "Calculați veniturile și profitul total și mediu și marginal.",
+    "Verificați alegerea cantității prin MR și MC.",
+    "Calculați pragul și volumul pentru un profit dorit.",
+    "Distingeți profitul maxim de încasările maxime."
+  ],
+  "conclusions": [
+    "Profitul compară veniturile cu toate costurile relevante.",
+    "MR și MC ghidează ajustarea. Alegerea finală cere verificarea maximului și a alternativelor.",
+    "Prețul sau volumul necesar unei ținte trebuie verificat și față de cerere."
+  ],
+  "questions": [
+    [
+      "Care este scopul activității tuturor firmelor care au un comportament rațional?",
+      "În modelul studiat firma urmărește profitul economic total maxim în condițiile restricțiilor sale. Firmele reale pot avea și alte obiective. Maximizarea încasărilor singură nu este aceeași decizie."
+    ],
+    [
+      "Care indicator este diferența dintre veniturile totale și costurile contabile?",
+      "Profitul contabil. Pentru profitul economic scădem și costurile implicite relevante."
+    ],
+    [
+      "Care indicator reflectă modificarea veniturilor totale la majorarea vânzărilor cu o unitate?",
+      "Venitul marginal MR. Pe un interval MR = ΔTR/ΔQ. Într-un model continuu folosim derivata lui TR."
+    ],
+    [
+      "Care indicator este diferența dintre veniturile marginale și costurile marginale?",
+      "Profitul marginal. El arată contribuția unei modificări suplimentare a producției la profit."
+    ],
+    [
+      "Care este condiția generală de maximizare a profitului pentru orice structură a pieței?",
+      "La un optim interior neted MR = MC și profitul trebuie să treacă de la creștere la descreștere. Comparăm și colțurile și oprirea. Într-un tabel discret comparăm profiturile totale."
+    ],
+    [
+      "Cum se numește cantitatea la care firma nu înregistrează nici profit nici pierderi?",
+      "Pragul de rentabilitate. TR = TC și P = ATC pentru cantitatea vândută la un preț unic."
+    ]
+  ],
+  "tf": [
+    [
+      "Profitul economic depășește profitul contabil cu mărimea profitului normal.",
+      "Fals. Profitul economic este profitul contabil minus costurile implicite. Profitul normal remunerează oportunitatea resurselor proprii și este inclus în costul economic."
+    ],
+    [
+      "Firma își extinde activitatea dacă MC al unității suplimentare depășește MR al acesteia.",
+      "Fals. Unitatea cu MC mai mare decât MR reduce profitul. În condițiile uzuale extinderea este avantajoasă când MR depășește MC."
+    ],
+    [
+      "Dacă cererea produselor firmei are pantă descrescătoare MR depășește prețul.",
+      "Fals pentru prețul unic. Vânzarea suplimentară cere reducerea prețului și asupra unităților deja vândute. MR este sub P."
+    ],
+    [
+      "Profitul total maxim corespunde cantității la care ATC este minim.",
+      "Fals în general. Profitul total este maxim la cea mai mare diferență TR−TC. Minimul ATC este o altă condiție."
+    ],
+    [
+      "Cantitatea care maximizează profitul total asigură și profit mediu maxim.",
+      "Fals. Înmulțirea profitului mediu cu cantitatea schimbă criteriul de alegere. Cele două maxime pot apărea la volume diferite."
+    ],
+    [
+      "Dacă MR depășește MC vânzarea unei unități suplimentare mărește profitul marginal al firmei.",
+      "Fals în formularea literală. MR mai mare decât MC înseamnă profit marginal pozitiv și creșterea profitului total. Nu demonstrează că profitul marginal însuși crește față de unitatea precedentă."
+    ],
+    [
+      "Dacă prețul nu se modifică veniturile totale variază liniar cu cantitatea vândută.",
+      "Adevărat. TR = P × Q cu P constant."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Care relații permit calcularea venitului marginal?",
+      "options": [
+        "MR = P × (1 + 1/Ed)",
+        "MR = (P × ΔQ + ΔP × Q)/ΔQ",
+        "MR = Δ(P × Q)/ΔQ",
+        "MR = ΔTR/ΔQ",
+        "toate variantele precedente sunt corecte"
+      ],
+      "answer": "c și d sunt identități pentru variații finite. Varianta a este relația punctuală pentru o cerere diferențiabilă și un preț unic. Varianta b este exactă pentru diferențiale sau o aproximație de ordinul întâi dacă se folosesc valori inițiale. Pentru variații finite exacte trebuie adăugat termenul ΔP × ΔQ. În convenția marginală continuă se poate intenționa e. Nu amestecăm această convenție cu diferențele finite fără precizare."
+    },
+    {
+      "q": "Care relație permite determinarea profitului total?",
+      "options": [
+        "TP = TC − TR",
+        "TP = Q × (P − ATC)",
+        "TP = P × Q",
+        "TP = MR − MC",
+        "TP = ΔTP/ΔQ"
+      ],
+      "answer": "b. Q × P este venitul total și Q × ATC este costul total. Diferența este profitul total."
+    },
+    {
+      "q": "Care relații permit calcularea profitului marginal?",
+      "options": [
+        "MP = P × (1 + 1/Ed)",
+        "MP = TR − TC",
+        "MP = ΔTP/ΔQ",
+        "MP = MR − MC",
+        "sunt corecte c și d"
+      ],
+      "answer": "e. În acest test MP desemnează profit marginal. În teoria producției aceeași abreviere poate desemna produsul marginal. Contextul trebuie precizat."
+    },
+    {
+      "q": "Firma vinde 1000 de unități. AVC este 35/2 lei și AFC este 4 lei. Prețul este 25 de lei. Care este venitul total?",
+      "options": [
+        "3500 de lei",
+        "4000 de lei",
+        "17500 de lei",
+        "21500 de lei",
+        "25000 de lei"
+      ],
+      "answer": "e. TR = 25 × 1000 = 25000 de lei."
+    },
+    {
+      "q": "Care este profitul total în situația testului precedent?",
+      "options": [
+        "3500 de lei",
+        "4000 de lei",
+        "17500 de lei",
+        "21500 de lei",
+        "25000 de lei"
+      ],
+      "answer": "a. ATC = 35/2 + 4 = 43/2. TC = 21500. Profit = 25000 − 21500 = 3500 de lei."
+    },
+    {
+      "q": "TC = Q^2 + 50Q și P = 300 de lei. Care este rezultatul la Q = 250?",
+      "options": [
+        "pierdere de 50000 de lei",
+        "profit de 50000 de lei",
+        "profit de 75000 de lei",
+        "pierdere de 75000 de lei",
+        "niciun răspuns precedent nu este corect"
+      ],
+      "answer": "e. TR = 75000 și TC = 62500 + 12500 = 75000. Profitul este zero."
+    },
+    {
+      "q": "Tabelul descrie alternativele firmei. Până la ce cantitate firma își mărește vânzările?",
+      "options": [
+        "200 de unități",
+        "300 de unități",
+        "400 de unități",
+        "500 de unități",
+        "600 de unități"
+      ],
+      "answer": "b. Profiturile pentru Q de la 100 la 600 sunt 1000; 2000; 3000; 0; −10000; −24000 de lei. Maximul din tabel este la 300 de unități.",
+      "tables": [
+        {
+          "headers": [
+            "Q",
+            "P · lei",
+            "ATC · lei"
+          ],
+          "rows": [
+            [
+              100,
+              100,
+              90
+            ],
+            [
+              200,
+              90,
+              80
+            ],
+            [
+              300,
+              80,
+              70
+            ],
+            [
+              400,
+              70,
+              70
+            ],
+            [
+              500,
+              60,
+              80
+            ],
+            [
+              600,
+              50,
+              90
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "q": "Valoarea absolută a elasticității cererii este 1/2 și prețul este 100 u.m. Care este MR?",
+      "options": [
+        "300 u.m.",
+        "100 u.m.",
+        "−50 u.m.",
+        "−100 u.m."
+      ],
+      "answer": "d pentru elasticitatea proprie semnată Ed = −1/2. MR = 100 × (1 − 2) = −100."
+    },
+    {
+      "q": "Profitul total se află într-o dependență inversă de:",
+      "options": [
+        "prețul produsului",
+        "cantitatea vândută",
+        "nivelul costurilor de producție",
+        "elasticitatea cererii după preț",
+        "niciun răspuns precedent nu este corect"
+      ],
+      "answer": "c în sensul că la aceleași venituri un cost mai mare reduce profitul. Relația este o scădere aditivă și nu proporționalitate inversă strictă de forma k/TC. Formularea „invers proporțională” trebuie citită cu această limită."
+    },
+    {
+      "q": "Firma care maximizează profitul mărește cantitatea dacă:",
+      "options": [
+        "TR depășește TC",
+        "MR depășește MC",
+        "MR este egal cu MC",
+        "MR este sub MC"
+      ],
+      "answer": "b în comparația marginală uzuală. Profitul pozitiv existent nu dovedește că următoarea unitate îl mărește."
+    }
+  ],
+  "number": 7,
+  "solved": [
+    {
+      "title": "Venitul marginal și maximul încasărilor",
+      "condition": "Venitul total al firmei este TR = 300Q − Q^2. Firma vinde 150 de unități.",
+      "requirements": [
+        "Determinați venitul marginal la această cantitate.",
+        "Explicați prin diferite metode efectul majorării cantității asupra venitului total."
+      ],
+      "steps": [
+        "Pentru funcția continuă venitul marginal este MR = 300 − 2Q. La Q = 150 rezultă <strong>MR = 0</strong>.",
+        "Rescriem TR = 22500 − (Q − 150)^2. Pătratul este nenegativ. Prin urmare <strong>TR maxim = 22500</strong> la Q = 150.",
+        "Pentru o creștere finită cu h unități rezultă TR(150 + h) − TR(150) = −h^2. La încă o unitate încasările scad cu 1. Valoarea marginală continuă zero nu înseamnă variație finită zero."
+      ],
+      "conclusion": "La 150 de unități încasările sunt maxime. Profitul maxim nu poate fi determinat fără costuri.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Recuperarea costurilor și un profit dorit",
+      "condition": "Prețul este 100 de lei pe produs. Costul fix total este 60000 de lei. Costul variabil unitar este 20 de lei.",
+      "requirements": [
+        "Determinați cantitatea pentru recuperarea costurilor.",
+        "Determinați cantitatea pentru un profit total de 80000 de lei."
+      ],
+      "steps": [
+        "Fiecare produs aduce o contribuție de 100 − 20 = <strong>80 de lei</strong> pentru costul fix și profit.",
+        "La prag avem 100Q = 60000 + 20Q. Rezultă Q = 60000/80 = <strong>750 de unități</strong>.",
+        "Pentru profitul dorit rezolvăm 80Q − 60000 = 80000. Q = 140000/80 = <strong>1750 de unități</strong>. Verificare: TR = 175000 de lei și TC = 95000 de lei. Diferența este 80000 de lei."
+      ],
+      "conclusion": "Pragul acoperă costurile. Pentru un profit pozitiv trebuie depășit acest volum dacă prețul și costul variabil unitar rămân constante.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Pragul din costul mediu",
+      "condition": "Costul mediu total este ATC = 40 + 4000/Q. Prețul este 80 de lei.",
+      "requirements": [
+        "Determinați pragul de rentabilitate."
+      ],
+      "steps": [
+        "Pragul înseamnă P = ATC. Scriem 80 = 40 + 4000/Q.",
+        "40Q = 4000. Rezultă <strong>Q = 100 de unități</strong>.",
+        "TC = 40Q + 4000. La Q = 100 costul este 8000 de lei. TR = 80 × 100 = 8000 de lei. Profitul este zero."
+      ],
+      "conclusion": "Costul fix de 4000 de lei este recuperat prin marja de 40 de lei a fiecărei unități.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Prețul care acoperă costul unui lot",
+      "condition": "Costul total este TC = 50 + Q^2. Firma intenționează să vândă 10 unități.",
+      "requirements": [
+        "Determinați prețul pentru recuperarea costurilor."
+      ],
+      "steps": [
+        "La Q = 10 costul total este 50 + 100 = <strong>150</strong>.",
+        "Prețul de recuperare este TC/Q = 150/10 = <strong>15 pe unitate</strong>.",
+        "La acest preț TR = 15 × 10 = 150. Nu putem verifica dacă întreaga cantitate se va vinde fără o informație despre cerere."
+      ],
+      "conclusion": "Prețul calculat asigură recuperarea costului numai dacă lotul planificat este efectiv vândut.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Prețul pentru profitul planificat",
+      "condition": "Firma intenționează să vândă 600 de unități și să obțină profit total de 40000 de lei. Costul total este 26000 de lei și costul variabil este 18000 de lei.",
+      "requirements": [
+        "Determinați prețul pentru profitul dorit."
+      ],
+      "steps": [
+        "Venitul necesar este TC + profit = 26000 + 40000 = <strong>66000 de lei</strong>.",
+        "P = 66000/600 = <strong>110 lei pe unitate</strong>.",
+        "Control: FC = 26000 − 18000 = 8000 de lei. Marja unitară este 110 − 18000/600 = 80 de lei. 600 × 80 − 8000 = 40000 de lei."
+      ],
+      "conclusion": "Prețul este un preț de realizare a țintei la volumul dat. Cererea trebuie să permită vânzarea celor 600 de unități.",
+      "tables": [],
+      "charts": []
+    }
+  ],
+  "new": [
+    {
+      "title": "Încasări și profit",
+      "condition": "O firmă vinde 80 de obiecte pe săptămână la 50 de lei. Costul total este 3000 de lei.",
+      "requirements": [
+        "Calculați TR și profitul.",
+        "Calculați profitul mediu."
+      ],
+      "hints": "Nu confundați încasările cu rezultatul după costuri.",
+      "question": "Ce sumă poate fi folosită pentru a evalua rezultatul net?",
+      "answer": "TR4000 profit1000 profitmediu25/2."
+    },
+    {
+      "title": "Pragul atelierului",
+      "condition": "Costul fix lunar este 1200 de lei. Prețul unui produs este 40 de lei și costul variabil unitar este 25 de lei. Firma vinde tot ce produce în intervalul analizat.",
+      "requirements": [
+        "Calculați pragul de rentabilitate.",
+        "Verificați rezultatul prin TR și TC."
+      ],
+      "hints": "Marja pe unitate contribuie la acoperirea costului fix.",
+      "question": "Ce înseamnă profit zero în modelul economic?",
+      "answer": "Q80. TR3200 TC3200."
+    },
+    {
+      "title": "Un obiectiv de profit",
+      "condition": "Un serviciu se vinde cu 60 de lei. Costul variabil unitar este 20 de lei și costul fix lunar este 2000 de lei. Firma dorește profit de 1200 de lei.",
+      "requirements": [
+        "Calculați numărul necesar de servicii.",
+        "Calculați încasările corespunzătoare."
+      ],
+      "hints": "Adăugați profitul dorit la costul fix înainte de împărțire.",
+      "question": "De ce pragul de rentabilitate nu este suficient pentru obiectiv?",
+      "answer": "Q80 TR4800. Prag50."
+    },
+    {
+      "title": "O unitate în plus",
+      "condition": "La 20 de obiecte TR este 1000 de lei și TC este 820 de lei. La 21 de obiecte TR este 1040 de lei și TC este 850 de lei.",
+      "requirements": [
+        "Calculați MR și MC pentru unitatea suplimentară.",
+        "Calculați schimbarea profitului."
+      ],
+      "hints": "Folosiți diferențele între cele două situații.",
+      "question": "Merită această extindere dacă restul condițiilor rămân aceleași?",
+      "answer": "MR40 MC30 sporprofit10. Da."
+    },
+    {
+      "title": "Un volum prea mare",
+      "condition": "La 30 de unități MR este 25 de lei și MC este 32 de lei. Valorile descriu costul și venitul ultimei unități. Producția poate fi redusă cu o unitate.",
+      "requirements": [
+        "Calculați contribuția ultimei unități la profit.",
+        "Indicați direcția ajustării."
+      ],
+      "hints": "Scădeți costul marginal din venitul marginal.",
+      "question": "De ce încasări mai mari nu înseamnă automat profit mai mare?",
+      "answer": "Contribuție−7. Reducereaproducției cuunitateamarginală măreșteprofitul7lei."
+    },
+    {
+      "title": "Contabil și economic",
+      "condition": "Încasările lunare sunt 15000 de lei. Costurile explicite sunt 10000 de lei. Costul implicit al timpului și capitalului proprietarului este 4000 de lei.",
+      "requirements": [
+        "Calculați cele două profituri.",
+        "Explicați diferența."
+      ],
+      "hints": "Profitul economic include toate costurile de oportunitate relevante.",
+      "question": "De ce rezultatul contabil poate părea mai mare?",
+      "answer": "Contabil5000 economic1000 diferență4000."
+    },
+    {
+      "title": "Preț pentru recuperare",
+      "condition": "O firmă produce 200 de obiecte. Costul total al lotului este 7000 de lei. Toate obiectele sunt vândute la același preț.",
+      "requirements": [
+        "Calculați prețul de recuperare a costului.",
+        "Calculați prețul necesar pentru un profit total de 1000 de lei."
+      ],
+      "hints": "Împărțiți suma care trebuie recuperată la cantitate.",
+      "question": "Ce rol are volumul vânzărilor în această comparație?",
+      "answer": "Preț35lei pentruzero și40pentruprofit1000."
+    },
+    {
+      "title": "Preț sau cantitate",
+      "condition": "Firma vinde inițial 100 de produse la 30 de lei. După reducerea prețului vinde 120 de produse la 28 de lei. Costul variabil este 15 lei pe produs și costul fix este 800 de lei în ambele situații.",
+      "requirements": [
+        "Calculați profiturile.",
+        "Comparați avantajul modificării."
+      ],
+      "hints": "Calculați separat TR și TC pentru fiecare situație.",
+      "question": "Este creșterea cantității suficientă pentru a decide?",
+      "answer": "InițialTR3000TC2300profit700. FinalTR3360TC2600profit760. Spor60."
+    },
+    {
+      "title": "Tabel de decizie",
+      "condition": "Pentru Q = 1; 2; 3; 4 loturi încasările totale sunt 100; 180; 240; 280 de lei. Costurile totale sunt 80; 120; 180; 260 de lei.",
+      "requirements": [
+        "Calculați profitul fiecărui volum.",
+        "Alegeți un volum cu profit maxim."
+      ],
+      "hints": "Comparați profitul total și identificați orice egalitate.",
+      "question": "Poate exista mai mult de un volum optim într-un tabel discret?",
+      "answer": "Profit20;60;60;20. Q2și3 ambeleoptime."
+    },
+    {
+      "title": "Mai multă chirie",
+      "condition": "Prețul este 50 de lei pe produs și costul variabil unitar este 30 de lei. Costul fix crește de la 1000 la 1400 de lei pe lună.",
+      "requirements": [
+        "Calculați cele două praguri de rentabilitate.",
+        "Explicați efectul asupra marjei pe unitate."
+      ],
+      "hints": "Costul fix modifică suma de recuperat și nu marja unitară.",
+      "question": "De ce trebuie vândute mai multe produse pentru recuperarea costurilor?",
+      "answer": "Prag50și70. Marja20neschimbată."
+    }
+  ],
+  "title": "Maximizarea profitului și pragul de rentabilitate al firmei",
+  "model_fallback": {
+    "result": "P = 50 · TC = 100 + 10Q + Q². TR = 1000 · TC = 700 · Profit = 300. Maximul este 300 la Q = 20. MR = 50 și MC = 50.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">12</text><text x=\"60\" y=\"265\" text-anchor=\"end\">721</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">24</text><text x=\"60\" y=\"195\" text-anchor=\"end\">1442</text><path d=\"M490.00000000000006 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490.00000000000006\" y=\"354\" text-anchor=\"middle\">36</text><text x=\"60\" y=\"125\" text-anchor=\"end\">2163</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">48</text><text x=\"60\" y=\"55\" text-anchor=\"end\">2884</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei</text><polyline points=\"70,330 598.3018867924528,111.55339805825247\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,320.29126213592235 81.74004192872117,319.22330097087377 93.48008385744234,317.9611650485437 105.22012578616352,316.50485436893206 116.96016771488469,314.8543689320388 128.70020964360586,313.00970873786406 140.44025157232704,310.97087378640776 152.18029350104823,308.7378640776699 163.92033542976938,306.31067961165047 175.66037735849056,303.68932038834953 187.40041928721172,300.873786407767 199.1404612159329,297.86407766990294 210.88050314465409,294.6601941747573 222.62054507337524,291.2621359223301 234.36058700209645,287.66990291262135 246.1006289308176,283.88349514563106 257.84067085953876,279.90291262135923 269.5807127882599,275.7281553398058 281.3207547169811,271.3592233009709 293.0607966457023,266.79611650485435 304.80083857442344,262.03883495145635 316.54088050314465,257.0873786407767 328.2809224318658,251.94174757281556 340.02096436058696,246.60194174757282 351.76100628930817,241.06796116504856 363.5010482180293,235.33980582524273 375.2410901467505,229.41747572815535 386.9811320754717,223.3009708737864 398.7211740041929,216.99029126213594 410.461215932914,210.4854368932039 422.2012578616352,203.78640776699032 433.9412997903564,196.89320388349518 445.6813417190775,189.80582524271847 457.42138364779873,182.52427184466023 469.1614255765199,175.04854368932044 480.90146750524104,167.37864077669906 492.64150943396226,159.51456310679612 504.3815513626834,151.45631067961168 516.1215932914046,143.20388349514565 527.8616352201257,134.7572815533981 539.6016771488469,126.11650485436897 551.3417190775681,117.28155339805829 563.0817610062893,108.25242718446606 574.8218029350105,99.02912621359226 586.5618448637316,89.61165048543694 598.3018867924528,80.00000000000006\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"304.80083857442344\" cy=\"232.9126213592233\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">TR</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">TC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

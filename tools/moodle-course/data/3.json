@@ -1,0 +1,865 @@
+{
+  "theory": [
+    [
+      "Două reacții care par asemănătoare",
+      [
+        "Două magazine reduc prețul cu 10%. Unul vinde cu 2% mai mult. Celălalt vinde cu 25% mai mult. Ambele observă o creștere a cantității dar intensitatea reacției diferă. Elasticitatea transformă această diferență într-un raport între modificări procentuale.",
+        "Panta măsoară o modificare în unități fizice pe unitate monetară. Elasticitatea compară procente și nu are unitate de măsură. Schimbarea kilogramelor în grame modifică panta numerică. Ea nu schimbă elasticitatea aceleiași relații."
+      ]
+    ],
+    [
+      "Elasticitatea cererii după preț",
+      [
+        "Pentru o cerere obișnuită prețul și cantitatea se mișcă în sensuri opuse. Coeficientul semnat este negativ. La clasificare comparăm valoarea sa absolută cu 1. Peste 1 cererea este elastică. Sub 1 este inelastică. La 1 este unitar elastică.",
+        "Cererea perfect inelastică este verticală: cantitatea nu se schimbă la prețuri diferite în domeniul modelului. Cererea perfect elastică este orizontală: o mică scumpire față de nivelul relevant poate elimina cererea adresată unui singur ofertant. Sunt cazuri-limită și nu descrieri obligatorii ale unor bunuri în orice context.",
+        "Pentru o cerere liniară Qd = a − bP elasticitatea punctuală este −bP/Q. Panta rămâne aceeași. Raportul P/Q se schimbă. Deasupra mijlocului segmentului cererea este elastică. Sub mijloc este inelastică. În mijloc valoarea absolută este 1."
+      ]
+    ],
+    [
+      "Într-un punct sau pe un interval?",
+      [
+        "Elasticitatea punctuală descrie sensibilitatea locală. Dacă prețul se modifică puțin putem aproxima schimbarea procentuală a cantității prin coeficient înmulțit cu schimbarea procentuală a prețului. Pentru variații mari această regulă poate pierde din exactitate.",
+        "Elasticitatea pe arc folosește două puncte. Metoda punctului de mijloc raportează variația cantității la media cantităților și variația prețului la media prețurilor. Rezultatul nu depinde de sensul în care parcurgem intervalul. Nu combinăm în aceeași formulă procente calculate când față de început când față de medie.",
+        "Dacă P sau Q necesare în raport sunt zero unele formule nu sunt definite. Nu înlocuim automat o împărțire la zero cu o cifră obișnuită. Verificăm domeniul și eventual interpretarea-limită."
+      ]
+    ],
+    [
+      "Încasările pot crește când prețul scade",
+      [
+        "Încasările totale sunt TR = P × Q. O reducere a prețului aduce mai puțini bani pentru fiecare unitate și poate aduce mai multe unități vândute. Rezultatul depinde de intensitatea celui de-al doilea efect.",
+        "În zona elastică a unei cereri neschimbate o reducere mică de preț mărește TR. În zona inelastică aceeași direcție reduce TR. La elasticitate unitară efectele se compensează local. Pentru o cerere liniară încasările sunt maxime la mijlocul segmentului.",
+        "Pentru două situații finite calculăm direct noile încasări. Dacă prețul scade cu 10% și cantitatea crește cu 20% raportul încasărilor este 9/10 × 6/5 = 27/25. Creșterea este 8%. Nu este 10% deoarece cele două procente se aplică unor mărimi care se înmulțesc. Încasări mai mari nu înseamnă automat profit mai mare."
+      ]
+    ],
+    [
+      "De ce diferă sensibilitatea cumpărătorilor?",
+      [
+        "Alternativele apropiate fac înlocuirea mai ușoară. Un produs definit foarte îngust poate avea mai mulți substituenți decât o categorie largă. Cererea pentru o anumită marcă poate fi mai sensibilă decât cererea pentru întreaga categorie. Comparația trebuie să folosească aceeași perioadă și aceeași piață.",
+        "Ponderea în buget și posibilitatea amânării și timpul pentru adaptare pot conta. Pentru un consum indispensabil reacția poate fi mică pe termen scurt. Pe termen lung oamenii pot schimba echipamente sau obiceiuri. Acestea sunt tendințe și nu un clasament universal al bunurilor."
+      ]
+    ],
+    [
+      "Venitul și legătura dintre bunuri",
+      [
+        "Elasticitatea după venit compară schimbarea procentuală a cantității cerute cu schimbarea procentuală a venitului. O valoare pozitivă indică un bun normal. O valoare negativă indică un bun inferior în intervalul analizat. Pentru bunurile normale o valoare între 0 și 1 arată reacție mai mică decât proporțională. O valoare peste 1 indică reacție mai mult decât proporțională.",
+        "Elasticitatea încrucișată compară cererea unui bun cu prețul altui bun. Un coeficient pozitiv este asociat substituției. Un coeficient negativ este asociat complementarității. O valoare apropiată de zero arată o legătură mică în condițiile analizate. Semnul elasticității după venit nu trebuie folosit pentru a clasifica elasticitatea după preț."
+      ]
+    ],
+    [
+      "Oferta și împărțirea unui impozit",
+      [
+        "Elasticitatea ofertei măsoară reacția cantității oferite la preț. O capacitate nefolosită poate permite creșteri rapide. Un utilaj specializat sau o durată lungă de construcție poate limita adaptarea. Pe termen lung oferta este adesea mai elastică deoarece se pot modifica mai multe resurse.",
+        "În modelul concurențial partea care reacționează mai puțin poate evita mai greu impozitul prin schimbarea cantității. Ea suportă o parte mai mare din povară. La cerere perfect inelastică povara poate reveni cumpărătorilor. La ofertă perfect inelastică ea revine producătorilor în comparația standard.",
+        "Pentru un impozit mic lângă echilibru ponderea cumpărătorului este Es/(Es + valoarea absolută a lui Ed). Formula este locală și presupune modelul concurențial obișnuit. Nu o folosim ca o regulă exactă pentru orice cotă mare sau pentru monopol."
+      ]
+    ],
+    [
+      "Calculul procentelor înainte de calculul elasticității",
+      [
+        "O cantitate crește de la 100 la 120. Sporul absolut este 20 de unități. Raportat la nivelul inițial sporul este 20%. Dacă parcurgem aceeași schimbare invers scăderea este 20 din 120 și reprezintă 50/3%. Cele două procente diferă deoarece baza este diferită.",
+        "Nu este o eroare de aritmetică. Este o diferență de convenție. Elasticitatea pe arc prin punctul de mijloc folosește aceeași bază medie în ambele sensuri. Media celor două cantități este 110. Variația relativă pe arc este 20/110 și își schimbă numai semnul la inversarea comparației.",
+        "Înainte de calcul notăm P1 și P2 și Q1 și Q2. Scriem ΔP = P2−P1 și ΔQ = Q2−Q1. Apoi precizăm baza. Această ordine reduce riscul de a inversa un semn sau de a combina două metode diferite."
+      ]
+    ],
+    [
+      "Un calcul punctual pas cu pas",
+      [
+        "Considerăm Qd = 100 − 2P la P = 20. Cantitatea este 60. Coeficientul −2 spune că o creștere a prețului cu o unitate reduce cantitatea cu două unități în funcția dată. Elasticitatea este −2 × 20/60 = −2/3.",
+        "Modulul 2/3 este sub 1. Cererea este inelastică în acest punct. O scumpire mică de 3% reduce cantitatea cu aproximativ 2%. Dacă folosim exact funcția și prețul crește de la 20 la 103/5 cantitatea scade de la 60 la 294/5. Scăderea este într-adevăr 2% față de baza inițială în acest caz liniar.",
+        "Aceeași cerere la P = 40 dă Q = 20. Elasticitatea devine −4. Coeficientul funcției nu s-a schimbat. Sensibilitatea procentuală este mai mare fiindcă prețul este mai mare raportat la cantitatea rămasă.",
+        "Un elev poate observa că linia are aceeași înclinare și poate presupune elasticitate constantă. Calculul arată de ce presupunerea este greșită. Elasticitatea folosește și poziția punctului."
+      ]
+    ],
+    [
+      "Un calcul pe arc fără schimbarea convenției",
+      [
+        "Prețul scade de la 30 la 20 de lei iar cantitatea crește de la 40 la 60 de unități. Modificarea cantității este 20 și media cantităților este 50. Modificarea prețului este −10 și media prețurilor este 25.",
+        "Elasticitatea pe arc este (20/50)/(−10/25) = −1. Dacă pornim de la situația cu preț 20 obținem (−20/50)/(10/25) și rezultatul rămâne −1. Nu este necesar să alegem arbitrar una dintre situații ca bază.",
+        "Încasările sunt 30 × 40 = 1200 de lei și 20 × 60 = 1200 de lei. În această comparație de capete ele sunt egale. Aceasta nu spune că fiecare punct intermediar are aceeași încasare. Pe o cerere liniară între capete poate exista un maxim mai mare."
+      ]
+    ],
+    [
+      "De ce maximul încasărilor este în mijlocul cererii liniare?",
+      [
+        "La Qd = 100 − 2P încasarea este TR = 100P − 2P^2. Rescriem TR = 1250 − 2(P−25)^2. Pătratul nu poate fi negativ. Cea mai mare valoare este 1250 la P = 25 și Q = 50.",
+        "În acel punct elasticitatea este −2 × 25/50 = −1. La un preț puțin mai mare firma câștigă pe fiecare unitate dar pierde o cantitate relativ mare. La un preț puțin mai mic vinde mai mult dar reducerea de preț domină încasarea suplimentară în zona inferioară.",
+        "Această explicație privește TR. Pentru profit trebuie cunoscute costurile. Dacă producerea unei unități suplimentare este costisitoare cantitatea de profit maxim poate fi mai mică decât cea de încasare maximă. Nu recomandăm ieftinirea numai pe baza creșterii vânzărilor."
+      ]
+    ],
+    [
+      "Elasticitatea unitară pe întreaga curbă este un caz diferit",
+      [
+        "O relație P × Q = 600 are încasare constantă pentru fiecare combinație admisibilă. Cererea inversă este P = 600/Q. Ea este curbată și are elasticitate punctuală −1 în fiecare punct pozitiv.",
+        "O cerere liniară are elasticitate −1 într-un singur punct interior. Prin urmare „elasticitate unitară într-un punct” și „elasticitate unitară pe toată curba” nu sunt afirmații echivalente. Forma funcției contează.",
+        "Cazurile perfect elastic și perfect inelastic sunt de asemenea idealizări locale sau de domeniu. O ofertă verticală poate descrie numărul de locuri pentru un spectacol în seara dată. Ea nu spune că nu poate fi construită o sală nouă într-o altă perioadă."
+      ]
+    ],
+    [
+      "Cum alegem piața pentru o comparație?",
+      [
+        "Cererea pentru transport în general și cererea pentru o anumită cursă nu sunt aceeași piață. Pentru cursa exactă pot exista alte ore sau alt operator. Pentru categoria largă alternativele pot fi mai puține. O comparație a coeficienților trebuie să precizeze ce bun și ce perioadă sunt analizate.",
+        "Un bun cu pondere mică în buget poate avea o reacție mică la o variație moderată a prețului. Pentru un bun cu multe alternative apropiate chiar o variație mică poate schimba alegerea. Niciun factor singur nu determină mecanic elasticitatea.",
+        "Un consumator poate să nu își schimbe imediat locuința sau aparatul. După mai mult timp poate face investiții care reduc consumul. De aceea aceeași scumpire poate avea un efect mic în prima lună și un efect mai mare în următorii ani. Nu confundăm această adaptare cu o schimbare instantanee a pantei."
+      ]
+    ],
+    [
+      "Trei întrebări despre același bun",
+      [
+        "Pentru un produs putem avea Ed = −2 și Ei = 3/2 și Exy = −1/4. Primul coeficient spune că prețul propriu și cantitatea au sensuri opuse cu reacție procentuală puternică. Al doilea indică un bun normal cu reacție mai mult decât proporțională la venit. Al treilea indică complementaritate cu Y.",
+        "Nu putem spune că produsul este inferior doar fiindcă Ed este negativ. Semnul inferiorității privește Ei. Nu putem spune că cererea este inelastică după preț doar fiindcă Exy are modul mic. Sunt factori diferiți.",
+        "Pentru o creștere mică a venitului cu 4% coeficientul Ei = 3/2 sugerează o creștere de aproximativ 6% a cererii cu prețurile și celelalte condiții date. Pentru o scumpire a lui Y cu 8% coeficientul −1/4 sugerează o reducere de aproximativ 2%."
+      ]
+    ],
+    [
+      "Oferta poate avea aceeași pantă și altă elasticitate",
+      [
+        "O ofertă liniară Qs = 2P−10 are elasticitatea Es = 2P/(2P−10). Pentru Q pozitiv valoarea este peste 1. O ofertă Qs = 2P+10 are Es = 2P/(2P+10) sub 1. Ambele au coeficientul prețului egal cu 2.",
+        "O dreaptă a ofertei care trece prin origine are elasticitate unitară în punctele pozitive. Așadar clasificarea nu se face numai prin faptul că o linie pare mai abruptă pe desen. Interceptarea și poziția punctului sunt esențiale.",
+        "Oferta foarte elastică poate apărea când producătorii au capacitate liberă sau stocuri disponibile. Pentru produse perisabile o parte a ofertei poate trebui vândută rapid. Mobilitatea resurselor și durata producției pot explica de ce oferta reacționează mai greu."
+      ]
+    ],
+    [
+      "De la coeficienți la povara fiscală",
+      [
+        "Dacă valoarea absolută Ed este 1 și Es este 3 oferta reacționează relativ mai mult. Pentru o taxă mică ponderea cumpărătorului este 3/(3+1) = 3/4. Ponderea vânzătorului este 1/4.",
+        "La o taxă de 8 lei aproximarea locală dă 6 lei suportați prin creșterea prețului cumpărătorului și 2 lei prin scăderea sumei nete a vânzătorului. Suma este exact mărimea taxei pe unitate. Încasarea bugetară mai cere cantitatea de după taxă.",
+        "La Ed în valoare absolută egal cu Es împărțirea locală este egală. Dacă cererea este perfect inelastică și oferta se poate ajusta povara poate reveni integral cumpărătorilor. Dacă oferta este perfect inelastică povara revine vânzătorilor în modelul standard. Cazurile-limită trebuie citite împreună cu ipotezele celeilalte curbe."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "Ed = ΔQd% / ΔP%",
+      "Coeficientul semnat al cererii după preț."
+    ],
+    [
+      "Ed punctual = (dQd/dP) × P/Qd",
+      "La Qd = a−bP rezultă −bP/Qd."
+    ],
+    [
+      "Ed arc = [(Q2−Q1)/(P2−P1)] × [(P1+P2)/(Q1+Q2)]",
+      "Metoda punctului de mijloc."
+    ],
+    [
+      "Ei = ΔQd% / ΔI%",
+      "Reacția la venit."
+    ],
+    [
+      "Exy = ΔQx% / ΔPy%",
+      "Reacția cererii X la prețul Y."
+    ],
+    [
+      "Es = ΔQs% / ΔP%",
+      "Elasticitatea ofertei."
+    ],
+    [
+      "TR = P × Q",
+      "Calculați exact înainte și după o variație finită."
+    ]
+  ],
+  "description": "Măsurăm cât de puternic reacționează cantitățile la preț și venit. Legăm calculele de încasări și de capacitatea de adaptare și de povara unui impozit.",
+  "objectives": [
+    "Calculați și interpretați elasticități punctuale și pe arc.",
+    "Distingeți semnul de intensitatea reacției.",
+    "Comparați încasările înainte și după o schimbare.",
+    "Explicați sensibilitatea ofertei și incidența impozitului."
+  ],
+  "conclusions": [
+    "Elasticitatea compară procente. Nu se confundă cu panta sau cu o modificare absolută.",
+    "Încasările depind simultan de preț și de cantitate. Calculul pe arc și aproximarea punctuală au utilizări diferite.",
+    "Partea mai puțin sensibilă poate suporta o pondere mai mare dintr-un impozit în modelul concurențial standard."
+  ],
+  "questions": [
+    [
+      "Care este esența termenului de „elasticitate”?",
+      "Elasticitatea arată cât de puternic reacționează o variabilă economică atunci când se modifică un factor care o influențează."
+    ],
+    [
+      "Definiți noțiunea de elasticitate a cererii.",
+      "Elasticitatea cererii exprimă sensibilitatea volumului cererii la modificarea unui factor de influență."
+    ],
+    [
+      "Ce tipuri de elasticitate a cererii cunoașteți? Redați esența lor.",
+      "În funcție de factorul analizat distingem elasticitatea față de preț; față de venit și elasticitatea încrucișată."
+    ],
+    [
+      "Explicați tipurile cererii în funcție de mărimea coeficientului elasticității.",
+      "Cererea poate fi elastică; inelastică; unitară; perfect elastică sau perfect inelastică."
+    ],
+    [
+      "Stabiliți motivele diverselor tipuri de calcul al elasticității (punct; arc).",
+      "Calculul în punct măsoară sensibilitatea într-o poziție concretă; calculul pe arc măsoară sensibilitatea medie între două puncte."
+    ],
+    [
+      "Determinați comportamentul elasticității cererii sub influența diverșilor factori.",
+      "Contează substituenții; timpul; ponderea în buget; importanța bunului și caracterul unic al acestuia."
+    ],
+    [
+      "Efectuați o clasificare a bunurilor în funcție de valorile coeficienților elasticității după venit și prețul altor bunuri.",
+      "Elasticitatea față de venit ajută la distingerea bunurilor normale și inferioare; cea încrucișată — a bunurilor substituibile; complementare sau autonome."
+    ],
+    [
+      "Explicați dinamica încasărilor totale (TR) la modificarea prețului bunurilor cu diferit grad de elasticitate a cererii.",
+      "La cerere elastică P și TR se modifică în sens opus; la cerere inelastică în același sens; la |E|=1 TR este la maxim pentru o cerere liniară."
+    ],
+    [
+      "Determinați comportamentul elasticității ofertei sub influența diverșilor factori.",
+      "Oferta devine de regulă mai elastică atunci când firmele au timp; capacitate neutilizată; stocuri și resurse mobile."
+    ],
+    [
+      "Explicați importanța cunoașterii elasticității cererii și ofertei pentru mediul antreprenorial.",
+      "Elasticitatea ajută la decizii de preț; estimarea vânzărilor și înțelegerea efectelor impozitelor și subvențiilor."
+    ],
+    [
+      "Ce tipuri de elasticitate a ofertei în funcție de preț cunoașteți? Redați esența lor.",
+      "Oferta poate fi elastică; inelastică; unitară; perfect elastică sau perfect inelastică."
+    ]
+  ],
+  "tf": [
+    [
+      "Elasticitatea cererii în funcție de preț este constantă de-a lungul curbei cererii.",
+      "Fals ca regulă generală. Pe o cerere liniară raportul P/Q se schimbă. O funcție cu elasticitate constantă este un caz particular."
+    ],
+    [
+      "Cu cât există mai mulți substituenți pentru un bun cu atât elasticitatea cererii după preț este mai mare.",
+      "Adevărat ca tendință cu restul condițiilor comparabile. Consumatorii au mai multe alternative la scumpire."
+    ],
+    [
+      "Elasticitatea ofertei pe termen scurt este mai mare decât pe termen lung.",
+      "Fals ca tendință obișnuită. Timpul mai mare permite ajustarea capacității și intrarea altor producători."
+    ],
+    [
+      "Dacă cererea este perfect inelastică o creștere a taxei pe produs este suportată integral de consumator.",
+      "Adevărat în modelul concurențial standard cu ofertă care permite ajustarea prețului. Cantitatea cerută nu reacționează."
+    ],
+    [
+      "Oferta perfect elastică este o linie paralelă cu axa absciselor.",
+      "Adevărat. Curba este orizontală la prețul dat."
+    ],
+    [
+      "În general cererea este mai inelastică pe termen lung decât pe termen scurt.",
+      "Fals ca tendință obișnuită. Pe termen lung există mai multe posibilități de adaptare."
+    ],
+    [
+      "Dacă elasticitatea cererii după venit este negativă atunci cererea este inelastică.",
+      "Fals. Semnul negativ indică un bun inferior. El nu spune că valoarea absolută este sub 1 și nu descrie elasticitatea după preț."
+    ],
+    [
+      "Dacă două produse sunt substituibile elasticitatea încrucișată a cererii este pozitivă.",
+      "Adevărat. Scumpirea unui produs mărește cererea pentru celălalt în comparația cu ceilalți factori neschimbați."
+    ],
+    [
+      "Pentru o cerere elastică majorarea prețului mărește încasările vânzătorilor.",
+      "Fals în zona elastică a cererii neschimbate. Reducerea procentuală a cantității domină majorarea procentuală a prețului pentru schimbări locale."
+    ],
+    [
+      "Elasticitatea ofertei egală cu 2 arată că la o creștere a prețului cu 1% cantitatea oferită crește cu 2%.",
+      "Adevărat ca interpretare locală sau când procentele sunt cele date pentru calculul coeficientului. Nu este o predicție exactă pentru orice interval finit."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Când piața este în echilibru atât cererea cât și oferta sunt elastice. Care model grafic reflectă situația?",
+      "options": [
+        "modelul a",
+        "modelul b",
+        "modelul c",
+        "modelul d"
+      ],
+      "answer": "c. În modelul c oferta liniară intersectează axa prețului deasupra originii. La punctele pozitive de pe această ofertă Es este mai mare decât 1. Intersecția cu cererea este pe jumătatea superioară a segmentului descrescător al cererii. Acolo valoarea absolută a elasticității cererii depășește 1. Nu deducem elasticitatea numai din înclinarea vizuală a liniei. Modelul a are ofertă unitar elastică prin origine. În b oferta este verticală. În d oferta liniară are interceptare pozitivă pe axa cantității și este inelastică.",
+      "charts": [
+        {
+          "title": "Modelul a",
+          "xlabel": "Q",
+          "ylabel": "P",
+          "series": [
+            {
+              "label": "D",
+              "points": [
+                [
+                  0,
+                  12
+                ],
+                [
+                  100,
+                  12
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "S",
+              "points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  80,
+                  90
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null,
+          "schematic": true
+        },
+        {
+          "title": "Modelul b",
+          "xlabel": "Q",
+          "ylabel": "P",
+          "series": [
+            {
+              "label": "D",
+              "points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  90,
+                  90
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "S",
+              "points": [
+                [
+                  32,
+                  0
+                ],
+                [
+                  32,
+                  90
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null,
+          "schematic": true
+        },
+        {
+          "title": "Modelul c",
+          "xlabel": "Q",
+          "ylabel": "P",
+          "series": [
+            {
+              "label": "D",
+              "points": [
+                [
+                  0,
+                  80
+                ],
+                [
+                  100,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "S",
+              "points": [
+                [
+                  0,
+                  30
+                ],
+                [
+                  100,
+                  100
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null,
+          "schematic": true
+        },
+        {
+          "title": "Modelul d",
+          "xlabel": "Q",
+          "ylabel": "P",
+          "series": [
+            {
+              "label": "D",
+              "points": [
+                [
+                  0,
+                  70
+                ],
+                [
+                  90,
+                  0
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "S",
+              "points": [
+                [
+                  30,
+                  0
+                ],
+                [
+                  80,
+                  90
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            }
+          ],
+          "xmax": null,
+          "ymax": null,
+          "schematic": true
+        }
+      ]
+    },
+    {
+      "q": "Elasticitatea cererii după preț este −3/2. Cum se modifică veniturile vânzătorilor dacă măresc oferta bunului?",
+      "options": [],
+      "answer": "În apropierea punctului dat oferta mai mare reduce prețul și mărește cantitatea de-a lungul cererii neschimbate. În zona elastică încasările cresc. Pentru o schimbare mare care trece în zona inelastică semnul total necesită informații suplimentare."
+    },
+    {
+      "q": "Elasticitatea cererii după preț egală cu −2 semnifică:",
+      "options": [
+        "la creșterea prețului cu 1% cantitatea cerută crește cu 2%",
+        "la creșterea prețului cu 2% cantitatea oferită crește cu 1%",
+        "la creșterea prețului cu 1% cantitatea cerută scade cu 2%",
+        "la creșterea prețului cu 1% cantitatea oferită crește cu 2%"
+      ],
+      "answer": "c ca interpretare locală. Elasticitatea cererii nu descrie direct oferta."
+    },
+    {
+      "q": "Oferta este perfect inelastică. Dacă cererea crește:",
+      "options": [
+        "prețul scade și cantitatea crește",
+        "cantitatea scade și prețul crește",
+        "prețul și cantitatea cresc",
+        "prețul scade și cantitatea rămâne constantă",
+        "prețul crește și cantitatea rămâne constantă"
+      ],
+      "answer": "e. Oferta verticală fixează cantitatea. Creșterea cererii ridică prețul."
+    },
+    {
+      "q": "Taxele de școlarizare la ASEM se triplează și jumătate dintre studenți pleacă la alte universități. Cererea pentru instruire la ASEM este:",
+      "options": [
+        "inelastică",
+        "cu elasticitate unitară",
+        "elastică",
+        "toate variantele sunt incorecte"
+      ],
+      "answer": "a pentru variația observată. Cu baza inițială prețul crește cu 200% și cantitatea scade cu 50%. Raportul este −1/4. Prin metoda punctului de mijloc raportul este −2/3. Ambele au valoarea absolută sub 1. Nu putem identifica elasticitatea punctuală la fiecare preț doar din cele două puncte."
+    }
+  ],
+  "number": 3,
+  "solved": [
+    {
+      "title": "Reacția la reduceri de preț",
+      "condition": "Elasticitatea după preț a cererii pentru șamponul A este −3/10. Pentru șamponul B este −14/5.",
+      "requirements": [
+        "Estimați modificarea cantității A la reducerea prețului cu 2%.",
+        "Estimați modificarea cantității B la reducerea prețului cu 10%."
+      ],
+      "steps": [
+        "Folosim aproximația ΔQ% ≈ Ed × ΔP%. Scăderea prețului are semn negativ.",
+        "Pentru A: (−3/10) × (−2%) = <strong>+3/5%</strong>. Cererea este inelastică după preț deoarece 3/10 &lt; 1.",
+        "Pentru B: (−14/5) × (−10%) = <strong>+28%</strong>. Cererea este elastică după preț deoarece 14/5 &gt; 1.",
+        "Aceste rezultate folosesc elasticitățile date ca repere locale. Pentru o variație mare exactitatea necesită cunoașterea funcției cererii pe întreg intervalul."
+      ],
+      "conclusion": "Același sens al modificării prețului poate produce reacții procentuale foarte diferite.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Cerere liniară și încasări",
+      "condition": "Qd = 40 − 2P. Tabelul prețurilor este prezentat mai jos.",
+      "requirements": [
+        "Completați cantitățile cerute.",
+        "Calculați elasticitățile punctuale pentru P = 2; 5; 6; 10.",
+        "Calculați elasticitățile pe arcurile 2–0 și 6–4 și 9–7.",
+        "Calculați TR la fiecare preț și identificați elasticitatea la maximul încasărilor."
+      ],
+      "steps": [
+        "Cantitățile se obțin prin înlocuirea prețului în Qd = 40 − 2P. Încasările sunt TR = P × Qd. Tabelul complet este mai jos.",
+        "Pentru o cerere liniară coeficientul prețului este −2. Elasticitatea punctuală este Ed = −2P/Q. La prețurile cerute obținem <strong>−1/9; −1/3; −3/7; −1</strong>.",
+        "Pe arc folosim Ed = [(Q2 − Q1)/(P2 − P1)] × [(P1 + P2)/(Q1 + Q2)]. Pentru intervalul 2–0 rezultatul este <strong>−1/19</strong>. Pentru 6–4 rezultatul este <strong>−1/3</strong>. Pentru 9–7 rezultatul este <strong>−2/3</strong>.",
+        "TR = 40P − 2P^2 = 200 − 2(P − 10)^2. Maximul este <strong>200</strong> la <strong>P = 10 și Q = 20</strong>. Elasticitatea în acel punct este <strong>−1</strong>."
+      ],
+      "conclusion": "Panta este constantă dar elasticitatea diferă de la un punct la altul.",
+      "tables": [
+        {
+          "headers": [
+            "P",
+            "10",
+            "9",
+            "8",
+            "7",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2",
+            "1"
+          ],
+          "rows": [
+            [
+              "Qd",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ],
+      "charts": [],
+      "result_tables": [
+        {
+          "headers": [
+            "P",
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "rows": [
+            [
+              "Qd",
+              20,
+              22,
+              24,
+              26,
+              28,
+              30,
+              32,
+              34,
+              36,
+              38
+            ],
+            [
+              "TR",
+              200,
+              198,
+              192,
+              182,
+              168,
+              150,
+              128,
+              102,
+              72,
+              38
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tabelul unei a doua cereri",
+      "condition": "Qd = 320 − 4P. Prețurile sunt 50; 45; 40; 35; 30; 25; 20.",
+      "requirements": [
+        "Completați Qd și elasticitatea punctuală.",
+        "Completați elasticitatea pe fiecare arc dintre două prețuri succesive."
+      ],
+      "steps": [
+        "Cantitățile sunt <strong>120; 140; 160; 180; 200; 220; 240</strong>.",
+        "Elasticitatea punctuală este Ed = −4P/Q. Valorile sunt <strong>−5/3; −9/7; −1; −7/9; −3/5; −5/11; −1/3</strong>.",
+        "Pentru arcurile succesive coeficienții sunt <strong>−19/13; −17/15; −15/17; −13/19; −11/21; −9/23</strong>. Ultima coloană nu are un arc următor.",
+        "La P = 40 și Q = 160 elasticitatea este unitară. Punctele cu preț mai mare de 40 sunt elastice și cele cu preț mai mic sunt inelastice."
+      ],
+      "conclusion": "O curbă liniară poate conține zone cu sensibilitate procentuală diferită.",
+      "tables": [],
+      "charts": [],
+      "result_tables": [
+        {
+          "headers": [
+            "P",
+            50,
+            45,
+            40,
+            35,
+            30,
+            25,
+            20
+          ],
+          "rows": [
+            [
+              "Qd",
+              120,
+              140,
+              160,
+              180,
+              200,
+              220,
+              240
+            ],
+            [
+              "Ed în punct",
+              "−5/3",
+              "−9/7",
+              "−1",
+              "−7/9",
+              "−3/5",
+              "−5/11",
+              "−1/3"
+            ],
+            [
+              "Ed pe arc spre coloana următoare",
+              "−19/13",
+              "−17/15",
+              "−15/17",
+              "−13/19",
+              "−11/21",
+              "−9/23",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prețul propriu și prețul altui bun și venitul",
+      "condition": "Cererea pentru A este Qda = Pa − 2Pb + I/20. Pa = 2 u.m. Pb = 3 u.m. I = 200 u.m.",
+      "requirements": [
+        "Calculați elasticitatea după Pa.",
+        "Calculați elasticitatea după Pb.",
+        "Calculați elasticitatea după venit.",
+        "Explicați rezultatele."
+      ],
+      "steps": [
+        "Cantitatea inițială este 2 − 2 × 3 + 200/20 = <strong>6</strong>.",
+        "Coeficientul lui Pa este +1. Elasticitatea după prețul propriu este 1 × 2/6 = <strong>+1/3</strong>. Păstrăm semnul dat de funcție. Este o relație atipică și nu o cerere obișnuită descrescătoare.",
+        "Coeficientul lui Pb este −2. Elasticitatea încrucișată este −2 × 3/6 = <strong>−1</strong>. Bunurile sunt complementare în funcția dată.",
+        "Coeficientul venitului este 1/20. Elasticitatea după venit este (1/20) × 200/6 = <strong>5/3</strong>. Bunul este normal cu reacție mai mult decât proporțională."
+      ],
+      "conclusion": "Fiecare coeficient răspunde unei întrebări diferite. Semnul nu trebuie schimbat pentru a forța o clasificare obișnuită.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Elasticitățile în echilibrul pieței",
+      "condition": "Qd = 19 − 4P și Qs = −5 + 2P.",
+      "requirements": [
+        "Calculați elasticitățile după preț în punctul de echilibru."
+      ],
+      "steps": [
+        "Echilibrul rezolvă 19 − 4P = −5 + 2P. Rezultă <strong>P = 4 și Q = 3</strong>.",
+        "Ed = −4 × 4/3 = <strong>−16/3</strong>. Es = 2 × 4/3 = <strong>8/3</strong>.",
+        "Ambele valori absolute depășesc 1. Cererea este de două ori mai sensibilă decât oferta în acest punct."
+      ],
+      "conclusion": "Comparația sensibilității se face prin valorile absolute ale elasticităților calculate în același punct.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Efectul simultan al celor trei factori",
+      "condition": "Tabelul prezintă coeficienți de elasticitate și modificări relative pentru bunul X.",
+      "requirements": [
+        "Calculați contribuția fiecărui factor în cele trei variante.",
+        "Estimați modificarea totală a cantității cerute."
+      ],
+      "steps": [
+        "Folosim ΔQ% ≈ Ed × ΔPx% + Ei × ΔI% + Exy × ΔPy%. Contribuțiile sunt efecte estimate asupra aceleiași baze inițiale.",
+        "Varianta 1: −7/10 × 5% + 7/5 × (−6/5%) + 9/10 × (−3%) = −7/2% − 42/25% − 27/10% = <strong>−197/25%</strong>.",
+        "Varianta 2: −3/2 × (−2%) + (−17/10) × 2% + (−5/2) × 5% = 3% − 17/5% − 25/2% = <strong>−129/10%</strong>.",
+        "Varianta 3: −2 × 7% + (−1/2) × (−23/10%) + (−7/5) × (−3%) = −14% + 23/20% + 21/5% = <strong>−173/20%</strong>.",
+        "Cantitatea scade în toate cele trei variante. Acestea sunt modificări procentuale aproximative ale cantității. Expresia „puncte procentuale” se aplică în mod riguros diferențelor dintre rate procentuale."
+      ],
+      "conclusion": "Efectele se pot compensa parțial. Interpretarea unei singure elasticități nu este suficientă când se schimbă mai mulți factori.",
+      "tables": [
+        {
+          "headers": [
+            "Indicator",
+            "Varianta 1",
+            "Varianta 2",
+            "Varianta 3"
+          ],
+          "rows": [
+            [
+              "Ed",
+              "−7/10",
+              "−3/2",
+              "−2"
+            ],
+            [
+              "Ei",
+              "7/5",
+              "−17/10",
+              "−1/2"
+            ],
+            [
+              "Exy",
+              "9/10",
+              "−5/2",
+              "−7/5"
+            ],
+            [
+              "ΔPx",
+              "+5%",
+              "−2%",
+              "+7%"
+            ],
+            [
+              "ΔI",
+              "−6/5%",
+              "+2%",
+              "−23/10%"
+            ],
+            [
+              "ΔPy",
+              "−3%",
+              "+5%",
+              "−3%"
+            ]
+          ]
+        }
+      ],
+      "charts": []
+    }
+  ],
+  "new": [
+    {
+      "title": "Prețul abonamentului",
+      "condition": "Un abonament se scumpește cu 5%. Cantitatea cerută scade cu 10%. Folosim procentele date pentru aceeași bază de calcul.",
+      "requirements": [
+        "Calculați elasticitatea cererii.",
+        "Clasificați reacția."
+      ],
+      "hints": "Împărțiți modificarea procentuală a cantității la cea a prețului.",
+      "question": "Ce arată mărimea coeficientului despre reacția clienților?",
+      "answer": "E=−2. Cerere elastică."
+    },
+    {
+      "title": "Reducerea la ceai",
+      "condition": "Un magazin vinde 200 de pachete de ceai pe lună la 30 de lei. Reduce prețul cu 10%. Se estimează o creștere a cantității cu 15%.",
+      "requirements": [
+        "Calculați noile vânzări în unități și lei.",
+        "Comparați încasările."
+      ],
+      "hints": "Aplicați procentele separat la preț și la cantitate. Apoi înmulțiți noile valori.",
+      "question": "De ce variația încasărilor nu este simpla diferență dintre cele două procente?",
+      "answer": "Q230 P27. TRinițial6000 și final6210. Creștere210lei sau7/2%."
+    },
+    {
+      "title": "Două puncte pe cerere",
+      "condition": "Prețul crește de la 20 la 30 de lei. Cantitatea cerută scade de la 120 la 80 de unități pe săptămână.",
+      "requirements": [
+        "Calculați elasticitatea pe arc prin metoda punctului de mijloc.",
+        "Calculați încasările la cele două capete."
+      ],
+      "hints": "Folosiți media prețurilor și media cantităților.",
+      "question": "Ce legătură observați între elasticitate și încasări pe acest interval?",
+      "answer": "Earc=−1. TR2400 la ambele capete."
+    },
+    {
+      "title": "Venit mai mare",
+      "condition": "Venitul lunar crește cu 10%. Cererea pentru excursii crește cu 20%. Prețurile rămân neschimbate.",
+      "requirements": [
+        "Calculați elasticitatea după venit.",
+        "Încadrați serviciul în categoria economică potrivită."
+      ],
+      "hints": "Comparați procentele și păstrați semnul.",
+      "question": "Înseamnă „bun de lux” aici că serviciul are neapărat un preț foarte mare?",
+      "answer": "Ei2. Bun normal cu reacție mai mult decât proporțională. Categoria nu definește nivelul absolut al prețului."
+    },
+    {
+      "title": "Un bun inferior",
+      "condition": "Venitul crește cu 8%. Cantitatea cerută dintr-un produs scade cu 4%. Ceilalți factori rămân neschimbați.",
+      "requirements": [
+        "Calculați elasticitatea după venit.",
+        "Explicați semnul."
+      ],
+      "hints": "Semnul venitului și cel al cantității sunt diferite.",
+      "question": "Este „inferior” o judecată despre calitatea fizică a produsului?",
+      "answer": "Ei=−1/2. Bun inferior în situația dată. Nu este o evaluare a calității."
+    },
+    {
+      "title": "Cafea și ceai",
+      "condition": "Prețul cafelei crește cu 10%. Cererea de ceai crește cu 6% la același preț al ceaiului.",
+      "requirements": [
+        "Calculați elasticitatea încrucișată.",
+        "Precizați relația dintre bunuri."
+      ],
+      "hints": "Raportați schimbarea cererii de ceai la schimbarea prețului cafelei.",
+      "question": "De ce nu calculăm aici elasticitatea după prețul propriu al ceaiului?",
+      "answer": "Exy3/5 pozitiv. Substituenți."
+    },
+    {
+      "title": "Imprimante și cartușe",
+      "condition": "Prețul imprimantelor scade cu 12%. Cererea de cartușe crește cu 6%. Prețul cartușelor este constant.",
+      "requirements": [
+        "Calculați elasticitatea încrucișată.",
+        "Explicați relația economică."
+      ],
+      "hints": "Păstrați semnul negativ al modificării prețului imprimantelor.",
+      "question": "Ce arată reacția despre folosirea celor două bunuri?",
+      "answer": "Exy=−1/2. Complementare."
+    },
+    {
+      "title": "Oferta atelierului",
+      "condition": "Prețul unei reparații crește cu 10%. Atelierul majorează numărul de reparații cu 5% pe termen scurt și cu 20% pe termen lung.",
+      "requirements": [
+        "Calculați cele două elasticități ale ofertei.",
+        "Comparați capacitatea de adaptare."
+      ],
+      "hints": "Calculați separat fiecare raport.",
+      "question": "Ce schimbări pot explica diferența dintre perioade?",
+      "answer": "Es scurt1/2. Es lung2. Pe termen lung pot crește personalul și echipamentul."
+    },
+    {
+      "title": "Impozit și reacție",
+      "condition": "În apropierea echilibrului elasticitatea cererii în valoare absolută este 1 iar elasticitatea ofertei este 3. Se introduce un impozit mic de 8 lei pe unitate. Folosim aproximarea locală a incidenței.",
+      "requirements": [
+        "Estimați partea de impozit suportată de cumpărător.",
+        "Estimați partea suportată de vânzător."
+      ],
+      "hints": "Ponderea cumpărătorului este Es/(Es + valoarea absolută a lui Ed).",
+      "question": "De ce partea care reacționează mai puțin suportă o povară mai mare?",
+      "answer": "Cumpărător6lei. Vânzător2lei. Ponderi3/4 și1/4."
+    },
+    {
+      "title": "Elasticitate într-un punct",
+      "condition": "Cererea săptămânală este Qd = 120 − 2P. Prețul este 20 de lei.",
+      "requirements": [
+        "Găsiți cantitatea și elasticitatea punctuală.",
+        "Estimați schimbarea procentuală a cantității la o scumpire mică de 2%."
+      ],
+      "hints": "Pentru cererea liniară folosiți coeficientul lui P înmulțit cu P/Q.",
+      "question": "Cum diferă coeficientul cererii de elasticitate?",
+      "answer": "Q80. E=−1/2. Aproximativ−1% pentrucantitate. Panta are unități iar elasticitatea nu."
+    }
+  ],
+  "title": "Elasticitatea cererii și ofertei",
+  "model_fallback": {
+    "result": "Q = 20 · Ed = -1 · TR = 200. Elasticitate unitară și încasări maxime.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"265\" text-anchor=\"end\">6</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"195\" text-anchor=\"end\">11</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">32</text><text x=\"60\" y=\"125\" text-anchor=\"end\">17</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">42</text><text x=\"60\" y=\"55\" text-anchor=\"end\">22</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">P · u.m.</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"205\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere: Q = 40 − 2P</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-26",
+  "scope": "Moodle release folder only; original seminar-folder files and teacher materials preserved",
+  "source_method": "Romanian OCR of 276 scanned PDF pages; numerical tables, formulas and ambiguous graphs checked against selected page images. OCR is not a guarantee of perfect transcription.",
+  "coverage": [
+    {
+      "seminar": 1,
+      "title": "Obiectul de studiu și metodologia microeconomiei",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 1 — Obiectul de studiu și metodologia microeconomiei.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "af8b25c32596628d3f908b0c570fdd4443e0b9c6",
+          "size": 13507243,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/af8b25c32596628d3f908b0c570fdd4443e0b9c6"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "5–22 / 23–27",
+      "counts": {
+        "solved": 3,
+        "new": 10,
+        "questions": 11,
+        "tf": 10,
+        "tests": 9
+      }
+    },
+    {
+      "seminar": 2,
+      "title": "Cererea și oferta. Echilibrul și dezechilibrul pieței",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 2 — Cererea și oferta. Echilibrul și dezechilibrul pieței.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "13b42bd1d1807d6a96f01c901e669a4f4dc37bd6",
+          "size": 12742004,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/13b42bd1d1807d6a96f01c901e669a4f4dc37bd6"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–26 / 27–29",
+      "counts": {
+        "solved": 6,
+        "new": 10,
+        "questions": 10,
+        "tf": 14,
+        "tests": 8
+      }
+    },
+    {
+      "seminar": 3,
+      "title": "Elasticitatea cererii și ofertei",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 3 — Elasticitatea cererii și ofertei — Sursa 1.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7d3001110e74cbca94bbdd8aa2acbc0ac503538f",
+          "size": 5687257,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/7d3001110e74cbca94bbdd8aa2acbc0ac503538f"
+        },
+        {
+          "path": "0. ★ Resurse/Seminarul 3 — Elasticitatea cererii și ofertei — Sursa 2.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "d5cd6816adc4bdebdccd45d0dd91de3e66add20d",
+          "size": 4675561,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/d5cd6816adc4bdebdccd45d0dd91de3e66add20d"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "Sursa 1: 1–14; Sursa 2: 1–7 / 8–12",
+      "counts": {
+        "solved": 6,
+        "new": 10,
+        "questions": 11,
+        "tf": 10,
+        "tests": 5
+      }
+    },
+    {
+      "seminar": 4,
+      "title": "Teoria comportamentului consumatorului",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 4 — Teoria comportamentului consumatorului.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "688d13052a8e267766892d2116e9977ace18fc7f",
+          "size": 16847231,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/688d13052a8e267766892d2116e9977ace18fc7f"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–29 / 30–33",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 6,
+        "tf": 10,
+        "tests": 10
+      }
+    },
+    {
+      "seminar": 5,
+      "title": "Teoria producției",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 5 — Teoria producției.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "51f1cca6175c36d4f43950146cba79a94c549d37",
+          "size": 8903026,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/51f1cca6175c36d4f43950146cba79a94c549d37"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–19 / 19–23",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 10,
+        "tf": 7,
+        "tests": 10
+      }
+    },
+    {
+      "seminar": 6,
+      "title": "Costurile de producție",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 6 — Costurile de producție.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "fbb8c597313707a7e168079663fe24410d526fe1",
+          "size": 11979189,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/fbb8c597313707a7e168079663fe24410d526fe1"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–28 / 29–32",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 8,
+        "tf": 7,
+        "tests": 10
+      }
+    },
+    {
+      "seminar": 7,
+      "title": "Maximizarea profitului și pragul de rentabilitate al firmei",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 7 — Maximizarea profitului și pragul de rentabilitate al firmei.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7cb1a783e1d7bc2f2a1f5d9dd2eac840120bcfce",
+          "size": 9270001,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/7cb1a783e1d7bc2f2a1f5d9dd2eac840120bcfce"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–21 / 21–24",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 6,
+        "tf": 7,
+        "tests": 10
+      }
+    },
+    {
+      "seminar": 8,
+      "title": "Comportamentul firmelor pe piața cu concurență perfectă",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 8 — Comportamentul firmelor pe piața cu concurență perfectă.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "ca0deda874459d6ccf75613300066776681f7833",
+          "size": 10277243,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/ca0deda874459d6ccf75613300066776681f7833"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–20 / 20–23",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 8,
+        "tf": 5,
+        "tests": 8
+      }
+    },
+    {
+      "seminar": 9,
+      "title": "Comportamentul firmelor pe piața de monopol",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 9 — Comportamentul firmelor pe piața de monopol.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "c78c567eac4075c1575340c460380daa983ee48e",
+          "size": 8416262,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/c78c567eac4075c1575340c460380daa983ee48e"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–18 / 18–21",
+      "counts": {
+        "solved": 5,
+        "new": 10,
+        "questions": 9,
+        "tf": 7,
+        "tests": 10
+      }
+    },
+    {
+      "seminar": 10,
+      "title": "Comportamentul firmelor pe piața cu concurență monopolistică",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 10 — Comportamentul firmelor pe piața cu concurență monopolistică.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "2646b353cef444ffa185583ece300e920de3d588",
+          "size": 5999851,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/2646b353cef444ffa185583ece300e920de3d588"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–10 / 11–14",
+      "counts": {
+        "solved": 4,
+        "new": 10,
+        "questions": 10,
+        "tf": 20,
+        "tests": 12
+      }
+    },
+    {
+      "seminar": 11,
+      "title": "Comportamentul firmelor pe piața oligopolistă",
+      "pdfs": [
+        {
+          "path": "0. ★ Resurse/Seminarul 11 — Comportamentul firmelor pe piața oligopolistă.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cfb00a9a950f12b9eb83c45b0218a9a49a92b503",
+          "size": 7679020,
+          "url": "https://api.github.com/repos/AL862/SemMicroE/git/blobs/cfb00a9a950f12b9eb83c45b0218a9a49a92b503"
+        }
+      ],
+      "pdf_page_ranges_theory_then_recap": "1–14 / 15–17",
+      "counts": {
+        "solved": 3,
+        "new": 10,
+        "questions": 5,
+        "tf": 5,
+        "tests": 10
+      }
+    }
+  ],
+  "decisions": [
+    "S3 second scan contains printed page 80 twice; assessment included once.",
+    "S4 budget increases by 80 to 150; utility is X²Y⁴.",
+    "S6 problem5: user explicitly corrected labor price to30 and capital price to50. TC340.",
+    "S2 import quota: conditional calculation distinguishes additional imports from an unspecified initial trade situation.",
+    "S8 problem5 cost function is 100+15q+q².",
+    "S9 problem5 demand is 375−P/4 and ATC is 5Q²/6−4Q+500.",
+    "S11 Bowley profits use actual common market price rather than incompatible anticipated prices."
+  ],
+  "pedagogy": {
+    "reference": "User-provided Gregory Mankiw Principles of Economics Russian PDF; selected principles, consumer-choice and firm chapters, not a claim to have read all760pages.",
+    "use": "Everyday decisions; introduce assumptions and units; explain each calculation; original Romanian prose and110original exercises.",
+    "scientific_skills_revision": "5f2bc0341354fd5590aef76a533ada1e1e5b4e62",
+    "scientific_skills_read": [
+      "scientific-critical-thinking",
+      "scientific-writing",
+      "scientific-writing/references/writing_principles.md"
+    ],
+    "skills_role": "Evidence and reasoning methodology; not a factual economics source."
+  },
+  "web_cross_checks": [
+    "https://openstax.org/books/principles-economics-3e/pages/2-1-how-individuals-make-choices-based-on-their-budget-constraint",
+    "https://openstax.org/books/principles-economics-3e/pages/3-1-demand-supply-and-equilibrium-in-markets-for-goods-and-services",
+    "https://openstax.org/books/principles-economics-3e/pages/5-3-elasticity-and-pricing",
+    "https://openstax.org/books/principles-economics-3e/pages/6-1-consumption-choices",
+    "https://openstax.org/books/principles-economics-3e/pages/7-2-production-in-the-short-run",
+    "https://openstax.org/books/principles-economics-3e/pages/7-3-costs-in-the-short-run",
+    "https://openstax.org/books/principles-economics-3e/pages/8-2-how-perfectly-competitive-firms-make-output-decisions",
+    "https://openstax.org/books/principles-economics-3e/pages/9-2-how-a-profit-maximizing-monopoly-chooses-output-and-price",
+    "https://openstax.org/books/principles-economics-3e/pages/10-1-monopolistic-competition",
+    "https://openstax.org/books/principles-economics-3e/pages/10-2-oligopoly",
+    "https://www.core-econ.org/the-economy/v1/book/text/07.html"
+  ],
+  "limits": [
+    "No authenticated save-and-reopen test inside Moodle. Moodle permissions/editor may strip JavaScript. Native details and static model state remain readable.",
+    "Unknown Moodle neighbor URLs disabled instead of invented.",
+    "Working source register is separate from student HTML. A formal bibliography was not requested."
+  ]
+}

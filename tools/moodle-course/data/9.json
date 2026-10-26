@@ -1,0 +1,561 @@
+{
+  "theory": [
+    [
+      "Un vânzător unic are totuși o restricție",
+      [
+        "O firmă este singurul ofertant al unui serviciu fără substituenți apropiați. Ea poate influența prețul. Dacă îl ridică însă unii cumpărători renunță sau reduc consumul. Puterea de piață nu elimină cererea. Firma alege o combinație preț–cantitate de pe ea.",
+        "Piața trebuie delimitată. O firmă poate fi singura care vinde o marcă fără a fi singura care satisface nevoia clientului. Monopolul pur exclude substituenții apropiați pe piața relevantă. Alternativele de consum limitează puterea."
+      ]
+    ],
+    [
+      "Barierele de intrare",
+      [
+        "Controlul unei resurse esențiale poate împiedica intrarea. Un drept exclusiv poate proteja o ofertă. Economiile de scară pot face mai ieftină deservirea pieței de către o singură firmă. Ultimul caz este monopolul natural.",
+        "Investițiile nerecuperabile și avantajele de rețea pot conta în unele situații. Nevoia de bani singură nu dovedește monopolul. Contează dacă un rival poate intra eficient și dacă are acces la alternative.",
+        "Barierele pot permite păstrarea profitului pe termen lung. Ele nu garantează profit pozitiv. Cererea poate fi mică sau costurile mari. Rezultatul cere calcularea ambelor părți ale profitului."
+      ]
+    ],
+    [
+      "De ce MR este sub preț?",
+      [
+        "Pentru a vinde mai mult pe o cerere descrescătoare firma cu preț unic trebuie să reducă prețul. Câștigă încasarea ultimei unități dar pierde o parte din încasarea unităților care se vindeau și înainte.",
+        "La 10 produse cu 50 de lei încasează 500 de lei. Pentru 11 produse la 48 de lei încasează 528 de lei. Sporul este 28 de lei și nu 48 de lei. Acesta este MR pentru trecerea dată.",
+        "La P = a−bQ avem TR = aQ−bQ^2 și MR punctual = a−2bQ. MR ajunge la zero la jumătatea interceptării cererii pe Q. Prețul nu se citește pe curba MR."
+      ]
+    ],
+    [
+      "Mai întâi cantitatea apoi prețul",
+      [
+        "Găsim cantitatea candidată din MR = MC. Introducem Q în cerere pentru a găsi P. Calculăm profitul și verificăm maximul și limitele și oprirea. MR = MC singur nu garantează profit pozitiv.",
+        "La optimul interior obișnuit cu preț unic avem P &gt; MR = MC. Maximul profitului și maximul încasărilor diferă. Cu MC pozitiv firma nu alege un segment cu MR negativ deoarece o reducere de Q ar mări încasările și ar economisi costuri.",
+        "Monopolistul nu are o curbă de ofertă unică independentă de cerere ca firma concurentă. Modificarea cererii schimbă MR și alegerea optimă. Același cost marginal poate fi compatibil cu rezultate diferite pentru alte cereri."
+      ]
+    ],
+    [
+      "Putere și bunăstare",
+      [
+        "Indicele Lerner este (P−MC)/P. La optimul interior cu preț unic el este inversul valorii absolute a elasticității cererii. Alternativele care fac cererea mai elastică limitează adaosul în acest model.",
+        "HHI însumează pătratele cotelor de piață. Cu cote procentuale un singur ofertant are HHI = 10000. Cu fracții între 0 și 1 valoarea este 1. Păstrăm aceeași convenție în comparație. Concentrarea nu este identică puterii de piață.",
+        "În comparația standard cu aceleași cerere și MC monopolul cu preț unic produce mai puțin decât reperul P = MC. O parte din surplusul consumatorului se transferă firmei. Alte schimburi avantajoase nu mai au loc. Pierderea lor este pierderea socială. Ea nu este întreg profitul monopolistului."
+      ]
+    ],
+    [
+      "Discriminarea prin preț",
+      [
+        "Diferențele de preț analizate nu reflectă integral diferențe de cost pentru unități comparabile. Firma are nevoie de putere de piață și de o metodă de separare a cumpărătorilor sau cantităților. Revânzarea trebuie să fie suficient de limitată.",
+        "La gradul I firma încearcă să ceară pentru fiecare unitate disponibilitatea maximă de plată. În cazul ideal poate prelua surplusul cumpărătorilor și poate extinde producția până la criteriul marginal eficient. Aceasta nu garantează că profitul și TR au același maxim.",
+        "La gradul II prețul efectiv diferă după cantitatea sau pachetul cumpărat. La gradul III segmentele sunt separate după caracteristici observabile. Cu același MC relevant alegerea cere MR egal între segmente și cu MC. Segmentul mai sensibil primește de regulă un adaos relativ mai mic."
+      ]
+    ],
+    [
+      "Impozit și reglementare",
+      [
+        "Taxa pe unitate mărește costul marginal relevant sau reduce venitul net marginal. Poate micșora cantitatea și ridica prețul cumpărătorului. Nu se transferă automat integral în preț. Rezultatul depinde de cerere și costuri.",
+        "Taxa fixă reduce profitul fără a schimba direct MC. Cât timp firma continuă să producă volumul optim poate rămâne același. O taxă foarte mare poate totuși schimba decizia de participare.",
+        "Regula P = MC poate extinde cantitatea. Pentru un monopol natural cu FC important poate lăsa neacoperit TC. Acoperirea costurilor și accesibilitatea și stimulentele pentru eficiență sunt probleme distincte. Evaluarea cere un obiectiv și o bază de comparație explicite."
+      ]
+    ],
+    [
+      "O alegere de monopol verificată fără derivate",
+      [
+        "Presupunem P = 100 − 2Q și TC = 100 + 20Q. Venitul este 100Q − 2Q². Profitul este 80Q − 2Q² − 100. El se poate scrie 700 − 2(Q−20)². Maximul este 700 de lei la Q = 20. Prețul se citește pe cerere și este 60 de lei.",
+        "La Q = 25 firma ar încasa mai mult decât la unele volume mici. Profitul ei ar fi însă 650 de lei. Încasările maxime apar la Q = 25 deoarece TR = 1250 − 2(Q−25)². Cele două obiective dau cantități diferite deoarece fiecare unitate costă încă 20 de lei.",
+        "La cantitatea de profit maxim MR = 100 − 4Q = 20. Prețul de 60 nu se obține din această egalitate. Confundarea MR cu P ar da un preț greșit de 20. Ordinea de lucru rămâne cantitate din comparația marginală apoi preț din cerere apoi verificarea profitului."
+      ]
+    ],
+    [
+      "Cum identificăm pierderea socială?",
+      [
+        "Cu aceeași cerere P = 100 − 2Q și MC = 20 reperul eficient este Q = 40. Pentru unitățile dintre 20 și 40 disponibilitatea de plată depășește costul marginal. Monopolul cu preț unic nu le vinde în alegerea sa de profit maxim.",
+        "Aria dintre cerere și MC pentru aceste unități este un triunghi. Baza este 20 iar înălțimea este 40. Pierderea socială este 20 × 40/2 = 400 de lei. Calculul păstrează aceeași cerere și același cost marginal. Costul fix nu este adăugat încă o dată la această arie.",
+        "O parte din plata clienților rămași este transferată firmei. Un transfer nu dispare din surplusul total numai fiindcă schimbă beneficiarul. Schimburile care nu mai au loc produc pierderea distinctă. Distribuirea și eficiența trebuie discutate separat înainte de o concluzie despre politică."
+      ]
+    ],
+    [
+      "Același serviciu pentru două segmente",
+      [
+        "Presupunem că firma poate separa două categorii fără revânzare. Cererile sunt P1 = 50 − Q1 și P2 = 30 − Q2. Costul marginal comun este 10. Egalarea fiecărui MR cu 10 dă Q1 = 20 și Q2 = 10. Prețurile sunt 30 și 20.",
+        "Contribuția primului segment după costul variabil este 20 × 20 = 400 de lei. Al doilea aduce 10 × 10 = 100 de lei. Totalul este 500 de lei înaintea eventualului cost fix. Nu numim această sumă profit net fără să precizăm dacă există și alte costuri.",
+        "Diferența de preț nu este explicată de cost în acest exemplu. Ea este posibilă prin diferența cererilor și separarea segmentelor. Dacă biletele ieftine pot fi revândute fără restricții celor din primul segment separarea poate eșua. Ipoteza privind revânzarea are consecințe economice concrete."
+      ]
+    ]
+  ],
+  "formulas": [
+    [
+      "P = a−bQ → MR = a−2bQ",
+      "Cerere liniară inversă și preț unic."
+    ],
+    [
+      "MR = MC",
+      "Cantitatea candidată. Prețul se citește pe cerere."
+    ],
+    [
+      "Lerner = (P−MC)/P",
+      "Adaos relativ la preț. Nu este rata profitului total."
+    ],
+    [
+      "Lerner = −1/Ed",
+      "La optim interior cu preț unic."
+    ],
+    [
+      "HHI = suma pătratelor cotelor",
+      "Precizați convenția procentuală sau fracțională."
+    ],
+    [
+      "MR pe segmente = MC total relevant",
+      "Discriminare de gradul III în ipotezele precizate."
+    ]
+  ],
+  "description": "Studiem firma care influențează prețul dar rămâne limitată de cerere. Calculăm alegerea ei și efectele asupra bunăstării.",
+  "objectives": [
+    "Explicați barierele și limita cererii.",
+    "Calculați Q și P și profitul.",
+    "Interpretați puterea de piață și pierderea socială.",
+    "Analizați discriminarea și impozitarea."
+  ],
+  "conclusions": [
+    "Puterea de piață nu elimină restricția cererii.",
+    "Cantitatea optimă se determină marginal. Prețul se citește pe cerere.",
+    "Profitul și transferul de surplus și pierderea socială sunt mărimi diferite."
+  ],
+  "questions": [
+    [
+      "Care sunt particularitățile pieței monopoliste?",
+      "Există un singur ofertant al bunului relevant și bariere care împiedică intrarea. Firma se confruntă cu cererea pieței. Ea poate alege o combinație preț–cantitate de pe acea cerere și nu orice preț împreună cu orice cantitate."
+    ],
+    [
+      "Numiți și caracterizați barierele de intrare.",
+      "Controlul unei resurse esențiale și protecția unor drepturi pot limita intrarea. Economiile de scară pot permite unui singur producător să deservească piața la un cost mai mic. Costurile nerecuperabile și avantajele de rețea pot conta în situații specifice."
+    ],
+    [
+      "Definiți monopolul pur și monopolul imperfect.",
+      "Monopolul pur este modelul unui singur ofertant fără substituenți apropiați. Într-o situație de monopol imperfect firma are totuși alternative de consum care îi limitează puterea. Delimitarea pieței este esențială."
+    ],
+    [
+      "Care este relația dintre TR și MR și preț în monopol?",
+      "TR = P(Q) × Q. Cu preț unic și cerere descrescătoare MR este sub P la cantități pozitive. Pentru o cerere liniară P = a−bQ avem MR = a−2bQ. TR este maxim când MR trece prin zero."
+    ],
+    [
+      "Descrieți echilibrul pe termen scurt al monopolistului.",
+      "Firma compară MR cu MC pentru a găsi cantitatea candidată. Citește prețul pe cerere și calculează profitul. Verifică colțurile și oprirea și domeniul economic. MR = MC singur nu garantează profit pozitiv."
+    ],
+    [
+      "Cum reacționează monopolistul la modificarea cererii?",
+      "Recalculează MR și cantitatea optimă și apoi prețul. Efectul asupra prețului și cantității depinde de forma cererii și a costurilor. Nu există o curbă de ofertă unică independentă de cerere ca la firma concurentă."
+    ],
+    [
+      "Care sunt consecințele economice și sociale ale monopolizării?",
+      "În comparația standard cu aceleași cerere și cost marginal monopolul cu preț unic reduce cantitatea și ridică prețul. O parte a surplusului se transferă firmei. Alte schimburi avantajoase nu mai au loc și apare pierdere socială. Economiile de scară și inovarea necesită evaluare separată."
+    ],
+    [
+      "Enumerați indicatori ai puterii monopoliste.",
+      "Indicele Lerner este (P−MC)/P pentru alegerea relevantă. Elasticitatea cererii arată cât de ușor pot cumpărătorii evita scumpirea. HHI măsoară concentrarea prin suma pătratelor cotelor. Concentrarea și puterea de piață nu sunt mărimi identice."
+    ],
+    [
+      "În ce cazuri se poate aplica discriminarea prin preț?",
+      "Firma trebuie să aibă putere de piață și să poată distinge segmente sau cantități. Revânzarea trebuie să fie suficient de limitată. Diferențele de preț analizate nu trebuie explicate integral prin diferențe de cost."
+    ]
+  ],
+  "tf": [
+    [
+      "O condiție esențială a monopolului este lipsa substituenților pentru bunul oferit.",
+      "Adevărat pentru monopolul pur dacă vorbim despre substituenți apropiați pe piața relevantă. Absența absolută a oricărei alternative este o formulare prea puternică."
+    ],
+    [
+      "Dacă nu există o corelație unică între cantitatea oferită și preț oferta monopolistului este perfect elastică.",
+      "Fals. Lipsa unei curbe de ofertă independente de cerere nu înseamnă o ofertă orizontală."
+    ],
+    [
+      "Monopolul pur maximizează atât surplusul producătorului cât și surplusul consumatorului.",
+      "Fals. Maximizarea profitului cu preț unic nu maximizează separat surplusul consumatorului și nici surplusul total în comparația standard."
+    ],
+    [
+      "Monopolistul poate stabili orice preț și poate vinde orice cantitate.",
+      "Fals. Cererea limitează combinațiile posibile. Un preț ales implică o cantitate cerută corespunzătoare."
+    ],
+    [
+      "Venitul marginal pe termen scurt al monopolistului este constant.",
+      "Fals în general. Pentru cererea liniară descrescătoare MR scade odată cu Q."
+    ],
+    [
+      "Profitul monopolistului este obținut prin redistribuirea parțială sau totală a surplusului consumatorului în favoarea firmei.",
+      "Fals ca afirmație generală despre întreg profitul. În comparația cu aceleași costuri redistribuirea surplusului poate explica o parte a câștigului de putere de piață. Profitul depinde și de costuri și de cerere. Un monopol poate suporta chiar pierderi."
+    ],
+    [
+      "În discriminarea prin preț MR al monopolistului este reprezentat printr-o linie frântă.",
+      "Fals ca afirmație pentru toate formele. Aspectul depinde de tipul discriminării. În discriminarea perfectă venitul marginal al unei unități este disponibilitatea de plată pentru acea unitate. Tarifele pe blocuri pot produce trepte."
+    ]
+  ],
+  "tests": [
+    {
+      "q": "Profit economic pe termen lung:",
+      "options": [
+        "obțin monopolistul și firma concurentă",
+        "obține monopolistul dar nu firma concurentă",
+        "nu obține niciuna",
+        "este posibil numai fără bariere de intrare"
+      ],
+      "answer": "b este posibilitatea standard: monopolistul poate păstra profit pozitiv datorită barierelor. Nu este o garanție pentru fiecare monopol. Firma concurentă din echilibrul standard cu intrare liberă și firme identice are profit economic zero."
+    },
+    {
+      "q": "Discriminarea prin preț presupune:",
+      "options": [
+        "vânzarea aceluiași produs la prețuri diferite în două perioade",
+        "un preț peste minimul ATC",
+        "vânzarea aceluiași produs la prețuri diferite care nu reflectă costuri diferite",
+        "deosebirea dintre prețul concurent și cel monopolist"
+      ],
+      "answer": "c este definiția relevantă. Simpla diferență între perioade poate avea alte cauze și nu este suficientă."
+    },
+    {
+      "q": "Care relații sunt specifice monopolistului?",
+      "options": [
+        "P &gt; MC",
+        "P &gt; MR",
+        "MR = MC",
+        "toate sunt corecte",
+        "niciuna"
+      ],
+      "answer": "d pentru optimul interior cu preț unic și cerere strict descrescătoare. În afara optimului MR nu trebuie să fie egal cu MC."
+    },
+    {
+      "q": "Curba ofertei monopolistului:",
+      "options": [
+        "este orizontală",
+        "este descrescătoare",
+        "coincide cu MC deasupra minimului AVC",
+        "nu poate fi construită"
+      ],
+      "answer": "d în sensul unei relații unice preț–cantitate independente de cerere. Monopolistul are totuși o alegere optimă pentru fiecare cerere dată."
+    },
+    {
+      "q": "Maximizarea profitului presupune egalitatea dintre:",
+      "options": [
+        "preț și MR",
+        "cost fix și TR",
+        "preț și MC",
+        "preț și ATC",
+        "MC și MR"
+      ],
+      "answer": "e pentru candidatul interior neted. Verificăm maximul și opțiunea opririi."
+    },
+    {
+      "q": "Ce relație există între P și MR și MC pe piața monopolistă?",
+      "options": [
+        "MR &gt; P",
+        "MC &gt; P",
+        "P &gt; MR",
+        "MR &gt; MC"
+      ],
+      "answer": "c pentru cerere descrescătoare și preț unic. La optimul interior MR = MC."
+    },
+    {
+      "q": "Pe segmentul inelastic al cererii majorarea cantității:",
+      "options": [
+        "mărește TR",
+        "micșorează TR",
+        "mărește MR",
+        "micșorează MC"
+      ],
+      "answer": "b pentru cererea neschimbată. Reducerea de preț necesară depășește câștigul din cantitatea suplimentară. MR este negativ."
+    },
+    {
+      "q": "Monopolistul produce pe termen scurt numai dacă prețul corespunzător cantității depășește:",
+      "options": [
+        "ATC",
+        "AFC",
+        "AR",
+        "AVC"
+      ],
+      "answer": "d în comparația strict favorabilă producției. La P = AVC firma poate fi indiferentă dacă toate costurile fixe sunt neevitabile."
+    },
+    {
+      "q": "În discriminarea de gradul III firma stabilește:",
+      "options": [
+        "un preț mai mic pentru cererea mai elastică",
+        "un preț mai mic pentru cererea relativ inelastică",
+        "același preț pe toate segmentele",
+        "prețul după cantitatea cumpărată"
+      ],
+      "answer": "a în modelul cu același cost marginal relevant și segmente separate. Clienții mai sensibili suportă un adaos relativ mai mic."
+    },
+    {
+      "q": "Firma obține profit maxim și TR maxim din aceeași combinație preț–volum dacă:",
+      "options": [
+        "este monopol pur",
+        "aplică discriminare perfectă",
+        "aplică discriminare de gradul II",
+        "aplică discriminare de gradul III"
+      ],
+      "answer": "Nicio variantă nu garantează singură egalitatea maximelor. Maximul TR cere MR = 0. Maximul profitului interior cere MR = MC. Coincidența necesită și MC = 0 la acel punct. Discriminarea perfectă singură nu este suficientă. Nu marcăm o literă fără această ipoteză suplimentară."
+    }
+  ],
+  "number": 9,
+  "solved": [
+    {
+      "title": "Alegerea unui singur ofertant",
+      "condition": "TC = Q^2/2 + 40. Cererea este Qd = 240 − 10P.",
+      "requirements": [
+        "Determinați cantitatea care maximizează profitul.",
+        "Determinați prețul.",
+        "Calculați profitul mediu și total."
+      ],
+      "steps": [
+        "Cererea inversă este P = 24 − Q/10. TR = 24Q − Q^2/10. Prin urmare MR = 24 − Q/5. MC = Q.",
+        "Din 24 − Q/5 = Q rezultă <strong>Q = 20</strong>. Prețul este <strong>P = 22</strong>.",
+        "TR = 440. TC = 200 + 40 = 240. Profitul total este <strong>200</strong>. Profitul mediu este 200/20 = <strong>10</strong>.",
+        "Profitul este 24Q − 3Q^2/5 − 40 și are curbură descrescătoare. Compararea cu Q = 0 confirmă alegerea producției."
+      ],
+      "conclusion": "Monopolistul citește prețul pe curba cererii după ce determină cantitatea din MR = MC.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Monopol și concurență cu aceeași cerere",
+      "condition": "TC = 2Q^2 + 70. Cererea este Q = 120 − P/2.",
+      "requirements": [
+        "Determinați prețul și volumul optim și profitul total pentru monopol.",
+        "Determinați prețul și volumul pentru reperul concurențial."
+      ],
+      "steps": [
+        "P = 240 − 2Q. MR = 240 − 4Q și MC = 4Q. Pentru monopol MR = MC dă <strong>Q = 30</strong> și <strong>P = 180</strong>.",
+        "Profitul monopolist este 180 × 30 − (2 × 30^2 + 70) = <strong>3530</strong>.",
+        "Pentru comparația concurențială folosim P = MC: 240 − 2Q = 4Q. Rezultă <strong>Q = 40</strong> și <strong>P = 160</strong>. Acesta este reperul cu cererea și costul agregat date. Nu este o deducere a structurii unei ramuri cu intrare liberă."
+      ],
+      "conclusion": "La aceleași cerere și cost marginal monopolul cu preț unic limitează cantitatea și mărește prețul față de reperul concurențial.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Elasticitate și pierdere socială",
+      "condition": "Cererea este Qd = 1200 − 10P. TC = Q^2/2 + 4000.",
+      "requirements": [
+        "Determinați Q și P pentru profit maxim.",
+        "Calculați profitul total și mediu.",
+        "Calculați elasticitatea cererii în echilibru.",
+        "Calculați puterea monopolistă prin indicele Lerner.",
+        "Calculați pierderea socială."
+      ],
+      "steps": [
+        "P = 120 − Q/10. MR = 120 − Q/5. MC = Q. Din MR = MC obținem <strong>Q = 100</strong> și <strong>P = 110</strong>.",
+        "TR = 11000. TC = 5000 + 4000 = 9000. Profit total <strong>2000</strong> și profit mediu <strong>20</strong>.",
+        "Elasticitatea punctuală este Ed = −10 × 110/100 = <strong>−11</strong>. Indicele Lerner este (110 − 100)/110 = <strong>1/11</strong>. Identitatea L = −1/Ed este respectată.",
+        "Cantitatea eficientă rezolvă 120 − Q/10 = Q. Rezultă Qc = <strong>1200/11</strong> și Pc = 1200/11.",
+        "Diferența dintre cerere și MC la Qm = 100 este 10. Lățimea triunghiului este 1200/11 − 100 = 100/11. Pierderea socială este <strong>500/11</strong>. Costul fix comun nu este o pierdere suplimentară produsă de restrângerea marginală a cantității."
+      ],
+      "conclusion": "Adaosul de preț și pierderea de bunăstare sunt mărimi diferite. Transferul către firmă nu este egal cu pierderea socială.",
+      "tables": [],
+      "charts": [
+        {
+          "title": "Monopol și reper eficient",
+          "xlabel": "Q · unități",
+          "ylabel": "Preț și cost marginal",
+          "series": [
+            {
+              "label": "Cerere",
+              "points": [
+                [
+                  0,
+                  120
+                ],
+                [
+                  120,
+                  108
+                ]
+              ],
+              "color": "#1080E4",
+              "dash": false
+            },
+            {
+              "label": "MC",
+              "points": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  120,
+                  120
+                ]
+              ],
+              "color": "#FF650B",
+              "dash": false
+            },
+            {
+              "label": "MR",
+              "points": [
+                [
+                  0,
+                  120
+                ],
+                [
+                  120,
+                  96
+                ]
+              ],
+              "color": "#556374",
+              "dash": true
+            }
+          ],
+          "xmax": null,
+          "ymax": null
+        }
+      ]
+    },
+    {
+      "title": "Impozit achitat de cumpărător",
+      "condition": "Qd = 1200 − 10P și TC = Q^2/2 + 4000. Cumpărătorul achită un impozit de 2 u.m. pentru fiecare unitate.",
+      "requirements": [
+        "Determinați cantitatea care maximizează profitul.",
+        "Determinați prețul aplicat de monopolist.",
+        "Calculați încasarea bugetară."
+      ],
+      "steps": [
+        "Notăm Pc prețul total plătit de cumpărător și Pv prețul primit de firmă. Pc = Pv + 2. Cererea pentru prețul net al firmei devine Q = 1200 − 10(Pv + 2) = 1180 − 10Pv.",
+        "Pv = 118 − Q/10 și MR net = 118 − Q/5. MC = Q. Rezultă <strong>Q = 295/3</strong>.",
+        "Prețul firmei este Pv = 118 − 59/6 = <strong>649/6</strong>. Prețul cumpărătorului este <strong>661/6</strong>.",
+        "Încasările bugetare sunt 2 × 295/3 = <strong>590/3</strong>. Diferența Pc − Pv este exact 2."
+      ],
+      "conclusion": "Cine virează taxa nu determină singur cine suportă povara. Trebuie deosebite prețul net al firmei și suma plătită de cumpărător.",
+      "tables": [],
+      "charts": []
+    },
+    {
+      "title": "Profit maxim și preț egal cu costul marginal",
+      "condition": "Qd = 375 − P/4. ATC = 5Q^2/6 − 4Q + 500.",
+      "requirements": [
+        "Determinați Q și P pentru profit maxim.",
+        "Calculați profitul total și mediu.",
+        "Determinați cantitatea și profitul dacă autoritatea impune P = MC."
+      ],
+      "steps": [
+        "P = 1500 − 4Q. TC = 5Q^3/6 − 4Q^2 + 500Q. MR = 1500 − 8Q și MC = 5Q^2/2 − 8Q + 500.",
+        "MR = MC conduce la 1000 = 5Q^2/2. Soluția nenegativă este <strong>Q = 20</strong>. Atunci <strong>P = 1420</strong>.",
+        "ATC(20) = 1000/3 − 80 + 500 = 2260/3. Profitul mediu este 1420 − 2260/3 = <strong>2000/3</strong>. Profitul total este <strong>40000/3</strong>.",
+        "Regula P = MC dă 1500 − 4Q = 5Q^2/2 − 8Q + 500. Ecuația este 5Q^2 − 8Q − 2000 = 0. Rădăcina pozitivă este <strong>Qr = (4 + 4√626)/5</strong>.",
+        "Prețul reglementat este Pr = 1500 − 4Qr. Profitul este <strong>Qr × [1000 − (5/6)Qr^2]</strong>. Aceste expresii exacte dau o cantitate mai mare decât 20 și un profit mai mic decât 40000/3. Cealaltă rădăcină este negativă și nu este o cantitate admisibilă."
+      ],
+      "conclusion": "Prețul egal cu MC crește cantitatea în acest exemplu. El nu este regula de maximizare a profitului privat.",
+      "tables": [],
+      "charts": []
+    }
+  ],
+  "new": [
+    {
+      "title": "Alegerea monopolistului",
+      "condition": "O firmă este singurul ofertant. Cererea inversă este P = 60 − Q. Costul total este TC = 20Q + 100. Q poate varia continuu în intervalul 0–60.",
+      "requirements": [
+        "Calculați Q și P care maximizează profitul.",
+        "Calculați profitul."
+      ],
+      "hints": "Pentru cererea liniară MR = 60 − 2Q. Comparați cu MC.",
+      "question": "De ce nu alegem punctul P = MC pentru maximizarea profitului?",
+      "answer": "Q20P40profit300. MR20=MC20. PesteMC."
+    },
+    {
+      "title": "Încasare suplimentară",
+      "condition": "Pentru a vinde 11 unități în loc de 10 firma reduce prețul unic de la 50 la 48 de lei.",
+      "requirements": [
+        "Calculați TR în ambele situații.",
+        "Calculați MR pentru unitatea suplimentară."
+      ],
+      "hints": "Reducerea prețului se aplică tuturor celor 11 unități.",
+      "question": "De ce MR este mai mic decât noul preț?",
+      "answer": "TR500și528 MR28<48."
+    },
+    {
+      "title": "Un cost fix mai mare",
+      "condition": "La alegerea optimă monopolistul vinde 20 de produse la 40 de lei. Costul fix crește cu 100 de lei. Cererea și costurile variabile rămân identice. Firma continuă să producă.",
+      "requirements": [
+        "Precizați efectul asupra MC și cantității optime.",
+        "Calculați modificarea profitului."
+      ],
+      "hints": "Costul fix nu depinde de Q.",
+      "question": "De ce această creștere nu impune automat un preț mai mare?",
+      "answer": "MCșiQneschimbate. Profit−100. Prețneschimbat câtcontinuă."
+    },
+    {
+      "title": "Impozit pe unitate",
+      "condition": "Cererea este P = 80 − Q și costul marginal constant este 20 de lei. Se introduce un impozit de 10 lei pe unitate plătit de firmă. Costurile fixe sunt zero.",
+      "requirements": [
+        "Calculați echilibrul înainte și după impozit.",
+        "Calculați încasarea bugetară."
+      ],
+      "hints": "Impozitul pe unitate mărește MC cu 10 lei.",
+      "question": "Este toată taxa transferată cumpărătorilor în acest exemplu?",
+      "answer": "InițialQ30P50. DupăQ25P55. Taxă250. Cumpărătorplăteșteînplus5din10."
+    },
+    {
+      "title": "Puterea de piață",
+      "condition": "La volumul optim prețul este 50 de lei și costul marginal este 30 de lei. Firma aplică un preț unic.",
+      "requirements": [
+        "Calculați indicele Lerner.",
+        "Interpretați diferența dintre preț și cost."
+      ],
+      "hints": "Raportați P−MC la P.",
+      "question": "De ce indicele nu este egal cu rata profitului total?",
+      "answer": "L2/5. Nuincludecosturifixeitotalul."
+    },
+    {
+      "title": "Două categorii de clienți",
+      "condition": "Un serviciu are MC = 10 lei. Cererea grupului A este Pa = 50 − Qa. Cererea grupului B este Pb = 30 − Qb. Revânzarea este imposibilă și costurile fixe sunt zero.",
+      "requirements": [
+        "Calculați cantitatea și prețul pentru fiecare grup.",
+        "Calculați profitul total."
+      ],
+      "hints": "Egalați venitul marginal al fiecărui segment cu MC.",
+      "question": "De ce același cost marginal poate coexista cu două prețuri?",
+      "answer": "A Q20P30. B Q10P20. Profit400+100=500."
+    },
+    {
+      "title": "Costul pentru societate",
+      "condition": "Cererea inversă este P = 100 − Q și MC este constant la 20 de lei. Costurile fixe sunt zero.",
+      "requirements": [
+        "Calculați cantitatea monopolistă și cea eficientă.",
+        "Calculați pierderea socială ca arie de triunghi."
+      ],
+      "hints": "La monopol MR = MC. Pentru eficiență marginală P = MC.",
+      "question": "De ce transferul de bani către firmă nu este întreaga pierdere socială?",
+      "answer": "Qm40Pm60 Qef80. Pierderesocială1/2×40×40=800."
+    },
+    {
+      "title": "Reglementare",
+      "condition": "Un monopol natural are TC = 400 + 10Q. Autoritatea impune P = MC. La acest preț cererea este de 100 de unități.",
+      "requirements": [
+        "Calculați prețul și profitul.",
+        "Calculați suma necesară pentru acoperirea costului total."
+      ],
+      "hints": "La Q dat calculați TR și TC.",
+      "question": "De ce prețul egal cu MC poate lăsa neacoperit costul fix?",
+      "answer": "P10 TR1000TC1400pierdere400. Sprijinnecesar400dacăsecompenseazăcostul."
+    },
+    {
+      "title": "Revenirea la un preț unic",
+      "condition": "O firmă vinde 10 unități la 40 de lei și 20 de unități la 25 de lei pe două segmente separate. Costul marginal este 10 lei și costurile fixe sunt zero.",
+      "requirements": [
+        "Calculați încasările și profitul total.",
+        "Precizați dacă datele sunt suficiente pentru a găsi profitul la un preț unic."
+      ],
+      "hints": "Nu presupuneți că aceleași cantități rămân la alt preț.",
+      "question": "Ce informație despre cerere lipsește?",
+      "answer": "TR900 cost300profit600. Prețulunicoptimnupoateficalculatfărăcereri."
+    },
+    {
+      "title": "Elasticitatea și alegerea",
+      "condition": "La o cantitate firma are prețul de 30 de lei și elasticitatea punctuală a cererii de −2. Costul marginal este 18 lei.",
+      "requirements": [
+        "Calculați MR folosind MR = P × (1 + 1/Ed).",
+        "Indicați sensul ajustării producției lângă acest punct."
+      ],
+      "hints": "Comparați MR cu MC.",
+      "question": "Poate fi acest punct un optim interior al profitului?",
+      "answer": "MR15<MC18. Reducesecantitateasubipotezeleuzuale. Nupoatefioptiminterior."
+    }
+  ],
+  "title": "Comportamentul firmelor pe piața de monopol",
+  "model_fallback": {
+    "result": "P = 100 − 2Q · TC = 100 + 20Q. P = 60 · MR = 20 · MC = 20 · Profit = 700. Maximul este 700 la Q = 20 și P = 60.",
+    "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">-80</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">12</text><text x=\"60\" y=\"265\" text-anchor=\"end\">-32</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">24</text><text x=\"60\" y=\"195\" text-anchor=\"end\">16</text><path d=\"M490.00000000000006 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490.00000000000006\" y=\"354\" text-anchor=\"middle\">36</text><text x=\"60\" y=\"125\" text-anchor=\"end\">64</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">48</text><text x=\"60\" y=\"55\" text-anchor=\"end\">112</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"70,67.5 598.3018867924528,198.75\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,184.16666666666666 598.3018867924528,184.16666666666666\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,67.5 598.3018867924528,330\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><circle cx=\"304.80083857442344\" cy=\"125.83333333333334\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
+    "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">MR</span><span style=\"display:inline-block;\">● Punctul curent</span>"
+  }
+}

@@ -121,7 +121,7 @@
       "Pentru unități întregi verificați costul și TU pentru fiecare alternativă accesibilă."
     ]
   ],
-  "description": "Comparăm coșuri de consum care trebuie să încapă într-un buget. Explicăm preferințele și utilitatea și alegerea optimă prin situații și grafice și calcule.",
+  "description": "Un buget limitat nu permite cumpărarea tuturor bunurilor dorite. Comparăm coșurile accesibile și explicăm alegerea celui preferat. Folosim utilitatea și linia bugetară pentru a înțelege această decizie.",
   "objectives": [
     "Distingeți TU de MU și abordarea cardinală de cea ordinală.",
     "Construiți linia bugetară și curbele de indiferență.",

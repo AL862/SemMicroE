@@ -13,14 +13,14 @@
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.mbz",
-    "sha256": "310a120b85e7a41e9ed18d7451b13f41a4f24910a3e0e02548fe6a08b370838a",
-    "bytes": 5854,
+    "sha256": "78738d9735828ff6dc6c2f60b176130526981e970a82e7a1624c1349a8c9c861",
+    "bytes": 5848,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.xml",
-    "sha256": "b814ea96a2e7816e9bf0a8820916428b06da364c13d00ea6970954c10ab2a482",
-    "bytes": 36040,
+    "sha256": "d701f9b8fe4c283632657599644f9e8e353b005ad72c040d3eb46b46f928b3ac",
+    "bytes": 36005,
     "questions": 25
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.mbz",
-    "sha256": "ca38e374907a0442cabc8027547296c123dac7891ee3b27cebbdcf881dddbb55",
-    "bytes": 5953,
+    "sha256": "5f5942276aa06020ca6cf484545d26c39f57f4cc907cb6e88ca15b448785f310",
+    "bytes": 5961,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.xml",
-    "sha256": "4045675ace6a8348441348c8f914e6da5bd034eb88d97ed9b9e3499086f1d4fb",
-    "bytes": 35638,
+    "sha256": "ea3f290053e92674b219a543deea3c963c3daf2a75a74d3f9c05f08e120fbcb6",
+    "bytes": 35663,
     "questions": 25
   },
   {

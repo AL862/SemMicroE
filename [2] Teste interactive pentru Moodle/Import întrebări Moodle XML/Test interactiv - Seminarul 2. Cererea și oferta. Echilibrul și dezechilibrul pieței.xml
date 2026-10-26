@@ -469,7 +469,7 @@
       <text>Seminarul 2. Întrebarea 18</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 2 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Pentru aceleași funcții la P = 30 avem Q&lt;sub&gt;d&lt;/sub&gt; = 70 și Q&lt;sub&gt;s&lt;/sub&gt; = 40. Care este deficitul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 2 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La P = 30 cumpărătorii cer 70 de unități iar vânzătorii oferă 40. Care este deficitul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>

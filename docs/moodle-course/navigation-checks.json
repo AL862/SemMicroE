@@ -1,0 +1,68 @@
+[
+  {
+    "seminar": 6,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 8,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 11,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 9,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 4,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 1,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 3,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 2,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 5,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 10,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  },
+  {
+    "seminar": 7,
+    "responsive_navigation": true,
+    "focusable_links": true,
+    "unknown_links_disabled": true
+  }
+]

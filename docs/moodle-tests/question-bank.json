@@ -879,8 +879,8 @@
       },
       {
         "number": 18,
-        "text": "Pentru aceleași funcții la P = 30 avem Qd = 70 și Qs = 40. Care este deficitul?",
-        "question_html": "<div lang=\"ro\" style=\"background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;\"><div style=\"font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;\">SEMINARUL 2 · ÎNTREBAREA 18/25</div><p style=\"font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;\">Pentru aceleași funcții la P = 30 avem Q<sub>d</sub> = 70 și Q<sub>s</sub> = 40. Care este deficitul?</p></div>",
+        "text": "La P = 30 cumpărătorii cer 70 de unități iar vânzătorii oferă 40. Care este deficitul?",
+        "question_html": "<div lang=\"ro\" style=\"background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;\"><div style=\"font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;\">SEMINARUL 2 · ÎNTREBAREA 18/25</div><p style=\"font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;\">La P = 30 cumpărătorii cer 70 de unități iar vânzătorii oferă 40. Care este deficitul?</p></div>",
         "answers": [
           "110 unități",
           "70 de unități",
@@ -4217,8 +4217,8 @@
       },
       {
         "number": 5,
-        "text": "La cerere descrescătoare și preț unic cum se compară MR cu P?",
-        "question_html": "<div lang=\"ro\" style=\"background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;\"><div style=\"font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;\">SEMINARUL 9 · ÎNTREBAREA 5/25</div><p style=\"font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;\">La cerere descrescătoare și preț unic cum se compară MR cu P?</p></div>",
+        "text": "La o cantitate pozitivă și cerere descrescătoare cu preț unic cum se compară MR cu P?",
+        "question_html": "<div lang=\"ro\" style=\"background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;\"><div style=\"font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;\">SEMINARUL 9 · ÎNTREBAREA 5/25</div><p style=\"font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;\">La o cantitate pozitivă și cerere descrescătoare cu preț unic cum se compară MR cu P?</p></div>",
         "answers": [
           "MR este mereu egal cu P",
           "MR este egal cu costul fix",

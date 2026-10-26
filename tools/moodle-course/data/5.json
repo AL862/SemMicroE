@@ -118,10 +118,10 @@
       "Multiplicați toți factorii cu t și comparați noul Q cu t × Q inițial."
     ]
   ],
-  "description": "Pornim de la munca și utilajele unei firme. Deosebim rezultatul total de media pe factor și de sporul unei resurse suplimentare. Comparăm apoi combinații și scări de producție.",
+  "description": "O firmă combină munca și echipamentele pentru a produce. Deosebim producția totală de media pe lucrător și de sporul adus de încă un lucrător. Explicăm apoi de ce o limită tehnică poate schimba alegerea firmei.",
   "objectives": [
     "Identificați factorii și perioada producției.",
-    "Calculați TP și AP și MP.",
+    "Calculați producția totală și indicatorii mediu și marginal.",
     "Interpretați izocuantele și substituția factorilor.",
     "Distingeți randamentul unui factor de randamentul la scară."
   ],

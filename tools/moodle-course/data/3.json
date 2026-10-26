@@ -157,7 +157,7 @@
       "Calculați exact înainte și după o variație finită."
     ]
   ],
-  "description": "Măsurăm cât de puternic reacționează cantitățile la preț și venit. Legăm calculele de încasări și de capacitatea de adaptare și de povara unui impozit.",
+  "description": "Măsurăm reacția cantității cerute sau oferite la schimbarea unui factor. Interpretăm procentele și semnele coeficienților. Legăm rezultatele de încasări și de adaptarea firmelor.",
   "objectives": [
     "Calculați și interpretați elasticități punctuale și pe arc.",
     "Distingeți semnul de intensitatea reacției.",
@@ -172,47 +172,47 @@
   "questions": [
     [
       "Care este esența termenului de „elasticitate”?",
-      "Elasticitatea arată cât de puternic reacționează o variabilă economică atunci când se modifică un factor care o influențează."
+      "Elasticitatea compară modificarea procentuală a unei variabile cu modificarea procentuală a factorului analizat. Raportul nu are unitate de măsură. Semnul arată direcția reacției iar valoarea absolută arată intensitatea ei."
     ],
     [
       "Definiți noțiunea de elasticitate a cererii.",
-      "Elasticitatea cererii exprimă sensibilitatea volumului cererii la modificarea unui factor de influență."
+      "Elasticitatea cererii măsoară reacția procentuală a cantității cerute la schimbarea procentuală a unui factor. Acesta poate fi propriul preț sau venitul sau prețul altui bun. Precizăm factorul și păstrăm ceilalți factori neschimbați."
     ],
     [
       "Ce tipuri de elasticitate a cererii cunoașteți? Redați esența lor.",
-      "În funcție de factorul analizat distingem elasticitatea față de preț; față de venit și elasticitatea încrucișată."
+      "Elasticitatea după preț urmărește reacția la prețul bunului analizat. Elasticitatea după venit urmărește reacția la bugetul cumpărătorului. Elasticitatea încrucișată urmărește efectul prețului altui bun."
     ],
     [
       "Explicați tipurile cererii în funcție de mărimea coeficientului elasticității.",
-      "Cererea poate fi elastică; inelastică; unitară; perfect elastică sau perfect inelastică."
+      "Comparăm valoarea absolută a elasticității cererii cu 1. Peste 1 cererea este elastică. Sub 1 este inelastică. La 1 este unitară. Cazurile-limită sunt cererea perfect elastică și cererea perfect inelastică."
     ],
     [
       "Stabiliți motivele diverselor tipuri de calcul al elasticității (punct; arc).",
-      "Calculul în punct măsoară sensibilitatea într-o poziție concretă; calculul pe arc măsoară sensibilitatea medie între două puncte."
+      "Elasticitatea punctuală descrie sensibilitatea într-un punct al funcției. Elasticitatea pe arc compară două situații distincte. Metoda punctului de mijloc folosește mediile valorilor inițiale și finale pentru bazele procentuale. Astfel rezultatul nu depinde de sensul comparației."
     ],
     [
       "Determinați comportamentul elasticității cererii sub influența diverșilor factori.",
-      "Contează substituenții; timpul; ponderea în buget; importanța bunului și caracterul unic al acestuia."
+      "Substituenții apropiați permit cumpărătorului să reacționeze mai mult la scumpire. Un interval mai lung poate permite adaptarea consumului. Ponderea bunului în buget și importanța lui influențează de asemenea sensibilitatea. Acești factori nu se confundă cu panta numerică a unei curbe."
     ],
     [
       "Efectuați o clasificare a bunurilor în funcție de valorile coeficienților elasticității după venit și prețul altor bunuri.",
-      "Elasticitatea față de venit ajută la distingerea bunurilor normale și inferioare; cea încrucișată — a bunurilor substituibile; complementare sau autonome."
+      "O elasticitate după venit pozitivă indică un bun normal în intervalul analizat. O valoare negativă indică un bun inferior. Elasticitatea încrucișată pozitivă sugerează substituibilitate. O valoare negativă sugerează complementaritate. O valoare zero indică lipsa unei reacții locale la factorul respectiv."
     ],
     [
       "Explicați dinamica încasărilor totale (TR) la modificarea prețului bunurilor cu diferit grad de elasticitate a cererii.",
-      "La cerere elastică P și TR se modifică în sens opus; la cerere inelastică în același sens; la |E|=1 TR este la maxim pentru o cerere liniară."
+      "Pentru o modificare mică a prețului și cerere elastică încasările se mișcă în sens opus prețului. La cerere inelastică se mișcă în același sens. La elasticitate unitară MR este zero. Pentru o cerere liniară descrescătoare acest punct maximizează TR. Pentru schimbări mari calculăm direct cele două produse P × Q."
     ],
     [
       "Determinați comportamentul elasticității ofertei sub influența diverșilor factori.",
-      "Oferta devine de regulă mai elastică atunci când firmele au timp; capacitate neutilizată; stocuri și resurse mobile."
+      "Oferta este adesea mai elastică atunci când firmele au timp să ajusteze capacitatea. Stocurile disponibile și resursele care pot fi realocate ușor permit o reacție mai mare. Pe termen foarte scurt capacitatea poate limita cantitatea oferită."
     ],
     [
       "Explicați importanța cunoașterii elasticității cererii și ofertei pentru mediul antreprenorial.",
-      "Elasticitatea ajută la decizii de preț; estimarea vânzărilor și înțelegerea efectelor impozitelor și subvențiilor."
+      "Elasticitatea ajută firma să estimeze reacția vânzărilor la preț și efectul asupra încasărilor. Ea ajută și la interpretarea unui impozit sau a unei subvenții. Coeficientul trebuie legat de piața și intervalul pentru care a fost estimat."
     ],
     [
       "Ce tipuri de elasticitate a ofertei în funcție de preț cunoașteți? Redați esența lor.",
-      "Oferta poate fi elastică; inelastică; unitară; perfect elastică sau perfect inelastică."
+      "Oferta este elastică dacă Es este peste 1. Este inelastică dacă Es este sub 1 și unitară dacă Es = 1. În cazurile-limită vorbim despre ofertă perfect elastică sau perfect inelastică. Clasificarea compară reacții procentuale."
     ]
   ],
   "tf": [

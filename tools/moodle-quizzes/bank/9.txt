@@ -2,7 +2,7 @@ r|Ce caracterizează monopolul pur pe piața relevantă?|Un singur vânzător f�
 r|De ce monopolistul nu poate alege independent orice preț și orice cantitate?|Este constrâns de cererea pieței|Costul fix stabilește singur toate vânzările|Cumpărătorii acceptă orice preț|Prețul este mereu egal cu zero
 r|Care exemplu poate constitui o barieră la intrare?|Controlul unei resurse esențiale fără alternativă apropiată|Existența oricărui cost de producție|Numărul mare de firme mici identice|Disponibilitatea liberă a aceleiași tehnologii pentru toți
 r|Ce poate explica un monopol natural?|Costul mediu scade pe intervalul relevant al cererii|Costul marginal este întotdeauna negativ|Cererea este obligatoriu zero|Există multe firme cu aceeași cotă mică
-r|La cerere descrescătoare și preț unic cum se compară MR cu P?|MR este sub P|MR este mereu egal cu P|MR este peste P pentru orice Q pozitiv|MR este egal cu costul fix
+r|La o cantitate pozitivă și cerere descrescătoare cu preț unic cum se compară MR cu P?|MR este sub P|MR este mereu egal cu P|MR este peste P pentru orice Q pozitiv|MR este egal cu costul fix
 r|Cum se stabilește prețul după găsirea cantității monopoliste?|Prin înlocuirea cantității în cerere|Prin citirea lui direct pe MR|Prin egalarea lui cu FC|Prin împărțirea costului fix la numărul cumpărătorilor
 r|Ce condiție marginală dă un candidat pentru profit maxim interior?|MR = MC|P = FC|TR = TC obligatoriu|MR = 0 indiferent de MC
 r|Monopolul garantează profit economic pozitiv?|Nu. Rezultatul depinde de cerere și costuri|Da. Pentru orice cerere și cost|Da. Barierele elimină toate costurile|Nu. Monopolistul are mereu profit zero

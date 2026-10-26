@@ -105,7 +105,7 @@
       "Echilibru standard de lungă durată."
     ]
   ],
-  "description": "Analizăm firma care ia prețul pieței ca dat. Legăm producția de profit și de oprire. Urmărim intrarea și ieșirea pe termen lung.",
+  "description": "O firmă mică ia prețul pieței ca dat și își alege cantitatea. Calculăm profitul și comparăm producția cu oprirea temporară. Explicăm apoi cum intrarea și ieșirea firmelor schimbă piața.",
   "objectives": [
     "Explicați ipotezele firmei primitoare de preț.",
     "Calculați producția optimă și profitul.",

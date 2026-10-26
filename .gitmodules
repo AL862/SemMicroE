@@ -11,3 +11,7 @@
 [submodule "academic-research-skills"]
 	path = third-party/academic-research-skills
 	url = https://github.com/Imbad0202/academic-research-skills.git
+[submodule "ui-ux-pro-max-skill"]
+	path = third-party/ui-ux-pro-max-skill
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+

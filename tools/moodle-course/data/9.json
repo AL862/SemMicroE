@@ -106,10 +106,10 @@
       "Discriminare de gradul III în ipotezele precizate."
     ]
   ],
-  "description": "Studiem firma care influențează prețul dar rămâne limitată de cerere. Calculăm alegerea ei și efectele asupra bunăstării.",
+  "description": "Un singur ofertant poate influența prețul dar nu poate ignora cumpărătorii. Alegem mai întâi cantitatea și citim apoi prețul pe cerere. Comparăm rezultatul firmei cu schimburile avantajoase pentru societate.",
   "objectives": [
     "Explicați barierele și limita cererii.",
-    "Calculați Q și P și profitul.",
+    "Determinați cantitatea optimă. Calculați apoi prețul și profitul.",
     "Interpretați puterea de piață și pierderea socială.",
     "Analizați discriminarea și impozitarea."
   ],

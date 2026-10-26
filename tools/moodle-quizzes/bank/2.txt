@@ -15,7 +15,7 @@ c|Dacă cererea și oferta cresc simultan ce putem spune fără mărimi suplimen
 r|Cum calculăm costul bugetar al unei subvenții unitare?|Subvenția unitară înmulțită cu volumul subvenționat|Subvenția unitară împărțită la preț|Prețul cumpărătorului înmulțit cu deficitul|Costul fix al producătorului
 p1|Qd = 100 − P și Qs = −20 + 2P. Care este prețul de echilibru?|40|20|60|100
 p1|La echilibrul P = 40 pentru Qd = 100 − P cât se tranzacționează?|60 de unități|40 de unități|100 de unități|20 de unități
-p1|Pentru aceleași funcții la P = 30 avem Qd = 70 și Qs = 40. Care este deficitul?|30 de unități|40 de unități|70 de unități|110 unități
+p1|La P = 30 cumpărătorii cer 70 de unități iar vânzătorii oferă 40. Care este deficitul?|30 de unități|40 de unități|70 de unități|110 unități
 p3|Producătorul primește prețul clientului de 4 u.m. și o subvenție de 2 u.m. Cât primește pe unitate?|6 u.m.|2 u.m.|4 u.m.|8 u.m.
 p4|Cumpărătorul plătește 4 u.m. iar impozitul este 2 u.m. pe produs. Cât primește net vânzătorul?|2 u.m.|6 u.m.|4 u.m.|8 u.m.
 p5|Prețul cumpărătorului este 4 iar prețul net al vânzătorului este 2. Care este impozitul unitar?|2|6|8|1/2

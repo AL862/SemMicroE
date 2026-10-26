@@ -83,3 +83,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\Complete-CourseImpor
 
 Исходники подключены подмодулем third-party/languagetool. [Инструкция](docs/languagetool.md) описывает локальный сервис и офлайн-проверку через CLI. Все 11 новых HTML проверены локальным LanguageTool 6.6 через CLI. Сервис HTTP не запускался.
 
+
+## UI UX Pro Max
+
+Подключён [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/28b3b8dee8c976df4fa3e94aed4e092ad43fcb03) на коммите `28b3b8dee8c976df4fa3e94aed4e092ad43fcb03`, лицензия MIT. Семь навыков доступны через ссылки .agents/skills: ui-ux-pro-max, slides, design-system, design, brand, ui-styling и banner-design. Для использования нужен инициализированный подмодуль. Запросы дизайн-системы рассмотрены как рекомендации; палитра и типографика курса сохранены. Встроенный каталог текущего чата это подключение не изменяет.
+

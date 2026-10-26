@@ -1,5 +1,6 @@
 from pathlib import Path
 import json, re, html as H
+from components import intro,objectives,contents,navigation,STYLE
 ROOT=Path(__file__).parent
 DATA=ROOT/'data'; DATA.mkdir(exist_ok=True)
 TITLES={1:'Obiectul de studiu și metodologia microeconomiei',2:'Cererea și oferta. Echilibrul și dezechilibrul pieței',3:'Elasticitatea cererii și ofertei',4:'Teoria comportamentului consumatorului',5:'Teoria producției',6:'Costurile de producție',7:'Maximizarea profitului și pragul de rentabilitate al firmei',8:'Comportamentul firmelor pe piața cu concurență perfectă',9:'Comportamentul firmelor pe piața de monopol',10:'Comportamentul firmelor pe piața cu concurență monopolistică',11:'Comportamentul firmelor pe piața oligopolistă'}
@@ -18,6 +19,7 @@ def graph(title,xlabel,ylabel,series,xmax=None,ymax=None):
 def line(label,points,color='#1080E4',dash=False):return dict(label=label,points=points,color=color,dash=dash)
 def fmt(t):
     t=str(t).replace('ş','ș').replace('ţ','ț').replace('Ş','Ș').replace('Ţ','Ț')
+    t=re.sub(r'\b(Q|MU|TU|AP|MP)\s+([dsxykl])\b',r'\1\2',t)
     for base,index in [('MRTS','lk'),('MRS','xy'),('MU','x'),('MU','y'),('TU','x'),('TU','y'),('MP','l'),('MP','k'),('AP','l'),('AP','k'),('CO','x'),('CO','y'),('Q','da'),('Q','sa'),('Q','d'),('Q','s'),('Q','x'),('Q','y'),('Q','c'),('Q','m'),('Q','r'),('P','x'),('P','y'),('P','a'),('P','b'),('P','c'),('P','v'),('P','r'),('Q','a'),('Q','b'),('E','d'),('E','s'),('E','i'),('E','xy')]:
         t=re.sub(r'\b'+base+index+r'\b',base+'<sub>'+index+'</sub>',t)
     t=re.sub(r'\b(MR|MC|TR|TC|VC|FC|TU|MU|AP|MP|ATC|AVC|AFC|[QPKLR])([0123])\b',r'\1<sub>\2</sub>',t)
@@ -59,12 +61,12 @@ def render(n,output_root=None):
     d=json.loads((DATA/f'{n}.json').read_text());assert len(d['new'])==10
     titles=['Obiectivele seminarului','Bazele teoretice ale seminarului','Formule principale și algoritmi','Exerciții și probleme rezolvate','Probleme pentru rezolvare','Subiecte de recapitulare','Concluzii esențiale','Materiale seminarului']
     root='<div data-course-seminar="'+str(n)+'" lang="ro" style="max-width:1050px;margin:0 auto;padding:12px;box-sizing:border-box;font-family:Arial,Helvetica,sans-serif;font-size:18px;line-height:1.6;color:#24313D;background:#FFFFFF;overflow-wrap:break-word;">'
-    root+='<style>[data-course-seminar] sub,[data-course-seminar] sup{font-size:75%;line-height:0}[data-course-seminar] :focus-visible{outline:3px solid #1F6388;outline-offset:3px}[data-course-seminar] *{box-sizing:border-box}[data-course-seminar] p:last-child{margin-bottom:0!important}</style>'
+    root+='<style>'+STYLE+'[data-course-seminar] sub,[data-course-seminar] sup{font-size:75%;line-height:0}[data-course-seminar] :focus-visible{outline:3px solid #1F6388;outline-offset:3px}[data-course-seminar] *{box-sizing:border-box}[data-course-seminar] p:last-child{margin-bottom:0!important}</style>'
     root+='<div data-course-header="compact" style="background:linear-gradient(135deg,#123B5D,#1F6388);color:#FFFFFF;padding:16px 20px;border-radius:12px;margin-bottom:24px;"><div style="font-size:14px;line-height:1.5;letter-spacing:1.2px;text-transform:uppercase;margin:0 0 6px;">Microeconomie · ASEM</div><h1 style="margin:0;font-size:24px!important;font-weight:700;line-height:1.3;color:#FFFFFF;">Seminarul '+str(n)+' — '+d['title']+'</h1></div>'
-    root+=h3('Descrierea seminarului')+p(d['description'])
-    root+='<nav id="cuprins" aria-label="Cuprins" style="padding:16px;background:#F6F8FB;border-radius:12px;margin:24px 0;">'+h3('Cuprins')+'<div style="display:flex;flex-wrap:wrap;gap:8px 16px;">'+''.join(f'<a href="#s{i}" style="color:#123B5D;padding:8px 0;">{i}. {t}</a>' for i,t in enumerate(titles,1))+'</div></nav>'
+    root+=intro(fmt(d['description']))
+    root+=contents(titles,h3)
     sections=[]
-    sections.append(list_html(d['objectives']))
+    sections.append(objectives(d['objectives'],fmt))
     from interactive import widget
     sections.append(''.join(card(h3(t)+''.join(p(x) for x in paragraphs)) for t,paragraphs in d['theory'])+''.join(card(svg(g)) for g in d.get('graphs',[]))+widget(n,d.get('model_fallback')))
     sections.append((details('Notații și unități',tbl(table(['Simbol','Semnificație'],d['notation']))) if d.get('notation') else '')+tbl(table(['Instrument','Cum îl folosim'],d['formulas'])))
@@ -97,14 +99,8 @@ def render(n,output_root=None):
         root+=f'<section id="s{i}" style="margin:32px 0;min-width:0;"><h2 style="font-size:24px;line-height:1.3;color:#123B5D;margin:0 0 16px;">{i}. {title}</h2>'
         if i in (4,5,6):root+='<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;"><button type="button" data-expand="true" style="font:inherit;font-size:16px;padding:10px 16px;min-height:44px;border:1px solid #123B5D;border-radius:8px;background:#123B5D;color:#FFFFFF;cursor:pointer;">Deschide toate</button><button type="button" data-expand="false" style="font:inherit;font-size:16px;padding:10px 16px;min-height:44px;border:1px solid #E2E8EF;border-radius:8px;background:#FFFFFF;color:#123B5D;cursor:pointer;">Închide toate</button></div>'
         root+=body+'<a href="#cuprins" style="display:inline-block;color:#123B5D;font-size:16px;padding:10px 0;">Înapoi la cuprins</a></section>'
-    urls={1:133882,2:132272,3:134663,4:137599}
-    root+='<nav aria-label="Navigarea cursului" style="display:flex;flex-wrap:wrap;gap:8px;margin-top:32px;">'
-    for num,label in [(n-1,'← Seminarul '+str(n-1)),(0,'Toate seminarele'),(n+1,'Seminarul '+str(n+1)+' →')]:
-        if num<0 or num>11 or num==0 and label.startswith('←'):continue
-        url='https://moodle.ase.md/course/view.php?id=4708' if num==0 else ('https://moodle.ase.md/mod/page/view.php?id='+str(urls[num]) if num in urls else None)
-        st='display:inline-block;padding:10px 16px;min-height:44px;border:1px solid #E2E8EF;border-radius:8px;font-size:16px;'
-        root+=f'<a style="{st}color:#123B5D;" href="{url}">{label}</a>' if url else f'<span aria-disabled="true" style="{st}color:#556374;background:#F6F8FB;">{label}</span>'
-    root+='</nav><script>(function(){const r=document.currentScript.closest("[data-course-seminar]");r.querySelectorAll("button[data-expand]").forEach(function(b){b.addEventListener("click",function(){b.closest("section").querySelectorAll("details").forEach(function(d){d.open=b.dataset.expand==="true";});});});})();</script></div>'
+    root+=navigation(n,TITLES)
+    root+='<script>(function(){const r=document.currentScript.closest("[data-course-seminar]");r.querySelectorAll("button[data-expand]").forEach(function(b){b.addEventListener("click",function(){b.closest("section").querySelectorAll("details").forEach(function(d){d.open=b.dataset.expand==="true";});});});})();</script></div>'
     out=(Path(output_root) if output_root is not None else ROOT/'output')/'[1] Fișiere HTML ale cursului pentru încărcare pe Moodle';out.mkdir(parents=True,exist_ok=True)
     f=out/f'{n}. Seminarul - {d["title"]}.html';f.write_text('<!DOCTYPE html><html lang="ro"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Seminarul '+str(n)+' — '+d['title']+'</title></head><body style="margin:0;">'+root+'</body></html>')
     return f

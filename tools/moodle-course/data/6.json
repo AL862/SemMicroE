@@ -110,7 +110,7 @@
       "Relație punctuală într-un model diferențiabil."
     ]
   ],
-  "description": "Legăm costul de resursele consumate și de alternativele sacrificate. Calculăm indicatorii de cost și explicăm alegerea combinației de factori pentru o producție dată.",
+  "description": "Aceeași producție poate fi obținută prin combinații diferite de resurse. Calculăm costul total și costurile pe produs. Comparăm apoi costul unei unități suplimentare cu media și explicăm alegerea factorilor.",
   "objectives": [
     "Distingeți costurile explicite de cele implicite.",
     "Calculați costurile totale și medii și marginale.",
@@ -125,7 +125,7 @@
   "questions": [
     [
       "Explicați deosebirile dintre conținutul noțiunilor „costuri” și „cheltuieli”.",
-      "Costul măsoară resursele consumate pentru obținerea unui rezultat. În contabilitate costul de producție poate rămâne inclus în valoarea stocului. O cheltuială este recunoscută în rezultatul perioadei conform regulilor contabile. Plata este o a treia noțiune: ieșirea banilor. Cumpărarea unei resurse și consumul ei și recunoașterea în rezultat pot avea loc în momente diferite."
+      "Costurile măsoară resursele consumate pentru obținerea unui rezultat. În contabilitate costul de producție poate rămâne inclus în valoarea stocurilor. Cheltuielile sunt recunoscute în rezultatul perioadei conform regulilor contabile. Plata înseamnă ieșirea banilor. Cumpărarea resursei și consumul ei și recunoașterea în rezultat pot avea loc în momente diferite."
     ],
     [
       "Astfel sunt numite costurile aferente utilizării factorilor de producție aflați în proprietatea firmei.",

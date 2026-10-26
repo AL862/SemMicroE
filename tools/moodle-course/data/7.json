@@ -103,9 +103,9 @@
       "Aceleași ipoteze și verificarea cererii."
     ]
   ],
-  "description": "Deosebim încasările de profit și alegem volumul prin comparații marginale. Calculăm pragul de rentabilitate și verificăm țintele firmei.",
+  "description": "Vânzările mai mari nu garantează un profit mai mare. Comparăm încasarea suplimentară cu costul suplimentar. Calculăm pragul de rentabilitate și verificăm ce vânzări sunt necesare pentru ținta firmei.",
   "objectives": [
-    "Calculați veniturile și profitul total și mediu și marginal.",
+    "Calculați încasările și profitul. Deosebiți totalul de medie și de spor.",
     "Verificați alegerea cantității prin MR și MC.",
     "Calculați pragul și volumul pentru un profit dorit.",
     "Distingeți profitul maxim de încasările maxime."

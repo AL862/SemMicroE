@@ -1,12 +1,12 @@
 [
   {
-    "seminar": 9,
-    "matches": 135,
+    "seminar": 10,
+    "matches": 64,
     "exit_code": 0
   },
   {
-    "seminar": 10,
-    "matches": 61,
+    "seminar": 9,
+    "matches": 136,
     "exit_code": 0
   },
   {
@@ -20,38 +20,38 @@
     "exit_code": 0
   },
   {
-    "seminar": 3,
-    "matches": 199,
-    "exit_code": 0
-  },
-  {
     "seminar": 7,
     "matches": 52,
     "exit_code": 0
   },
   {
+    "seminar": 3,
+    "matches": 202,
+    "exit_code": 0
+  },
+  {
     "seminar": 1,
-    "matches": 57,
+    "matches": 56,
     "exit_code": 0
   },
   {
     "seminar": 5,
-    "matches": 101,
-    "exit_code": 0
-  },
-  {
-    "seminar": 2,
-    "matches": 190,
+    "matches": 104,
     "exit_code": 0
   },
   {
     "seminar": 11,
-    "matches": 172,
+    "matches": 181,
+    "exit_code": 0
+  },
+  {
+    "seminar": 2,
+    "matches": 203,
     "exit_code": 0
   },
   {
     "seminar": 6,
-    "matches": 155,
+    "matches": 163,
     "exit_code": 0
   }
 ]

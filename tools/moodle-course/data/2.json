@@ -127,7 +127,7 @@
       "Diferența pentru subvenția unitară s. Cost bugetar = s × Q."
     ]
   ],
-  "description": "Urmărim alegerile cumpărătorilor și ale vânzătorilor. Construim echilibrul și analizăm cum îl schimbă evenimentele pieței și intervențiile asupra prețurilor.",
+  "description": "Urmărim deciziile cumpărătorilor și vânzătorilor. Calculăm prețul la care cantitățile se potrivesc. Explicăm apoi deficitul și excesul de ofertă și efectele intervențiilor pe piață.",
   "objectives": [
     "Deosebiți cererea de cantitatea cerută și oferta de cantitatea oferită.",
     "Calculați echilibrul și situațiile de deficit sau surplus.",
@@ -142,43 +142,43 @@
   "questions": [
     [
       "Ce reprezintă cererea individuală?",
-      "Cererea individuală este cantitatea unui bun pe care un cumpărător dorește și poate să o procure la diferite niveluri ale prețului într-o anumită perioadă."
+      "Cererea individuală descrie cantitățile unui bun pe care un cumpărător dorește și poate să le cumpere la diferite prețuri într-o perioadă dată. La un singur preț vorbim despre cantitatea cerută. Pentru comparația dintre prețuri ceilalți factori rămân neschimbați."
     ],
     [
       "Definiți noțiunile „funcția cererii” și „curba cererii”.",
-      "Funcția cererii exprimă matematic dependența Q d =f(P) sau; într-o formă liniară; Q d =a−bP. Curba cererii este reprezentarea grafică a acestei relații."
+      "Funcția cererii exprimă matematic relația dintre cantitate și factorii care o influențează. Dacă izolăm efectul prețului scriem Qd = f(P). Un exemplu liniar este Qd = a − bP cu b pozitiv. Curba cererii reprezintă grafic relația dintre P și Qd când ceilalți factori rămân neschimbați."
     ],
     [
       "Care sunt factorii non-preț ai cererii?",
-      "Venitul; gusturile și preferințele; prețurile substituenților și complementelor; numărul cumpărătorilor; anticipările; sezonul; publicitatea și alți factori."
+      "Venitul și preferințele pot schimba cererea la același preț. Contează și prețurile bunurilor substituibile sau complementare. Numărul cumpărătorilor și anticipările lor și condițiile de sezon pot deplasa curba. Schimbarea prețului bunului analizat produce o mișcare pe aceeași curbă."
     ],
     [
       "Care este deosebirea dintre cererea individuală și cererea pieței (globală)?",
-      "Cererea individuală aparține unui cumpărător; cererea pieței este suma cantităților solicitate de toți cumpărătorii la același preț."
+      "Cererea individuală aparține unui singur cumpărător. Cererea pieței însumează cantitățile solicitate de toți cumpărătorii la același preț și pentru aceeași perioadă. Adunăm cantitățile pe orizontală. Nu adunăm prețurile."
     ],
     [
       "Ce reprezintă oferta pieței (globală)?",
-      "Oferta pieței reprezintă cantitatea totală pe care toți vânzătorii doresc să o ofere la fiecare nivel al prețului într-o anumită perioadă."
+      "Oferta pieței descrie cantitățile totale pe care vânzătorii doresc și pot să le vândă la diferite prețuri într-o perioadă dată. La fiecare preț adunăm cantitățile oferite de firme. Pentru o comparație corectă folosim aceeași unitate și aceeași perioadă."
     ],
     [
       "Definiți noțiunile „funcția ofertei” și „curba ofertei”.",
-      "Funcția ofertei exprimă dependența Q s =f(P); iar pentru o relație liniară Q s =a+bP. Curba ofertei este reprezentarea grafică a acestei relații."
+      "Funcția ofertei exprimă matematic relația dintre cantitate și factorii relevanți pentru producători. Dacă izolăm efectul prețului scriem Qs = f(P). Exemplul liniar Qs = a + bP are b pozitiv. Curba ofertei reprezintă grafic această relație cu ceilalți factori păstrați neschimbați."
     ],
     [
       "Care sunt factorii non-preț ai ofertei?",
-      "Prețurile resurselor; tehnologia; impozitele și subvențiile; prețurile altor bunuri; anticipările vânzătorilor; numărul vânzătorilor și alți factori."
+      "Prețurile resurselor și tehnologia modifică oferta la același preț al produsului. Contează și impozitele sau subvențiile. Numărul vânzătorilor și anticipările lor pot schimba oferta pieței. Prețurile altor bunuri pot influența folosirea alternativă a resurselor."
     ],
     [
       "Când se constată echilibrul pieței? Descrieți situațiile de dezechilibru care pot apărea pe piață.",
-      "Echilibrul apare când Q d =Q s. Sub P* apare deficit; peste P* apare surplus."
+      "Echilibrul apare când Qd = Qs la același preț. În modelul obișnuit cu cerere descrescătoare și ofertă crescătoare un preț sub echilibru produce deficit. Un preț peste echilibru produce exces de ofertă. Diferența dintre cantități nu este cantitatea efectiv vândută."
     ],
     [
       "Care sunt consecințele impozitării producătorilor și consumatorilor?",
-      "Impozitul creează o diferență între prețul cumpărătorului și prețul net al producătorului și reduce; de regulă; cantitatea de echilibru. Încasările fiscale sunt t×Q după impozit."
+      "Un impozit unitar creează diferența Pc − Pv = t. Pc este suma plătită de cumpărător iar Pv este prețul net primit de vânzător. Cantitatea tranzacționată se poate reduce. Încasarea fiscală este t × Q după introducerea impozitului. Cine virează legal taxa nu determină singur cine o suportă."
     ],
     [
       "Care sunt consecințele acordării subvențiilor pentru producători și consumatori?",
-      "Subvenția reduce costul efectiv sau mărește suma primită de partea subvenționată; iar cantitatea de echilibru tinde să crească. Valoarea totală plătită din buget este sub×Q după subvenție."
+      "O subvenție unitară creează o diferență între suma primită de vânzător și suma plătită de cumpărător. În modelul obișnuit cantitatea de echilibru crește. Plata totală din buget este subvenția pe unitate înmulțită cu volumul efectiv subvenționat. Folosim cantitatea de după măsură."
     ]
   ],
   "tf": [

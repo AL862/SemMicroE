@@ -115,11 +115,11 @@
       "Concentrarea nu dovedește singură cooperarea."
     ]
   ],
-  "description": "Comparăm câteva firme care se influențează reciproc. Precizăm strategiile și ordinea înainte de calcularea cantităților și prețurilor.",
+  "description": "Când pe piață sunt puține firme fiecare urmărește și alegerea rivalei. Comparăm deciziile simultane cu alegerea unui lider. Verificăm ce rezultat este stabil față de o schimbare unilaterală.",
   "objectives": [
     "Explicați interdependența strategică.",
     "Distingeți cooperarea de echilibrul necooperant.",
-    "Rezolvați Cournot și Stackelberg și Bowley.",
+    "Rezolvați modelele Cournot și Stackelberg. Verificați planurile Bowley.",
     "Interpretați Bertrand și Sweezy în ipotezele lor."
   ],
   "conclusions": [

@@ -371,7 +371,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Scrieți profitul fiecărei firme tratând cantitatea rivalei ca dată. Determinați cele mai bune răspunsuri și intersecția lor. Folosiți cantitatea totală pentru prețul unic al pieței."
     },
     {
       "title": "Dubla dominație de tip Bowley",
@@ -442,7 +443,9 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Derivați mai întâi reacțiile de urmăritor. Fiecare lider își formează apoi propriul plan anticipând reacția celeilalte firme. Calculați rezultatul efectiv din ambele cantități alese și un singur preț comun.",
+      "check": "Control: cantitățile efective trebuie însumate înainte de a calcula prețul comun. Pentru a testa Nash înlocuiți apoi cantitatea efectivă a fiecărei rivale în reacția de urmăritor. Planurile de lider nu trec acest test."
     },
     {
       "title": "Duopol Stackelberg",
@@ -535,7 +538,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Determinați reacția urmăritorului pentru fiecare cantitate a liderului. Introduceți această reacție în profitul liderului. Verificați după alegerea liderului dacă urmăritorul răspunde optim."
     }
   ],
   "new": [
@@ -563,7 +567,7 @@
     },
     {
       "title": "Un lider și un urmăritor",
-      "condition": "Cererea și costurile sunt P = 90 − Q1 − Q2 și MC = 30 de lei. Firma 1 alege prima cantitatea. Firma 2 îi observă alegerea.",
+      "condition": "Cererea și costurile sunt P = 90 − Q1 − Q2 și MC = 30 de lei. Firma 1 alege prima cantitatea. Firma 2 îi observă alegerea. Costurile fixe ale ambelor firme sunt zero.",
       "requirements": [
         "Calculați cantitățile Stackelberg.",
         "Calculați prețul și profiturile."
@@ -655,5 +659,23 @@
     "result": "P = 90 − Q<sub style=\"font-size:75%;line-height:0;\">1</sub> − Q<sub style=\"font-size:75%;line-height:0;\">2</sub> · MC = 30 pentru ambele firme. Q total = 40 · P = 50 · Profit 1 = 400 · Profit 2 = 400. Cele mai bune răspunsuri: Q<sub style=\"font-size:75%;line-height:0;\">1</sub> = 20 și Q<sub style=\"font-size:75%;line-height:0;\">2</sub> = 20. Ambele sunt răspunsuri optime simultan: Cournot.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"265\" text-anchor=\"end\">17</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">32</text><text x=\"60\" y=\"195\" text-anchor=\"end\">34</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">48</text><text x=\"60\" y=\"125\" text-anchor=\"end\">50</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">64</text><text x=\"60\" y=\"55\" text-anchor=\"end\">67</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Firma 1 · unități</text><text x=\"18\" y=\"28\">Firma 2 · unități</text><polyline points=\"70,80.00000000000003 334.1509433962264,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,205 598.3018867924528,330\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"246.1006289308176\" cy=\"246.66666666666669\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Reacția firmei 1</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">Reacția firmei 2</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "Q1 și Q2 și Q",
+      "Cantitățile firmelor și cantitatea totală."
+    ],
+    [
+      "R1 și R2",
+      "Funcțiile celor mai bune răspunsuri. Nu sunt cantități observate automat."
+    ],
+    [
+      "MC și TC",
+      "Cost marginal și cost total ale firmei respective."
+    ],
+    [
+      "HHI",
+      "Suma pătratelor cotelor. Cotele în procente dau altă scară numerică decât cotele fracționale."
+    ]
+  ]
 }

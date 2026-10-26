@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-26",
+  "pages": [
+    {
+      "seminar": 1,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 3
+    },
+    {
+      "seminar": 2,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 6
+    },
+    {
+      "seminar": 3,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 6
+    },
+    {
+      "seminar": 4,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 5,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 6,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 7,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 8,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 9,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 5
+    },
+    {
+      "seminar": 10,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 4
+    },
+    {
+      "seminar": 11,
+      "source_content_preserved": true,
+      "new_exercises": 10,
+      "notation_table": true,
+      "specific_hints": 3
+    }
+  ],
+  "arithmetic_checks_repeated": 59,
+  "additional_exact_identity_checks": 7,
+  "review_method": "Adapted evidence-anchored course review using academic-paper-reviewer; single agent; no calibrated or independent panel claims"
+}

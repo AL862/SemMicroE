@@ -524,7 +524,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Utilitatea marginală este diferența dintre două utilități totale succesive. Invers puteți reconstitui totalul adunând sporul la valoarea anterioară. Folosiți reperul de consum zero precizat în condiție."
     },
     {
       "title": "Pizza și Fanta",
@@ -588,7 +589,8 @@
           ]
         }
       ],
-      "charts": []
+      "charts": [],
+      "hint": "Adunați utilitățile marginale pentru a afla utilitatea fiecărei cantități. Comparați coșurile întregi care respectă bugetul. Nu impuneți o tangență exactă pentru produse indivizibile."
     },
     {
       "title": "Preferințe exprimate printr-o funcție",
@@ -604,7 +606,9 @@
       ],
       "conclusion": "Preferințele și prețurile determină împărțirea bugetului. Numărul unităților nu trebuie să fie întreg în modelul dat.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Scrieți restricția bugetară și raportul utilităților marginale. La optimul interior comparați utilitatea marginală pe leu a celor două bunuri. Verificați rezultatul prin înlocuire în buget.",
+      "check": "Control de buget: 6 × 100/9 + 8 × 50/3 = 200. Raportul utilităților marginale pe leu este același pentru ambele bunuri. Aceste două condiții sunt compatibile cu optimul interior al funcției date."
     },
     {
       "title": "Utilitate liniară și alegere de colț",
@@ -619,7 +623,8 @@
       ],
       "conclusion": "Cu substituenți perfecți optimul poate fi un colț. Nu impunem o tangență interioară acolo unde nu există.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Utilitățile marginale sunt constante în funcția liniară. Comparați utilitatea obținută pentru un leu la fiecare bun. Dacă rapoartele diferă verificați alegerea de colț."
     },
     {
       "title": "Curbe de indiferență liniare",
@@ -707,7 +712,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Construiți linia bugetară și comparați panta ei cu panta curbelor de indiferență. Verificați capetele accesibile ale bugetului. Nu presupuneți un optim interior când bunurile sunt substituenți perfecți."
     }
   ],
   "new": [
@@ -827,5 +833,23 @@
     "result": "I = 120 lei · P<sub style=\"font-size:75%;line-height:0;\">x</sub> = 20 lei · P<sub style=\"font-size:75%;line-height:0;\">y</sub> = 10 lei. X = 3 și Y = 6 · TU = 18. Optim: X = 3 și Y = 6 cu TU = 18.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">2</text><text x=\"60\" y=\"265\" text-anchor=\"end\">3</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"195\" text-anchor=\"end\">7</text><path d=\"M490 50 V330 M70 119.99999999999997 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"124.99999999999997\" text-anchor=\"end\">10</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">6</text><text x=\"60\" y=\"55\" text-anchor=\"end\">13</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">X · unități</text><text x=\"18\" y=\"28\">Y · unități</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"202.0754716981132,80.00000000000003 210.88050314465409,95.625 219.68553459119497,109.41176470588238 228.49056603773587,121.66666666666671 237.29559748427675,132.6315789473685 246.10062893081763,142.50000000000006 254.90566037735854,151.4285714285715 263.7106918238994,159.54545454545462 272.5157232704403,166.9565217391305 281.3207547169812,173.75000000000006 290.1257861635221,180.00000000000006 298.93081761006295,185.76923076923086 307.73584905660385,191.11111111111117 316.54088050314476,196.07142857142864 325.3459119496856,200.68965517241386 334.1509433962265,205.00000000000006 342.95597484276743,209.0322580645162 351.7610062893083,212.81250000000006 360.5660377358492,216.36363636363643 369.37106918239004,219.70588235294125 378.17610062893095,222.8571428571429 386.98113207547186,225.8333333333334 395.78616352201277,228.6486486486487 404.5911949685536,231.31578947368428 413.39622641509453,233.84615384615392 422.2012578616353,236.25000000000006 431.0062893081762,238.53658536585368 439.8113207547171,240.71428571428575 448.6163522012579,242.79069767441865 457.4213836477988,244.77272727272728 466.2264150943396,246.66666666666669 475.0314465408805,248.47826086956522 483.8364779874213,250.2127659574468 492.64150943396214,251.875 501.446540880503,253.46938775510202 510.25157232704385,254.99999999999997 519.0566037735847,256.4705882352941 527.8616352201255,257.88461538461536 536.6666666666664,259.2452830188679 545.4716981132073,260.55555555555554 554.276729559748,261.81818181818176 563.081761006289,263.0357142857142 571.8867924528297,264.2105263157894 580.6918238993707,265.34482758620686 589.4968553459115,266.44067796610165 598.3018867924524,267.49999999999994\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"205\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Buget</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">Indiferență TU = 18</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "X și Y",
+      "Cantități din cele două bunuri."
+    ],
+    [
+      "I și Px și Py",
+      "Buget disponibil și prețurile pe unitate. Toate valorile monetare au aceeași monedă."
+    ],
+    [
+      "TU și MU",
+      "Utilitate totală și utilitate marginală în unități convenționale."
+    ],
+    [
+      "MRSxy",
+      "Cantitatea din Y sacrificată pentru încă un X pe aceeași curbă de indiferență."
+    ]
+  ]
 }

@@ -338,7 +338,8 @@
       ],
       "conclusion": "La 150 de unități încasările sunt maxime. Profitul maxim nu poate fi determinat fără costuri.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Exprimați încasările și sporul lor în funcție de cantitate. Pentru maximul încasărilor căutați punctul unde sporul marginal se anulează și verificați maximul. Nu confundați încasările cu profitul."
     },
     {
       "title": "Recuperarea costurilor și un profit dorit",
@@ -354,7 +355,8 @@
       ],
       "conclusion": "Pragul acoperă costurile. Pentru un profit pozitiv trebuie depășit acest volum dacă prețul și costul variabil unitar rămân constante.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați marja unitară ca preț minus cost variabil unitar. Costul fix împărțit la marjă dă pragul. Pentru o țintă de profit adăugați ținta la costul fix înainte de împărțire."
     },
     {
       "title": "Pragul din costul mediu",
@@ -369,7 +371,8 @@
       ],
       "conclusion": "Costul fix de 4000 de lei este recuperat prin marja de 40 de lei a fiecărei unități.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "La prag prețul este egal cu costul mediu total pentru cantitatea aleasă. Rezolvați această egalitate. Verificați apoi dacă încasările acoperă exact costul total."
     },
     {
       "title": "Prețul care acoperă costul unui lot",
@@ -384,7 +387,8 @@
       ],
       "conclusion": "Prețul calculat asigură recuperarea costului numai dacă lotul planificat este efectiv vândut.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați costul total al lotului planificat. Împărțiți-l la numărul de produse pentru prețul de recuperare. Acest preț presupune vânzarea întregului lot."
     },
     {
       "title": "Prețul pentru profitul planificat",
@@ -399,7 +403,8 @@
       ],
       "conclusion": "Prețul este un preț de realizare a țintei la volumul dat. Cererea trebuie să permită vânzarea celor 600 de unități.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Adunați costul total și profitul dorit pentru a afla încasările necesare. Împărțiți la volumul planificat pentru preț. Deosebiți costul variabil total de costul variabil unitar."
     }
   ],
   "new": [
@@ -519,5 +524,23 @@
     "result": "P = 50 · TC = 100 + 10Q + Q². TR = 1000 · TC = 700 · Profit = 300. Maximul este 300 la Q = 20. MR = 50 și MC = 50.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">12</text><text x=\"60\" y=\"265\" text-anchor=\"end\">721</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">24</text><text x=\"60\" y=\"195\" text-anchor=\"end\">1442</text><path d=\"M490.00000000000006 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490.00000000000006\" y=\"354\" text-anchor=\"middle\">36</text><text x=\"60\" y=\"125\" text-anchor=\"end\">2163</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">48</text><text x=\"60\" y=\"55\" text-anchor=\"end\">2884</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei</text><polyline points=\"70,330 598.3018867924528,111.55339805825247\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,320.29126213592235 81.74004192872117,319.22330097087377 93.48008385744234,317.9611650485437 105.22012578616352,316.50485436893206 116.96016771488469,314.8543689320388 128.70020964360586,313.00970873786406 140.44025157232704,310.97087378640776 152.18029350104823,308.7378640776699 163.92033542976938,306.31067961165047 175.66037735849056,303.68932038834953 187.40041928721172,300.873786407767 199.1404612159329,297.86407766990294 210.88050314465409,294.6601941747573 222.62054507337524,291.2621359223301 234.36058700209645,287.66990291262135 246.1006289308176,283.88349514563106 257.84067085953876,279.90291262135923 269.5807127882599,275.7281553398058 281.3207547169811,271.3592233009709 293.0607966457023,266.79611650485435 304.80083857442344,262.03883495145635 316.54088050314465,257.0873786407767 328.2809224318658,251.94174757281556 340.02096436058696,246.60194174757282 351.76100628930817,241.06796116504856 363.5010482180293,235.33980582524273 375.2410901467505,229.41747572815535 386.9811320754717,223.3009708737864 398.7211740041929,216.99029126213594 410.461215932914,210.4854368932039 422.2012578616352,203.78640776699032 433.9412997903564,196.89320388349518 445.6813417190775,189.80582524271847 457.42138364779873,182.52427184466023 469.1614255765199,175.04854368932044 480.90146750524104,167.37864077669906 492.64150943396226,159.51456310679612 504.3815513626834,151.45631067961168 516.1215932914046,143.20388349514565 527.8616352201257,134.7572815533981 539.6016771488469,126.11650485436897 551.3417190775681,117.28155339805829 563.0817610062893,108.25242718446606 574.8218029350105,99.02912621359226 586.5618448637316,89.61165048543694 598.3018867924528,80.00000000000006\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"304.80083857442344\" cy=\"232.9126213592233\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">TR</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">TC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "TR și TC",
+      "Încasări totale și cost total pentru aceeași cantitate și perioadă."
+    ],
+    [
+      "MR și MC",
+      "Încasare marginală și cost marginal pe unitate suplimentară."
+    ],
+    [
+      "AR și ATC",
+      "Încasări medii și cost mediu total pe produs."
+    ],
+    [
+      "v și FC",
+      "Cost variabil pe produs și cost fix total. Nu înlocuiți v cu VC total în formula pragului."
+    ]
+  ]
 }

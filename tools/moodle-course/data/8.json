@@ -272,7 +272,9 @@
       ],
       "conclusion": "Un volum optim poate produce pierdere. Pe termen scurt comparația relevantă este și cu oprirea.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Folosiți P = MC pentru candidatul interior. Calculați profitul și comparați-l cu pierderea la oprire. Un profit negativ nu justifică singur oprirea pe termen scurt.",
+      "check": "Control: producția reduce pierderea față de oprire cu 90 − 551/12 = 529/12 u.m. Aceasta este exact TR − VC la volumul ales. Costul fix nu dispare la oprirea pe termen scurt."
     },
     {
       "title": "Oferta unei firme și oferta ramurii",
@@ -292,7 +294,8 @@
       ],
       "conclusion": "Profitul pe termen scurt nu garantează menținerea lui după intrarea concurenților.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Reconstituiți costul variabil din AVC și cantitate. Din MC obțineți oferta individuală deasupra pragului de închidere. Adunați ofertele la același preț înainte de egalarea cu cererea pieței."
     },
     {
       "title": "Douăzeci de firme în echilibru pe termen lung",
@@ -309,7 +312,8 @@
       ],
       "conclusion": "Fiecare firmă acoperă toate costurile economice și obține profit economic zero la scara eficientă.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Pe termen lung căutați minimul costului mediu. Verificați că MC are aceeași valoare în acel punct. Înmulțiți apoi producția unei firme cu numărul firmelor."
     },
     {
       "title": "Cost fix de 50 și ofertă concurențială",
@@ -326,7 +330,8 @@
       ],
       "conclusion": "Prețul acoperă costul variabil și costul fix. Diferența rămasă este profitul economic.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Dezvoltați funcția costului variabil și determinați MC. Găsiți cantitatea la care prețul acoperă MC. Verificați continuarea prin AVC și calculați profitul din încasări minus cost total."
     },
     {
       "title": "Pragul de profit zero și pragul de închidere",
@@ -345,7 +350,8 @@
       ],
       "conclusion": "Pragul de închidere privește costul variabil. Pragul de rentabilitate privește costul total.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Separați pragul de profit zero de pragul de închidere. Primul privește minimul ATC iar al doilea minimul sau limita inferioară a AVC. Verificați cantitatea pozitivă disponibilă la fiecare preț."
     }
   ],
   "new": [
@@ -465,5 +471,23 @@
     "result": "P = 30 · TC = 100 + 10Q + Q². Q optim = 10 · Profit = 0. Profit economic zero.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"265\" text-anchor=\"end\">17</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"195\" text-anchor=\"end\">35</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"125\" text-anchor=\"end\">52</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"55\" text-anchor=\"end\">69</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"70,289.6774193548387 598.3018867924528,128.3870967741936\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,289.6774193548387 598.3018867924528,209.03225806451616\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,209.03225806451616 598.3018867924528,209.03225806451616\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><polyline points=\"122.83018867924528,80.00000000000006 129.43396226415092,101.3933691756273 136.03773584905662,118.30645161290329 142.64150943396226,131.96114369501467 149.2452830188679,143.1720430107527 155.84905660377356,152.50310173697272 162.45283018867923,160.3571428571429 169.0566037735849,167.02956989247312 175.66037735849056,172.741935483871 182.2641509433962,177.6636622390892 188.86792452830187,181.92652329749106 195.47169811320754,185.63455008488967 202.0754716981132,188.87096774193552 208.67924528301884,191.7031490015361 215.28301886792448,194.18621700879766 221.88679245283018,196.36570827489484 228.49056603773582,198.27956989247312 235.09433962264148,199.95967741935488 241.69811320754712,201.4330024813896 248.30188679245282,202.7225209080048 254.9056603773585,203.84792626728114 261.5094339622641,204.82619577308122 268.1132075471698,205.6720430107527 274.71698113207543,206.39828303850157 281.3207547169811,207.01612903225808 287.92452830188677,207.53543499511244 294.5283018867924,207.96489563567366 301.13207547169804,208.31221198156683 307.73584905660374,208.58422939068103 314.33962264150944,208.7870531822145 320.9433962264151,208.92614601018676 327.5471698113207,209.00641025641028 334.1509433962264,209.03225806451616 340.75471698113205,209.00767112509834 347.3584905660377,208.9362519201229 353.9622641509434,208.82126781695425 360.56603773584897,208.66568914956014 367.16981132075466,208.47222222222223 373.77358490566036,208.24333800841518 380.377358490566,207.98129718599864 386.98113207547163,207.68817204301075 393.58490566037733,207.3658657011192 400.18867924528297,207.01612903225808 406.79245283018867,206.64057558507275 413.39622641509425,206.24069478908189 419.99999999999994,205.81786366402923 426.60377358490564,205.37335722819597 433.2075471698113,204.90835777126102 439.811320754717,204.42396313364057 446.41509433962256,203.92119411431807 453.01886792452825,203.4010011123471 459.62264150943395,202.86427009294698 466.2264150943396,202.31182795698925 472.8301886792452,201.74444738233743 479.43396226415086,201.16285119667015 486.03773584905656,200.5677163338454 492.64150943396226,199.95967741935488 499.24528301886784,199.33933002481393 505.84905660377353,198.70723362658848 512.4528301886792,198.0639142994704 519.0566037735848,197.40986717267555 525.6603773584905,196.7455586722768 532.2641509433961,196.07142857142858 538.8679245283018,195.38789186733305 545.4716981132075,194.69534050179212 552.0754716981131,193.9941449403447 558.6792452830189,193.28465562336532 565.2830188679245,192.56720430107532 571.8867924528302,191.84210526315792 578.4905660377358,191.10965647255972 585.0943396226414,190.37014061207614 591.6981132075471,189.6238260514496 598.3018867924528,188.87096774193552\" fill=\"none\" stroke=\"#3F8F1F\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"209.03225806451616\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">AVC</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">P</span><span style=\"display:inline-block;border-left:5px solid #3F8F1F;padding-left:8px;margin:4px 16px 4px 0;\">ATC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "q și Q",
+      "Producția unei firme și producția întregii piețe. Păstrați distincția în agregare."
+    ],
+    [
+      "P și MC",
+      "Prețul pieței și costul marginal al firmei."
+    ],
+    [
+      "ATC și AVC",
+      "Cost mediu total și cost variabil mediu pe produs."
+    ],
+    [
+      "LRAC și LRMC",
+      "Cost mediu și cost marginal pe termen lung."
+    ]
+  ]
 }

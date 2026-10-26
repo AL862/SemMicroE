@@ -359,7 +359,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Scrieți costul drept suma valorilor celor doi factori. Pentru pantă izolați capitalul cu munca pe axa orizontală. La schimbarea prețurilor precizați dacă păstrați combinația sau bugetul nominal."
     },
     {
       "title": "Descompunerea unei funcții de cost",
@@ -375,7 +376,9 @@
       ],
       "conclusion": "Costul mediu repartizează întreg costul pe unitate. Costul marginal privește schimbarea din apropierea cantității alese.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Dezvoltați pătratul pentru a separa termenul fix de termenii variabili. Împărțiți fiecare componentă la cantitate pentru mediile corespunzătoare. Deosebiți costul marginal punctual de costul exact al următoarei unități.",
+      "check": "Control: 50 + 1200 = 1250 confirmă AFC + AVC = ATC. Costul exact al următoarei unități și MC punctual pot diferi deoarece costul marginal crește de-a lungul intervalului."
     },
     {
       "title": "Al cincilea muncitor și costul suplimentar",
@@ -392,7 +395,8 @@
       ],
       "conclusion": "Al cincilea muncitor aduce 40 de produse suplimentare. Costul lor mediu suplimentar este sub costul mediu al întregii producții.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Reconstituiți producția înmulțind numărul muncitorilor cu produsul mediu. Calculați costul muncii pentru fiecare situație. Raportați sporul costului la sporul producției pentru intervalul analizat."
     },
     {
       "title": "Costurile din al doilea an",
@@ -447,7 +451,8 @@
           ]
         }
       ],
-      "charts": []
+      "charts": [],
+      "hint": "Clasificați elementele fixe și variabile potrivit ipotezelor problemei. Modificați numai costurile variabile proporțional cu producția. Verificați dacă suma mediilor fixe și variabile este costul mediu total."
     },
     {
       "title": "Direcția reducerii costului resurselor",
@@ -509,7 +514,9 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Comparați produsul marginal pe leu al muncii cu cel al capitalului. Pentru aceeași producție înlocuiți local factorul cu randament monetar mai mic. Nu calculați un optim exact fără funcția de producție.",
+      "check": "Control local: −80h + 100 × 4h/5 = 0 confirmă păstrarea producției la primul ordin. Economia de cost de 26h este locală. Ea nu determină combinația finală optimă."
     }
   ],
   "new": [
@@ -629,5 +636,23 @@
     "result": "TC = 100 + 10Q + Q². Q = 10 · TC = 300 · ATC = 30 · MC punctual = 30. Minimul ATC este 30 la Q = 10.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"265\" text-anchor=\"end\">31</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"195\" text-anchor=\"end\">62</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">16</text><text x=\"60\" y=\"125\" text-anchor=\"end\">93</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"55\" text-anchor=\"end\">124</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"96.41509433962264,80.00000000000003 103.01886792452831,124.48198198198199 109.62264150943395,153.94894894894895 116.22641509433961,174.83590733590736 122.83018867924528,190.36036036036037 129.43396226415092,202.30980980980985 136.03773584905662,211.75675675675677 142.64150943396226,219.38370188370186 149.2452830188679,225.64564564564566 155.84905660377356,230.85758835758836 162.45283018867923,235.24453024453027 169.0566037735849,238.97147147147146 175.66037735849056,242.16216216216216 182.2641509433962,244.91123476417596 188.86792452830187,247.2922922922923 195.47169811320754,249.36344238975818 202.0754716981132,251.17117117117118 208.67924528301884,252.75311025311026 215.28301886792448,254.14004914004914 221.88679245283018,255.35742264003136 228.49056603773582,256.4264264264264 235.09433962264148,257.3648648648649 241.69811320754712,258.1878031878032 248.30188679245282,258.9080747414081 254.9056603773585,259.53667953667957 261.5094339622641,260.08310034172104 268.1132075471698,260.55555555555554 274.71698113207543,260.9612031386225 281.3207547169811,261.3063063063063 287.92452830188677,261.59636909636913 294.5283018867924,261.8362480127186 301.13207547169804,262.03024453024454 307.73584905660374,262.1821821821822 314.33962264150944,262.2954711468225 320.9433962264151,262.37316263632056 327.5471698113207,262.4179949179949 334.1509433962264,262.43243243243245 340.75471698113205,262.4186991869919 347.3584905660377,262.3788073788074 353.9622641509434,262.3145820238843 360.56603773584897,262.22768222768224 367.16981132075466,262.11961961961964 373.77358490566036,261.99177438307873 380.377358490566,261.84540923902625 386.98113207547163,261.68168168168165 393.58490566037733,261.50165471594045 400.18867924528297,261.3063063063063 406.79245283018867,261.09653771418476 413.39622641509425,260.8731808731809 419.99999999999994,260.63700492945776 426.60377358490564,260.3887220553887 433.2075471698113,260.12899262899265 439.811320754717,259.8584298584299 446.41509433962256,259.5776039197092 453.01886792452825,259.287045666356 459.62264150943395,258.98724996182625 466.2264150943396,258.6786786786787 472.8301886792452,258.361763402747 479.43396226415086,258.03690787561754 486.03773584905656,257.7044902044902 492.64150943396226,257.3648648648649 499.24528301886784,257.01836451836454 505.84905660377353,256.6653016653016 512.4528301886792,256.30597014925377 519.0566037735848,255.9406465288818 525.6603773584905,255.56959133046092 532.2641509433961,255.1930501930502 538.8679245283018,254.81125491688874 545.4716981132075,254.42442442442444 552.0754716981131,254.0327656423547 558.6792452830189,253.63647431214997 565.2830188679245,253.23573573573574 571.8867924528302,252.83072546230443 578.4905660377358,252.4216099216099 585.0943396226414,252.00854700854703 591.6981132075471,251.59168662333218 598.3018867924528,251.17117117117118\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,307.47747747747746 598.3018867924528,217.38738738738738\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"262.43243243243245\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">ATC</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "TC și FC și VC",
+      "Cost total și cost fix și cost variabil în aceeași perioadă."
+    ],
+    [
+      "ATC și AFC și AVC",
+      "Costurile corespunzătoare împărțite la Q pozitiv. Unități monetare pe produs."
+    ],
+    [
+      "MC",
+      "Spor de cost pe unitate de producție. Precizați dacă este punctual sau mediu pe interval."
+    ],
+    [
+      "w și r",
+      "Prețul unei unități de muncă și prețul unei unități de capital."
+    ]
+  ]
 }

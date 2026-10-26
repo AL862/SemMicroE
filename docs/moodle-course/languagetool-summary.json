@@ -1,57 +1,57 @@
 [
   {
     "seminar": 9,
-    "matches": 132,
+    "matches": 135,
     "exit_code": 0
   },
   {
     "seminar": 10,
-    "matches": 60,
+    "matches": 61,
     "exit_code": 0
   },
   {
     "seminar": 8,
-    "matches": 98,
+    "matches": 100,
     "exit_code": 0
   },
   {
     "seminar": 4,
-    "matches": 138,
+    "matches": 146,
     "exit_code": 0
   },
   {
     "seminar": 3,
-    "matches": 196,
+    "matches": 199,
     "exit_code": 0
   },
   {
     "seminar": 7,
-    "matches": 51,
+    "matches": 52,
     "exit_code": 0
   },
   {
     "seminar": 1,
-    "matches": 51,
+    "matches": 57,
     "exit_code": 0
   },
   {
     "seminar": 5,
-    "matches": 96,
-    "exit_code": 0
-  },
-  {
-    "seminar": 11,
-    "matches": 164,
+    "matches": 101,
     "exit_code": 0
   },
   {
     "seminar": 2,
-    "matches": 182,
+    "matches": 190,
+    "exit_code": 0
+  },
+  {
+    "seminar": 11,
+    "matches": 172,
     "exit_code": 0
   },
   {
     "seminar": 6,
-    "matches": 153,
+    "matches": 155,
     "exit_code": 0
   }
 ]

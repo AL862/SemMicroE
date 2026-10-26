@@ -337,7 +337,8 @@
       ],
       "conclusion": "Un preț administrat poate împiedica ajustarea care ar egaliza cantitatea cerută și cea oferită.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Egalați cererea cu oferta pentru reperul liber. Înlocuiți apoi fiecare preț administrat în ambele funcții. Diferența dintre cantități arată deficitul sau excesul de ofertă."
     },
     {
       "title": "Două bunuri și două prețuri",
@@ -353,7 +354,8 @@
       ],
       "conclusion": "Prețul bunului B influențează atât cererea cât și oferta bunului A în funcțiile date.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Tratați prețul celuilalt bun ca pe un parametru. Egalați funcțiile bunului analizat și exprimați propriul preț prin acel parametru. Verificați dacă prețul și cantitatea sunt nenegative."
     },
     {
       "title": "Subvenție de două unități monetare",
@@ -370,7 +372,9 @@
       ],
       "conclusion": "Subvenția reduce prețul cumpărătorului și mărește suma primită de producător. Cantitatea tranzacționată crește.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Deosebiți prețul clientului de suma primită de producător. Adăugați subvenția la prețul clientului în funcția ofertei. Egalați apoi oferta cu cererea.",
+      "check": "Control: cantitatea din cerere trebuie să fie aceeași cu cea din ofertă la prețurile lor respective. Prețul producătorului minus prețul clientului este exact subvenția unitară."
     },
     {
       "title": "Impozit de două unități monetare",
@@ -387,7 +391,9 @@
       ],
       "conclusion": "Povara pe unitate se împarte între cele două părți chiar dacă producătorul virează impozitul.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Prețul cumpărătorului depășește prețul net al vânzătorului cu impozitul unitar. Scrieți fiecare funcție cu prețul potrivit. Verificați atât egalitatea cantităților cât și diferența prețurilor.",
+      "check": "Control: Pc − Pv este impozitul unitar. Încasarea bugetară este impozitul unitar înmulțit cu numărul de produse efectiv tranzacționate. Nu înmulțiți cu oferta dorită înainte de ajustare."
     },
     {
       "title": "Impozitul dedus din cantitatea finală",
@@ -402,7 +408,8 @@
       ],
       "conclusion": "Diferența dintre prețurile celor două părți este exact impozitul unitar.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Introduceți cantitatea finală în cerere pentru prețul cumpărătorului. Folosiți aceeași cantitate în ofertă pentru prețul net al producătorului. Diferența celor două prețuri dă impozitul unitar."
     },
     {
       "title": "O cotă de import",
@@ -421,7 +428,8 @@
       ],
       "conclusion": "Cota este o limită cantitativă. Calculul unui rezultat exact depinde de situația inițială și de utilizarea integrală a limitei.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Precizați dacă importurile sunt suplimentare și dacă limita este utilizată integral. Numai în acest caz le puteți adăuga ofertei interne. Nu deduceți profitul importatorilor fără prețul de achiziție."
     }
   ],
   "new": [
@@ -541,5 +549,23 @@
     "result": "P = 40 · Q<sub style=\"font-size:75%;line-height:0;\">d</sub> = 60 · Q<sub style=\"font-size:75%;line-height:0;\">s</sub> = 60. Echilibru.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">27</text><text x=\"60\" y=\"265\" text-anchor=\"end\">28</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">53</text><text x=\"60\" y=\"195\" text-anchor=\"end\">56</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">80</text><text x=\"60\" y=\"125\" text-anchor=\"end\">84</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">106</text><text x=\"60\" y=\"55\" text-anchor=\"end\">112</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">P · u.m.</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,305 598.3018867924528,180\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,230 598.3018867924528,230\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><circle cx=\"386.9811320754717\" cy=\"230\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">Ofertă</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">Preț curent</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "P și Q",
+      "Preț pe unitate și cantitate pe perioadă. Într-o ecuație folosiți aceleași unități."
+    ],
+    [
+      "Qd și Qs",
+      "Cantitatea cerută și cantitatea oferită la prețul analizat."
+    ],
+    [
+      "Pc și Pv",
+      "Suma plătită de cumpărător și prețul net primit de vânzător."
+    ],
+    [
+      "t și s",
+      "Impozit unitar și subvenție unitară. Costul bugetar total implică și cantitatea."
+    ]
+  ]
 }

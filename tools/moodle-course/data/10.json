@@ -378,7 +378,8 @@
       ],
       "conclusion": "Diferențierea permite un preț peste costul marginal. Cantitatea este determinată prin comparația marginală.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Reconstituiți costul total din costul mediu. Folosiți cererea pentru încasări și MR. La cantitatea aleasă calculați prețul și profitul."
     },
     {
       "title": "Profitul înainte și după publicitate",
@@ -396,7 +397,8 @@
       ],
       "conclusion": "Succesul se apreciază după profitul rămas după costul campaniei. Vânzările suplimentare singure nu sunt suficiente.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Rezolvați separat alegerea de dinaintea campaniei și alegerea de după campanie. În a doua situație includeți costul publicității în costul total. Comparați profiturile și nu numai încasările."
     },
     {
       "title": "Cost total și cerere descrescătoare",
@@ -412,7 +414,8 @@
       ],
       "conclusion": "Profitul pozitiv pe termen scurt poate atrage intrarea unor produse apropiate.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați MR din cerere și MC din costul total. Verificați candidatul și aflați prețul prin cerere. Profitul total este diferența dintre încasări și costul întregii producții."
     },
     {
       "title": "Alegerea dintr-un tabel de costuri",
@@ -546,7 +549,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Calculați costul total al fiecărui rând înmulțind AC cu Q. Comparați profitul tuturor cantităților admise. Pentru diferențele marginale folosiți două rânduri succesive și nu inventați costul de la zero.",
+      "check": "Control: comparați profitul fiecărui rând din domeniul admis. Diferențele marginale ajută interpretarea dar nu înlocuiesc această comparație când cantitățile sunt întregi."
     }
   ],
   "new": [
@@ -666,5 +671,23 @@
     "result": "P = 80 − Q · TC = 200 + 20Q + Q². P = 65 · MR = 50 · MC = 50 · Profit = 250. Maxim: Q = 15 și P = 65 și profit = 250.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">9</text><text x=\"60\" y=\"265\" text-anchor=\"end\">25</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">19</text><text x=\"60\" y=\"195\" text-anchor=\"end\">50</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">28</text><text x=\"60\" y=\"125\" text-anchor=\"end\">76</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">37</text><text x=\"60\" y=\"55\" text-anchor=\"end\">101</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">Lei / unitate</text><polyline points=\"70,107.7777777777778 598.3018867924528,205\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><polyline points=\"70,274.44444444444446 598.3018867924528,80.00000000000003\" fill=\"none\" stroke=\"#FF650B\" stroke-width=\"3\"></polyline><polyline points=\"70,107.7777777777778 598.3018867924528,302.22222222222223\" fill=\"none\" stroke=\"#556374\" stroke-width=\"3\" stroke-dasharray=\"8 5\"></polyline><circle cx=\"296.41509433962267\" cy=\"149.44444444444446\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere</span><span style=\"display:inline-block;border-left:5px solid #FF650B;padding-left:8px;margin:4px 16px 4px 0;\">MC</span><span style=\"display:inline-block;border-left:5px solid #556374;padding-left:8px;margin:4px 16px 4px 0;\">MR</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "AC și ATC",
+      "Cost mediu total în aceste exerciții. TC = AC × Q."
+    ],
+    [
+      "MR și MC",
+      "Încasare marginală și cost marginal pentru aceeași cantitate."
+    ],
+    [
+      "LRAC și LRMC",
+      "Cost mediu și cost marginal pe termen lung."
+    ],
+    [
+      "Δprofit",
+      "Schimbarea profitului față de situația inițială. Includeți toate costurile suplimentare."
+    ]
+  ]
 }

@@ -20,7 +20,7 @@ def fmt(t):
     t=str(t).replace('ş','ș').replace('ţ','ț').replace('Ş','Ș').replace('Ţ','Ț')
     for base,index in [('MRTS','lk'),('MRS','xy'),('MU','x'),('MU','y'),('TU','x'),('TU','y'),('MP','l'),('MP','k'),('AP','l'),('AP','k'),('CO','x'),('CO','y'),('Q','da'),('Q','sa'),('Q','d'),('Q','s'),('Q','x'),('Q','y'),('Q','c'),('Q','m'),('Q','r'),('P','x'),('P','y'),('P','a'),('P','b'),('P','c'),('P','v'),('P','r'),('Q','a'),('Q','b'),('E','d'),('E','s'),('E','i'),('E','xy')]:
         t=re.sub(r'\b'+base+index+r'\b',base+'<sub>'+index+'</sub>',t)
-    t=re.sub(r'\b([QPKL])([0123])\b',r'\1<sub>\2</sub>',t)
+    t=re.sub(r'\b(MR|MC|TR|TC|VC|FC|TU|MU|AP|MP|ATC|AVC|AFC|[QPKLR])([0123])\b',r'\1<sub>\2</sub>',t)
     t=re.sub(r'\^([234])',r'<sup>\1</sup>',t)
     return t
 def p(t):return '<p style="margin:0 0 12px;max-width:75ch;">'+fmt(t)+'</p>'
@@ -67,7 +67,7 @@ def render(n,output_root=None):
     sections.append(list_html(d['objectives']))
     from interactive import widget
     sections.append(''.join(card(h3(t)+''.join(p(x) for x in paragraphs)) for t,paragraphs in d['theory'])+''.join(card(svg(g)) for g in d.get('graphs',[]))+widget(n,d.get('model_fallback')))
-    sections.append(tbl(table(['Instrument','Cum îl folosim'],d['formulas'])))
+    sections.append((details('Notații și unități',tbl(table(['Simbol','Semnificație'],d['notation']))) if d.get('notation') else '')+tbl(table(['Instrument','Cum îl folosim'],d['formulas'])))
     solved=''
     for i,pr in enumerate(d['solved'],1):
         body=h3('Problemă')+p(pr['condition'])
@@ -76,6 +76,7 @@ def render(n,output_root=None):
         body+=h3('Rezolvare')+list_html(pr['steps'])
         for t in pr.get('result_tables',[]):body+=tbl(t)
         for g in pr.get('charts',[]):body+=svg(g)
+        if pr.get('check'):body+=h3('Verificarea rezultatului')+p(pr['check'])
         body+=green(h3('Concluzie economică')+p(pr['conclusion']))
         if pr.get('practical'):body+=card(h3('Exemplu practic')+p(pr['practical']))
         solved+=details(f'{i}. {pr["title"]}',body)

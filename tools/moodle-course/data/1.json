@@ -230,7 +230,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Comparați două combinații vecine din tabel. Împărțiți cantitatea sacrificată dintr-un bun la sporul celuilalt bun. Păstrați aceeași direcție a schimbului pe fiecare interval."
     },
     {
       "title": "Automobile și roboți de bucătărie",
@@ -337,7 +338,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Calculați roboții sacrificați pentru fiecare spor de automobile. Raportați sacrificiul la numărul suplimentar de automobile. Comparați costurile pe unitate și nu numai pierderile totale."
     },
     {
       "title": "Extinderea posibilităților de producție",
@@ -426,7 +428,8 @@
           "xmax": null,
           "ymax": null
         }
-      ]
+      ],
+      "hint": "Folosiți interceptările pentru a scrie ecuația frontierei inițiale. Procedați la fel cu posibilitățile noi. Deosebiți schimbarea frontierei de alegerea altui punct pe ea."
     }
   ],
   "new": [
@@ -731,5 +734,19 @@
     "result": "Q<sub style=\"font-size:75%;line-height:0;\">x</sub> = 4 și Q<sub style=\"font-size:75%;line-height:0;\">y</sub> = 30. Încă o unitate X sacrifică 5 unități Y. Resursele și tehnologia rămân constante.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"265\" text-anchor=\"end\">14</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">5</text><text x=\"60\" y=\"195\" text-anchor=\"end\">28</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">8</text><text x=\"60\" y=\"125\" text-anchor=\"end\">42</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"55\" text-anchor=\"end\">56</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">X · unități</text><text x=\"18\" y=\"28\">Y · unități</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"281.3207547169811\" cy=\"180\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">CPP</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "Qx și Qy",
+      "Cantități din două bunuri în aceeași perioadă."
+    ],
+    [
+      "CPP",
+      "Frontiera posibilităților de producție pentru resursele și tehnologia date."
+    ],
+    [
+      "CO",
+      "Cost de oportunitate: unități sacrificate dintr-un bun pentru o unitate suplimentară din celălalt."
+    ]
+  ]
 }

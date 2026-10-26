@@ -317,7 +317,8 @@
       ],
       "conclusion": "O productivitate mai mare permite dublarea producției cu o creștere mai mică decât dublarea numărului de muncitori.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați produsul mediu inițial ca producție împărțită la muncă. Aplicați modificarea procentuală produsului mediu. Împărțiți producția dorită la noul produs mediu pentru necesarul de muncă."
     },
     {
       "title": "Funcție cu muncă și capital",
@@ -334,7 +335,8 @@
       ],
       "conclusion": "Reducerea muncii domină creșterea capitalului în această modificare combinată.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Introduceți cantitățile factorilor în funcția de producție. Pentru schimbarea combinată folosiți multiplicatorul fiecărui factor ridicat la exponentul său. Nu adunați direct procentele când cereți rezultatul exact."
     },
     {
       "title": "Izocuante și productivitatea muncii",
@@ -613,7 +615,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Pentru izocuantă căutați combinații care dau aceeași producție. Pentru produsul total păstrați capitalul constant. La calculul produsului marginal raportați sporul producției la sporul efectiv al muncii."
     },
     {
       "title": "Completarea indicatorilor de producție",
@@ -885,7 +888,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Produsul mediu este Q/L. Produsul marginal pe interval este ΔQ/ΔL. Completați tabelul păstrând legătura dintre total și sporurile succesive."
     },
     {
       "title": "Utilaj fix și muncă variabilă",
@@ -1142,7 +1146,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Păstrați utilajul fix și comparați muncitorii succesivi. Calculați separat media Q/L și sporul producției. Maximul mediei nu este obligatoriu maximul producției totale."
     }
   ],
   "new": [
@@ -1262,5 +1267,23 @@
     "result": "TP = 28 pâini. AP = 14. MP = 8. Aceeași tavă are maximum 30 pâini.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">1</text><text x=\"60\" y=\"265\" text-anchor=\"end\">8</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">2</text><text x=\"60\" y=\"195\" text-anchor=\"end\">17</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">3</text><text x=\"60\" y=\"125\" text-anchor=\"end\">25</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">4</text><text x=\"60\" y=\"55\" text-anchor=\"end\">34</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">L · angajați</text><text x=\"18\" y=\"28\">Pâini / coacere</text><polyline points=\"70,330 202.0754716981132,163.33333333333334 334.1509433962264,96.66666666666669 466.2264150943396,80.00000000000003 598.3018867924528,80.00000000000003\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"96.66666666666669\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">TP</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "Q și L și K",
+      "Producție și cantitățile de muncă și capital. Unitățile și perioada sunt cele din condiție."
+    ],
+    [
+      "TP și AP și MP",
+      "Produs total și produs mediu și produs marginal."
+    ],
+    [
+      "APl și MPl",
+      "Producție pe unitate de muncă și spor de producție pe unitate suplimentară de muncă."
+    ],
+    [
+      "MRTSlk",
+      "Capital economisit pe unitate suplimentară de muncă pentru aceeași producție."
+    ]
+  ]
 }

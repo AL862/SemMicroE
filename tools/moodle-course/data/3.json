@@ -484,7 +484,8 @@
       ],
       "conclusion": "Același sens al modificării prețului poate produce reacții procentuale foarte diferite.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Înmulțiți elasticitatea cu modificarea procentuală a prețului. Păstrați semnele ambelor mărimi. Pentru încasări comparați produsul dintre noul preț și noua cantitate cu produsul inițial."
     },
     {
       "title": "Cerere liniară și încasări",
@@ -579,7 +580,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Calculați cantitatea pentru fiecare preț din tabel. Pentru elasticitatea punctuală înmulțiți panta cererii cu raportul P/Q. Calculați separat încasările P × Q."
     },
     {
       "title": "Tabelul unei a doua cereri",
@@ -642,7 +644,8 @@
             ]
           ]
         }
-      ]
+      ],
+      "hint": "Completați mai întâi cantitățile din funcția cererii. Folosiți același criteriu de elasticitate la fiecare rând. Panta constantă nu înseamnă elasticitate constantă."
     },
     {
       "title": "Prețul propriu și prețul altui bun și venitul",
@@ -661,7 +664,8 @@
       ],
       "conclusion": "Fiecare coeficient răspunde unei întrebări diferite. Semnul nu trebuie schimbat pentru a forța o clasificare obișnuită.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați cantitatea la valorile date. Pentru fiecare elasticitate folosiți coeficientul factorului respectiv înmulțit cu raportul factor/cantitate. Nu schimbați semnul coeficientului din condiție."
     },
     {
       "title": "Elasticitățile în echilibrul pieței",
@@ -676,7 +680,8 @@
       ],
       "conclusion": "Comparația sensibilității se face prin valorile absolute ale elasticităților calculate în același punct.",
       "tables": [],
-      "charts": []
+      "charts": [],
+      "hint": "Găsiți mai întâi echilibrul prin egalarea cererii cu oferta. Calculați ambele elasticități în acel punct. Comparați valorile absolute când apreciați sensibilitatea."
     },
     {
       "title": "Efectul simultan al celor trei factori",
@@ -741,7 +746,8 @@
           ]
         }
       ],
-      "charts": []
+      "charts": [],
+      "hint": "Calculați separat efectul fiecărei modificări folosind elasticitatea corespunzătoare. Adunați efectele cu semnele lor pentru aproximarea locală. Deosebiți această aproximare de un rezultat exact pentru schimbări mari."
     }
   ],
   "new": [
@@ -861,5 +867,23 @@
     "result": "Q = 20 · Ed = -1 · TR = 200. Elasticitate unitară și încasări maxime.",
     "plot": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 410\" role=\"img\" aria-label=\"Model economic interactiv\" style=\"width:100%;max-width:720px;height:auto;display:block;font:16px Arial;\"><title>Model economic interactiv</title><rect width=\"720\" height=\"410\" fill=\"#FFFFFF\"></rect><path d=\"M70 50 V330 M70 330 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"70\" y=\"354\" text-anchor=\"middle\">0</text><text x=\"60\" y=\"335\" text-anchor=\"end\">0</text><path d=\"M210 50 V330 M70 260 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"210\" y=\"354\" text-anchor=\"middle\">11</text><text x=\"60\" y=\"265\" text-anchor=\"end\">6</text><path d=\"M350 50 V330 M70 190 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"350\" y=\"354\" text-anchor=\"middle\">21</text><text x=\"60\" y=\"195\" text-anchor=\"end\">11</text><path d=\"M490 50 V330 M70 120 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"490\" y=\"354\" text-anchor=\"middle\">32</text><text x=\"60\" y=\"125\" text-anchor=\"end\">17</text><path d=\"M630 50 V330 M70 50 H630\" stroke=\"#E2E8EF\" fill=\"none\"></path><text x=\"630\" y=\"354\" text-anchor=\"middle\">42</text><text x=\"60\" y=\"55\" text-anchor=\"end\">22</text><path d=\"M70 40 V330 H650\" fill=\"none\" stroke=\"#24313D\" stroke-width=\"2\"></path><text x=\"360\" y=\"390\" text-anchor=\"middle\">Q · unități</text><text x=\"18\" y=\"28\">P · u.m.</text><polyline points=\"70,80.00000000000003 598.3018867924528,330\" fill=\"none\" stroke=\"#1080E4\" stroke-width=\"3\"></polyline><circle cx=\"334.1509433962264\" cy=\"205\" r=\"7\" fill=\"#3F8F1F\" stroke=\"#123B5D\" stroke-width=\"2\"></circle></svg>",
     "legend": "<span style=\"display:inline-block;border-left:5px solid #1080E4;padding-left:8px;margin:4px 16px 4px 0;\">Cerere: Q = 40 − 2P</span><span style=\"display:inline-block;\">● Punctul curent</span>"
-  }
+  },
+  "notation": [
+    [
+      "Ed și Es",
+      "Elasticitatea cererii după preț și elasticitatea ofertei după preț. Coeficienți fără unitate."
+    ],
+    [
+      "Ei și Exy",
+      "Elasticitatea după venit și elasticitatea încrucișată. Precizați ce bun își schimbă prețul."
+    ],
+    [
+      "I și TR",
+      "Venit disponibil și încasări totale. Sunt mărimi diferite."
+    ],
+    [
+      "ΔQ și ΔP",
+      "Schimbări absolute. Nu sunt procente până când nu sunt raportate la o bază."
+    ]
+  ]
 }

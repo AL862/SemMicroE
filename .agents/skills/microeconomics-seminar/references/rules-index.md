@@ -11,7 +11,7 @@
 | 0.11; 0.18 | microeconomics-seminar/SKILL.md | Область запретов |
 | 0.14–0.15; 2; 16.5; пагинация | microeconomics-seminar/SKILL.md | Файлы и сохранение |
 | 1; значения из 13.1, 14, 16.6 | microeconomics-seminar/references/course-resources.md | Цвета, ID, URL и образцы |
-| 0.2; 0.7; 0.10; 0.12; 0.16; 5–5.1; 7; 10; 10.5; 11; 14 | microeconomics-moodle/SKILL.md | Страница, проверочные блоки, интерактив и навигация |
+| 0.7; 0.10; 0.12; 0.16; 5–5.1; 7; 10; 10.5; 11; 14 | microeconomics-moodle/SKILL.md | Страница, проверочные блоки, интерактив и навигация |
 | 0.5; 8–9; Единая структура построения задач | microeconomics-seminar/references/problem-patterns.md | Единый паттерн задач, алгоритм, классификации |
 | 9.1; 13–13.2 | microeconomics-teacher-notes/SKILL.md | Конспект и синхронизация решений |
 | 10.1–10.4 | microeconomics-interactive-tests/SKILL.md | Адаптированный тест и ключи |
@@ -21,6 +21,7 @@
 | 17.1–17.8 | microeconomics-individual-work/SKILL.md | Студенческое задание и редактируемый PPTX |
 | 17.9: оформление и сохранение TinyMCE | microeconomics-moodle/SKILL.md | Прямая вставка в Moodle |
 | 17.9: состав каталога индивидуальных тем | microeconomics-individual-work/SKILL.md | Структура студенческой инструкции |
+| 0.2; единый формат HTML всех семинаров | microeconomics-moodle/references/design-system.md | Единственный владелец параметров типографики, отступов и компонентов |
 | 15 | Все предметные процедуры | Проверки находятся у своего результата; общий повторный checklist не копируется |
 
 Ссылка на другой навык означает применение его требований, а не вторую редакцию правил.

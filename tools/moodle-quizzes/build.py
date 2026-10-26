@@ -26,7 +26,7 @@ def format_question(text):
 
 def card(n,i,text):
     return ('<div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;">'
-    f'<div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;">SEMINARUL {n} · ÎNTREBAREA {i}/25</div>'
+    f'<div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;">SEMINARUL {n} · <span style="white-space:nowrap;text-transform:none;letter-spacing:normal;">Întrebarea {i} / 25</span></div>'
     '<p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;">'+format_question(text)+'</p></div>')
 
 def bank(n,title):
@@ -50,7 +50,7 @@ def bank(n,title):
         elif basis=='c':source={'section':'Concluzii esențiale','json_pointer':'/conclusions'}
         else:source={'section':'Extindere aplicată','kind':'original scenario using course concepts'}
         source['file']=f'tools/moodle-course/data/{n}.json'
-        result.append(dict(number=i,text=text,question_html=card(n,i,text),answers=answers,correct_index=key,time=60 if re.search(r'\d',text) else 30,source=source))
+        result.append(dict(number=i,text=text,question_html=card(n,i,text),answers=answers,correct_index=key,time=25,source=source))
     return result
 
 def make_mbz(n,name,questions):
@@ -64,11 +64,11 @@ def make_mbz(n,name,questions):
             files[path]=f.read_bytes()
     activity=ET.Element('activity',id=str(activity_id),moduleid=str(module_id),modulename='realtimequiz',contextid=str(context_id))
     quiz=put(activity,'realtimequiz',id=str(activity_id))
-    for key,value in [('name',name),('intro',''),('introformat',1),('timecreated',EPOCH),('timemodified',EPOCH),('questiontime',30)]:put(quiz,key,value)
+    for key,value in [('name',name),('intro',''),('introformat',1),('timecreated',EPOCH),('timemodified',EPOCH),('questiontime',25)]:put(quiz,key,value)
     qs=put(quiz,'questions')
     for q in questions:
         elem=put(qs,'question',id=str(n*1000+q['number']))
-        for key,value in [('questionnum',q['number']),('questiontext',q['question_html']),('questiontextformat',1),('questiontime',0 if q['time']==30 else q['time'])]:put(elem,key,value)
+        for key,value in [('questionnum',q['number']),('questiontext',q['question_html']),('questiontextformat',1),('questiontime',0 if q['time']==25 else q['time'])]:put(elem,key,value)
         ans=put(elem,'answers')
         for j,text in enumerate(q['answers']):
             answer=put(ans,'answer',id=str(n*10000+q['number']*4+j))

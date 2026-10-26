@@ -10,7 +10,7 @@
       <text>Seminarul 4. Întrebarea 01</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă alegerea rațională a consumatorului în model?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 1 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă alegerea rațională a consumatorului în model?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -37,7 +37,7 @@
       <text>Seminarul 4. Întrebarea 02</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă utilitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 2 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă utilitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -64,7 +64,7 @@
       <text>Seminarul 4. Întrebarea 03</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă utilitatea marginală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 3 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă utilitatea marginală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -91,7 +91,7 @@
       <text>Seminarul 4. Întrebarea 04</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Utilitatea marginală este pozitivă dar descrescătoare. Cum evoluează utilitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 4 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Utilitatea marginală este pozitivă dar descrescătoare. Cum evoluează utilitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -118,7 +118,7 @@
       <text>Seminarul 4. Întrebarea 05</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă o curbă de indiferență?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 5 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă o curbă de indiferență?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -145,7 +145,7 @@
       <text>Seminarul 4. Întrebarea 06</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă linia bugetară?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 6 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă linia bugetară?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -172,7 +172,7 @@
       <text>Seminarul 4. Întrebarea 07</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Venitul crește iar prețurile nu se schimbă. Cum se modifică linia bugetară?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 7 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Venitul crește iar prețurile nu se schimbă. Cum se modifică linia bugetară?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -199,7 +199,7 @@
       <text>Seminarul 4. Întrebarea 08</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Prețul lui X scade iar venitul și prețul lui Y rămân constante. Ce se schimbă?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 8 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Prețul lui X scade iar venitul și prețul lui Y rămân constante. Ce se schimbă?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -226,7 +226,7 @@
       <text>Seminarul 4. Întrebarea 09</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce comparăm la un optim interior cu bunuri divizibile și preferințe regulate?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 9 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce comparăm la un optim interior cu bunuri divizibile și preferințe regulate?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -253,7 +253,7 @@
       <text>Seminarul 4. Întrebarea 10</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce poate apărea pentru substituenți perfecți cu utilități marginale pe leu diferite?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 10 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce poate apărea pentru substituenți perfecți cu utilități marginale pe leu diferite?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -280,7 +280,7 @@
       <text>Seminarul 4. Întrebarea 11</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă abordarea ordinală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 11 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă abordarea ordinală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -307,7 +307,7 @@
       <text>Seminarul 4. Întrebarea 12</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă tranzitivitatea preferințelor?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 12 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă tranzitivitatea preferințelor?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -334,7 +334,7 @@
       <text>Seminarul 4. Întrebarea 13</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce verificăm separat coșurile întregi pentru bunuri indivizibile?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 13 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce verificăm separat coșurile întregi pentru bunuri indivizibile?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -361,7 +361,7 @@
       <text>Seminarul 4. Întrebarea 14</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Venitul și ambele prețuri se dublează. Ce se întâmplă cu posibilitățile de consum?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 14 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Venitul și ambele prețuri se dublează. Ce se întâmplă cu posibilitățile de consum?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -388,7 +388,7 @@
       <text>Seminarul 4. Întrebarea 15</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă MRS ca mărime pozitivă?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 15 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce exprimă MRS ca mărime pozitivă?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -415,7 +415,7 @@
       <text>Seminarul 4. Întrebarea 16</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU crește de la 25 la 47 după încă o unitate. Care este MU?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 16 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU crește de la 25 la 47 după încă o unitate. Care este MU?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -442,7 +442,7 @@
       <text>Seminarul 4. Întrebarea 17</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;O unitate suplimentară are MU = 0. Ce se întâmplă cu TU pe acel pas?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 17 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;O unitate suplimentară are MU = 0. Ce se întâmplă cu TU pe acel pas?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -469,7 +469,7 @@
       <text>Seminarul 4. Întrebarea 18</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;O pizza costă 20 de lei și o Fanta 10 lei. Cât costă două pizza și trei Fanta?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 18 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;O pizza costă 20 de lei și o Fanta 10 lei. Cât costă două pizza și trei Fanta?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -496,7 +496,7 @@
       <text>Seminarul 4. Întrebarea 19</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Bugetul inițial de 70 de lei crește cu 80 de lei. Care este noul buget?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 19 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Bugetul inițial de 70 de lei crește cu 80 de lei. Care este noul buget?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -523,7 +523,7 @@
       <text>Seminarul 4. Întrebarea 20</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La un coș interior MU pentru X pe leu este mai mică decât cea pentru Y. Ce realocare locală poate crește utilitatea?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 20 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La un coș interior MU pentru X pe leu este mai mică decât cea pentru Y. Ce realocare locală poate crește utilitatea?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -550,7 +550,7 @@
       <text>Seminarul 4. Întrebarea 21</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU = 2X + 3Y iar prețurile sunt 15 și 30. Care bun oferă utilitate mai mare pe leu?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 21 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU = 2X + 3Y iar prețurile sunt 15 și 30. Care bun oferă utilitate mai mare pe leu?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -577,7 +577,7 @@
       <text>Seminarul 4. Întrebarea 22</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU = X + Y. Bugetul este 50 iar prețurile sunt 5 pentru X și 1 pentru Y. Care coș maximizează TU?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 22 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TU = X + Y. Bugetul este 50 iar prețurile sunt 5 pentru X și 1 pentru Y. Care coș maximizează TU?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -604,7 +604,7 @@
       <text>Seminarul 4. Întrebarea 23</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Bugetul este 120 de lei. X costă 20 și Y costă 10. Cât X se poate cumpăra dacă Y = 0?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 23 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Bugetul este 120 de lei. X costă 20 și Y costă 10. Cât X se poate cumpăra dacă Y = 0?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -631,7 +631,7 @@
       <text>Seminarul 4. Întrebarea 24</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Un set complet cere un X și două Y. Prețurile sunt 20 și 5 lei. Cât costă setul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 24 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Un set complet cere un X și două Y. Prețurile sunt 20 și 5 lei. Cât costă setul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -658,7 +658,7 @@
       <text>Seminarul 4. Întrebarea 25</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Coșul B are mai mult X și același Y decât A. Ambele bunuri sunt dorite. De ce B poate să nu fie ales?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 4 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 25 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Coșul B are mai mult X și același Y decât A. Ambele bunuri sunt dorite. De ce B poate să nu fie ales?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>

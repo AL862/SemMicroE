@@ -14,7 +14,7 @@ Fișierele `.mbz` sunt copii de siguranță ale unor activități Realtime Quiz.
 
 Este necesar modulul `mod_realtimequiz` instalat. Șablonul provine din copia de siguranță furnizată de utilizator pentru Moodle 5.2.2 și Realtime Quiz cu versiunea de modul 2026042400. Pachetul nu instalează acest modul.
 
-Timp implicit:30 de secunde. Întrebările care conțin date numerice au60 de secunde. Ordinea întrebărilor și variantelor este pregătită în fișier.
+Fiecare întrebare Realtime Quiz are 25 de secunde. Nu există excepții pentru întrebările numerice. Eticheta are forma „Întrebarea 3 / 25”. Ordinea întrebărilor și variantelor este pregătită în fișier.
 
 ## Testul standard Moodle: fișierele XML
 

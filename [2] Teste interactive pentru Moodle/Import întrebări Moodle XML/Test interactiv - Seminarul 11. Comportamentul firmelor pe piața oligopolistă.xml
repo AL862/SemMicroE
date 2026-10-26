@@ -10,7 +10,7 @@
       <text>Seminarul 11. Întrebarea 01</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce trăsătură este centrală pentru oligopol?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 1 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce trăsătură este centrală pentru oligopol?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -37,7 +37,7 @@
       <text>Seminarul 11. Întrebarea 02</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă funcția de reacție?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 2 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă funcția de reacție?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -64,7 +64,7 @@
       <text>Seminarul 11. Întrebarea 03</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce definește un echilibru Nash?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 3 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce definește un echilibru Nash?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -91,7 +91,7 @@
       <text>Seminarul 11. Întrebarea 04</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce aleg firmele în modelul Cournot de bază?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 4 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce aleg firmele în modelul Cournot de bază?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -118,7 +118,7 @@
       <text>Seminarul 11. Întrebarea 05</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se obține echilibrul Cournot?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 5 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se obține echilibrul Cournot?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -145,7 +145,7 @@
       <text>Seminarul 11. Întrebarea 06</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce îl deosebește pe liderul Stackelberg?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 6 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce îl deosebește pe liderul Stackelberg?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -172,7 +172,7 @@
       <text>Seminarul 11. Întrebarea 07</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce aleg firmele în Bertrand de bază?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 7 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce aleg firmele în Bertrand de bază?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -199,7 +199,7 @@
       <text>Seminarul 11. Întrebarea 08</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În Bertrand omogen cu MC identice și capacitate suficientă care este reperul standard?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 8 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În Bertrand omogen cu MC identice și capacitate suficientă care este reperul standard?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -226,7 +226,7 @@
       <text>Seminarul 11. Întrebarea 09</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce urmărește un cartel în modelul de coordonare?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 9 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce urmărește un cartel în modelul de coordonare?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -253,7 +253,7 @@
       <text>Seminarul 11. Întrebarea 10</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce un cartel poate fi instabil într-un joc unic?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 10 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce un cartel poate fi instabil într-un joc unic?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -280,7 +280,7 @@
       <text>Seminarul 11. Întrebarea 11</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce presupune modelul cererii frânte despre rivali?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 11 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce presupune modelul cererii frânte despre rivali?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -307,7 +307,7 @@
       <text>Seminarul 11. Întrebarea 12</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce poate explica golul din MR în modelul cererii frânte?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 12 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce poate explica golul din MR în modelul cererii frânte?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -334,7 +334,7 @@
       <text>Seminarul 11. Întrebarea 13</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce măsoară HHI?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 13 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce măsoară HHI?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -361,7 +361,7 @@
       <text>Seminarul 11. Întrebarea 14</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Un HHI mare demonstrează singur existența unui cartel?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 14 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Un HHI mare demonstrează singur existența unui cartel?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -388,7 +388,7 @@
       <text>Seminarul 11. Întrebarea 15</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce se poate întâmpla când ambele firme își fac planuri ca lideri Bowley?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 15 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce se poate întâmpla când ambele firme își fac planuri ca lideri Bowley?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -415,7 +415,7 @@
       <text>Seminarul 11. Întrebarea 16</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 206 − 3Q. La Q total = 40 care este prețul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 16 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 206 − 3Q. La Q total = 40 care este prețul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -442,7 +442,7 @@
       <text>Seminarul 11. Întrebarea 17</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cele două firme Cournot produc fiecare 20. Care este cantitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 17 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cele două firme Cournot produc fiecare 20. Care este cantitatea totală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -469,7 +469,7 @@
       <text>Seminarul 11. Întrebarea 18</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Reacția este Q&lt;sub&gt;1&lt;/sub&gt; = 30 − Q&lt;sub&gt;2&lt;/sub&gt;/2. Dacă Q&lt;sub&gt;2&lt;/sub&gt; = 20 care este Q&lt;sub&gt;1&lt;/sub&gt;?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 18 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Reacția este Q&lt;sub&gt;1&lt;/sub&gt; = 30 − Q&lt;sub&gt;2&lt;/sub&gt;/2. Dacă Q&lt;sub&gt;2&lt;/sub&gt; = 20 care este Q&lt;sub&gt;1&lt;/sub&gt;?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -496,7 +496,7 @@
       <text>Seminarul 11. Întrebarea 19</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cantitățile efective sunt 9/4 și 45/4. Care este totalul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 19 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cantitățile efective sunt 9/4 și 45/4. Care este totalul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -523,7 +523,7 @@
       <text>Seminarul 11. Întrebarea 20</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce folosim un singur preț efectiv în calculul profiturilor Bowley pentru bunul omogen?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 20 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce folosim un singur preț efectiv în calculul profiturilor Bowley pentru bunul omogen?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -550,7 +550,7 @@
       <text>Seminarul 11. Întrebarea 21</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Reacția urmăritorului este Q&lt;sub&gt;2&lt;/sub&gt; = 140 − Q&lt;sub&gt;1&lt;/sub&gt;/2. La Q&lt;sub&gt;1&lt;/sub&gt; = 140 cât produce urmăritorul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 21 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Reacția urmăritorului este Q&lt;sub&gt;2&lt;/sub&gt; = 140 − Q&lt;sub&gt;1&lt;/sub&gt;/2. La Q&lt;sub&gt;1&lt;/sub&gt; = 140 cât produce urmăritorul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -577,7 +577,7 @@
       <text>Seminarul 11. Întrebarea 22</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 300 − Q&lt;sub&gt;1&lt;/sub&gt; − Q&lt;sub&gt;2&lt;/sub&gt;. La cantitățile 140 și 70 care este P?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 22 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 300 − Q&lt;sub&gt;1&lt;/sub&gt; − Q&lt;sub&gt;2&lt;/sub&gt;. La cantitățile 140 și 70 care este P?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -604,7 +604,7 @@
       <text>Seminarul 11. Întrebarea 23</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Două firme au cote de 60% și 40%. Care este HHI pe scara procentuală?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 23 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Două firme au cote de 60% și 40%. Care este HHI pe scara procentuală?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -631,7 +631,7 @@
       <text>Seminarul 11. Întrebarea 24</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ambele firme pot alege preț mic sau ridicat. Prețul mic este cel mai bun răspuns la fiecare alegere a rivalei. Care este echilibrul Nash?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 24 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ambele firme pot alege preț mic sau ridicat. Prețul mic este cel mai bun răspuns la fiecare alegere a rivalei. Care este echilibrul Nash?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -658,7 +658,7 @@
       <text>Seminarul 11. Întrebarea 25</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În modelul cererii frânte golul MR este între 20 și 35 iar MC trece de la 25 la 30. Ce se întâmplă cu P și Q în model?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 11 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 25 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În modelul cererii frânte golul MR este între 20 și 35 iar MC trece de la 25 la 30. Ce se întâmplă cu P și Q în model?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>

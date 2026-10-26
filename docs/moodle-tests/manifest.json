@@ -1,134 +1,134 @@
 [
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 1. Obiectul de studiu și metodologia microeconomiei.mbz",
-    "sha256": "f265b9cc8453e3e30fa9daa18cf20c29abc6fc6c4a8f6ce33013092f5ac9564c",
-    "bytes": 6303,
+    "sha256": "fe0fc39c682a9444728f80d70935789bd24b25dbcbb70909fd7b5c1ece6c0fb1",
+    "bytes": 6326,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 1. Obiectul de studiu și metodologia microeconomiei.xml",
-    "sha256": "5e0626bdb0b6c022977cf9faf7b0f9da4f902df4025729707623b35ed73846f6",
-    "bytes": 36519,
+    "sha256": "c12ee9e8beb27e2d7ee030415f7ae131bc04789484a539182d41be8dad44d27e",
+    "bytes": 38944,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.mbz",
-    "sha256": "78738d9735828ff6dc6c2f60b176130526981e970a82e7a1624c1349a8c9c861",
-    "bytes": 5848,
+    "sha256": "aa8f20c7987f9b7bedf403a6faa1d30a78e4a0b03d90ccdc8da5ead817af27ff",
+    "bytes": 5876,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.xml",
-    "sha256": "d701f9b8fe4c283632657599644f9e8e353b005ad72c040d3eb46b46f928b3ac",
-    "bytes": 36005,
+    "sha256": "b4238f2e777dc67d65d957420e8e163fb792c9838ad4c045bd1671a68ae01d62",
+    "bytes": 38430,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 3. Elasticitatea cererii și ofertei.mbz",
-    "sha256": "1751211aec8ef3c76023d6e37b0ca76eb03d49515180ac5806cb02aeb01ee13f",
-    "bytes": 5616,
+    "sha256": "445eb7d4f55d689b5673840fc776bbb1c40b6b41864972adfb97e7df794c5579",
+    "bytes": 5625,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 3. Elasticitatea cererii și ofertei.xml",
-    "sha256": "a0aad0e05e73f1a713695a854e8ceb45189dfffadcccc0cae0fb2228a4132f44",
-    "bytes": 35368,
+    "sha256": "216c7901cf76bed7abb3188b37d61bd4db3ef0e853e5e4c41f7bf434b40949e3",
+    "bytes": 37793,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 4. Teoria comportamentului consumatorului.mbz",
-    "sha256": "5fe4c2bab3df9e93dc8271339087e65fa418789177228fa21ea8ef3fe219a180",
-    "bytes": 5947,
+    "sha256": "337907bd61001580ed7d90d7ffc5494b1661b2b9c910c360855a2760bab03fdd",
+    "bytes": 5983,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 4. Teoria comportamentului consumatorului.xml",
-    "sha256": "81309f2c2e57b08886bb1f73c32eb30cfd0ceef6df6d7810b5bace32d1e09380",
-    "bytes": 36123,
+    "sha256": "20363b6f6f3c79d51242fc4ded744638ad989c3822fa9f3f6ed36b7fb6337896",
+    "bytes": 38548,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 5. Teoria producției.mbz",
-    "sha256": "275850c34b9d9b28e063094105994c4fbe82c2e06d3c526392c0416e6b1e4367",
-    "bytes": 6066,
+    "sha256": "c8c3e7caa3f0877e985196a30210861d8b0ed9fe4a2bd90d72337f90a8fef809",
+    "bytes": 6089,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 5. Teoria producției.xml",
-    "sha256": "c65866b6fea8f962a9cc673938a069e13f79f2bcc987bd6ab49c038343d21f20",
-    "bytes": 36767,
+    "sha256": "6ff5a9484b07909edebb6a0408784f15395f08b2b6238bdf93ddbd83a64f2083",
+    "bytes": 39192,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 6. Costurile de producție.mbz",
-    "sha256": "2194e9f90fda8aeec8f5957be48ac35f5a0e550426a70175fde0c9fadb70aa5f",
-    "bytes": 5561,
+    "sha256": "6bef611c4a04f09cc5eaedd52a78afd83b77629f4b40deef97182e27731a2093",
+    "bytes": 5588,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 6. Costurile de producție.xml",
-    "sha256": "a4192f9c6cd0cd42650462fca43751cb5a0185f62c1a8d43b6c8605fc51aecfb",
-    "bytes": 35122,
+    "sha256": "d7ac38eef0d57136f5dd8d37a19d4566df94dae086c6b011fa8bfe29f281f051",
+    "bytes": 37547,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 7. Maximizarea profitului și pragul de rentabilitate al firmei.mbz",
-    "sha256": "938a9ffce4f819e1869f05a457577b00a6f5ee56f6c98804ebd9962d57e9c89f",
-    "bytes": 5572,
+    "sha256": "6a6286411411462a3ea34d8b5f29bec8ff0307331a7c4cfe4d7460fb9757b222",
+    "bytes": 5591,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 7. Maximizarea profitului și pragul de rentabilitate al firmei.xml",
-    "sha256": "c6b656f9d1a633aa047182a0e6f8f7a30ed1ff0c57cec50a81e2035dcbc9b966",
-    "bytes": 34998,
+    "sha256": "7eaf59f57d7b8c4a4e229a2804e32c09adc14972f0e4d0e3086247e8e499040b",
+    "bytes": 37423,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 8. Comportamentul firmelor pe piața cu concurență perfectă.mbz",
-    "sha256": "683802c3a40034ca0a1b381d55e0c19e377f87b1a4bb30a03d4a828804307248",
-    "bytes": 5844,
+    "sha256": "58a16fee302dcae961c94b71c4fb1b65a73be89849dfe7ff35398fa70f4396ad",
+    "bytes": 5880,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 8. Comportamentul firmelor pe piața cu concurență perfectă.xml",
-    "sha256": "83f7caee6ce10192405a2717f315bf0f886f5aa0645179aea5e2f793c5cbcc64",
-    "bytes": 35521,
+    "sha256": "de454cc65b2f8486b426df4cefa4b28e6c65386b4cf01552c98572e096b1fc42",
+    "bytes": 37946,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.mbz",
-    "sha256": "5f5942276aa06020ca6cf484545d26c39f57f4cc907cb6e88ca15b448785f310",
-    "bytes": 5961,
+    "sha256": "271c3184cb3c4f8a90ba6fbcee43b6e30a3ddc144ffa5724d5188d8e99930ce6",
+    "bytes": 5990,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.xml",
-    "sha256": "ea3f290053e92674b219a543deea3c963c3daf2a75a74d3f9c05f08e120fbcb6",
-    "bytes": 35663,
+    "sha256": "95390ac13d1a21b4a4b28eeef1b2b17c303ae0be0fc1e9ef8fa599c9a4dbe2ee",
+    "bytes": 38088,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 10. Comportamentul firmelor pe piața cu concurență monopolistică.mbz",
-    "sha256": "7b38a39c6a927db54160769e94a9ca22e98ba0f90136f11d72cd612f2127c60a",
-    "bytes": 6136,
+    "sha256": "f271993954448d6ca9869bba96f79b621ec5b9033c0587f3725309991c54baea",
+    "bytes": 6179,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 10. Comportamentul firmelor pe piața cu concurență monopolistică.xml",
-    "sha256": "5f56622a8ef3f51dcc791235ab33f8e7bf927d534543149c5a1cd121cbb7d39a",
-    "bytes": 36063,
+    "sha256": "02df016f8a0069b9063261a9b36048894ea8d8002111386bec506c2c205a00f7",
+    "bytes": 38488,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 11. Comportamentul firmelor pe piața oligopolistă.mbz",
-    "sha256": "ae3a44649ec3eedaf422cf5dd334406fe2c5ecfdec7f004f4967dc8d06d1f25c",
-    "bytes": 6165,
+    "sha256": "a0dbd7b6b310cef79aecc503e9b4bf6eb08e0b65552c378a9e7066ed3384d2fe",
+    "bytes": 6218,
     "questions": 25
   },
   {
     "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 11. Comportamentul firmelor pe piața oligopolistă.xml",
-    "sha256": "012d3c1ed9ef3ee8e3f4014c4b771a8ba91bf7b8af84a2f3a49afec05eaf18f2",
-    "bytes": 36350,
+    "sha256": "e5540efae55332622510d4a724b8cb73deec8ebc067cb3342ddb84518e2c9536",
+    "bytes": 38775,
     "questions": 25
   }
 ]

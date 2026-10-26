@@ -15,8 +15,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 18,
-      "60": 7
+      "25": 25
     }
   },
   {
@@ -35,8 +34,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 15,
-      "60": 10
+      "25": 25
     }
   },
   {
@@ -55,8 +53,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 12,
-      "60": 13
+      "25": 25
     }
   },
   {
@@ -75,8 +72,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 17,
-      "60": 8
+      "25": 25
     }
   },
   {
@@ -95,8 +91,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 21,
-      "60": 4
+      "25": 25
     }
   },
   {
@@ -115,8 +110,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 16,
-      "60": 9
+      "25": 25
     }
   },
   {
@@ -135,8 +129,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 17,
-      "60": 8
+      "25": 25
     }
   },
   {
@@ -155,8 +148,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 15,
-      "60": 10
+      "25": 25
     }
   },
   {
@@ -175,8 +167,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 15,
-      "60": 10
+      "25": 25
     }
   },
   {
@@ -195,8 +186,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 17,
-      "60": 8
+      "25": 25
     }
   },
   {
@@ -215,8 +205,7 @@
     "archive_index_valid": true,
     "moodle_format_signature_valid": true,
     "seconds": {
-      "30": 17,
-      "60": 8
+      "25": 25
     }
   }
 ]

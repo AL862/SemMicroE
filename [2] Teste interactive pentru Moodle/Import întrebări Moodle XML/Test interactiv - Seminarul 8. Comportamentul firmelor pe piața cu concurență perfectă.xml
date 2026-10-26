@@ -10,7 +10,7 @@
       <text>Seminarul 8. Întrebarea 01</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă că firma este primitoare de preț?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 1 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă că firma este primitoare de preț?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -37,7 +37,7 @@
       <text>Seminarul 8. Întrebarea 02</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce ipoteză aparține concurenței perfecte?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 2 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce ipoteză aparține concurenței perfecte?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -64,7 +64,7 @@
       <text>Seminarul 8. Întrebarea 03</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum arată cererea adresată unei firme perfect concurente la prețul pieței?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 3 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum arată cererea adresată unei firme perfect concurente la prețul pieței?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -91,7 +91,7 @@
       <text>Seminarul 8. Întrebarea 04</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce relație este valabilă pentru firma concurentă?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 4 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce relație este valabilă pentru firma concurentă?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -118,7 +118,7 @@
       <text>Seminarul 8. Întrebarea 05</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție dă un candidat interior pe ramura relevantă a ofertei firmei?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 5 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție dă un candidat interior pe ramura relevantă a ofertei firmei?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -145,7 +145,7 @@
       <text>Seminarul 8. Întrebarea 06</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La cantitatea optimă P depășește ATC. Care este rezultatul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 6 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La cantitatea optimă P depășește ATC. Care este rezultatul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -172,7 +172,7 @@
       <text>Seminarul 8. Întrebarea 07</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub ATC dar peste AVC la volumul optim. Ce poate fi preferabil pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 7 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub ATC dar peste AVC la volumul optim. Ce poate fi preferabil pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -199,7 +199,7 @@
       <text>Seminarul 8. Întrebarea 08</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub minimul AVC. Ce alege firma în modelul standard pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 8 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub minimul AVC. Ce alege firma în modelul standard pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -226,7 +226,7 @@
       <text>Seminarul 8. Întrebarea 09</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care cost rămâne la oprirea pe termen scurt dacă nu poate fi evitat?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 9 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care cost rămâne la oprirea pe termen scurt dacă nu poate fi evitat?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -253,7 +253,7 @@
       <text>Seminarul 8. Întrebarea 10</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce parte a MC formează oferta standard de termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 10 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce parte a MC formează oferta standard de termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -280,7 +280,7 @@
       <text>Seminarul 8. Întrebarea 11</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se obține oferta unei ramuri cu N firme identice?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 11 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se obține oferta unei ramuri cu N firme identice?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -307,7 +307,7 @@
       <text>Seminarul 8. Întrebarea 12</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce efect are de regulă intrarea firmelor la cerere neschimbată?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 12 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce efect are de regulă intrarea firmelor la cerere neschimbată?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -334,7 +334,7 @@
       <text>Seminarul 8. Întrebarea 13</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În echilibrul standard pe termen lung cu firme identice și intrare liberă ce relație apare?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 13 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În echilibrul standard pe termen lung cu firme identice și intrare liberă ce relație apare?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -361,7 +361,7 @@
       <text>Seminarul 8. Întrebarea 14</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul economic zero pe termen lung înseamnă că proprietarul lucrează gratuit?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 14 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul economic zero pe termen lung înseamnă că proprietarul lucrează gratuit?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -388,7 +388,7 @@
       <text>Seminarul 8. Întrebarea 15</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În lipsa externalităților ce exprimă P = MC ca reper?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 15 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În lipsa externalităților ce exprimă P = MC ca reper?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -415,7 +415,7 @@
       <text>Seminarul 8. Întrebarea 16</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 30 iar AVC = 37/2 la cantitatea optimă. Ce comparație este corectă?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 16 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 30 iar AVC = 37/2 la cantitatea optimă. Ce comparație este corectă?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -442,7 +442,7 @@
       <text>Seminarul 8. Întrebarea 17</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul din producție este −551/12 iar oprirea pierde 90. Ce variantă are pierdere mai mică?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 17 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul din producție este −551/12 iar oprirea pierde 90. Ce variantă are pierdere mai mică?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -469,7 +469,7 @@
       <text>Seminarul 8. Întrebarea 18</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;100 de firme produc fiecare 40 de unități. Care este producția ramurii?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 18 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;100 de firme produc fiecare 40 de unități. Care este producția ramurii?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -496,7 +496,7 @@
       <text>Seminarul 8. Întrebarea 19</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Firma încasează 400 și suportă TC = 243. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 19 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Firma încasează 400 și suportă TC = 243. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -523,7 +523,7 @@
       <text>Seminarul 8. Întrebarea 20</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;20 de firme produc fiecare 1/3 unități. Care este Q total?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 20 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;20 de firme produc fiecare 1/3 unități. Care este Q total?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -550,7 +550,7 @@
       <text>Seminarul 8. Întrebarea 21</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 45 și Q = 4. Care este TR?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 21 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 45 și Q = 4. Care este TR?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -577,7 +577,7 @@
       <text>Seminarul 8. Întrebarea 22</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = 100 + 15q + q². Care este pragul de profit zero dacă minimul ATC este 35?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 22 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = 100 + 15q + q². Care este pragul de profit zero dacă minimul ATC este 35?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -604,7 +604,7 @@
       <text>Seminarul 8. Întrebarea 23</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 25 și AVC = 20 la Q = 100. FC = 800. Care este pierderea din producție?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 23 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 25 și AVC = 20 la Q = 100. FC = 800. Care este pierderea din producție?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -631,7 +631,7 @@
       <text>Seminarul 8. Întrebarea 24</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 40 și ATC = 32 la Q = 60. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 24 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 40 și ATC = 32 la Q = 60. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>
@@ -658,7 +658,7 @@
       <text>Seminarul 8. Întrebarea 25</text>
     </name>
     <questiontext format="html">
-      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cererea pieței la P = 24 este 4000 iar fiecare firmă produce eficient 80. Câte firme identice corespund reperului de lungă durată?&lt;/p&gt;&lt;/div&gt;</text>
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · &lt;span style="white-space:nowrap;text-transform:none;letter-spacing:normal;"&gt;Întrebarea 25 / 25&lt;/span&gt;&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cererea pieței la P = 24 este 4000 iar fiecare firmă produce eficient 80. Câte firme identice corespund reperului de lungă durată?&lt;/p&gt;&lt;/div&gt;</text>
     </questiontext>
     <defaultgrade>1</defaultgrade>
     <penalty>0</penalty>

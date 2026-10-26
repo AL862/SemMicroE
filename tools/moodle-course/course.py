@@ -1,6 +1,6 @@
 from pathlib import Path
 import json, re, html as H
-from components import intro,objectives,contents,navigation,STYLE
+from components import intro,objectives,contents,navigation,STYLE,action_button,back_link
 ROOT=Path(__file__).parent
 DATA=ROOT/'data'; DATA.mkdir(exist_ok=True)
 TITLES={1:'Obiectul de studiu și metodologia microeconomiei',2:'Cererea și oferta. Echilibrul și dezechilibrul pieței',3:'Elasticitatea cererii și ofertei',4:'Teoria comportamentului consumatorului',5:'Teoria producției',6:'Costurile de producție',7:'Maximizarea profitului și pragul de rentabilitate al firmei',8:'Comportamentul firmelor pe piața cu concurență perfectă',9:'Comportamentul firmelor pe piața de monopol',10:'Comportamentul firmelor pe piața cu concurență monopolistică',11:'Comportamentul firmelor pe piața oligopolistă'}
@@ -97,8 +97,8 @@ def render(n,output_root=None):
     sections.append('')
     for i,(title,body) in enumerate(zip(titles,sections),1):
         root+=f'<section id="s{i}" style="margin:32px 0;min-width:0;"><h2 style="font-size:24px;line-height:1.3;color:#123B5D;margin:0 0 16px;">{i}. {title}</h2>'
-        if i in (4,5,6):root+='<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;"><button type="button" data-expand="true" style="font:inherit;font-size:16px;padding:10px 16px;min-height:44px;border:1px solid #123B5D;border-radius:8px;background:#123B5D;color:#FFFFFF;cursor:pointer;">Deschide toate</button><button type="button" data-expand="false" style="font:inherit;font-size:16px;padding:10px 16px;min-height:44px;border:1px solid #E2E8EF;border-radius:8px;background:#FFFFFF;color:#123B5D;cursor:pointer;">Închide toate</button></div>'
-        root+=body+'<a href="#cuprins" style="display:inline-block;color:#123B5D;font-size:16px;padding:10px 0;">Înapoi la cuprins</a></section>'
+        if i in (4,5,6):root+='<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">'+action_button('Deschide toate',True,True)+action_button('Închide toate',False)+'</div>'
+        root+=body+back_link()+'</section>'
     root+=navigation(n,TITLES)
     root+='<script>(function(){const r=document.currentScript.closest("[data-course-seminar]");r.querySelectorAll("button[data-expand]").forEach(function(b){b.addEventListener("click",function(){b.closest("section").querySelectorAll("details").forEach(function(d){d.open=b.dataset.expand==="true";});});});})();</script></div>'
     out=(Path(output_root) if output_root is not None else ROOT/'output')/'[1] Fișiere HTML ale cursului pentru încărcare pe Moodle';out.mkdir(parents=True,exist_ok=True)

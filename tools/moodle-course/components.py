@@ -21,10 +21,16 @@ def navigation(n,titles):
  if n<11:slots.append((n+1,'Seminarul următor','Seminarul '+str(n+1)+' →',titles[n+1]))
  out='<nav aria-label="Navigarea cursului" style="display:flex;flex-wrap:wrap;gap:12px;margin-top:32px;padding-top:20px;border-top:1px solid '+BORDER+';">'
  for number,kicker,label,sub in slots:
-  center=number==0;url=cfg['course_url'] if center else cfg['seminars'].get(str(number));fg='#FFFFFF' if center else INK;bg=INK if center else '#FFFFFF';tag='a' if url else 'span'
-  attr=' href="'+html.escape(url,quote=True)+'"' if url else ' aria-disabled="true" data-link-slot="seminar-'+str(number)+'"'
+  center=number==0;url=cfg['course_url'] if center else cfg['seminars'].get(str(number));fg='#FFFFFF' if center else INK;bg=INK if center else '#FFFFFF';tag='a'
+  attr=' href="'+html.escape(url,quote=True)+'"' if url else ' role="link" tabindex="-1" aria-disabled="true" data-link-slot="seminar-'+str(number)+'"'
   style='display:flex;flex-direction:column;justify-content:center;gap:6px;flex:1 1 230px;min-width:0;padding:16px 18px;min-height:108px;border:1px solid '+(INK if center else BORDER)+';border-radius:12px;background:'+bg+';color:'+fg+';text-decoration:none;'
   if not url:style+='border-style:dashed;background:'+SURFACE+';'
   out+='<'+tag+attr+' class="course-nav-card" style="'+style+'"><span style="font-size:14px;line-height:1.4;">'+kicker+'</span><strong style="font-size:18px;line-height:1.4;">'+label+'</strong><span style="font-size:14px;line-height:1.45;">'+html.escape(sub)+'</span></'+tag+'>'
  return out+'</nav>'
 STYLE='[data-course-seminar] .course-jump:hover,[data-course-seminar] a.course-nav-card:hover{box-shadow:0 4px 12px #123b5d16;border-color:#1F6388!important}[data-course-seminar] a:focus-visible,[data-course-seminar] summary:focus-visible{outline:3px solid #1F6388;outline-offset:3px}[data-course-seminar] section{scroll-margin-top:20px}'
+
+def action_button(label,expand,primary=False):
+ color='#FFFFFF' if primary else INK;bg=INK if primary else '#FFFFFF';border=INK if primary else BORDER
+ return '<button class="course-action" type="button" data-expand="'+str(expand).lower()+'" style="font:inherit;font-size:16px;line-height:1.4;display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 18px;min-height:48px;border:1px solid '+border+';border-radius:12px;background:'+bg+';color:'+color+';cursor:pointer;">'+label+'</button>'
+def back_link():
+ return '<a class="course-return" href="#cuprins" style="display:inline-flex;align-items:center;gap:8px;color:'+INK+';background:'+SURFACE+';font-size:16px;line-height:1.4;text-decoration:none;padding:10px 16px;min-height:44px;border:1px solid '+BORDER+';border-radius:12px;margin-top:8px;">↑ Înapoi la cuprins</a>'

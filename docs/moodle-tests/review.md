@@ -20,7 +20,7 @@ Question provenance is recorded in `question-bank.json`: review sections are ide
 - Romanian LanguageTool6.6 CLI completed for all11 sets. Findings were inspected; names and mathematical abbreviations produce dictionary warnings. Zero grammatical errors is not claimed.
 - HTML question cards checked at 320/390/768/1150px with Chromium. The question HTML has no external images or scripts.
 
-Timing:30 seconds by default;60 seconds for questions containing numeric data. Realtime Quiz exports store per-question overrides. Standard Moodle XML does not transfer those timers.
+Timing: 25 seconds for every Realtime Quiz question, including numerical questions, per the latest user instruction. Realtime Quiz exports store per-question overrides. Standard Moodle XML does not transfer those timers.
 
 No authenticated restore/import on moodle.ase.md was performed. Validation of archive/schema parity and local rendering is not a claim of successful server restoration. The top-level instructions distinguish restoring an activity from importing questions into the standard question bank.
 
@@ -39,3 +39,7 @@ Authoring sources are `tools/moodle-quizzes/bank/N.txt`; format: basis marker, q
 ## Follow-up: unknown backup format
 
 The first release passed XML parsing but failed Moodle's literal declaration signature. All packages have been rebuilt with the exact supported header. See [backup-format-fix.md](backup-format-fix.md) for the reproduced failure, regression checks and remaining server-restore verification limit.
+
+## Latest user update
+
+All275Realtime Quiz questions now use25seconds. Header labels explicitly separate word, number and slash: `Întrebarea 3 / 25`. All11MBZ and11XML exports were rebuilt and validation rerun. Standard Moodle XML still does not carry per-question timers; those apply to Realtime Quiz.

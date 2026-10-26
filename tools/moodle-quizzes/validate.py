@@ -33,19 +33,19 @@ def validate(repo):
             assert E.fromstring(archive.extractfile(directory+'/module.xml').read()).get('id')==mid
             questions=quiz.findall('questions/question');assert len(questions)==25
             assert all(s.findtext('value')=='0' for s in backup.findall('information/settings/setting') if s.findtext('name') in ['users','realtimequiz_'+mid+'_userinfo'])
-            assert int(quiz.findtext('questiontime'))==30
+            assert int(quiz.findtext('questiontime'))==25
             qids=[q.get('id') for q in questions];aids=[a.get('id') for q in questions for a in q.findall('answers/answer')];assert len(set(qids))==25 and len(set(aids))==100
         xml=E.parse(folder/'Import întrebări Moodle XML'/(name+'.xml'));multichoice=xml.findall("question[@type='multichoice']");assert len(multichoice)==25
         for q,element,item in zip(rows,questions,multichoice):
             assert element.findtext('questiontext')==q['question_html']==item.findtext('questiontext/text')
-            assert ',' not in q['text'];assert not re.search(r'Tom[șşs]a|Mankiw|Томша|Мэнкью',q['text'],re.I)
+            assert f'Întrebarea {q["number"]} / 25' in q['question_html'];assert ',' not in q['text'];assert not re.search(r'Tom[șşs]a|Mankiw|Томша|Мэнкью',q['text'],re.I)
             assert len(set(a.strip().casefold() for a in q['answers']))==4
             answers=element.findall('answers/answer');assert len(answers)==4
             assert [a.findtext('answertext') for a in answers]==q['answers']
             assert [a.findtext('correct') for a in answers]==['1' if i==q['correct_index'] else '0' for i in range(4)]
             assert [int(a.get('fraction')) for a in item.findall('answer')]==[100 if i==q['correct_index'] else 0 for i in range(4)]
             assert item.findtext('shuffleanswers')=='false'
-            time=int(element.findtext('questiontime')) or 30;assert time==q['time'] in [30,60]
+            time=int(element.findtext('questiontime')) or 25;assert time==q['time']==25
             assert 'correct_index' not in q['question_html'] and 'Răspuns corect' not in q['question_html']
             src=q['source'];data=json.loads((repo/src['file']).read_text())
             if src.get('json_pointer','').startswith('/solved/'):

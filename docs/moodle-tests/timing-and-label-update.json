@@ -1,0 +1,9 @@
+{
+  "questions": 275,
+  "seconds_per_question": 25,
+  "heading": "Întrebarea N / 25",
+  "moodle_backup_signature": "passed all11",
+  "html_pages": 11,
+  "buttons": "shared actions, back-to-contents and navigation styles",
+  "browser_checks": "all11pages at320/390/768/1150px; no errors"
+}

@@ -1,0 +1,211 @@
+[
+  {
+    "seminar": 1,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 7,
+      "C": 6,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 18,
+      "60": 7
+    }
+  },
+  {
+    "seminar": 2,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 7,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 15,
+      "60": 10
+    }
+  },
+  {
+    "seminar": 3,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 6,
+      "D": 7
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 12,
+      "60": 13
+    }
+  },
+  {
+    "seminar": 4,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 17,
+      "60": 8
+    }
+  },
+  {
+    "seminar": 5,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 7,
+      "C": 6,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 21,
+      "60": 4
+    }
+  },
+  {
+    "seminar": 6,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 7,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 16,
+      "60": 9
+    }
+  },
+  {
+    "seminar": 7,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 6,
+      "D": 7
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 17,
+      "60": 8
+    }
+  },
+  {
+    "seminar": 8,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 7,
+      "B": 6,
+      "C": 6,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 15,
+      "60": 10
+    }
+  },
+  {
+    "seminar": 9,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 7,
+      "C": 6,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 15,
+      "60": 10
+    }
+  },
+  {
+    "seminar": 10,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 7,
+      "D": 6
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 17,
+      "60": 8
+    }
+  },
+  {
+    "seminar": 11,
+    "questions": 25,
+    "answers": 100,
+    "one_correct_per_question": true,
+    "adjacent_keys_different": true,
+    "key_counts": {
+      "A": 6,
+      "B": 6,
+      "C": 6,
+      "D": 7
+    },
+    "xml_mbz_key_parity": true,
+    "archive_index_valid": true,
+    "seconds": {
+      "30": 17,
+      "60": 8
+    }
+  }
+]

@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Microeconomie/Seminarul 8. Comportamentul firmelor pe piața cu concurență perfectă</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă că firma este primitoare de preț?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q01</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Alege orice preț fără a pierde clienți</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu poate alege cantitatea</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ia prețul pieței ca dat și alege propria cantitate</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Stabilește prețul pentru întreaga ramură</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce ipoteză aparține concurenței perfecte?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q02</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Mulți participanți mici și produs omogen</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Fiecare firmă stabilește prețul pieței</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Un singur vânzător fără substituenți</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bariere totale la intrare</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum arată cererea adresată unei firme perfect concurente la prețul pieței?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q03</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Crescătoare obligatoriu</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Orizontală</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Identică obligatoriu cererii descrescătoare a pieței</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Verticală la orice preț</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce relație este valabilă pentru firma concurentă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q04</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>P = MR = AR</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = profit total</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = TC = FC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR = 0 la orice Q</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție dă un candidat interior pe ramura relevantă a ofertei firmei?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q05</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>MC = Q</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P = MC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = FC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TR = 0</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La cantitatea optimă P depășește ATC. Care este rezultatul?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q06</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Oprire obligatorie</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Pierdere economică</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Profit economic zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Profit economic pozitiv</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub ATC dar peste AVC la volumul optim. Ce poate fi preferabil pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q07</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Ieșirea imediată în orice condiții</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Producția fără niciun cost fix</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Continuarea cu pierdere mai mică decât la oprire</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Oprirea pentru că orice pierdere interzice producția</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P este sub minimul AVC. Ce alege firma în modelul standard pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q08</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Oprește producția</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Crește oferta fără limită</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Produce obligatoriu la minimul ATC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Produce orice cantitate pozitivă</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care cost rămâne la oprirea pe termen scurt dacă nu poate fi evitat?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q09</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Profitul economic pozitiv</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Venitul marginal</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Costul fix</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costul variabil al producției care nu mai are loc</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce parte a MC formează oferta standard de termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q10</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Numai partea descrescătoare sub AVC</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Ramura relevantă deasupra pragului de închidere</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Întreaga curbă indiferent de AVC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Curba costului fix total</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se obține oferta unei ramuri cu N firme identice?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q11</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Se adună costurile medii în locul cantităților</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Q = q/N la același preț</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Q = N × q la același preț</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = N × q în toate cazurile</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce efect are de regulă intrarea firmelor la cerere neschimbată?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q12</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Păstrează obligatoriu profitul inițial al fiecărei firme</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Reduce oferta pieței obligatoriu</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mărește automat cererea fiecărei firme vechi</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Crește oferta pieței și pune presiune de scădere asupra prețului</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În echilibrul standard pe termen lung cu firme identice și intrare liberă ce relație apare?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q13</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>P = minimul AVC sub LRAC obligatoriu</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costurile implicite nu se recuperează</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P = MC = minimul LRAC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Profitul economic pozitiv este garantat</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul economic zero pe termen lung înseamnă că proprietarul lucrează gratuit?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q14</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Da. Costurile implicite sunt excluse</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu. Înseamnă profit economic maxim pozitiv</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Nu poate primi niciun venit</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Remunerația normală este inclusă în cost</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În lipsa externalităților ce exprimă P = MC ca reper?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q15</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Egalarea valorii marginale pentru cumpărător cu costul marginal</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Maximul obligatoriu al profitului mediu</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cost fix egal cu zero</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>O distribuire automat echitabilă a veniturilor</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 30 iar AVC = 37/2 la cantitatea optimă. Ce comparație este corectă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q16</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>P este egal cu AVC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P este sub AVC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>AVC este negativ</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P acoperă AVC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul din producție este −551/12 iar oprirea pierde 90. Ce variantă are pierdere mai mică?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q17</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Cele două sunt egale</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Producția</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu pot fi comparate în aceleași unități</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Oprirea</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;100 de firme produc fiecare 40 de unități. Care este producția ramurii?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q18</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>4000 de unități</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>40 de unități</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>5/2 unități</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>140 de unități</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Firma încasează 400 și suportă TC = 243. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q19</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>643</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>157</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>−157</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>243</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;20 de firme produc fiecare 1/3 unități. Care este Q total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q20</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>60</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3/20</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>20/3</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 45 și Q = 4. Care este TR?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q21</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>180</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>45/4</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>49</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>41</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = 100 + 15q + q². Care este pragul de profit zero dacă minimul ATC este 35?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q22</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>P = 15</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = 100</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P = 35</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = 0</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 25 și AVC = 20 la Q = 100. FC = 800. Care este pierderea din producție?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q23</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>300 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2800 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>500 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>800 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 40 și ATC = 32 la Q = 60. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q24</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>2400 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>480 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>8 lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1920 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 8. Întrebarea 25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 8 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cererea pieței la P = 24 este 4000 iar fiecare firmă produce eficient 80. Câte firme identice corespund reperului de lungă durată?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s8-q25</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>80</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>24</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>320000</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>50</text>
+    </answer>
+  </question>
+</quiz>

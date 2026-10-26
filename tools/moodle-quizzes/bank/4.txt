@@ -1,0 +1,25 @@
+r|Ce înseamnă alegerea rațională a consumatorului în model?|Cel mai preferat coș dintre cele accesibile|Cumpărarea celui mai scump coș de pe piață|Maximizarea numărului de produse indiferent de preferințe|Cheltuirea unui venit care nu este disponibil
+r|Ce exprimă utilitatea totală?|Satisfacția asociată întregii cantități consumate|Numai satisfacția ultimei unități|Prețul ultimei unități|Costul total al producătorului
+r|Ce exprimă utilitatea marginală?|Sporul utilității totale la consum suplimentar|Utilitatea totală împărțită mereu la preț|Bugetul rămas după cumpărare|Numărul tuturor bunurilor disponibile
+r|Utilitatea marginală este pozitivă dar descrescătoare. Cum evoluează utilitatea totală?|Crește cu sporuri tot mai mici|Scade obligatoriu|Rămâne constantă|Devine negativă imediat
+r|Ce reprezintă o curbă de indiferență?|Coșuri evaluate la același nivel de satisfacție|Coșuri care costă aceeași sumă în orice situație|Numai coșuri inaccesibile|Cantitățile oferite de producători
+r|Ce reprezintă linia bugetară?|Coșurile care folosesc integral bugetul la prețurile date|Toate coșurile cu aceeași utilitate|Numai bunurile gratuite|Cantitățile produse la cost minim
+r|Venitul crește iar prețurile nu se schimbă. Cum se modifică linia bugetară?|Se deplasează paralel spre exterior|Se rotește numai în jurul axei X|Se deplasează paralel spre interior|Își schimbă obligatoriu panta
+r|Prețul lui X scade iar venitul și prețul lui Y rămân constante. Ce se schimbă?|Interceptarea pe X crește iar cea pe Y rămâne|Ambele interceptări scad în aceeași proporție|Interceptarea pe Y crește iar cea pe X rămâne|Linia se deplasează paralel obligatoriu
+r|Ce comparăm la un optim interior cu bunuri divizibile și preferințe regulate?|Utilitățile marginale pe leu|Numai cantitățile celor două bunuri|Numai prețurile fără utilitate|Utilitățile totale ale unor persoane diferite
+r|Ce poate apărea pentru substituenți perfecți cu utilități marginale pe leu diferite?|Un optim de colț|O tangență interioară obligatorie|Un coș optim inaccesibil|Aceleași cantități din ambele bunuri obligatoriu
+r|Ce exprimă abordarea ordinală?|Ordonarea coșurilor după preferințe|Măsurarea satisfacției în lei|Compararea directă a fericirii tuturor persoanelor|Numărarea numai a produselor fizice
+r|Ce înseamnă tranzitivitatea preferințelor?|Dacă A este preferat lui B și B lui C atunci A este preferat lui C|Orice două coșuri au același cost|Toate persoanele au aceleași preferințe|Un coș inaccesibil este mereu ales
+r|De ce verificăm separat coșurile întregi pentru bunuri indivizibile?|Tangența continuă poate să nu fie realizabilă|Bugetul nu mai contează|Utilitățile marginale dispar prin definiție|Orice coș întreg maximizează utilitatea
+c|Venitul și ambele prețuri se dublează. Ce se întâmplă cu posibilitățile de consum?|Rămân aceleași|Se dublează obligatoriu|Se înjumătățesc|Devine accesibil orice coș
+r|Ce exprimă MRS ca mărime pozitivă?|Cantitatea Y sacrificată pentru încă un X la aceeași utilitate|Prețul total al tuturor bunurilor|Creșterea venitului pe unitate de consum|Costul marginal al producției
+p1|TU crește de la 25 la 47 după încă o unitate. Care este MU?|22|47|25|72
+p1|O unitate suplimentară are MU = 0. Ce se întâmplă cu TU pe acel pas?|Rămâne neschimbată|Devine zero obligatoriu|Crește cu o unitate|Scade obligatoriu
+p2|O pizza costă 20 de lei și o Fanta 10 lei. Cât costă două pizza și trei Fanta?|70 de lei|50 de lei|60 de lei|80 de lei
+p2|Bugetul inițial de 70 de lei crește cu 80 de lei. Care este noul buget?|150 de lei|80 de lei|10 lei|5600 de lei
+p3|La un coș interior MU pentru X pe leu este mai mică decât cea pentru Y. Ce realocare locală poate crește utilitatea?|Mai mult Y și mai puțin X|Mai mult X și mai puțin Y|Numai majorarea prețului lui Y|Păstrarea coșului este obligatoriu optimă
+p4|TU = 2X + 3Y iar prețurile sunt 15 și 30. Care bun oferă utilitate mai mare pe leu?|X|Y|Ambele în mod egal|Nu putem compara fără a cunoaște venitul
+p5|TU = X + Y. Bugetul este 50 iar prețurile sunt 5 pentru X și 1 pentru Y. Care coș maximizează TU?|X = 0 și Y = 50|X = 10 și Y = 0|X = 5 și Y = 25|X = 5 și Y = 5
+ e|Bugetul este 120 de lei. X costă 20 și Y costă 10. Cât X se poate cumpăra dacă Y = 0?|6|12|10|20
+ e|Un set complet cere un X și două Y. Prețurile sunt 20 și 5 lei. Cât costă setul?|30 de lei|25 de lei|40 de lei|10 lei
+ e|Coșul B are mai mult X și același Y decât A. Ambele bunuri sunt dorite. De ce B poate să nu fie ales?|Poate depăși bugetul disponibil|Trebuie să aibă utilitate mai mică|Mai mult X înseamnă automat mai puțin Y|Orice coș preferat este accesibil

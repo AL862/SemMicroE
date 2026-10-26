@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Microeconomie/Seminarul 7. Maximizarea profitului și pragul de rentabilitate al firmei</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum calculăm profitul total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q01</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>TR − TC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC − TR</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P − Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TR + TC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum calculăm încasările la un preț unic?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q02</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>FC + VC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P/Q</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P × Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC/Q</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce este venitul marginal?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q03</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Încasările totale împărțite mereu la Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Prețul tuturor resurselor folosite</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Profitul total pe perioadă</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Sporul încasărilor raportat la sporul cantității</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La preț constant ce relație are MR cu P?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q04</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>MR = TC</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>MR = P</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR = P × Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR = 0 obligatoriu</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce MR poate fi sub noul preț la o firmă cu cerere descrescătoare și preț unic?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q05</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Costul fix este automat mai mare</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Prețul nu influențează încasările</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Firma nu mai încasează nimic pentru ultima unitate</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Reducerea prețului afectează și unitățile care se vindeau înainte</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;MR depășește MC pentru o unitate suplimentară. Ce se întâmplă cu profitul total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q06</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Rămâne neschimbat</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Devine egal cu costul fix</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Scade obligatoriu</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;MR este sub MC pentru ultima unitate. Ce indică aceasta?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q07</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Unitatea reduce profitul total</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Profitul total este obligatoriu pozitiv</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costurile fixe trebuie majorate</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Încasările totale sunt zero</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;MR = MC garantează singură un profit pozitiv?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q08</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Da. Pentru că FC dispare</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu. Înseamnă întotdeauna pierdere</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Trebuie verificate maximul și costul total</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Pentru orice funcție</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce definește pragul de rentabilitate?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q09</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>TR = TC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = AVC în toate situațiile</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR = 0 în orice situație</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>FC = 0</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă marja unitară la preț și cost variabil unitar constante?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q10</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>TC/Q + P</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>FC − v</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P − v</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P + v</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție este necesară pentru un prag pozitiv finit când FC este pozitiv?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q11</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>P este egal cu v</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P este mai mic decât v</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Q este obligatoriu zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>P este mai mare decât v</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum diferă profitul economic de cel contabil în comparația standard?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q12</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Ignoră costurile explicite</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Adaugă costurile implicite la rezultat</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Scade și costurile implicite relevante</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Este întotdeauna mai mare</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă profit economic zero?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q13</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Firma nu are încasări</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Proprietarul nu primește nicio remunerație</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costurile explicite sunt zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Sunt acoperite și alternativele relevante ale resurselor</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Maximul încasărilor coincide obligatoriu cu maximul profitului?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q14</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Nu. Profitul nu depinde de încasări</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Costul marginal poate face cantitățile diferite</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Pentru că TC nu influențează alegerea</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Încasările sunt profit</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum alegem dintr-un tabel cu volume întregi disponibile?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q15</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Impunem o egalitate MR = MC care nu apare în tabel</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Alegem automat cel mai mare preț</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Alegem automat cea mai mare cantitate</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Comparăm profitul total al fiecărui volum admis</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TR = 300Q − Q². Care este TR la Q = 150?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q16</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>22500</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>45000</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>15000</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>30000</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La maximul interior al încasărilor netede cât este MR?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q17</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Egal cu prețul obligatoriu</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>0</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Egal cu TR obligatoriu</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Egal cu FC obligatoriu</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;FC = 60000 de lei. P = 100 și v = 20. Care este marja unitară?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q18</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>20 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>600 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>120 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>80 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;FC = 60000 iar marja unitară este 80 de lei. Care este pragul?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q19</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>750 de produse</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>800 de produse</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>600 de produse</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>75 de produse</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;ATC = 40 + 4000/Q iar P = 80. La ce Q profitul este zero?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q20</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>4000</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>50</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>80</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>100</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = 50 + Q². La Q = 10 care este prețul necesar pentru a acoperi costul lotului vândut integral?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q21</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>5</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>150</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>15</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>10</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = 26000 iar profitul dorit este 40000 de lei pentru 600 de produse. Care este prețul necesar?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q22</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>100 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>110 lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>60 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>40 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TR este 4000 iar TC este 3000 de lei. Care este profitul total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q23</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>3000 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>400 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>1000 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>7000 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;MR al ultimei unități este 25 iar MC este 32 de lei. Care este contribuția ei la profit?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q24</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>57 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>−7 lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>7 lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>25 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 7. Întrebarea 25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 7 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Prețul și v rămân constante iar FC crește. Ce se întâmplă cu pragul în modelul liniar?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s7-q25</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Scade</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Devine automat zero</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Rămâne obligatoriu identic</text>
+    </answer>
+  </question>
+</quiz>

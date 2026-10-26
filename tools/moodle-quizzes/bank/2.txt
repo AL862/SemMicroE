@@ -1,0 +1,25 @@
+r|Ce este cantitatea cerută?|Cantitatea pe care cumpărătorii doresc și pot să o cumpere la un preț dat|Orice dorință fără restricție de venit|Întreaga producție posibilă a firmelor|Cantitatea vândută obligatoriu la orice preț
+r|Ce produce o mișcare pe aceeași curbă a cererii?|Schimbarea prețului bunului analizat|Schimbarea venitului la același preț|Schimbarea preferințelor|Creșterea numărului cumpărătorilor
+r|Ce deplasează de regulă cererea unui bun normal spre dreapta?|Creșterea venitului cu ceilalți factori neschimbați|Creșterea propriului preț ca singură modificare|Scăderea numărului cumpărătorilor|Reducerea preferinței pentru bun
+r|Ce se întâmplă cu cererea de ceai dacă se scumpește cafeaua și bunurile sunt substituibile?|Crește la același preț al ceaiului|Scade obligatoriu la același preț al ceaiului|Devine identică ofertei de ceai|Se mișcă numai pe vechea curbă din cauza prețului ceaiului
+r|O tehnologie reduce costurile producerii unui bun. Ce schimbare este probabilă?|Oferta crește|Cererea crește obligatoriu|Oferta scade obligatoriu|Cantitatea oferită rămâne aceeași la fiecare preț
+r|Ce caracterizează echilibrul pieței?|Cantitatea cerută este egală cu cea oferită|Prețul este egal cu zero|Toate firmele obțin același profit|Cererea este mai mare decât oferta
+r|La un preț dat cererea depășește oferta. Ce există?|Deficit|Exces de ofertă|Echilibru|O creștere obligatorie a capacității
+r|Ce presiune apare de regulă când oferta depășește cererea la prețul curent?|De reducere a prețului|De majorare a prețului|De eliminare a cererii|De creștere automată a costului fix
+r|Când un plafon de preț este restrictiv în modelul standard?|Când este sub prețul de echilibru liber|Când este peste prețul de echilibru liber|Când coincide cu orice preț minim|Numai când oferta este perfect elastică
+r|Un preț minim restrictiv este peste echilibrul liber. Ce poate apărea?|Exces de ofertă|Deficit obligatoriu|Dispariția tuturor vânzărilor în orice situație|Egalitate obligatorie între cerere și ofertă
+r|Cum construim oferta a două firme?|Adunăm cantitățile oferite la același preț|Adunăm prețurile la aceeași cantitate|Scădem oferta firmei mai mici|Folosim numai oferta firmei mai mari
+r|Ce diferență creează un impozit unitar între prețuri?|Prețul cumpărătorului depășește prețul net al vânzătorului|Vânzătorul primește mai mult decât plătește cumpărătorul|Cele două prețuri sunt mereu egale|Diferența este egală cu încasarea bugetară totală
+r|Cine suportă un impozit pe piață?|Povara depinde de reacțiile cererii și ofertei|Doar partea care îl virează legal|Întotdeauna numai cumpărătorul|Întotdeauna numai producătorul
+c|Dacă cererea și oferta cresc simultan ce putem spune fără mărimi suplimentare în modelul obișnuit?|Sensul schimbării prețului nu este determinat|Prețul crește obligatoriu|Prețul scade obligatoriu|Prețul rămâne obligatoriu constant
+r|Cum calculăm costul bugetar al unei subvenții unitare?|Subvenția unitară înmulțită cu volumul subvenționat|Subvenția unitară împărțită la preț|Prețul cumpărătorului înmulțit cu deficitul|Costul fix al producătorului
+p1|Qd = 100 − P și Qs = −20 + 2P. Care este prețul de echilibru?|40|20|60|100
+p1|La echilibrul P = 40 pentru Qd = 100 − P cât se tranzacționează?|60 de unități|40 de unități|100 de unități|20 de unități
+p1|Pentru aceleași funcții la P = 30 avem Qd = 70 și Qs = 40. Care este deficitul?|30 de unități|40 de unități|70 de unități|110 unități
+p3|Producătorul primește prețul clientului de 4 u.m. și o subvenție de 2 u.m. Cât primește pe unitate?|6 u.m.|2 u.m.|4 u.m.|8 u.m.
+p4|Cumpărătorul plătește 4 u.m. iar impozitul este 2 u.m. pe produs. Cât primește net vânzătorul?|2 u.m.|6 u.m.|4 u.m.|8 u.m.
+p5|Prețul cumpărătorului este 4 iar prețul net al vânzătorului este 2. Care este impozitul unitar?|2|6|8|1/2
+p6|La un preț dat oferta internă este 65 iar importurile suplimentare efective sunt 30. Care este oferta totală?|95|35|65|130
+ e|La 25 de lei două cafenele oferă 40 și 55 de porții. Cât oferă împreună?|95 de porții|15 porții|55 de porții|2200 de porții
+ e|Un plafon permite oferta de 35 de bilete iar clienții doresc 60. Fără alte surse câte bilete se pot tranzacționa cel mult?|35 de bilete|60 de bilete|95 de bilete|25 de bilete
+ e|Un impozit este 4 lei pe produs și se vând 36 de produse. Care este încasarea bugetară?|144 de lei|40 de lei|9 lei|72 de lei

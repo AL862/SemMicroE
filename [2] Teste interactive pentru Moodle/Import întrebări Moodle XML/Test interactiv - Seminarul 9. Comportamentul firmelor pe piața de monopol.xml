@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Microeconomie/Seminarul 9. Comportamentul firmelor pe piața de monopol</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce caracterizează monopolul pur pe piața relevantă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q01</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Un singur vânzător fără substituenți apropiați</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Absența oricărei cereri</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mulți vânzători ai unui bun omogen</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Intrare liberă garantată pentru orice rival</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce monopolistul nu poate alege independent orice preț și orice cantitate?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q02</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Costul fix stabilește singur toate vânzările</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cumpărătorii acceptă orice preț</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Prețul este mereu egal cu zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Este constrâns de cererea pieței</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care exemplu poate constitui o barieră la intrare?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q03</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Numărul mare de firme mici identice</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Controlul unei resurse esențiale fără alternativă apropiată</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Existența oricărui cost de producție</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Disponibilitatea liberă a aceleiași tehnologii pentru toți</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce poate explica un monopol natural?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q04</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Există multe firme cu aceeași cotă mică</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cererea este obligatoriu zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Costul mediu scade pe intervalul relevant al cererii</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costul marginal este întotdeauna negativ</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La cerere descrescătoare și preț unic cum se compară MR cu P?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q05</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>MR este mereu egal cu P</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR este egal cu costul fix</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR este peste P pentru orice Q pozitiv</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>MR este sub P</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se stabilește prețul după găsirea cantității monopoliste?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q06</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Prin egalarea lui cu FC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Prin citirea lui direct pe MR</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Prin înlocuirea cantității în cerere</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Prin împărțirea costului fix la numărul cumpărătorilor</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție marginală dă un candidat pentru profit maxim interior?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q07</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>MR = MC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>P = FC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MR = 0 indiferent de MC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TR = TC obligatoriu</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Monopolul garantează profit economic pozitiv?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q08</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Da. Barierele elimină toate costurile</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Rezultatul depinde de cerere și costuri</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu. Monopolistul are mereu profit zero</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Pentru orice cerere și cost</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce măsoară indicele Lerner?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q09</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Profitul total împărțit la FC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Încasările totale pe angajat</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Adaosul dintre P și MC raportat la P</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Numărul firmelor din ramură</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce condiție ajută discriminarea prin preț?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q10</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Imposibilitatea separării clienților sau pachetelor</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Limitarea revânzării între segmente</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Același preț obligatoriu pentru toate unitățile</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Absența oricărei puteri de piață</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce descrie discriminarea de gradul III?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q11</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Prețuri diferite pentru segmente separate de cumpărători</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Preț egal cu MC pentru fiecare cumpărător</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Un singur preț independent de cerere</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Numai reducerea costului fix</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;În comparația standard cu aceleași cerere și MC ce face monopolul cu preț unic?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q12</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Nu poate influența cantitatea</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Alege obligatoriu același Q ca reperul eficient</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Produce mereu mai mult decât reperul eficient</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Produce mai puțin decât reperul P = MC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă pierderea socială din restrângerea monopolistă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q13</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Întreg costul fix al firmei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Întreg profitul firmei în orice situație</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Surplusul schimburilor avantajoase care nu mai au loc</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Orice plată transferată cumpărătorului</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;O taxă fixă mai mare schimbă direct MC?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q14</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Da. Ea este identică unui impozit unitar</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Poate reduce profitul fără să schimbe alegerea cât timp firma continuă</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Cu exact aceeași sumă pe fiecare produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Nu. Ea nu poate afecta niciodată participarea firmei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;De ce regula P = MC poate cere sprijin financiar la monopol natural?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q15</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Consumatorii nu mai cumpără nimic</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costul fix este recuperat automat în orice situație</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costul marginal devine obligatoriu negativ</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Încasările pot să nu acopere costul total</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Monopolistul vinde Q = 20 la P = 22. Care este TR?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q16</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>42</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>240</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>440</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>200</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TR = 440 iar TC = 240. Care este profitul?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q17</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>240</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>200</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>680</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>−200</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La aceleași date monopolul produce 30 iar reperul concurențial 40. Care volum este mai mare?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q18</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Reperul concurențial</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Volumul monopolist</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sunt egale</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Niciunul nu poate fi comparat</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 110 și MC = 100. Care este indicele Lerner?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q19</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>10</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1/10</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>11</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>1/11</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Elasticitatea este −11 la optimul interior. Ce valoare are −1/E&lt;sub&gt;d&lt;/sub&gt;?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q20</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>11</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>1/11</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>−1/11</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>−11</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Prețul cumpărătorului este 661/6 iar prețul net al firmei 649/6. Care este impozitul unitar?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q21</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>2</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1310/6</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>12</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1/2</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Profitul mediu este 2000/3 la Q = 20. Care este profitul total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q22</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>40000</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2000/3</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>40000/3</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>100/3</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Firma vinde 10 produse la 50 de lei apoi 11 la 48 de lei. Care este MR pentru unitatea suplimentară?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q23</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>28 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>50 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>48 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>528 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;P = 100 − Q și MC = 20. Care este cantitatea eficientă din P = MC?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q24</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>40</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>100</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>80</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 9. Întrebarea 25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 9 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La Q = 100 un monopol natural are TR = 1000 și TC = 1400. Ce sumă acoperă diferența?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s9-q25</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>1400 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>400 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2400 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1000 de lei</text>
+    </answer>
+  </question>
+</quiz>

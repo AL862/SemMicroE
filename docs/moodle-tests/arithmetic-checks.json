@@ -1,0 +1,410 @@
+{
+  "passed": 81,
+  "checks": [
+    {
+      "seminar": 1,
+      "question": 16,
+      "exact_result": "200"
+    },
+    {
+      "seminar": 1,
+      "question": 17,
+      "exact_result": "1"
+    },
+    {
+      "seminar": 1,
+      "question": 18,
+      "exact_result": "3/2"
+    },
+    {
+      "seminar": 1,
+      "question": 19,
+      "exact_result": "30"
+    },
+    {
+      "seminar": 1,
+      "question": 20,
+      "exact_result": "10"
+    },
+    {
+      "seminar": 1,
+      "question": 21,
+      "exact_result": "5"
+    },
+    {
+      "seminar": 1,
+      "question": 23,
+      "exact_result": "300"
+    },
+    {
+      "seminar": 2,
+      "question": 16,
+      "exact_result": "40"
+    },
+    {
+      "seminar": 2,
+      "question": 17,
+      "exact_result": "60"
+    },
+    {
+      "seminar": 2,
+      "question": 18,
+      "exact_result": "30"
+    },
+    {
+      "seminar": 2,
+      "question": 19,
+      "exact_result": "6"
+    },
+    {
+      "seminar": 2,
+      "question": 20,
+      "exact_result": "2"
+    },
+    {
+      "seminar": 2,
+      "question": 21,
+      "exact_result": "2"
+    },
+    {
+      "seminar": 2,
+      "question": 22,
+      "exact_result": "95"
+    },
+    {
+      "seminar": 2,
+      "question": 23,
+      "exact_result": "95"
+    },
+    {
+      "seminar": 2,
+      "question": 24,
+      "exact_result": "35"
+    },
+    {
+      "seminar": 2,
+      "question": 25,
+      "exact_result": "144"
+    },
+    {
+      "seminar": 3,
+      "question": 16,
+      "exact_result": "3"
+    },
+    {
+      "seminar": 3,
+      "question": 17,
+      "exact_result": "20"
+    },
+    {
+      "seminar": 3,
+      "question": 18,
+      "exact_result": "-1"
+    },
+    {
+      "seminar": 3,
+      "question": 19,
+      "exact_result": "160"
+    },
+    {
+      "seminar": 3,
+      "question": 22,
+      "exact_result": "4"
+    },
+    {
+      "seminar": 3,
+      "question": 23,
+      "exact_result": "-2"
+    },
+    {
+      "seminar": 3,
+      "question": 24,
+      "exact_result": "6210"
+    },
+    {
+      "seminar": 3,
+      "question": 25,
+      "exact_result": "3/5"
+    },
+    {
+      "seminar": 4,
+      "question": 16,
+      "exact_result": "22"
+    },
+    {
+      "seminar": 4,
+      "question": 18,
+      "exact_result": "70"
+    },
+    {
+      "seminar": 4,
+      "question": 19,
+      "exact_result": "150"
+    },
+    {
+      "seminar": 4,
+      "question": 23,
+      "exact_result": "6"
+    },
+    {
+      "seminar": 4,
+      "question": 24,
+      "exact_result": "30"
+    },
+    {
+      "seminar": 5,
+      "question": 9,
+      "exact_result": "24"
+    },
+    {
+      "seminar": 5,
+      "question": 10,
+      "exact_result": "17"
+    },
+    {
+      "seminar": 5,
+      "question": 25,
+      "exact_result": "-6"
+    },
+    {
+      "seminar": 6,
+      "question": 16,
+      "exact_result": "2000"
+    },
+    {
+      "seminar": 6,
+      "question": 17,
+      "exact_result": "10"
+    },
+    {
+      "seminar": 6,
+      "question": 18,
+      "exact_result": "2500"
+    },
+    {
+      "seminar": 6,
+      "question": 19,
+      "exact_result": "100"
+    },
+    {
+      "seminar": 6,
+      "question": 20,
+      "exact_result": "5/2"
+    },
+    {
+      "seminar": 6,
+      "question": 22,
+      "exact_result": "340"
+    },
+    {
+      "seminar": 6,
+      "question": 23,
+      "exact_result": "2"
+    },
+    {
+      "seminar": 6,
+      "question": 24,
+      "exact_result": "3500"
+    },
+    {
+      "seminar": 7,
+      "question": 16,
+      "exact_result": "22500"
+    },
+    {
+      "seminar": 7,
+      "question": 17,
+      "exact_result": "0"
+    },
+    {
+      "seminar": 7,
+      "question": 18,
+      "exact_result": "80"
+    },
+    {
+      "seminar": 7,
+      "question": 19,
+      "exact_result": "750"
+    },
+    {
+      "seminar": 7,
+      "question": 20,
+      "exact_result": "100"
+    },
+    {
+      "seminar": 7,
+      "question": 21,
+      "exact_result": "15"
+    },
+    {
+      "seminar": 7,
+      "question": 22,
+      "exact_result": "110"
+    },
+    {
+      "seminar": 7,
+      "question": 23,
+      "exact_result": "1000"
+    },
+    {
+      "seminar": 7,
+      "question": 24,
+      "exact_result": "-7"
+    },
+    {
+      "seminar": 8,
+      "question": 18,
+      "exact_result": "4000"
+    },
+    {
+      "seminar": 8,
+      "question": 19,
+      "exact_result": "157"
+    },
+    {
+      "seminar": 8,
+      "question": 20,
+      "exact_result": "20/3"
+    },
+    {
+      "seminar": 8,
+      "question": 21,
+      "exact_result": "180"
+    },
+    {
+      "seminar": 8,
+      "question": 22,
+      "exact_result": "35"
+    },
+    {
+      "seminar": 8,
+      "question": 23,
+      "exact_result": "300"
+    },
+    {
+      "seminar": 8,
+      "question": 24,
+      "exact_result": "480"
+    },
+    {
+      "seminar": 8,
+      "question": 25,
+      "exact_result": "50"
+    },
+    {
+      "seminar": 9,
+      "question": 16,
+      "exact_result": "440"
+    },
+    {
+      "seminar": 9,
+      "question": 17,
+      "exact_result": "200"
+    },
+    {
+      "seminar": 9,
+      "question": 19,
+      "exact_result": "1/11"
+    },
+    {
+      "seminar": 9,
+      "question": 20,
+      "exact_result": "1/11"
+    },
+    {
+      "seminar": 9,
+      "question": 21,
+      "exact_result": "2"
+    },
+    {
+      "seminar": 9,
+      "question": 22,
+      "exact_result": "40000/3"
+    },
+    {
+      "seminar": 9,
+      "question": 23,
+      "exact_result": "28"
+    },
+    {
+      "seminar": 9,
+      "question": 24,
+      "exact_result": "80"
+    },
+    {
+      "seminar": 9,
+      "question": 25,
+      "exact_result": "400"
+    },
+    {
+      "seminar": 10,
+      "question": 16,
+      "exact_result": "98"
+    },
+    {
+      "seminar": 10,
+      "question": 17,
+      "exact_result": "544"
+    },
+    {
+      "seminar": 10,
+      "question": 20,
+      "exact_result": "90"
+    },
+    {
+      "seminar": 10,
+      "question": 21,
+      "exact_result": "48"
+    },
+    {
+      "seminar": 10,
+      "question": 23,
+      "exact_result": "0"
+    },
+    {
+      "seminar": 10,
+      "question": 24,
+      "exact_result": "30"
+    },
+    {
+      "seminar": 10,
+      "question": 25,
+      "exact_result": "200"
+    },
+    {
+      "seminar": 11,
+      "question": 16,
+      "exact_result": "86"
+    },
+    {
+      "seminar": 11,
+      "question": 17,
+      "exact_result": "40"
+    },
+    {
+      "seminar": 11,
+      "question": 18,
+      "exact_result": "20"
+    },
+    {
+      "seminar": 11,
+      "question": 19,
+      "exact_result": "27/2"
+    },
+    {
+      "seminar": 11,
+      "question": 21,
+      "exact_result": "70"
+    },
+    {
+      "seminar": 11,
+      "question": 22,
+      "exact_result": "90"
+    },
+    {
+      "seminar": 11,
+      "question": 23,
+      "exact_result": "5200"
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8'?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$course$/top/Microeconomie/Seminarul 6. Costurile de producție</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 01</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 1/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce reprezintă costul economic al resurselor folosite?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q01</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Numai costul materiilor prime</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Numai plățile făcute în numerar astăzi</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Valoarea utilizărilor alternative relevante sacrificate</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Încasările totale ale firmei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 02</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 2/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care exemplu este un cost implicit?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q02</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Salariul plătit unui angajat</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Chiria plătită pentru un spațiu străin</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Factura achitată pentru energie</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Salariul alternativ sacrificat de proprietar pentru timpul său</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 03</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 3/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce caracterizează costul fix pe termen scurt?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q03</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>Nu se modifică odată cu Q în intervalul analizat</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Este egal cu prețul produsului</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Este întotdeauna zero la oprire</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Crește obligatoriu cu fiecare produs</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 04</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 4/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care relație este corectă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q04</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>TC = AFC + AVC</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>TC = FC + VC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC = FC − VC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC = MC × FC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 05</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 5/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum se calculează costul mediu total pentru Q pozitiv?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q05</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>TC/Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC × Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ΔTR/ΔQ</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>FC/VC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 06</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 6/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Care relație între mediile costurilor este corectă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q06</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>ATC = TC + Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ATC = AFC − AVC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ATC = MC + FC</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ATC = AFC + AVC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 07</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 7/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cum calculăm costul marginal mediu pe un interval?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q07</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>ΔTC/ΔQ</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>FC/Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TR/Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC/Q în orice situație</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 08</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 8/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce se întâmplă de regulă cu AFC când Q crește iar FC rămâne constant?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q08</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Crește</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Scade</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Devine negativ</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Rămâne egal cu FC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 09</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 9/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;MC este sub ATC. Cum se modifică ATC local în cazul neted?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q09</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Rămâne constant obligatoriu</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Devine egal cu zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Scade</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 10</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 10/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;La un minim interior neted al ATC ce egalitate apare?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q10</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>MC = ATC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>FC = VC</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC = Q</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MC = AFC în orice situație</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 11</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 11/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce descrie un izocost?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q11</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Toate volumele cu profit maxim</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Numai combinații cu muncă zero</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Combinații de factori cu același cost total</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Combinații cu aceeași producție obligatoriu</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 12</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 12/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cu L pe axa orizontală care este panta izocostului?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q12</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>−r/w</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>w + r</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>w × r</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>−w/r</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 13</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 13/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Ce înseamnă economii de scară?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q13</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Costul total trebuie să scadă când Q crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Toate costurile fixe dispar imediat</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Costul mediu pe termen lung scade când scara crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Produsul marginal este mereu negativ</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 14</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 14/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Pentru aceeași producție ce comparăm la minimizarea interioară a costului?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q14</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Numai cantitățile fizice ale factorilor</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Produsele marginale pe leu ale factorilor</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Numai prețul produsului finit</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Încasările totale și utilitatea consumatorului</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 15</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 15/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Costul marginal punctual este mereu egal cu costul exact al următoarei unități?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q15</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Nu. El este întotdeauna zero</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Pentru că toate costurile sunt fixe</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Da. Indiferent de funcția costului</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Nu. Pe un interval finit poate diferi</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 16</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 16/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;L = 10 și K = 15. Prețurile sunt 50 și 100 de lei. Care este costul total?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q16</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>1500 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>2000 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>500 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2500 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 17</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 17/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Costul total este 2000 de lei pentru 200 de produse. Care este ATC?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q17</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>200 de lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1/10 lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20 de lei pe produs</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>10 lei pe produs</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 18</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 18/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;TC = (50 + 4Q)². Care este FC?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q18</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>400</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>16</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>2500</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>50</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 19</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 19/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Cinci muncitori au produs mediu 20. Care este producția totală?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q19</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>100</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>4</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>25</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 20</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 20/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Costul crește cu 100 de lei când producția crește cu 40. Care este MC pe interval?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q20</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>2/5 lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>100 de lei pe produs</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>5/2 lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>40 de lei pe produs</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 21</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 21/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Dacă producția se triplează iar VC este proporțional cu producția ce se întâmplă cu AVC?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q21</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Se reduce la o treime</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Rămâne constant</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Se triplează</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Devine egal cu FC</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 22</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 22/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;L = 3 și K = 5. Munca costă 30 iar capitalul 50 de lei pe unitate. Care este costul combinației?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q22</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>240 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>250 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>340 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>400 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 23</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 23/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Chiria crește cu 160 de lei iar producția rămâne 80 de unități. Cu cât crește ATC dacă restul costurilor nu se schimbă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q23</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text>2 lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>80 de lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>160 de lei pe produs</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1/2 lei pe produs</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 24</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 24/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Încasările sunt 12000 iar costurile explicite 8500 de lei. Care este profitul contabil în comparația dată?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q24</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>3100 de lei</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>3500 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>8500 de lei</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>20500 de lei</text>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Seminarul 6. Întrebarea 25</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;div lang="ro" style="background:#eaf7ec;border:1px solid #b7ddb9;border-left:6px solid #2e7d32;border-radius:12px;padding:20px 22px;margin:18px 0;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.5;color:#17351b;"&gt;&lt;div style="font-size:13px;font-weight:bold;letter-spacing:0.08em;text-transform:uppercase;color:#2e7d32;margin-bottom:8px;"&gt;SEMINARUL 6 · ÎNTREBAREA 25/25&lt;/div&gt;&lt;p style="font-size:24px;line-height:1.35;font-weight:bold;margin:0;color:#17351b;"&gt;Costul mediu pe termen lung scade de la 20 la 16 lei când Q crește de la 100 la 200. Care afirmație este corectă?&lt;/p&gt;&lt;/div&gt;</text>
+    </questiontext>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <idnumber>semmicroe-s6-q25</idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0" format="html">
+      <text>Există dezeconomii de scară</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>TC scade obligatoriu</text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Există economii de scară deși TC crește</text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Costul marginal este obligatoriu zero</text>
+    </answer>
+  </question>
+</quiz>

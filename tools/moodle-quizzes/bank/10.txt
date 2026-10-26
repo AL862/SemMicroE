@@ -1,0 +1,25 @@
+r|Ce combinație definește concurența monopolistică?|Multe firme și produse diferențiate cu intrare relativ ușoară|Un singur vânzător fără substituenți|Puține firme care calculează fiecare reacție strategică|Multe firme cu produs perfect omogen și preț impus fiecăreia
+r|Care exemplu este diferențiere prin amplasare?|O cafenea este mai aproape de stația clientului|Toate cafenelele au aceeași adresă și ofertă|Prețul resurselor crește pentru toate firmele|Numărul angajaților din economie se dublează
+r|De ce cererea unei varietăți este descrescătoare?|Unii clienți aleg alternative când prețul ei crește|Firma este întotdeauna singurul ofertant al întregii nevoi|Clienții nu au nicio alternativă|Costul fix impune direct panta cererii
+r|Ce limitează puterea unei firme asupra prețului?|Existența substituenților apropiați|Numai numele firmei|Absența oricăror cumpărători|O cotă de piață mică fără nicio alternativă de consum
+r|Cum se alege cantitatea candidată pe termen scurt?|Prin MR = MC|Prin P = FC|Prin LRAC = 0|Prin maximizarea numărului de reclame
+r|De unde se citește prețul la cantitatea aleasă?|De pe curba cererii proprii|De pe curba MR ca regulă generală|Din costul fix singur|Din numărul concurenților singur
+r|Ce efect poate avea intrarea unor varietăți apropiate asupra unei firme existente?|Îi reduce cererea proprie|Îi garantează profit mai mare|Elimină toate costurile ei|Îi face cererea obligatoriu verticală
+r|În echilibrul standard pe termen lung ce profit economic obține firma?|Zero|Pozitiv obligatoriu|Negativ obligatoriu|Egal cu toate încasările
+r|În echilibrul neted interior pe termen lung ce relație apare între cerere și LRAC?|Tangență|Cererea intersectează obligatoriu minimul LRAC orizontal|Nu există niciun punct comun|Cererea este identică întregii curbe LRAC
+r|Profit economic zero implică P = MC?|Nu. P poate fi peste MC|Da. În orice structură de piață|Da. Pentru că FC devine zero|Nu. P trebuie să fie sub MC
+r|Ce este capacitatea excedentară în model?|Diferența dintre scara minimului LRAC și producția efectivă|Cantitatea deja produsă și obligatoriu aruncată|Numărul reclamelor nepublicate|Profitul pozitiv al firmei
+r|Ce poate aduce publicitatea informativă?|Reducerea timpului de căutare pentru cumpărători|Creșterea garantată a profitului oricărei campanii|Eliminarea oricărei concurențe|Cost marginal zero obligatoriu
+r|Cum evaluăm o campanie pentru firmă?|Comparăm sporul încasărilor cu toate costurile suplimentare|Comparăm numai numărul vizualizărilor|Presupunem că orice vânzare din zi este produsă de reclamă|Ignorăm costul produselor suplimentare
+c|Un cost publicitar fix schimbă direct MC dacă cererea și VC rămân date?|Nu. Reduce profitul cât timp firma continuă la același optim|Da. Crește MC cu întreaga sumă pe fiecare produs|Da. Reduce obligatoriu prețul resurselor|Nu. Nu schimbă nici costul total
+r|Cum poate varietatea influența bunăstarea?|Poate aduce beneficii care trebuie comparate cu costurile|Este întotdeauna inutilă|Elimină automat orice cost de eficiență|Garantează că fiecare varietate nouă este avantajoasă
+p1|P = 130 − 2Q. Care este P la Q = 16?|98|114|32|130
+p1|AC = 2Q + 2 la Q = 16. Care este TC?|544|34|512|1024
+p2|O campanie modifică cererea și adaugă un cost variabil. Ce trebuie recalculat?|Atât MR cât și MC relevant|Numai costul fix ignorând cererea|Numai prețul inițial păstrând restul automat|Numai numărul angajaților din economie
+p2|Profitul după publicitate este mai mare numai înainte de scăderea costului reclamei. Putem afirma că reclama este rentabilă?|Nu. Trebuie inclus și costul reclamei|Da. Vânzările sunt singurul criteriu|Da. Costul publicității nu intră în comparație|Nu. Orice reclamă reduce obligatoriu profitul
+p3|P = 100 − 2Q. La Q = 5 cât este P?|90|95|10|100
+p4|La Q = 6 avem P = 52 și AC = 44. Care este profitul total?|48|8|312|264
+p4|Care metodă este sigură pentru alegerea din tabelul cu Q = 1–7?|Calcularea profitului fiecărui rând admis|Alegerea automată a Q = 7|Folosirea unui TC la zero necunoscut ca și cum ar fi dat|Egalarea prețului cu costul fix
+ e|O firmă produce 60 de unități la P = ATC = 40. Care este profitul economic?|0|2400|40|60
+ e|Firma produce 70 iar LRAC ar fi minim la 100. Care este capacitatea excedentară?|30 de unități|70 de unități|100 de unități|170 de unități
+ e|Reclama costă 400 de lei și aduce 30 de vânzări noi cu marjă de 20 de lei înainte de reclamă. Care este sporul profitului?|200 de lei|600 de lei|1000 de lei|−400 de lei

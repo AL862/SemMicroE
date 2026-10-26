@@ -1,0 +1,25 @@
+r|Ce reprezintă costul economic al resurselor folosite?|Valoarea utilizărilor alternative relevante sacrificate|Numai plățile făcute în numerar astăzi|Numai costul materiilor prime|Încasările totale ale firmei
+r|Care exemplu este un cost implicit?|Salariul alternativ sacrificat de proprietar pentru timpul său|Factura achitată pentru energie|Salariul plătit unui angajat|Chiria plătită pentru un spațiu străin
+r|Ce caracterizează costul fix pe termen scurt?|Nu se modifică odată cu Q în intervalul analizat|Este întotdeauna zero la oprire|Crește obligatoriu cu fiecare produs|Este egal cu prețul produsului
+r|Care relație este corectă?|TC = FC + VC|TC = FC − VC|TC = AFC + AVC|TC = MC × FC
+r|Cum se calculează costul mediu total pentru Q pozitiv?|TC/Q|TC × Q|FC/VC|ΔTR/ΔQ
+r|Care relație între mediile costurilor este corectă?|ATC = AFC + AVC|ATC = AFC − AVC|ATC = MC + FC|ATC = TC + Q
+r|Cum calculăm costul marginal mediu pe un interval?|ΔTC/ΔQ|TC/Q în orice situație|FC/Q|TR/Q
+r|Ce se întâmplă de regulă cu AFC când Q crește iar FC rămâne constant?|Scade|Crește|Rămâne egal cu FC|Devine negativ
+r|MC este sub ATC. Cum se modifică ATC local în cazul neted?|Scade|Crește|Rămâne constant obligatoriu|Devine egal cu zero
+r|La un minim interior neted al ATC ce egalitate apare?|MC = ATC|FC = VC|TC = Q|MC = AFC în orice situație
+r|Ce descrie un izocost?|Combinații de factori cu același cost total|Combinații cu aceeași producție obligatoriu|Toate volumele cu profit maxim|Numai combinații cu muncă zero
+r|Cu L pe axa orizontală care este panta izocostului?|−w/r|−r/w|w + r|w × r
+r|Ce înseamnă economii de scară?|Costul mediu pe termen lung scade când scara crește|Costul total trebuie să scadă când Q crește|Produsul marginal este mereu negativ|Toate costurile fixe dispar imediat
+c|Pentru aceeași producție ce comparăm la minimizarea interioară a costului?|Produsele marginale pe leu ale factorilor|Numai cantitățile fizice ale factorilor|Numai prețul produsului finit|Încasările totale și utilitatea consumatorului
+r|Costul marginal punctual este mereu egal cu costul exact al următoarei unități?|Nu. Pe un interval finit poate diferi|Da. Indiferent de funcția costului|Da. Pentru că toate costurile sunt fixe|Nu. El este întotdeauna zero
+p1|L = 10 și K = 15. Prețurile sunt 50 și 100 de lei. Care este costul total?|2000 de lei|1500 de lei|500 de lei|2500 de lei
+p1|Costul total este 2000 de lei pentru 200 de produse. Care este ATC?|10 lei pe produs|200 de lei pe produs|20 de lei pe produs|1/10 lei pe produs
+p2|TC = (50 + 4Q)². Care este FC?|2500|50|400|16
+p3|Cinci muncitori au produs mediu 20. Care este producția totală?|100|25|4|20
+p3|Costul crește cu 100 de lei când producția crește cu 40. Care este MC pe interval?|5/2 lei pe produs|40 de lei pe produs|100 de lei pe produs|2/5 lei pe produs
+p4|Dacă producția se triplează iar VC este proporțional cu producția ce se întâmplă cu AVC?|Rămâne constant|Se triplează|Se reduce la o treime|Devine egal cu FC
+p5|L = 3 și K = 5. Munca costă 30 iar capitalul 50 de lei pe unitate. Care este costul combinației?|340 de lei|250 de lei|240 de lei|400 de lei
+ e|Chiria crește cu 160 de lei iar producția rămâne 80 de unități. Cu cât crește ATC dacă restul costurilor nu se schimbă?|2 lei pe produs|160 de lei pe produs|1/2 lei pe produs|80 de lei pe produs
+ e|Încasările sunt 12000 iar costurile explicite 8500 de lei. Care este profitul contabil în comparația dată?|3500 de lei|20500 de lei|8500 de lei|3100 de lei
+ e|Costul mediu pe termen lung scade de la 20 la 16 lei când Q crește de la 100 la 200. Care afirmație este corectă?|Există economii de scară deși TC crește|TC scade obligatoriu|Există dezeconomii de scară|Costul marginal este obligatoriu zero

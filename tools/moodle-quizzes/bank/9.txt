@@ -1,0 +1,25 @@
+r|Ce caracterizează monopolul pur pe piața relevantă?|Un singur vânzător fără substituenți apropiați|Mulți vânzători ai unui bun omogen|Intrare liberă garantată pentru orice rival|Absența oricărei cereri
+r|De ce monopolistul nu poate alege independent orice preț și orice cantitate?|Este constrâns de cererea pieței|Costul fix stabilește singur toate vânzările|Cumpărătorii acceptă orice preț|Prețul este mereu egal cu zero
+r|Care exemplu poate constitui o barieră la intrare?|Controlul unei resurse esențiale fără alternativă apropiată|Existența oricărui cost de producție|Numărul mare de firme mici identice|Disponibilitatea liberă a aceleiași tehnologii pentru toți
+r|Ce poate explica un monopol natural?|Costul mediu scade pe intervalul relevant al cererii|Costul marginal este întotdeauna negativ|Cererea este obligatoriu zero|Există multe firme cu aceeași cotă mică
+r|La cerere descrescătoare și preț unic cum se compară MR cu P?|MR este sub P|MR este mereu egal cu P|MR este peste P pentru orice Q pozitiv|MR este egal cu costul fix
+r|Cum se stabilește prețul după găsirea cantității monopoliste?|Prin înlocuirea cantității în cerere|Prin citirea lui direct pe MR|Prin egalarea lui cu FC|Prin împărțirea costului fix la numărul cumpărătorilor
+r|Ce condiție marginală dă un candidat pentru profit maxim interior?|MR = MC|P = FC|TR = TC obligatoriu|MR = 0 indiferent de MC
+r|Monopolul garantează profit economic pozitiv?|Nu. Rezultatul depinde de cerere și costuri|Da. Pentru orice cerere și cost|Da. Barierele elimină toate costurile|Nu. Monopolistul are mereu profit zero
+r|Ce măsoară indicele Lerner?|Adaosul dintre P și MC raportat la P|Profitul total împărțit la FC|Numărul firmelor din ramură|Încasările totale pe angajat
+r|Ce condiție ajută discriminarea prin preț?|Limitarea revânzării între segmente|Absența oricărei puteri de piață|Imposibilitatea separării clienților sau pachetelor|Același preț obligatoriu pentru toate unitățile
+r|Ce descrie discriminarea de gradul III?|Prețuri diferite pentru segmente separate de cumpărători|Preț egal cu MC pentru fiecare cumpărător|Un singur preț independent de cerere|Numai reducerea costului fix
+r|În comparația standard cu aceleași cerere și MC ce face monopolul cu preț unic?|Produce mai puțin decât reperul P = MC|Produce mereu mai mult decât reperul eficient|Alege obligatoriu același Q ca reperul eficient|Nu poate influența cantitatea
+r|Ce reprezintă pierderea socială din restrângerea monopolistă?|Surplusul schimburilor avantajoase care nu mai au loc|Întreg profitul firmei în orice situație|Întreg costul fix al firmei|Orice plată transferată cumpărătorului
+c|O taxă fixă mai mare schimbă direct MC?|Nu. Poate reduce profitul fără să schimbe alegerea cât timp firma continuă|Da. Cu exact aceeași sumă pe fiecare produs|Da. Ea este identică unui impozit unitar|Nu. Ea nu poate afecta niciodată participarea firmei
+r|De ce regula P = MC poate cere sprijin financiar la monopol natural?|Încasările pot să nu acopere costul total|Costul marginal devine obligatoriu negativ|Consumatorii nu mai cumpără nimic|Costul fix este recuperat automat în orice situație
+p1|Monopolistul vinde Q = 20 la P = 22. Care este TR?|440|42|240|200
+p1|TR = 440 iar TC = 240. Care este profitul?|200|680|240|−200
+p2|La aceleași date monopolul produce 30 iar reperul concurențial 40. Care volum este mai mare?|Reperul concurențial|Volumul monopolist|Sunt egale|Niciunul nu poate fi comparat
+p3|P = 110 și MC = 100. Care este indicele Lerner?|1/11|1/10|10|11
+p3|Elasticitatea este −11 la optimul interior. Ce valoare are −1/Ed?|1/11|−11|11|−1/11
+p4|Prețul cumpărătorului este 661/6 iar prețul net al firmei 649/6. Care este impozitul unitar?|2|12|1/2|1310/6
+p5|Profitul mediu este 2000/3 la Q = 20. Care este profitul total?|40000/3|100/3|2000/3|40000
+ e|Firma vinde 10 produse la 50 de lei apoi 11 la 48 de lei. Care este MR pentru unitatea suplimentară?|28 de lei|48 de lei|50 de lei|528 de lei
+ e|P = 100 − Q și MC = 20. Care este cantitatea eficientă din P = MC?|80|40|20|100
+ e|La Q = 100 un monopol natural are TR = 1000 și TC = 1400. Ce sumă acoperă diferența?|400 de lei|2400 de lei|1400 de lei|1000 de lei

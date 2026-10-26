@@ -1,0 +1,25 @@
+r|Ce trăsătură este centrală pentru oligopol?|Interdependența strategică a câtorva firme relevante|Un număr nelimitat de firme fără influență reciprocă|Absența barierelor în toate cazurile|Identitatea obligatorie a tuturor produselor
+r|Ce reprezintă funcția de reacție?|Cea mai bună alegere proprie pentru fiecare alegere presupusă a rivalei|Producția totală indiferent de rivală|Un acord obligatoriu între firme|Numai prețul fixat de autoritate
+r|Ce definește un echilibru Nash?|Nicio firmă nu câștigă prin schimbare unilaterală la alegerile date ale rivalelor|Profitul comun este obligatoriu maxim|Toate firmele au semnat un acord|Fiecare firmă produce aceeași cantitate în orice model
+r|Ce aleg firmele în modelul Cournot de bază?|Cantități simultan|Prețuri într-o ordine de lider și urmăritor|Numai costuri fixe|Cantități stabilite de consumatori
+r|Cum se obține echilibrul Cournot?|Prin intersecția celor mai bune răspunsuri|Prin adunarea prețurilor dorite|Prin maximizarea profitului comun fără alte condiții|Prin alegerea celei mai mari cantități posibile
+r|Ce îl deosebește pe liderul Stackelberg?|Își angajează cantitatea înaintea urmăritorului și anticipează reacția lui|Alege simultan ignorând orice reacție|Are obligatoriu cost marginal zero|Primește automat toată cererea la orice preț
+r|Ce aleg firmele în Bertrand de bază?|Prețuri simultan|Cantități simultan ca în Cournot|Numai numărul angajaților|Exclusiv cotele unui cartel
+r|În Bertrand omogen cu MC identice și capacitate suficientă care este reperul standard?|P = MC|P este obligatoriu prețul de monopol|P = FC|Profit economic pozitiv garantat
+r|Ce urmărește un cartel în modelul de coordonare?|Maximizarea profitului comun|Maximizarea obligatorie a cantității eficiente|Eliminarea cererii|Minimizarea încasărilor tuturor firmelor
+r|De ce un cartel poate fi instabil într-un joc unic?|O firmă poate câștiga prin abatere unilaterală când rivala respectă acordul|Profitul comun și cel individual sunt mereu același obiectiv|Fiecare abatere reduce automat profitul celui care se abate|Cantitățile nu afectează prețul
+r|Ce presupune modelul cererii frânte despre rivali?|Urmează reducerile de preț dar nu majorările|Urmează majorările dar nu reducerile|Nu reacționează niciodată la reduceri|Aleg obligatoriu cantități egale
+r|Ce poate explica golul din MR în modelul cererii frânte?|Rigiditatea unui preț existent la unele schimbări ale MC|Originea unică a oricărui preț inițial|Profit economic zero în toate cazurile|Absența oricărei cereri
+r|Ce măsoară HHI?|Concentrarea cotelor de piață|Profitul total al consumatorilor|Elasticitatea cererii după venit|Costul fix pe produs
+c|Un HHI mare demonstrează singur existența unui cartel?|Nu. Sunt necesare informații despre comportament și piață|Da. Concentrarea este identică unui acord|Da. Două firme cooperează întotdeauna|Nu. HHI nu are nicio legătură cu structura pieței
+r|Ce se poate întâmpla când ambele firme își fac planuri ca lideri Bowley?|Anticipările pot fi incompatibile iar rezultatul nu este automat Nash|Ambele anticipări trebuie să fie confirmate simultan|Există obligatoriu două prețuri comune diferite în aceeași piață omogenă|Firmele devin automat primitoare de preț
+p1|P = 206 − 3Q. La Q total = 40 care este prețul?|86|166|120|206
+p1|Cele două firme Cournot produc fiecare 20. Care este cantitatea totală?|40|20|10|400
+p1|Reacția este Q1 = 30 − Q2/2. Dacă Q2 = 20 care este Q1?|20|10|30|40
+p2|Cantitățile efective sunt 9/4 și 45/4. Care este totalul?|27/2|9|45/16|54
+p2|De ce folosim un singur preț efectiv în calculul profiturilor Bowley pentru bunul omogen?|Prețul pieței rezultă din ambele cantități efective|Fiecare lider își poate păstra sigur propriul preț anticipat|Costurile fixe sunt identice obligatoriu|Prețul nu depinde de cantități
+p3|Reacția urmăritorului este Q2 = 140 − Q1/2. La Q1 = 140 cât produce urmăritorul?|70|140|0|210
+p3|P = 300 − Q1 − Q2. La cantitățile 140 și 70 care este P?|90|210|160|70
+ e|Două firme au cote de 60% și 40%. Care este HHI pe scara procentuală?|5200|100|2400|10000
+ e|Ambele firme pot alege preț mic sau ridicat. Prețul mic este cel mai bun răspuns la fiecare alegere a rivalei. Care este echilibrul Nash?|Ambele aleg preț mic|Ambele aleg obligatoriu preț ridicat|Doar prima firmă poate alege preț mic|Nu există nicio alegere stabilă
+ e|În modelul cererii frânte golul MR este între 20 și 35 iar MC trece de la 25 la 30. Ce se întâmplă cu P și Q în model?|Pot rămâne neschimbate|Prețul crește obligatoriu cu 5|Cantitatea devine automat zero|Firma trece obligatoriu la monopol

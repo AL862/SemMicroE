@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="27" moduleid="142277" modulename="realtimequiz" contextid="219297">
+  <realtimequiz id="27">
+    <name>Test Interactiv — Teoria producției</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <timecreated>1792802097</timecreated>
+    <timemodified>1792802097</timemodified>
+    <questiontime>30</questiontime>
+    <questions>
+      <question id="148">
+        <questionnum>1</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;FACTORII DE PRODUCȚIE&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Care dintre următoarele exemple reprezintă factorul muncă?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="576">
+            <answertext>Timpul și efortul angajaților</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="577">
+            <answertext>Clădirea întreprinderii</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="578">
+            <answertext>Cuptorul industrial</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="579">
+            <answertext>Cantitatea de pâine produsă</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="149">
+        <questionnum>2</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;FACTORII DE PRODUCȚIE&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;O brutărie cumpără un cuptor nou. Ce factor de producție crește?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="580">
+            <answertext>Munca</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="581">
+            <answertext>Natura</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="582">
+            <answertext>Capitalul fizic</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="583">
+            <answertext>Producția deja vândută</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="150">
+        <questionnum>3</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;INPUT ȘI OUTPUT&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce reprezintă outputul într-o întreprindere care produce mobilă?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="584">
+            <answertext>Timpul lucrat</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="585">
+            <answertext>Mobilierul obținut</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="586">
+            <answertext>Utilajele folosite</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="587">
+            <answertext>Lemnul introdus în proces</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="151">
+        <questionnum>4</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;FUNCȚIA DE PRODUCȚIE&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce exprimă relația Q = f(L; K)?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="588">
+            <answertext>Venitul firmei calculat din vânzări</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="589">
+            <answertext>Profitul obținut după plata salariilor</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="590">
+            <answertext>Prețul produselor de pe piață</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="591">
+            <answertext>Producția maximă posibilă din muncă și capital</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="152">
+        <questionnum>5</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;TEHNOLOGIA&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;O tehnologie mai eficientă permite producerea unui volum mai mare cu aceleași resurse. Ce se schimbă?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="592">
+            <answertext>Prețul factorilor devine obligatoriu zero</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="593">
+            <answertext>Posibilitățile tehnice de producție se extind</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="594">
+            <answertext>Numărul de produse trebuie să rămână fix</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="595">
+            <answertext>Munca nu mai este un factor de producție</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="153">
+        <questionnum>6</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;TERMENUL SCURT&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce caracterizează termenul scurt în analiza producției?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="596">
+            <answertext>Toți factorii pot fi modificați imediat</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="597">
+            <answertext>Întreprinderea nu poate produce</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="598">
+            <answertext>Cel puțin un factor de producție rămâne fix</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="599">
+            <answertext>Producția trebuie să fie constantă</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="154">
+        <questionnum>7</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;" xml:lang="ro"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: 0.08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;TERMENUL LUNG&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Cum se deosebește termenul lung de termenul scurt în teoria producției?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="600">
+            <answertext>Toți factorii pot fi ajustați</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="601">
+            <answertext>Producția marginală este mereu pozitivă</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="602">
+            <answertext>Prețurile sunt întotdeauna constante</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="603">
+            <answertext>Productivitatea totală este mereu maximă</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="155">
+        <questionnum>8</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUS TOTAL&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce exprimă produsul total TP?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="604">
+            <answertext>Valoarea unui lucrător</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="605">
+            <answertext>Producția unei unități suplimentare de muncă</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="606">
+            <answertext>Media pe un lucrător</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="607">
+            <answertext>Cantitatea totală produsă în perioada analizată</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="156">
+        <questionnum>9</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUS MEDIU&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;O întreprindere produce 120 de unități folosind 4 lucrători. Care este produsul mediu al muncii?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="608">
+            <answertext>20 de unități per lucrător</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="609">
+            <answertext>30 de unități per lucrător</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="610">
+            <answertext>40 de unități per lucrător</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="611">
+            <answertext>120 de unități per lucrător</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="157">
+        <questionnum>10</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUS MARGINAL&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Producția crește de la 80 la 96 de unități după angajarea unui lucrător suplimentar. Care este produsul marginal al lucrătorului?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="612">
+            <answertext>16 unități</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="613">
+            <answertext>80 de unități</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="614">
+            <answertext>96 de unități</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="615">
+            <answertext>176 de unități</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="158">
+        <questionnum>11</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUS MARGINAL DESCRESCĂTOR&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;De ce poate scădea produsul marginal când crește numărul lucrătorilor și capitalul rămâne fix?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="616">
+            <answertext>Deoarece orice lucrător nou reduce mereu producția totală</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="617">
+            <answertext>Deoarece crește automat numărul utilajelor</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="618">
+            <answertext>Deoarece producția totală devine imediat zero</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="619">
+            <answertext>Deoarece mai mulți lucrători folosesc aceleași echipamente limitate</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="159">
+        <questionnum>12</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUS TOTAL ȘI MARGINAL&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Produsul marginal este pozitiv dar descrescător. Ce se întâmplă cu produsul total?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="620">
+            <answertext>Scade în mod necesar</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="621">
+            <answertext>Rămâne obligatoriu constant</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="622">
+            <answertext>Crește cu sporuri tot mai mici</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="623">
+            <answertext>Devine negativ</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="160">
+        <questionnum>13</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;RAPORTUL MP ȘI AP&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce se întâmplă cu produsul mediu al muncii când produsul marginal depășește produsul mediu?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="624">
+            <answertext>Produsul mediu scade</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="625">
+            <answertext>Produsul mediu crește</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="626">
+            <answertext>Produsul mediu este zero</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="627">
+            <answertext>Produsul total scade</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="161">
+        <questionnum>14</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;MAXIMUL PRODUSULUI MEDIU&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;În modelul continuu cu maxim interior al produsului mediu ce relație caracterizează acel punct?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="628">
+            <answertext>MP este egal cu AP</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="629">
+            <answertext>MP este întotdeauna negativ</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="630">
+            <answertext>TP este egal cu zero</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="631">
+            <answertext>AP este egal cu zero</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="162">
+        <questionnum>15</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;ETAPELE PRODUCȚIEI&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;În ce etapă a producției pe termen scurt produsul marginal este negativ?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="632">
+            <answertext>Etapa I</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="633">
+            <answertext>Limita dintre I și II</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="634">
+            <answertext>Etapa II</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="635">
+            <answertext>Etapa III</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="163">
+        <questionnum>16</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;ETAPA II&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce caracterizează în mod obișnuit etapa II a producției?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="636">
+            <answertext>MP este negativ</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="637">
+            <answertext>TP scade imediat</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="638">
+            <answertext>MP este pozitiv iar AP scade</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="639">
+            <answertext>AP crește continuu</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="164">
+        <questionnum>17</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;IZOCUANTA&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce reprezintă toate punctele situate pe aceeași izocuantă?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="640">
+            <answertext>Combinații de factori cu aceeași cantitate de producție</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="641">
+            <answertext>Combinații de factori cu același cost total</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="642">
+            <answertext>Combinații de factori cu același profit</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="643">
+            <answertext>Combinații de factori cu același preț de vânzare</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="165">
+        <questionnum>18</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;SUBSTITUIREA FACTORILOR&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Firma folosește mai multă muncă și mai puțin capital fără a schimba Q. Ce ilustrează?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="644">
+            <answertext>Schimbarea prețului produsului</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="645">
+            <answertext>Înlocuirea unui factor cu altul pe aceeași izocuantă</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="646">
+            <answertext>Scăderea obligatorie a producției</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="647">
+            <answertext>O creștere a tuturor inputurilor în aceeași proporție</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="166">
+        <questionnum>19</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;MRTS&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Ce indică rata marginală de substituție tehnologică a muncii pentru capital?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="648">
+            <answertext>Numărul de produse vândute într-o zi</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="649">
+            <answertext>Profitul unei firme cu doi factori</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="650">
+            <answertext>Prețul produsului finit</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="651">
+            <answertext>Capitalul care poate fi redus la o creștere marginală a muncii cu Q constant</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="167">
+        <questionnum>20</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;IZOCUANTA ȘI COSTUL&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Două combinații de factori produc același Q. De ce nu putem afirma imediat că au același cost?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="652">
+            <answertext>Fiindcă Q trebuie să crească pentru orice izocuantă</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="653">
+            <answertext>Fiindcă orice izocuantă este o linie de cost</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="654">
+            <answertext>Fiindcă prețurile factorilor și cantitățile utilizate determină costul</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="655">
+            <answertext>Fiindcă toate combinațiile de factori sunt identice</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="168">
+        <questionnum>21</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;RANDAMENTE LA SCARĂ&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Dublăm munca și capitalul iar producția crește exact de două ori. Ce tip de randamente există?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="656">
+            <answertext>Randamente descrescătoare la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="657">
+            <answertext>Randamente constante la scară</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="658">
+            <answertext>Randamente crescătoare la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="659">
+            <answertext>Produs marginal negativ</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="169">
+        <questionnum>22</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;RANDAMENTE LA SCARĂ&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Dublăm ambii factori iar producția crește de trei ori. Cum clasificăm randamentele la scară?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="660">
+            <answertext>Randamente crescătoare la scară</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="661">
+            <answertext>Randamente descrescătoare la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="662">
+            <answertext>Randamente constante la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="663">
+            <answertext>Lipsa oricărui output</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="170">
+        <questionnum>23</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;RANDAMENTE LA SCARĂ&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Dublăm ambii factori iar producția crește cu doar jumătate față de nivelul inițial. Ce tip de randamente avem?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="664">
+            <answertext>Randamente crescătoare la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="665">
+            <answertext>Randamente constante la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="666">
+            <answertext>Randamente descrescătoare la scară</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="667">
+            <answertext>Producție marginală obligatoriu egală cu zero</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="171">
+        <questionnum>24</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;DECIZIA PRODUCĂTORULUI&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;De ce nu este suficient să cunoaștem numai cantitatea maximă produsă pentru a alege nivelul economic optim?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="668">
+            <answertext>Deoarece producția nu poate fi măsurată</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="669">
+            <answertext>Deoarece capitalul este întotdeauna gratuit</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="670">
+            <answertext>Deoarece cererea nu afectează niciodată decizia firmei</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="671">
+            <answertext>Deoarece sunt necesare și prețul produsului și costul factorilor</answertext>
+            <correct>1</correct>
+          </answer>
+        </answers>
+      </question>
+      <question id="172">
+        <questionnum>25</questionnum>
+        <questiontext>&lt;div lang="ro" style="background: #eaf7ec; border: 1px solid #b7ddb9; border-left: 6px solid #2e7d32; border-radius: 12px; padding: 20px 22px; margin: 18px 0; font-family: Arial,Helvetica,sans-serif; font-size: 16px; line-height: 1.5; color: #17351b;"&gt;
+&lt;div style="font-size: 13px; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; color: #2e7d32; margin-bottom: 8px;"&gt;PRODUCTIVITATEA ȘI TEHNOLOGIA&lt;/div&gt;
+&lt;p style="font-size: 24px; line-height: 1.35; font-weight: bold; margin: 0; color: #17351b;"&gt;Aceeași echipă produce mai mult după îmbunătățirea organizării și fără modificarea numărului de utilaje. Ce concluzie este justificată?&lt;/p&gt;
+&lt;/div&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <questiontime>0</questiontime>
+        <answers>
+          <answer id="672">
+            <answertext>Productivitatea nu poate fi influențată de organizare</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="673">
+            <answertext>Organizarea mai bună poate spori outputul cu inputuri neschimbate</answertext>
+            <correct>1</correct>
+          </answer>
+          <answer id="674">
+            <answertext>Creșterea producției dovedește automat randamente constante la scară</answertext>
+            <correct>0</correct>
+          </answer>
+          <answer id="675">
+            <answertext>Producția totală trebuie să fie egală cu produsul marginal</answertext>
+            <correct>0</correct>
+          </answer>
+        </answers>
+      </question>
+    </questions>
+  </realtimequiz>
+</activity>

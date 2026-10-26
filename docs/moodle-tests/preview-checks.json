@@ -1,0 +1,123 @@
+[
+  {
+    "seminar": 1,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 2,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 3,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 4,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 5,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 6,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 7,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 8,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 9,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 10,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  },
+  {
+    "seminar": 11,
+    "rendered_questions": 25,
+    "widths": [
+      320,
+      390,
+      768,
+      1150
+    ],
+    "page_overflow": false
+  }
+]

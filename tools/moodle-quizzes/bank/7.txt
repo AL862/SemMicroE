@@ -1,0 +1,25 @@
+r|Cum calculăm profitul total?|TR − TC|TR + TC|TC − TR|P − Q
+r|Cum calculăm încasările la un preț unic?|P × Q|P/Q|TC/Q|FC + VC
+r|Ce este venitul marginal?|Sporul încasărilor raportat la sporul cantității|Încasările totale împărțite mereu la Q|Profitul total pe perioadă|Prețul tuturor resurselor folosite
+r|La preț constant ce relație are MR cu P?|MR = P|MR = 0 obligatoriu|MR = P × Q|MR = TC
+r|De ce MR poate fi sub noul preț la o firmă cu cerere descrescătoare și preț unic?|Reducerea prețului afectează și unitățile care se vindeau înainte|Firma nu mai încasează nimic pentru ultima unitate|Costul fix este automat mai mare|Prețul nu influențează încasările
+r|MR depășește MC pentru o unitate suplimentară. Ce se întâmplă cu profitul total?|Crește|Scade obligatoriu|Rămâne neschimbat|Devine egal cu costul fix
+r|MR este sub MC pentru ultima unitate. Ce indică aceasta?|Unitatea reduce profitul total|Profitul total este obligatoriu pozitiv|Încasările totale sunt zero|Costurile fixe trebuie majorate
+r|MR = MC garantează singură un profit pozitiv?|Nu. Trebuie verificate maximul și costul total|Da. Pentru orice funcție|Da. Pentru că FC dispare|Nu. Înseamnă întotdeauna pierdere
+r|Ce definește pragul de rentabilitate?|TR = TC|MR = 0 în orice situație|P = AVC în toate situațiile|FC = 0
+r|Ce reprezintă marja unitară la preț și cost variabil unitar constante?|P − v|P + v|FC − v|TC/Q + P
+r|Ce condiție este necesară pentru un prag pozitiv finit când FC este pozitiv?|P este mai mare decât v|P este egal cu v|P este mai mic decât v|Q este obligatoriu zero
+r|Cum diferă profitul economic de cel contabil în comparația standard?|Scade și costurile implicite relevante|Adaugă costurile implicite la rezultat|Ignoră costurile explicite|Este întotdeauna mai mare
+r|Ce înseamnă profit economic zero?|Sunt acoperite și alternativele relevante ale resurselor|Proprietarul nu primește nicio remunerație|Firma nu are încasări|Costurile explicite sunt zero
+c|Maximul încasărilor coincide obligatoriu cu maximul profitului?|Nu. Costul marginal poate face cantitățile diferite|Da. Încasările sunt profit|Da. Pentru că TC nu influențează alegerea|Nu. Profitul nu depinde de încasări
+r|Cum alegem dintr-un tabel cu volume întregi disponibile?|Comparăm profitul total al fiecărui volum admis|Alegem automat cea mai mare cantitate|Alegem automat cel mai mare preț|Impunem o egalitate MR = MC care nu apare în tabel
+p1|TR = 300Q − Q². Care este TR la Q = 150?|22500|45000|15000|30000
+p1|La maximul interior al încasărilor netede cât este MR?|0|Egal cu TR obligatoriu|Egal cu prețul obligatoriu|Egal cu FC obligatoriu
+p2|FC = 60000 de lei. P = 100 și v = 20. Care este marja unitară?|80 de lei|120 de lei|20 de lei|600 de lei
+p2|FC = 60000 iar marja unitară este 80 de lei. Care este pragul?|750 de produse|800 de produse|600 de produse|75 de produse
+p3|ATC = 40 + 4000/Q iar P = 80. La ce Q profitul este zero?|100|50|80|4000
+p4|TC = 50 + Q². La Q = 10 care este prețul necesar pentru a acoperi costul lotului vândut integral?|15|10|5|150
+p5|TC = 26000 iar profitul dorit este 40000 de lei pentru 600 de produse. Care este prețul necesar?|110 lei|100 de lei|60 de lei|40 de lei
+ e|TR este 4000 iar TC este 3000 de lei. Care este profitul total?|1000 de lei|7000 de lei|3000 de lei|400 de lei
+ e|MR al ultimei unități este 25 iar MC este 32 de lei. Care este contribuția ei la profit?|−7 lei|7 lei|57 de lei|25 de lei
+ e|Prețul și v rămân constante iar FC crește. Ce se întâmplă cu pragul în modelul liniar?|Crește|Scade|Rămâne obligatoriu identic|Devine automat zero

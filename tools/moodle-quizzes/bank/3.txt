@@ -1,0 +1,25 @@
+r|Ce măsoară elasticitatea cererii după preț?|Reacția procentuală a cantității la schimbarea procentuală a prețului|Schimbarea absolută a prețului singură|Costul mediu al producției|Raportul dintre cost fix și cantitate
+r|Cererea are elasticitatea −2. Cum este ea clasificată?|Elastică|Inelastică|Unitară|Perfect inelastică
+r|Cererea are elasticitatea −1/2. Cum este ea clasificată?|Inelastică|Elastică|Unitară|Perfect elastică
+r|Care valoare indică elasticitate unitară a cererii după preț?|−1|0|−2|−1/2
+r|De ce folosim valoarea absolută la clasificarea sensibilității cererii?|Pentru a compara mărimea reacției cu 1 fără a confunda semnul cu intensitatea|Pentru a transforma orice bun inferior în bun normal|Pentru a elimina toate modificările de preț|Pentru a calcula costul total
+r|Ce semn are de regulă elasticitatea încrucișată pentru substituenți?|Pozitiv|Negativ|Obligatoriu zero|Obligatoriu egal cu −1
+r|Elasticitatea încrucișată este negativă. Ce relație sugerează?|Complementaritate|Substituibilitate|Independență exactă|Același bun la două prețuri
+r|Elasticitatea cererii după venit este negativă. Ce indică în intervalul analizat?|Un bun inferior|Un bun normal|O ofertă elastică|Un bun fără utilitate pentru nimeni
+r|Ce înseamnă elasticitate după venit mai mare decât 1?|Cererea crește mai mult decât proporțional cu venitul|Prețul bunului trebuie să fie mare în valoare absolută|Cererea scade când venitul crește|Oferta crește cu exact același procent
+r|Ce avantaj are metoda punctului de mijloc?|Dă aceeași elasticitate pe arc indiferent de sensul comparației|Elimină nevoia de a cunoaște cantitățile|Dă mereu elasticitatea −1|Transformă o variație finită în derivată exactă
+r|O cerere liniară are pantă constantă. Elasticitatea punctuală este constantă pe ea?|Nu. Raportul dintre preț și cantitate se schimbă|Da. Panta și elasticitatea sunt aceeași mărime|Da. Toate punctele sunt unitare|Nu. Panta trebuie atunci să fie variabilă
+r|Cum se exprimă elasticitatea ca unitate de măsură?|Este un coeficient fără unitate|Lei pe produs|Produse pe leu în toate cazurile|Lei pe lună
+r|Pe termen lung oferta este adesea mai elastică. De ce?|Firmele pot ajusta mai multe resurse|Costul fix este obligatoriu mai mare|Cererea devine obligatoriu perfect elastică|Prețurile nu mai pot varia
+c|În aproximarea locală cine suportă mai mult din taxa unitară?|Partea relativ mai puțin elastică|Partea care este mereu mai elastică|Întotdeauna partea cu mai mulți participanți|Întotdeauna partea care emite factura
+r|La cerere inelastică o scumpire mică produce de regulă ce efect asupra încasărilor?|Încasările cresc|Încasările scad|Încasările devin zero|Încasările nu pot fi comparate nici local
+p1|Elasticitatea este −3/10 iar prețul scade cu 10%. Care este creșterea aproximativă a cantității?|3%|30%|10%|3/10%
+p2|Qd = 40 − 2P. Cât este Q la P = 10?|20|30|40|10
+p2|Qd = 40 − 2P. La P = 10 și Q = 20 cât este elasticitatea punctuală?|−1|−2|−1/2|1
+p3|Qd = 320 − 4P. Care este cantitatea la P = 40?|160|280|80|320
+p4|Elasticitatea încrucișată este −1. Cum sunt bunurile în relația dată?|Complementare|Substituibile|Independente|Identice prin definiție
+p5|Cererea și oferta au elasticități absolute 4 și 2. Care este mai puțin elastică?|Oferta|Cererea|Sunt la fel de elastice|Nu pot fi comparate în același punct
+p6|Un efect estimat este +6% iar altul este −2%. Care este efectul net în aproximarea aditivă?|+4%|+8%|−4%|−12%
+ e|Un preț crește cu 5% iar cantitatea scade cu 10%. Care este elasticitatea pe baza procentelor date?|−2|−1/2|2|−5
+ e|Prețul scade de la 30 la 27 de lei iar vânzările cresc de la 200 la 230. Care sunt noile încasări?|6210 lei|6000 de lei|6900 de lei|5400 de lei
+ e|Prețul cafelei crește cu 10% iar cererea de ceai crește cu 6%. Care este elasticitatea încrucișată?|3/5|5/3|−3/5|6

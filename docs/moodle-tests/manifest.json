@@ -1,0 +1,134 @@
+[
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 1. Obiectul de studiu și metodologia microeconomiei.mbz",
+    "sha256": "67968cbaea799a147a283a99c321084315df92c93b1f7b29d2f2dc42ed512076",
+    "bytes": 6341,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 1. Obiectul de studiu și metodologia microeconomiei.xml",
+    "sha256": "c49d4d6a959d9316dafb924a967f78f8f1db5863cb731e5f6e28750aa02d14af",
+    "bytes": 36519,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.mbz",
+    "sha256": "9cb7cd622ed9eaaf9e0f3b9f968cd6ab0bf94ee25a8f51020a32751f944cc9d9",
+    "bytes": 5890,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 2. Cererea și oferta. Echilibrul și dezechilibrul pieței.xml",
+    "sha256": "068fd6d6e45e919584f119dea48601cb86084fb049c9abf301c029d71db37b95",
+    "bytes": 36040,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 3. Elasticitatea cererii și ofertei.mbz",
+    "sha256": "b36564ae22ef99924f6c341e0571e728501c9602639c6269af1c10449df3b426",
+    "bytes": 5653,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 3. Elasticitatea cererii și ofertei.xml",
+    "sha256": "667837b925dc4d03f935a4fb837b27262ba5a7169bd21a0445f9e02b2e5f316d",
+    "bytes": 35368,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 4. Teoria comportamentului consumatorului.mbz",
+    "sha256": "62b17e5ce2b30f1f9a73d089c54ffe16f42a140d3591e437a963fb4573488563",
+    "bytes": 5984,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 4. Teoria comportamentului consumatorului.xml",
+    "sha256": "9918c68d85d492bc29cdbb2c0980d4c65b56b83bb9914c7656a5ac78b24d1c14",
+    "bytes": 36123,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 5. Teoria producției.mbz",
+    "sha256": "4518afa41c7589f5fe9900972a516fb27fae5476f6453d028028eafc891eaf23",
+    "bytes": 6103,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 5. Teoria producției.xml",
+    "sha256": "6b8521728ded40edb922f8dd021ab67392a119a5692010ace03be78766d1bad5",
+    "bytes": 36767,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 6. Costurile de producție.mbz",
+    "sha256": "ec02c8788a70a33eb16b8a0487a92a0ed5586a22d2cce68f8121536ac9175113",
+    "bytes": 5599,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 6. Costurile de producție.xml",
+    "sha256": "6f65a1f508c6a50da985c20180d8cb8abae8d216258a2923004f834a210fd87d",
+    "bytes": 35122,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 7. Maximizarea profitului și pragul de rentabilitate al firmei.mbz",
+    "sha256": "fda7d341741c3ba69d109b7eea65c73e63aae9920557c6be537d28931d687705",
+    "bytes": 5610,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 7. Maximizarea profitului și pragul de rentabilitate al firmei.xml",
+    "sha256": "9fd480744516c94fe88aee5e1e71ceedb88dd36620769c6a83c5a7007b566425",
+    "bytes": 34998,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 8. Comportamentul firmelor pe piața cu concurență perfectă.mbz",
+    "sha256": "b70e2e679fc0bebb382d71d76f3f1838941176c87b90ad3d047db5e79c0cc4cc",
+    "bytes": 5880,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 8. Comportamentul firmelor pe piața cu concurență perfectă.xml",
+    "sha256": "880e893e3aeb99f0cc003d4653c744dbfd6e176e3c501458837536e0a949a96f",
+    "bytes": 35521,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.mbz",
+    "sha256": "fbb7b3eb98e66aa7194b7073e7bd2b0da6f9f9d9ea9376ef768bb278ec633c8d",
+    "bytes": 5989,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 9. Comportamentul firmelor pe piața de monopol.xml",
+    "sha256": "80d39219a08999ce5430945b7c27a2f772e692390ddb65af1a524a0fc9d5f92a",
+    "bytes": 35638,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 10. Comportamentul firmelor pe piața cu concurență monopolistică.mbz",
+    "sha256": "9d25f1e127e52d96c6f8197dd966c6c4de3e7db655dadd49c3a8aca6981e3372",
+    "bytes": 6173,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 10. Comportamentul firmelor pe piața cu concurență monopolistică.xml",
+    "sha256": "81924bf7caaf84fd640e5919b3166e1fb2efe2288c165593932ac5f8c7759258",
+    "bytes": 36063,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Test interactiv - Seminarul 11. Comportamentul firmelor pe piața oligopolistă.mbz",
+    "sha256": "28084fa8a3b65d1b55637a027fb2b5e567747b271d28ddd9946fa55dffbbb303",
+    "bytes": 6202,
+    "questions": 25
+  },
+  {
+    "path": "[2] Teste interactive pentru Moodle/Import întrebări Moodle XML/Test interactiv - Seminarul 11. Comportamentul firmelor pe piața oligopolistă.xml",
+    "sha256": "74b9d441bd7a3e938d0731620d020f0facd478568f52de929cec6ffb00c42fd9",
+    "bytes": 36350,
+    "questions": 25
+  }
+]

@@ -1,0 +1,25 @@
+r|Ce înseamnă că firma este primitoare de preț?|Ia prețul pieței ca dat și alege propria cantitate|Alege orice preț fără a pierde clienți|Stabilește prețul pentru întreaga ramură|Nu poate alege cantitatea
+r|Ce ipoteză aparține concurenței perfecte?|Mulți participanți mici și produs omogen|Un singur vânzător fără substituenți|Bariere totale la intrare|Fiecare firmă stabilește prețul pieței
+r|Cum arată cererea adresată unei firme perfect concurente la prețul pieței?|Orizontală|Identică obligatoriu cererii descrescătoare a pieței|Verticală la orice preț|Crescătoare obligatoriu
+r|Ce relație este valabilă pentru firma concurentă?|P = MR = AR|P = TC = FC|MR = 0 la orice Q|P = profit total
+r|Ce condiție dă un candidat interior pe ramura relevantă a ofertei firmei?|P = MC|P = FC|TR = 0|MC = Q
+r|La cantitatea optimă P depășește ATC. Care este rezultatul?|Profit economic pozitiv|Pierdere economică|Profit economic zero|Oprire obligatorie
+r|P este sub ATC dar peste AVC la volumul optim. Ce poate fi preferabil pe termen scurt?|Continuarea cu pierdere mai mică decât la oprire|Oprirea pentru că orice pierdere interzice producția|Producția fără niciun cost fix|Ieșirea imediată în orice condiții
+r|P este sub minimul AVC. Ce alege firma în modelul standard pe termen scurt?|Oprește producția|Produce orice cantitate pozitivă|Produce obligatoriu la minimul ATC|Crește oferta fără limită
+r|Care cost rămâne la oprirea pe termen scurt dacă nu poate fi evitat?|Costul fix|Costul variabil al producției care nu mai are loc|Venitul marginal|Profitul economic pozitiv
+r|Ce parte a MC formează oferta standard de termen scurt?|Ramura relevantă deasupra pragului de închidere|Întreaga curbă indiferent de AVC|Numai partea descrescătoare sub AVC|Curba costului fix total
+r|Cum se obține oferta unei ramuri cu N firme identice?|Q = N × q la același preț|Q = q/N la același preț|P = N × q în toate cazurile|Se adună costurile medii în locul cantităților
+r|Ce efect are de regulă intrarea firmelor la cerere neschimbată?|Crește oferta pieței și pune presiune de scădere asupra prețului|Reduce oferta pieței obligatoriu|Mărește automat cererea fiecărei firme vechi|Păstrează obligatoriu profitul inițial al fiecărei firme
+r|În echilibrul standard pe termen lung cu firme identice și intrare liberă ce relație apare?|P = MC = minimul LRAC|P = minimul AVC sub LRAC obligatoriu|Profitul economic pozitiv este garantat|Costurile implicite nu se recuperează
+c|Profitul economic zero pe termen lung înseamnă că proprietarul lucrează gratuit?|Nu. Remunerația normală este inclusă în cost|Da. Nu poate primi niciun venit|Da. Costurile implicite sunt excluse|Nu. Înseamnă profit economic maxim pozitiv
+r|În lipsa externalităților ce exprimă P = MC ca reper?|Egalarea valorii marginale pentru cumpărător cu costul marginal|O distribuire automat echitabilă a veniturilor|Cost fix egal cu zero|Maximul obligatoriu al profitului mediu
+p1|P = 30 iar AVC = 37/2 la cantitatea optimă. Ce comparație este corectă?|P acoperă AVC|P este sub AVC|P este egal cu AVC|AVC este negativ
+p1|Profitul din producție este −551/12 iar oprirea pierde 90. Ce variantă are pierdere mai mică?|Producția|Oprirea|Cele două sunt egale|Nu pot fi comparate în aceleași unități
+p2|100 de firme produc fiecare 40 de unități. Care este producția ramurii?|4000 de unități|140 de unități|40 de unități|5/2 unități
+p2|Firma încasează 400 și suportă TC = 243. Care este profitul?|157|243|643|−157
+p3|20 de firme produc fiecare 1/3 unități. Care este Q total?|20/3|3/20|60|20
+p4|P = 45 și Q = 4. Care este TR?|180|49|45/4|41
+p5|TC = 100 + 15q + q². Care este pragul de profit zero dacă minimul ATC este 35?|P = 35|P = 15|P = 100|P = 0
+ e|P = 25 și AVC = 20 la Q = 100. FC = 800. Care este pierderea din producție?|300 de lei|800 de lei|500 de lei|2800 de lei
+ e|P = 40 și ATC = 32 la Q = 60. Care este profitul?|480 de lei|2400 de lei|1920 de lei|8 lei
+ e|Cererea pieței la P = 24 este 4000 iar fiecare firmă produce eficient 80. Câte firme identice corespund reperului de lungă durată?|50|80|24|320000

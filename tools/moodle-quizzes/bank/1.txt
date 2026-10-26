@@ -1,0 +1,25 @@
+r|Ce studiază microeconomia?|Alegerile consumatorilor și firmelor pe piețe concrete|Inflația totală a țării ca obiect exclusiv|Producția națională luată numai în ansamblu|Doar relațiile economice dintre state
+r|De ce apare problema alegerii economice?|Resursele disponibile nu ajung pentru toate utilizările dorite|Orice nevoie poate fi satisfăcută fără resurse|Toate bunurile au aceeași utilitate|Resursele au o singură utilizare posibilă
+r|Ce reprezintă costul de oportunitate?|Valoarea celei mai bune alternative abandonate|Suma valorilor tuturor alternativelor abandonate|Numai plata înscrisă pe bon|Beneficiul opțiunii deja alese
+r|Care afirmație este normativă?|Taxa pentru elevi ar trebui redusă|Prețul unui bilet este 10 lei|Vânzările au scăzut în această lună|Firma are 20 de angajați
+r|O afirmație pozitivă poate fi greșită?|Da. Ea poate fi verificată prin dovezi|Nu. Pozitiv înseamnă adevărat|Nu. Ea exprimă mereu o recomandare|Da. Dar numai dacă exprimă o preferință personală
+r|Ce arată un punct interior frontierei posibilităților de producție?|O combinație realizabilă cu posibilități nefolosite|O combinație imposibilă la resursele date|Singura combinație preferată de societate|Utilizarea obligatorie a întregii capacități
+r|Ce arată un punct exterior frontierei actuale?|O combinație inaccesibilă cu resursele și tehnologia date|O combinație realizabilă prin simpla reducere a risipei|O combinație cu resurse nefolosite|O combinație eficientă deja disponibilă
+r|Ce poate deplasa frontiera spre exterior?|O tehnologie mai bună|O alegere diferită pe aceeași frontieră|Reducerea utilizării resurselor existente|Schimbarea preferințelor fără alte modificări
+r|Ce înseamnă o analiză marginală?|Compararea beneficiului suplimentar cu costul suplimentar|Compararea numai a încasărilor totale|Alegerea activității cu cel mai mare cost trecut|Adunarea tuturor alternativelor posibile
+r|Cum calculăm costul unui X în unități Y pe un interval?|Cantitatea Y sacrificată împărțită la sporul lui X|Sporul lui X împărțit la cantitatea Y sacrificată|Suma cantităților X și Y|Produsul cantităților X și Y
+r|Ce se păstrează când analizăm efectul unui singur factor?|Ceilalți factori relevanți rămân neschimbați|Toate variabilele se modifică simultan|Numai rezultatul rămâne obligatoriu constant|Preferințele înlocuiesc toate restricțiile
+r|Ce descrie un model economic?|O reprezentare selectivă a relațiilor relevante|O copie completă a fiecărui detaliu real|O concluzie adevărată indiferent de ipoteze|O recomandare obligatorie pentru fiecare persoană
+r|Care exemplu este o resursă de capital fizic?|Un cuptor folosit pentru producție|Satisfacția după consum|Prețul unui bilet|Nevoia de transport
+c|Un punct eficient de pe frontieră este automat preferat de toată societatea?|Nu. Alegerea cere și preferințe sau criterii sociale|Da. Eficiența stabilește singură preferințele|Da. Toate punctele eficiente sunt identice|Nu. Punctele eficiente sunt imposibile
+r|De ce poate crește costul de oportunitate pe o frontieră curbată?|Resursele transferate sunt tot mai puțin potrivite noii utilizări|Toate resursele sunt perfect adaptabile în aceleași proporții|Preferințele elimină raritatea|Fiecare transfer creează automat resurse noi
+p1|Grânele scad de la 1000 la 800 kg iar carnea crește de la 0 la 900 kg. Câte kg de grâne se sacrifică?|200 kg|800 kg|900 kg|1000 kg
+p2|Producția crește de la 0 la 100 de automobile iar roboții scad de la 1000 la 900. Care este costul unui automobil pe interval?|1 robot|10 roboți|100 de roboți|900 de roboți
+p2|La încă 100 de automobile se sacrifică 150 de roboți. Care este costul pe automobil?|3/2 roboți|2/3 roboți|150 de roboți|100 de roboți
+p3|Frontiera este Y = 50 − 5X. Cât Y se poate produce la X = 4?|30|46|20|50
+p3|Frontiera este Y = 50 − 5X. Care este cantitatea maximă X?|10|5|50|250
+p3|Pe frontiera Y = 50 − 5X încă un X sacrifică cât Y?|5 unități Y|1/5 unități Y|10 unități Y|50 de unități Y
+p1|O combinație permite mai multă carne fără reducerea grânelor față de altă combinație disponibilă. Ce știm despre cea din urmă?|Nu este eficientă productiv|Este singura combinație eficientă|Este obligatoriu în afara frontierei|Are automat cost de oportunitate infinit
+ e|Irina renunță la venituri alternative de 240 sau 300 de lei pentru voluntariat în aceeași seară. Care este componenta monetară a costului de oportunitate?|300 de lei|240 de lei|540 de lei|60 de lei
+ e|Un bilet deja plătit nu poate fi rambursat sau revândut. Cum îl tratăm la decizia de a merge în această seară?|Ca plată nerecuperabilă care nu se schimbă între opțiuni|Ca venit suplimentar al participării|Ca beneficiu marginal nou al spectacolului|Ca singurul cost relevant al serii
+ e|Într-o săptămână ploioasă cresc simultan prețul și vânzările umbrelelor. Ce concluzie este justificată?|Ploaia poate explica ambele schimbări|Scumpirea a provocat sigur creșterea cererii|Legea cererii este infirmată de această observație singură|Oferta nu poate influența prețul

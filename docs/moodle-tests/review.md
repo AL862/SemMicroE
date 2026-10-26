@@ -35,3 +35,7 @@ python3 tools/moodle-quizzes/check_arithmetic.py --repo-root .
 ```
 
 Authoring sources are `tools/moodle-quizzes/bank/N.txt`; format: basis marker, question, correct answer, three distractors separated by `|`. The builder reads current topic titles from `tools/moodle-course/data/N.json`. Template XML is retained under `tools/moodle-quizzes/template/` for reproducible packing. Existing source seminar HTML and PDF files are not replaced.
+
+## Follow-up: unknown backup format
+
+The first release passed XML parsing but failed Moodle's literal declaration signature. All packages have been rebuilt with the exact supported header. See [backup-format-fix.md](backup-format-fix.md) for the reproduced failure, regression checks and remaining server-restore verification limit.

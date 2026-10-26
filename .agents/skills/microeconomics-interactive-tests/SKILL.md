@@ -2,7 +2,7 @@
 name: microeconomics-interactive-tests
 description: "Автономные интерактивные тесты Microeconomie и перенос в Moodle Realtime Quiz: источники вопросов, четыре варианта, ключи, карточки, копирование и проверка согласованности."
 metadata:
-  version: "1.2"
+  version: "1.3"
 ---
 
 # Интерактивный тест
@@ -43,3 +43,5 @@ metadata:
 - Для коротких вопросов30секунд; для вопросов с числовыми данными в этом выпуске60секунд. В стандартном Moodle XML индивидуальные таймеры не передаются.
 - Сборка и проверки: `tools/moodle-quizzes/`. Локальную проверку пакетов отличать от фактической успешной реставрации на сервере Moodle.
 
+
+- При сборке MBZ проверять правило convert_helper::detect_moodle2_format: в первых200байтах moodle_backup.xml должны находиться декларация `<?xml version="1.0" encoding="UTF-8"?>` с двойными кавычками, `<moodle_backup>` и `<information>`. Обычная успешная проверка XML-парсером этого не гарантирует. Регрессионная проверка: `python3 tools/moodle-quizzes/test_format_detection.py`.

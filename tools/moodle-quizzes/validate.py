@@ -3,6 +3,12 @@ from pathlib import Path
 import collections,gzip,hashlib,io,json,re,tarfile,xml.etree.ElementTree as E
 import argparse
 
+def detect_moodle2_metadata(data):
+    """Port of convert_helper::detect_moodle2_format signature checks, not a restore."""
+    first=data[:200]
+    return (b'<?xml version="1.0" encoding="utf-8"?>' in first.lower()
+            and b'<moodle_backup>' in first and b'<information>' in first)
+
 def validate(repo):
     folder=repo/'[2] Teste interactive pentru Moodle';bank=json.loads((repo/'docs/moodle-tests/question-bank.json').read_text());report=[]
     for unit in bank:
@@ -16,7 +22,10 @@ def validate(repo):
             for line in listed:
                 path,kind,length,mtime=line.split('\t');member=files[path.rstrip('/')]
                 assert member.isdir()==(kind=='d');assert member.size==int(length)
-            backup=E.fromstring(archive.extractfile('moodle_backup.xml').read());activity=backup.find('information/contents/activities/activity')
+            metadata=archive.extractfile('moodle_backup.xml').read()
+            # Same first-200-byte signature tests as Moodle's format detector.
+            assert detect_moodle2_metadata(metadata),(n,'Moodle format signature')
+            backup=E.fromstring(metadata);activity=backup.find('information/contents/activities/activity')
             directory=activity.findtext('directory');mid=activity.findtext('moduleid')
             content=E.fromstring(archive.extractfile(directory+'/realtimequiz.xml').read());quiz=content.find('realtimequiz')
             assert content.get('moduleid')==mid
@@ -41,7 +50,7 @@ def validate(repo):
             src=q['source'];data=json.loads((repo/src['file']).read_text())
             if src.get('json_pointer','').startswith('/solved/'):
                 assert int(src['json_pointer'].split('/')[-1])<len(data['solved'])
-        report.append({'seminar':n,'questions':25,'answers':100,'one_correct_per_question':True,'adjacent_keys_different':True,'key_counts':{chr(65+k):v for k,v in sorted(counts.items())},'xml_mbz_key_parity':True,'archive_index_valid':True,'seconds':dict(collections.Counter(q['time'] for q in rows))})
+        report.append({'seminar':n,'questions':25,'answers':100,'one_correct_per_question':True,'adjacent_keys_different':True,'key_counts':{chr(65+k):v for k,v in sorted(counts.items())},'xml_mbz_key_parity':True,'archive_index_valid':True,'moodle_format_signature_valid':True,'seconds':dict(collections.Counter(q['time'] for q in rows))})
     return report
 if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--repo-root',type=Path,required=True);args=p.parse_args();print(json.dumps(validate(args.repo_root),ensure_ascii=False,indent=2))

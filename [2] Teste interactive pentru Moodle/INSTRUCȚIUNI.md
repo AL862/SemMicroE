@@ -35,3 +35,7 @@ Baza principală: `Subiecte de recapitulare`, exercițiile rezolvate și concluz
 Cheile și legăturile de lucru cu secțiunile cursului sunt în `docs/moodle-tests/` din rădăcina depozitului. Ele nu sunt introduse în HTML-ul întrebării. Răspunsul corect este înregistrat în câmpurile Moodle pentru evaluare.
 
 Arhivele, XML-ul, cheile și calculele au fost verificate local. Restaurarea pe serverul Moodle al utilizatorului nu a fost executată din acest mediu. Verificați prima activitate restaurată înainte de folosirea la curs.
+
+## Dacă apare „Format necunoscut de backup”
+
+Fișierele MBZ au fost corectate după identificarea unei incompatibilități a declarației XML cu detectorul Moodle. Actualizați depozitul și selectați din nou fișierul local actualizat. Înlocuiți fișierul vechi deja încărcat în selectorul Moodle. Pentru XML folosiți Import în banca de întrebări și nu Restaurare.

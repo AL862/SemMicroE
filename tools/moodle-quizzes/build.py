@@ -10,7 +10,9 @@ EPOCH=1793021264
 
 def xmlbytes(root):
     ET.indent(root,space='  ')
-    return ET.tostring(root,encoding='utf-8',xml_declaration=True)
+    # Moodle convert_helper::detect_moodle2_format compares this literal header.
+    # ElementTree's default declaration uses single quotes and fails that check.
+    return b'<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(root,encoding='utf-8',xml_declaration=False)
 def put(parent,name,text=None,**attrs):
     node=ET.SubElement(parent,name,attrs)
     if text is not None:node.text=str(text)

@@ -1,0 +1,6 @@
+[submodule "agentmemory"]
+	path = third-party/agentmemory
+	url = https://github.com/rohitg00/agentmemory.git
+[submodule "scientific-agent-skills"]
+	path = third-party/scientific-agent-skills
+	url = https://github.com/k-dense-ai/scientific-agent-skills.git

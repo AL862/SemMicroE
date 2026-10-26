@@ -22,6 +22,14 @@ git submodule update --init --recursive
 
 Используйте Linux, macOS или WSL для символических ссылок. На Windows Git должен поддерживать создание символических ссылок; обычная загрузка ZIP с GitHub не загружает подмодули. После инициализации откройте проект заново в агенте и проверьте список навыков. Зависимости конкретных научных навыков устанавливаются по их инструкциям по мере использования.
 
+## Academic Research Skills
+
+- [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills/tree/1ec249df98728682dfbbdfb940a658338bfd6f80), Cheng-I Wu, версия3.23.2, лицензияCC BY-NC4.0.
+- Подмодуль `third-party/academic-research-skills` зафиксирован на `1ec249df98728682dfbbdfb940a658338bfd6f80`.
+- Пять навыков: `academic-paper-reviewer`, `academic-paper`, `academic-pipeline`, `deep-research`, `sr-screener`. Существующие навыки не заменены; совпадений имён нет.
+- В `.agents/skills/` добавлены ссылки на оригинальные папки с их справочниками. Подробности и пределы подключения: [docs/academic-research-skills.md](docs/academic-research-skills.md).
+- Это подключение файлов навыков к проекту. Встроенный каталог плагинов текущего чата ChatGPT оно не изменяет. Claude Code hooks, slash-команды и координация агентов через это подключение не активируются.
+
 ## AgentMemory
 
 В `.codex/config.toml` настроен MCP-мост `@agentmemory/mcp@0.9.31`. Для полноценной памяти нужен отдельный работающий сервер и Node.js 20+. В терминале той же системы, где работает агент:

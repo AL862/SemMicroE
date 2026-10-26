@@ -8,3 +8,6 @@
 	path = third-party/languagetool
 	url = https://github.com/languagetool-org/languagetool.git
 	shallow = true
+[submodule "academic-research-skills"]
+	path = third-party/academic-research-skills
+	url = https://github.com/Imbad0202/academic-research-skills.git

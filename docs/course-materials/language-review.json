@@ -1,0 +1,25 @@
+{
+  "engine": "LanguageTool 6.6 CLI",
+  "language": "ro",
+  "files": [
+    {
+      "file": "Bibliografie_Microeconomie_Moodle.html",
+      "matches": 72,
+      "exit_code": 0,
+      "characters": 6706
+    },
+    {
+      "file": "Glosar de microeconomie.html",
+      "matches": 71,
+      "exit_code": 0,
+      "characters": 26065
+    },
+    {
+      "file": "Rezolvări — Toate seminarele.html",
+      "matches": 274,
+      "exit_code": 0,
+      "characters": 129290
+    }
+  ],
+  "manual_review": "Formula abbreviations and bibliographic proper names retained. Consecutive explanatory structures retained. Inline markup and entity display corrected. Profitele corrected to Profiturile in the teacher conclusion."
+}

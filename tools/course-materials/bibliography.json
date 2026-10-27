@@ -1,0 +1,524 @@
+{
+  "books": [
+    {
+      "authors": "Tomșa Aurelia — coordonatoare; colectiv de autori",
+      "title": "Teorie economică. Volumul 1: Microeconomie",
+      "publication": "Chișinău: ASEM. Ediția a doua. 2016.",
+      "seminars": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "isbn": "978-9975-53-729-2",
+      "verification": "https://mecc.gov.md/sites/default/files/f.03.o.010_teoria_economica_i_microeconomia.pdf",
+      "group": "baza"
+    },
+    {
+      "authors": "Mankiw N. Gregory",
+      "title": "Принципы Экономикс",
+      "publication": "Sankt-Petersburg: Piter Kom. 1999.",
+      "seminars": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "isbn": "5-314-00161-6",
+      "verification": "PDF-ul din resurse. Pagina de copyright.",
+      "group": "baza"
+    },
+    {
+      "authors": "Angelescu Coralia; Dinu Marin; Gavrilă Ilie; Popescu Constantin; Socol Cristian — coordonare",
+      "title": "Economie",
+      "publication": "București: Editura Economică. Ediția a opta. 2009.",
+      "seminars": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        10
+      ],
+      "isbn": "978-973-709-456-8",
+      "verification": "https://doctorat.ase.ro/wp-content/uploads/Abilitare/STAICU%20ILIE%20GABRIEL/6_Gabriel%20Staicu_Lista%20de%20lucrari.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Bucos Tatiana; Barbăneagră Oxana",
+      "title": "Teorie economică. Microeconomie. Suport didactic",
+      "publication": "Chișinău: Continental Grup. 2013.",
+      "seminars": [
+        1,
+        3,
+        4,
+        8
+      ],
+      "isbn": "978-9975-4361-4-4",
+      "verification": "https://tpe.ase.md/files/tpe/profi/Bucos_CV_en.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Lipsey Richard G.; Chrystal K. Alec",
+      "title": "Principiile economiei",
+      "publication": "București: Editura Economică. 2002.",
+      "seminars": [
+        1,
+        3,
+        8,
+        9,
+        11
+      ],
+      "isbn": "973-590-595-7",
+      "verification": "https://managusamv.ro/site-vechi/images/pdf/3Economie.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Samuelson Paul A.; Nordhaus William D.",
+      "title": "Economie politică",
+      "publication": "București: Teora. 2000.",
+      "seminars": [
+        1,
+        4
+      ],
+      "isbn": "973-601-431-2",
+      "verification": "https://managusamv.ro/site-vechi/images/pdf/3Economie.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Ignat Ion; Lutac Gheorghe",
+      "title": "Micro și macroeconomie. Concepte fundamentale și aplicații",
+      "publication": "Iași: Sedcom Libris. 2004.",
+      "seminars": [
+        2,
+        5,
+        10
+      ],
+      "isbn": "973-670-033-X",
+      "verification": "https://editurasedcomlibris.ro/carte/micro-si-macroeconomie-concepte-fundamentale-si-aplicatii-9789736700330",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Fudulu Paul",
+      "title": "Microeconomie. Postinițial și Master",
+      "publication": "București: Hiroyuki. 1997.",
+      "seminars": [
+        2
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Nicolae S.; Andrei M.; Niculescu N.; Oprescu G.",
+      "title": "Microeconomie, macroeconomie. Noțiuni, aplicații, teste, probleme",
+      "publication": "București: Editura Economică. 1998.",
+      "seminars": [
+        2,
+        10
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Stiglitz Joseph E.; Walsh Carl E.",
+      "title": "Economie",
+      "publication": "București: Editura Economică. 2005.",
+      "seminars": [
+        2,
+        3,
+        4,
+        8,
+        9,
+        10,
+        11
+      ],
+      "isbn": "973-590-822-0",
+      "verification": "Bibliografia inițială și descrierea ediției românești. ISBN verificat și prin suma de control.",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Zbîrciog V.; Zbîrciog N.",
+      "title": "Coordonata microeconomică a vieții umane: probleme, soluții",
+      "publication": "Chișinău: Știința. 2001.",
+      "seminars": [
+        2,
+        10
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Zbîrciog V.; Zbîrciog N.",
+      "title": "Microeconomie aplicată",
+      "publication": "Chișinău: Evrica. 2001.",
+      "seminars": [
+        2
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Feuraș Eugenia",
+      "title": "Teoria economică. Micro- și macroeconomie. Aplicații practice pentru lucrul independent al studenților",
+      "publication": "Chișinău: ASEM. 2007.",
+      "seminars": [
+        2,
+        3,
+        10
+      ],
+      "isbn": "",
+      "verification": "https://old.ase.md/facultatea/egd/departament/tpe/cadre-didactice/publicatii.html",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Ciucur Dumitru; Gavrilă Ilie; Popescu Constantin",
+      "title": "Economie",
+      "publication": "București: Editura Economică. 1999.",
+      "seminars": [
+        3
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Stratan Svetlana; Cucu Mariana",
+      "title": "Микроэкономика. Учебное пособие",
+      "publication": "Chișinău: Tipografia AȘM. 2011.",
+      "seminars": [
+        3
+      ],
+      "isbn": "978-9975-9690-3-1",
+      "verification": "https://old.ase.md/facultatea/egd/departament/tpe/cadre-didactice/publicatii.html",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Bejan Ghenadie",
+      "title": "Microeconomie: teste, probleme, situații",
+      "publication": "Chișinău: ASEM. 2009.",
+      "seminars": [
+        3
+      ],
+      "isbn": "978-9975-75-458-3",
+      "verification": "https://www.mec.gov.md/sites/default/files/f.03._o.010_teoria_economica_i.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Bălăceanu Cristina; Bentoiu Claudia",
+      "title": "Microeconomie",
+      "publication": "București: C. H. Beck. 2007.",
+      "seminars": [
+        4
+      ],
+      "isbn": "978-973-115-034-5",
+      "verification": "https://www.mec.gov.md/sites/default/files/f.03._o.010_teoria_economica_i.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Lipsey Richard G.; Chrystal K. Alec",
+      "title": "Economia pozitivă",
+      "publication": "București. Ediția indicată în lista de lecturi: 2004.",
+      "seminars": [
+        4
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Vöröszak M.; Toader V.",
+      "title": "Microeconomie",
+      "publication": "Cluj-Napoca. 2004.",
+      "seminars": [
+        4
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Stancu Stelian",
+      "title": "Microeconomie: comportamentul agenților economici. Teorie și aplicații",
+      "publication": "București: Editura Economică. 2006.",
+      "seminars": [
+        5,
+        9
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Ciucur Dumitru — coordonare",
+      "title": "Economie. Manual universitar",
+      "publication": "București: Editura Economică. 2001.",
+      "seminars": [
+        5
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Roșca L.; Nedelea Ș.",
+      "title": "Teorie și practică în microeconomie",
+      "publication": "București: Editura ASE. 2003.",
+      "seminars": [
+        5
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Cornescu V. I.",
+      "title": "Costul și veniturile în economia de piață",
+      "publication": "Chișinău: IMCO. 1992.",
+      "seminars": [
+        7
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Ciobanu Gh. — coordonator",
+      "title": "Microeconomie",
+      "publication": "Cluj-Napoca. Ediția indicată în lista de lecturi: 2008.",
+      "seminars": [
+        7
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Vrînceanu R.",
+      "title": "Bazele microeconomiei întreprinderii",
+      "publication": "Iași. 2004.",
+      "seminars": [
+        7
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Angelescu Coralia — coordonare; colectiv de autori",
+      "title": "Economie. Aplicații",
+      "publication": "București: Editura Economică. 2009.",
+      "seminars": [
+        8,
+        9
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Abraham-Frois Gilbert",
+      "title": "Economia politică",
+      "publication": "București. 1998.",
+      "seminars": [
+        8
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Mankiw N. Gregory",
+      "title": "Principles of Microeconomics",
+      "publication": "South-Western. Ediția a patra. Copyright 2007.",
+      "seminars": [
+        8
+      ],
+      "isbn": "978-0-324-31916-3",
+      "verification": "https://openlibrary.org/books/OL9794592M/Principles_of_Microeconomics",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Friedman David D.",
+      "title": "Price Theory: An Intermediate Text",
+      "publication": "South-Western Publishing. 1986.",
+      "seminars": [
+        9
+      ],
+      "isbn": "",
+      "verification": "https://www.freetochoosenetwork.org/programs/free_to_choose/detail_samples.php?page=book6&type=2",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Iovițu Mircea",
+      "title": "Microeconomie și macroeconomie",
+      "publication": "București: Editura ASE. 2011.",
+      "seminars": [
+        9
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Minică Mirela",
+      "title": "Microeconomie aplicată",
+      "publication": "Reșița: Editura Eftimie Murgu. 2013.",
+      "seminars": [
+        9
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Popescu Constantin; Gavrilă Ilie; Ciucur Dumitru",
+      "title": "Teorie economică generală. Volumul 1: Microeconomie",
+      "publication": "București: Editura ASE. 2007.",
+      "seminars": [
+        9
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Ștefan Maria-Cristina; Dogaru Mihaela-Mirela",
+      "title": "Microeconomie: teorie și aplicații practice",
+      "publication": "București: Editura Universitară. 2012.",
+      "seminars": [
+        9
+      ],
+      "isbn": "978-606-591-576-3",
+      "verification": "https://www.editurauniversitara.ro/stiinte-economice-3/microeconomie-teorie-si-aplicatii-practice.html",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Vîrjan Daniela",
+      "title": "Economie: microeconomie și macroeconomie",
+      "publication": "București: Editura ASE. 2009.",
+      "seminars": [
+        9
+      ],
+      "isbn": "",
+      "verification": "https://univ-danubius.ro/files/data/licenta/economic/Tematic%C4%83%20examen%20de%20licenta%20FB-1.pdf",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Dudian Monica — coordonatoare",
+      "title": "Economie",
+      "publication": "București: C. H. Beck. Ediția a doua. 2008.",
+      "seminars": [
+        11
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Gherasim Toader",
+      "title": "Microeconomie. Volumele I–II",
+      "publication": "București: Editura Economică. 1993.",
+      "seminars": [
+        11
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Oprescu Gheorghe",
+      "title": "Microeconomie",
+      "publication": "București. 2005.",
+      "seminars": [
+        11
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Emțov R.; Lukin M. Iu.; Ceremnîh Iu. N.",
+      "title": "Микроэкономика",
+      "publication": "Moscova. Ediția indicată în lista de lecturi: 1995.",
+      "seminars": [
+        11
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Varian Hal R.",
+      "title": "Микроэкономика. Промежуточный уровень. Современный подход",
+      "publication": "Moscova: UNITI. 1997.",
+      "seminars": [
+        11
+      ],
+      "isbn": "",
+      "verification": "",
+      "group": "recomandata"
+    },
+    {
+      "authors": "Shapiro David; MacDonald Daniel; Greenlaw Steven A.",
+      "title": "Principles of Microeconomics 3e",
+      "publication": "Houston: OpenStax și Rice University. 2022.",
+      "seminars": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "isbn": "978-1-951693-65-7",
+      "verification": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics3e-WEB.pdf",
+      "group": "suplimentara"
+    }
+  ],
+  "historical_norms": [
+    {
+      "title": "Standardul Național de Contabilitate „Prezentarea situațiilor financiare”",
+      "publication": "Republica Moldova. Referința istorică din lista de lecturi: Monitorul Oficial 233–237 din 22.10.2013.",
+      "seminars": [
+        7
+      ]
+    },
+    {
+      "title": "Standardul Național de Contabilitate „Cheltuieli”",
+      "publication": "Republica Moldova. Referința istorică din lista de lecturi: Monitorul Oficial 233–237 din 22.10.2013.",
+      "seminars": [
+        7
+      ]
+    },
+    {
+      "title": "Standardul Național de Contabilitate „Venituri”",
+      "publication": "Republica Moldova. Referința istorică din lista de lecturi: Monitorul Oficial 233–237 din 22.10.2013.",
+      "seminars": [
+        7
+      ]
+    }
+  ]
+}

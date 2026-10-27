@@ -1,0 +1,1130 @@
+[
+  {
+    "concept": "Microeconomie",
+    "definition": "Studiul alegerilor consumatorilor și firmelor și al coordonării lor pe piețe concrete.",
+    "example": "Analizează alegerea cantității cumpărate sau produse și formarea prețului unui bun.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Raritate",
+    "definition": "Situația în care resursele disponibile nu permit satisfacerea tuturor utilizărilor dorite în același timp.",
+    "example": "Aceeași oră nu poate fi folosită integral pentru două activități diferite.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Resurse economice",
+    "definition": "Mijloace limitate folosite pentru a obține bunuri sau servicii.",
+    "example": "Timpul de muncă și utilajele și terenul pot limita producția.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Alegere economică",
+    "definition": "Selectarea unei alternative dintre utilizări posibile ale resurselor limitate.",
+    "example": "O firmă alege între a produce mese și a produce rafturi cu același lemn.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Cost de oportunitate",
+    "definition": "Valoarea celei mai bune alternative abandonate când se face o alegere.",
+    "example": "Dacă două activități incompatibile aduc 200 și 300 de lei alegerea unei a treia sacrifică cel mult alternativa monetară de 300. Nu le adunăm.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Frontiera posibilităților de producție",
+    "definition": "Ansamblul combinațiilor eficiente de două bunuri care pot fi obținute cu resursele și tehnologia date.",
+    "example": "Un punct în interior este realizabil dar ineficient. Un punct din exterior nu este realizabil în condițiile date.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Eficiență productivă",
+    "definition": "Situația în care nu putem produce mai mult dintr-un bun fără să reducem alt bun cu aceleași resurse și tehnologie.",
+    "example": "Punctele de pe frontiera posibilităților de producție sunt eficiente productiv.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Analiză marginală",
+    "definition": "Compararea avantajului suplimentar cu costul suplimentar al unei mici modificări a alegerii.",
+    "example": "O oră suplimentară este avantajoasă dacă beneficiul ei depășește alternativa sacrificată.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Cost nerecuperabil",
+    "definition": "Cost deja suportat care nu poate fi recuperat prin niciuna dintre alegerile curente.",
+    "example": "Un bilet nerambursabil deja plătit nu se schimbă dacă mergem sau nu la spectacol.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Afirmație pozitivă",
+    "definition": "Afirmație despre cum funcționează economia care poate fi confruntată cu observații.",
+    "example": "Poate fi adevărată sau falsă. Caracterul verificabil nu garantează corectitudinea ei.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Afirmație normativă",
+    "definition": "Afirmație despre ce ar trebui făcut care include o judecată de valoare.",
+    "example": "Recomandarea ca transportul elevilor să fie gratuit este normativă.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Model economic",
+    "definition": "Reprezentare a unei situații prin relații și ipoteze care ajută la explicarea unui mecanism.",
+    "example": "Rezultatul unui model este valabil în condițiile lui. Nu este automat o măsurare a unei piețe reale.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Ceilalți factori rămân neschimbați",
+    "definition": "Ipoteză prin care izolăm efectul unei variabile menținând constante celelalte condiții relevante.",
+    "example": "Pentru efectul prețului asupra cantității cerute putem menține venitul și preferințele constante.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Corelație și cauzalitate",
+    "definition": "Corelația este o asociere între variabile. Cauzalitatea înseamnă că schimbarea uneia produce un efect asupra celeilalte în condițiile analizate.",
+    "example": "Ploaia poate ridica simultan prețul și vânzările umbrelelor fără ca scumpirea să provoace cumpărări suplimentare.",
+    "seminars": [
+      1
+    ]
+  },
+  {
+    "concept": "Cerere",
+    "definition": "Relația dintre prețurile unui bun și cantitățile pe care cumpărătorii doresc și pot să le cumpere într-o perioadă dată.",
+    "example": "Cererea descrie întreaga relație. Cantitatea cerută descrie un punct al ei.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Cantitate cerută",
+    "definition": "Cantitatea pe care cumpărătorii doresc și pot să o cumpere la un preț concret într-o perioadă dată.",
+    "example": "În Qd = 100 − 2P la P = 20 cantitatea cerută este 60.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Legea cererii",
+    "definition": "La ceilalți factori neschimbați un preț mai mare reduce de regulă cantitatea cerută.",
+    "example": "Se descrie o mișcare pe aceeași curbă și nu o deplasare a întregii cereri.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Ofertă",
+    "definition": "Relația dintre prețurile unui bun și cantitățile pe care vânzătorii doresc și pot să le ofere într-o perioadă dată.",
+    "example": "Oferta poate depinde de tehnologie și de costul resurselor.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Cantitate oferită",
+    "definition": "Cantitatea pe care vânzătorii doresc și pot să o ofere la un preț concret într-o perioadă dată.",
+    "example": "În Qs = 20 + 2P la P = 20 cantitatea oferită este 60.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Legea ofertei",
+    "definition": "La ceilalți factori neschimbați un preț mai mare favorizează de regulă o cantitate oferită mai mare.",
+    "example": "Un cost mai mare al resurselor poate schimba însă întreaga ofertă.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Echilibru de piață",
+    "definition": "Situația în care cantitatea cerută este egală cu cea oferită la același preț și pentru aceeași perioadă.",
+    "example": "Relația de calcul este Qd = Qs.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Preț de echilibru",
+    "definition": "Prețul care coordonează planurile cumpărătorilor și vânzătorilor astfel încât cantitățile lor să fie egale.",
+    "example": "Egalitatea funcțiilor poate determina prețul. El se verifică prin înlocuire în ambele funcții.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Deficit de ofertă",
+    "definition": "Diferența pozitivă dintre cantitatea cerută și cea oferită la un preț sub echilibru în modelul obișnuit.",
+    "example": "Deficit = Qd − Qs când Qd este mai mare decât Qs.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Exces de ofertă",
+    "definition": "Diferența pozitivă dintre cantitatea oferită și cea cerută la prețul analizat.",
+    "example": "Exces = Qs − Qd când Qs este mai mare decât Qd. Poate crea presiune de reducere a prețului.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Deplasarea cererii",
+    "definition": "Schimbarea cantității cerute la fiecare preț ca urmare a unui alt factor decât prețul propriu.",
+    "example": "Un venit mai mare poate deplasa spre dreapta cererea unui bun normal.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Deplasarea ofertei",
+    "definition": "Schimbarea cantității oferite la fiecare preț ca urmare a tehnologiei sau a altor condiții de producție.",
+    "example": "O recoltă mai bună poate mări oferta la același preț.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Bunuri substituibile",
+    "definition": "Bunuri care pot satisface utilizări apropiate astfel încât scumpirea unuia poate mări cererea celuilalt.",
+    "example": "Cafeaua și ceaiul pot fi substituibile pentru unii consumatori.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Bunuri complementare",
+    "definition": "Bunuri folosite împreună pentru care scumpirea unuia poate reduce cererea celuilalt.",
+    "example": "Imprimanta și cartușele pot fi complementare.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Preț maxim",
+    "definition": "Limită superioară impusă prețului. Devine obligatorie în model dacă este sub prețul liber.",
+    "example": "Un plafon obligatoriu poate crea deficit. Un plafon peste echilibru poate să nu schimbe tranzacțiile.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Preț minim",
+    "definition": "Limită inferioară impusă prețului. Devine obligatorie în model dacă este peste prețul liber.",
+    "example": "Un prag obligatoriu poate crea exces de ofertă.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Impozit unitar",
+    "definition": "Sumă datorată pentru fiecare unitate tranzacționată care creează o diferență între prețul cumpărătorului și cel net al vânzătorului.",
+    "example": "Pc − Pv = t. Încasarea bugetară este t × Q după impozit.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Subvenție unitară",
+    "definition": "Sumă acordată pentru fiecare unitate care poate face prețul primit de producător mai mare decât cel plătit de client.",
+    "example": "Pv − Pc = s. Costul bugetar este s × Q după subvenție.",
+    "seminars": [
+      2
+    ]
+  },
+  {
+    "concept": "Elasticitate",
+    "definition": "Raport între schimbarea procentuală a unei cantități și schimbarea procentuală a factorului care o influențează.",
+    "example": "Elasticitatea nu are unitate de măsură.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitatea cererii după preț",
+    "definition": "Sensibilitatea procentuală a cantității cerute la schimbarea prețului propriu cu ceilalți factori neschimbați.",
+    "example": "Ed = ΔQd% / ΔP%. Pentru cererea obișnuită coeficientul semnat este negativ.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Cerere elastică",
+    "definition": "Cerere pentru care valoarea absolută a elasticității după preț depășește 1.",
+    "example": "O creștere a prețului cu 5% și o scădere a cantității cu 10% dau Ed = −2.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Cerere inelastică",
+    "definition": "Cerere pentru care valoarea absolută a elasticității după preț este sub 1.",
+    "example": "La Ed = −1/2 cantitatea reacționează procentual mai puțin decât prețul în apropierea punctului.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitate unitară",
+    "definition": "Situația în care valoarea absolută a elasticității relevante este 1.",
+    "example": "Ed = −1 indică o reacție proporțională în sens opus prețului.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitate punctuală",
+    "definition": "Elasticitate calculată pentru un punct al unei relații și o schimbare locală.",
+    "example": "Pentru Qd = a − bP formula este Ed = −bP/Qd la un punct cu valori potrivite pentru calcul.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitate pe arc",
+    "definition": "Elasticitate calculată între două puncte printr-o convenție procentuală comună.",
+    "example": "Metoda punctului de mijloc folosește media prețurilor și media cantităților ca baze.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Metoda punctului de mijloc",
+    "definition": "Metodă de calcul al variațiilor relative între două observații care utilizează media valorilor inițiale și finale.",
+    "example": "Ed = [(Q2 − Q1)/((Q1 + Q2)/2)] / [(P2 − P1)/((P1 + P2)/2)].",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitatea cererii după venit",
+    "definition": "Raportul dintre schimbarea procentuală a cantității cerute și schimbarea procentuală a venitului.",
+    "example": "Ei = ΔQd% / ΔI%. Semnul ajută la distingerea bunurilor normale de cele inferioare.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Bun normal",
+    "definition": "Bun pentru care cererea crește când venitul crește cu celelalte condiții neschimbate.",
+    "example": "Elasticitatea după venit este pozitivă în intervalul analizat.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Bun inferior",
+    "definition": "Bun pentru care cererea scade când venitul crește cu celelalte condiții neschimbate.",
+    "example": "Elasticitatea după venit este negativă. Termenul nu reprezintă o judecată asupra calității.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitate încrucișată",
+    "definition": "Raportul dintre schimbarea procentuală a cererii unui bun și schimbarea procentuală a prețului altui bun.",
+    "example": "Exy = ΔQx% / ΔPy%. Semnul pozitiv indică substituibilitate iar cel negativ complementaritate în condițiile modelului.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Elasticitatea ofertei",
+    "definition": "Raportul dintre schimbarea procentuală a cantității oferite și schimbarea procentuală a prețului.",
+    "example": "Es = ΔQs% / ΔP%. Orizontul de timp influențează posibilitățile de ajustare.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Incidența impozitului",
+    "definition": "Repartizarea sarcinii economice a unui impozit între părțile pieței.",
+    "example": "Pentru un impozit mic cumpărătorul suportă aproximativ ponderea Es/(Es + abs(Ed)) în modelul concurențial local.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Panta și elasticitatea",
+    "definition": "Panta măsoară o schimbare în unități fizice iar elasticitatea compară schimbări procentuale.",
+    "example": "O cerere liniară poate avea aceeași pantă și elasticități punctuale diferite.",
+    "seminars": [
+      3
+    ]
+  },
+  {
+    "concept": "Preferințe",
+    "definition": "Modul în care consumatorul ordonează combinațiile de bunuri după satisfacția pe care o oferă.",
+    "example": "Un coș poate fi preferat altuia chiar dacă nu încape în buget.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Utilitate totală",
+    "definition": "Satisfacția asociată unei cantități sau unui coș de bunuri în reprezentarea preferințelor.",
+    "example": "TU nu este automat o sumă de bani și nu permite comparații directe între persoane.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Utilitate marginală",
+    "definition": "Sporul utilității totale datorat unei unități suplimentare consumate.",
+    "example": "MU = ΔTU/ΔQ. Pentru unități întregi calculăm diferența dintre două niveluri succesive ale TU.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Utilitate marginală descrescătoare",
+    "definition": "Situația în care unitățile succesive ale unui bun aduc sporuri tot mai mici ale satisfacției.",
+    "example": "TU poate continua să crească atât timp cât MU este pozitivă.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Coș de consum",
+    "definition": "Combinație de cantități din bunurile analizate.",
+    "example": "Coșul (X; Y) trebuie evaluat atât după preferințe cât și după accesibilitate.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Constrângere bugetară",
+    "definition": "Condiția ca valoarea bunurilor cumpărate să nu depășească venitul disponibil.",
+    "example": "Px × X + Py × Y ≤ I pentru cantități nenegative.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Linie bugetară",
+    "definition": "Combinațiile a două bunuri care epuizează exact bugetul disponibil.",
+    "example": "Px × X + Py × Y = I. Cu X pe orizontală panta este −Px/Py.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Venit real",
+    "definition": "Posibilitățile de cumpărare oferite de un venit în raport cu prețurile bunurilor.",
+    "example": "Dublarea venitului nominal împreună cu toate prețurile nu mărește mulțimea coșurilor accesibile.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Curbă de indiferență",
+    "definition": "Ansamblul coșurilor pe care consumatorul le consideră la fel de bune.",
+    "example": "Nu reprezintă o linie de cost sau toate coșurile accesibile.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Rata marginală de substituție",
+    "definition": "Cantitatea dintr-un bun la care consumatorul poate renunța pentru o mică unitate suplimentară din altul cu utilitatea menținută.",
+    "example": "În convenția pozitivă MRSxy = MUx/MUy. Panta curbei este opusul acestui raport.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Echilibrul consumatorului",
+    "definition": "Coșul preferat dintre cele accesibile în condițiile preferințelor și bugetului.",
+    "example": "La un optim interior neted relația este MUx/Px = MUy/Py. Soluțiile de colț și bunurile indivizibile cer verificări separate.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Bunuri perfect complementare",
+    "definition": "Bunuri care aduc beneficiu prin utilizare în proporții fixe.",
+    "example": "Dacă un set cere un X și doi Y unitățile fără pereche pot să nu aducă utilitate suplimentară.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Bunuri perfect substituibile",
+    "definition": "Bunuri pe care consumatorul le poate înlocui într-un raport constant în intervalul analizat.",
+    "example": "Alegerea poate fi o soluție de colț dacă un bun oferă mai multă utilitate pe leu.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Soluție de colț",
+    "definition": "Alegere optimă aflată la limita mulțimii accesibile unde unul dintre bunuri poate fi zero.",
+    "example": "Egalitatea raporturilor marginale nu trebuie aplicată automat unei asemenea soluții.",
+    "seminars": [
+      4
+    ]
+  },
+  {
+    "concept": "Producție",
+    "definition": "Transformarea resurselor în bunuri sau servicii printr-un proces tehnologic.",
+    "example": "Cantitatea produsă trebuie asociată unui interval de timp.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Factori de producție",
+    "definition": "Resurse utilizate în producție precum munca și capitalul tehnic.",
+    "example": "L poate reprezenta munca iar K utilizarea utilajelor cu unități precizate.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Funcție de producție",
+    "definition": "Relație între cantitățile de factori și producția posibilă la o tehnologie dată.",
+    "example": "Q = f(L; K). Forma funcției și domeniul ei trebuie precizate.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Termen scurt",
+    "definition": "Orizont în care cel puțin un factor relevant al producției nu poate fi ajustat.",
+    "example": "Numărul cuptoarelor poate rămâne fix în timp ce se modifică echipa.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Termen lung",
+    "definition": "Orizont în care toți factorii relevanți ai producției pot fi ajustați.",
+    "example": "Nu este un număr identic de luni pentru toate activitățile.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Produs total",
+    "definition": "Cantitatea totală obținută într-o perioadă din combinația dată de resurse.",
+    "example": "TP poate crește chiar dacă sporul adus de un lucrător suplimentar se reduce.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Produs mediu",
+    "definition": "Producția pe unitate de factor utilizat.",
+    "example": "AP = Q/L pentru muncă. Se precizează dacă L înseamnă lucrători sau ore de muncă.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Produs marginal",
+    "definition": "Sporul producției datorat creșterii unui factor cu ceilalți factori neschimbați.",
+    "example": "MP = ΔQ/ΔL pentru o schimbare a muncii. O valoare negativă înseamnă reducerea totalului.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Legea produsului marginal descrescător",
+    "definition": "La creșterea repetată a unui factor lângă factori fixați produsul marginal poate începe să scadă după un anumit nivel.",
+    "example": "Nu este același lucru cu reducerea producției totale sau cu randamentele la scară.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Izocuantă",
+    "definition": "Ansamblul combinațiilor de factori care permit aceeași producție.",
+    "example": "Compararea costurilor a două puncte pe izocuantă necesită și prețurile factorilor.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Rata marginală de substituție tehnică",
+    "definition": "Raportul local în care un factor poate înlocui altul cu producția menținută.",
+    "example": "În convenția pozitivă MRTSlk = MPl/MPk. Panta izocuantei are semn negativ.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Randamente la scară",
+    "definition": "Reacția producției când toți factorii sunt modificați în aceeași proporție la aceeași tehnologie.",
+    "example": "Producția poate crește mai mult decât proporțional sau proporțional sau mai puțin decât proporțional.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Capacitate de producție",
+    "definition": "Limita producției posibilă într-un interval în condițiile tehnice și organizatorice precizate.",
+    "example": "Un cuptor de o singură tavă poate limita efectul adăugării de lucrători.",
+    "seminars": [
+      5
+    ]
+  },
+  {
+    "concept": "Cost explicit",
+    "definition": "Plată efectivă pentru resursele folosite în activitate.",
+    "example": "Salariile plătite și chiria plătită sunt exemple când aparțin perioadei analizate.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost implicit",
+    "definition": "Valoarea utilizării alternative sacrificate a resurselor proprii fără o plată directă în activitate.",
+    "example": "Salariul sacrificat al proprietarului poate fi un cost implicit.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost economic",
+    "definition": "Costul care include resursele plătite și oportunitățile sacrificate ale resurselor proprii.",
+    "example": "Cost economic = cost explicit + cost implicit fără dublarea aceleiași componente.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost fix",
+    "definition": "Cost care nu se schimbă cu volumul producției în intervalul și orizontul precizate.",
+    "example": "FC poate exista și la producție zero. Caracterul fix nu înseamnă inevitabil în orice orizont.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost variabil",
+    "definition": "Cost care se modifică odată cu producția în relația analizată.",
+    "example": "VC poate include ingredientele consumate pentru fiecare produs.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost total",
+    "definition": "Suma costului fix și a costului variabil pentru același volum și aceeași perioadă.",
+    "example": "TC = FC + VC.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost fix mediu",
+    "definition": "Costul fix repartizat la fiecare unitate produsă.",
+    "example": "AFC = FC/Q pentru Q pozitiv. Se reduce când același FC se împarte la mai multe produse.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost variabil mediu",
+    "definition": "Costul variabil pe unitate de producție.",
+    "example": "AVC = VC/Q pentru Q pozitiv.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost total mediu",
+    "definition": "Costul total pe unitate de producție.",
+    "example": "ATC = TC/Q = AFC + AVC pentru Q pozitiv.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost marginal",
+    "definition": "Sporul costului total pe unitate suplimentară de producție.",
+    "example": "MC = ΔTC/ΔQ pe un interval. Valoarea punctuală într-un model neted este derivata costului total.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Cost evitabil",
+    "definition": "Cost care nu mai apare dacă se alege oprirea sau renunțarea la activitatea analizată.",
+    "example": "Compararea continuării cu oprirea folosește costurile care diferă efectiv între alternative.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Izocost",
+    "definition": "Ansamblul combinațiilor de factori care au același cost total la prețuri date.",
+    "example": "wL + rK = C. Cu L pe orizontală panta este −w/r.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Minimizarea costului",
+    "definition": "Alegerea celei mai ieftine combinații fezabile de factori pentru o producție dată.",
+    "example": "La un optim interior neted MPl/w = MPk/r. Condițiile de colț cer comparații separate.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Economii de scară",
+    "definition": "Reducerea costului mediu pe termen lung când crește scara producției la condiții comparabile.",
+    "example": "Costul total poate crește în același timp.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Dezeconomii de scară",
+    "definition": "Creșterea costului mediu pe termen lung la o scară mai mare.",
+    "example": "Nu trebuie confundate automat cu produsul marginal descrescător pe termen scurt.",
+    "seminars": [
+      6
+    ]
+  },
+  {
+    "concept": "Încasări totale",
+    "definition": "Valoarea vânzărilor într-o perioadă.",
+    "example": "TR = P × Q când toate unitățile se vând la același preț.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Încasare medie",
+    "definition": "Încasările totale pe unitate vândută.",
+    "example": "AR = TR/Q pentru Q pozitiv. La preț unic AR = P.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Încasare marginală",
+    "definition": "Sporul încasărilor totale datorat unei unități suplimentare vândute.",
+    "example": "MR = ΔTR/ΔQ pe interval. La un preț unic descrescător MR poate fi sub preț.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Profit contabil",
+    "definition": "Încasările minus costurile explicite incluse în calcul.",
+    "example": "El nu scade automat oportunitățile sacrificate ale resurselor proprii.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Profit economic",
+    "definition": "Încasările minus costurile economice explicite și implicite.",
+    "example": "Profit economic = TR − TC economic.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Profit normal",
+    "definition": "Remunerarea alternativă necesară pentru resursele proprii inclusă în costul economic.",
+    "example": "Profit economic zero poate coexista cu remunerarea proprietarului.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Profit mediu",
+    "definition": "Profitul total pe unitate de producție vândută.",
+    "example": "Profit mediu = profit/Q. Dacă prețul este unic rezultă P − ATC.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Maximizarea profitului",
+    "definition": "Alegerea fezabilă care oferă cel mai mare profit dintre alternativele disponibile.",
+    "example": "MR = MC este o condiție pentru un optim interior neted. Se verifică maximul și alternativa opririi.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Prag de rentabilitate",
+    "definition": "Volumul sau prețul la care încasările acoperă costurile incluse în calcul.",
+    "example": "Cu preț P și cost variabil unitar v constante Q = FC/(P − v) dacă P este mai mare decât v.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Marjă de contribuție",
+    "definition": "Diferența dintre încasarea și costul variabil aferente unei unități care contribuie la acoperirea costurilor fixe.",
+    "example": "La preț și cost variabil unitar constante marja este P − v.",
+    "seminars": [
+      7
+    ]
+  },
+  {
+    "concept": "Concurență perfectă",
+    "definition": "Model de piață cu numeroși participanți și produs omogen în care o firmă individuală nu poate influența prețul.",
+    "example": "Se precizează ipotezele de informare și acces pe piață.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Primitor de preț",
+    "definition": "Participant care tratează prețul pieței ca dat pentru propria decizie.",
+    "example": "Firma își alege cantitatea fără să modifice prețul în modelul concurenței perfecte.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Cererea firmei concurențiale",
+    "definition": "Relația orizontală la prețul pieței pe care o întâlnește firma mică în model.",
+    "example": "Nu este curba cererii întregii piețe.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Oferta firmei pe termen scurt",
+    "definition": "Cantitățile pe care firma alege să le producă la prețuri diferite după compararea cu oprirea.",
+    "example": "În modelul standard este porțiunea crescătoare relevantă a MC deasupra minimului AVC.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Prag de oprire",
+    "definition": "Nivel al prețului sub care firma nu își poate acoperi costurile evitabile relevante printr-un volum pozitiv.",
+    "example": "În modelul standard fără alte complicații reperul este minimul AVC.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Continuare cu pierdere",
+    "definition": "Decizie de a produce temporar când pierderea este mai mică decât la oprire.",
+    "example": "Dacă TR acoperă VC și o parte din FC inevitabil continuarea poate fi preferabilă pe termen scurt.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Oprire temporară",
+    "definition": "Alegerea producției zero într-un orizont în care unele costuri pot rămâne de suportat.",
+    "example": "Nu este identică ieșirii definitive din ramură.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Intrare pe piață",
+    "definition": "Începerea activității unor firme noi în piața analizată.",
+    "example": "Profitul economic pozitiv poate atrage intrare când barierele permit acest lucru.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Ieșire din ramură",
+    "definition": "Renunțarea la activitate într-un orizont în care resursele pot fi eliberate sau redirecționate.",
+    "example": "O pierdere persistentă poate justifica ieșirea chiar dacă producția este preferabilă opririi imediate.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Ofertă de piață",
+    "definition": "Suma cantităților oferite de firme la același preț.",
+    "example": "Se însumează orizontal ofertele și se respectă domeniul fiecăreia.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Echilibru concurențial pe termen lung",
+    "definition": "Situație standard în care intrarea și ieșirea nu mai oferă câștig economic suplimentar.",
+    "example": "Pentru firme identice în modelul simplu P = minim LRAC și profitul economic este zero.",
+    "seminars": [
+      8
+    ]
+  },
+  {
+    "concept": "Monopol",
+    "definition": "Structură în care un singur ofertant servește piața relevantă și întâlnește cererea pieței.",
+    "example": "Definirea produsului și a substituenților este necesară înainte de a clasifica o firmă reală.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Barieră la intrare",
+    "definition": "Condiție care limitează accesul unor noi concurenți la o piață.",
+    "example": "Poate ține de costuri sau drepturi ori controlul unei resurse. Existența ei trebuie argumentată.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Putere de piață",
+    "definition": "Capacitatea unei firme de a influența condițiile de vânzare față de reperul concurențial.",
+    "example": "Un preț mare observat singur nu măsoară întreaga putere de piață.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Indicele Lerner",
+    "definition": "Raportul dintre diferența prețului față de costul marginal și preț.",
+    "example": "L = (P − MC)/P. Nu este egal cu profitul total.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Discriminare prin preț",
+    "definition": "Vânzarea unor unități comparabile la prețuri diferite care nu sunt explicate numai prin diferențe de cost.",
+    "example": "Separarea grupurilor și limitarea revânzării pot permite prețuri distincte.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Monopol natural",
+    "definition": "Situație în care o singură firmă poate servi cererea relevantă la un cost total mai mic decât mai multe firme separate.",
+    "example": "Costurile unei rețele pot include o componentă fixă mare. Simplul statut de furnizor unic nu dovedește singur caracterul natural.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Surplusul consumatorului",
+    "definition": "Diferența dintre disponibilitatea totală de plată și suma efectiv plătită în modelul cererii.",
+    "example": "Grafic este aria de sub cerere și deasupra prețului pentru unitățile cumpărate.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Surplusul producătorului",
+    "definition": "Diferența dintre încasări și costurile variabile relevante în modelul standard.",
+    "example": "Nu este identic profitului când există costuri fixe.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Pierdere de bunăstare",
+    "definition": "Beneficiu total al unor schimburi care nu se mai realizează față de reperul eficient în model.",
+    "example": "La cerere liniară și MC constant pierderea monopolului poate fi o arie de triunghi.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Preț egal cu costul marginal",
+    "definition": "Regulă prin care prețul este fixat la MC pentru a orienta cantitatea spre un reper eficient.",
+    "example": "La un monopol natural această regulă poate lăsa neacoperit costul fix.",
+    "seminars": [
+      9
+    ]
+  },
+  {
+    "concept": "Concurență monopolistică",
+    "definition": "Model cu multe firme și produse diferențiate unde fiecare ofertant întâlnește o cerere proprie descrescătoare.",
+    "example": "Intrarea relativ ușoară poate eroda profitul economic pe termen lung.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Diferențierea produsului",
+    "definition": "Deosebiri ale produsului sau serviciului care contează pentru alegerea cumpărătorului.",
+    "example": "Calitatea și localizarea și programul pot diferenția oferte apropiate.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Cerere reziduală a firmei",
+    "definition": "Cererea adresată unei firme după luarea în considerare a ofertelor alternative și a condițiilor pieței.",
+    "example": "Intrarea unor substituenți apropiați poate reduce cererea adresată firmei.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Capacitate excedentară",
+    "definition": "Diferența dintre scara care minimizează costul mediu și producția aleasă în modelul standard al concurenței monopolistice.",
+    "example": "Nu reprezintă obligatoriu produse fabricate și rămase nevândute.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Publicitate",
+    "definition": "Activitate de informare sau promovare care poate influența cererea și adaugă costuri.",
+    "example": "Avantajul se verifică prin contribuția vânzărilor suplimentare comparată cu costul campaniei.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Adaos față de costul marginal",
+    "definition": "Diferența P − MC pentru cantitatea analizată.",
+    "example": "Poate fi pozitiv chiar la profit economic zero dacă ATC este egal cu prețul.",
+    "seminars": [
+      10
+    ]
+  },
+  {
+    "concept": "Oligopol",
+    "definition": "Structură cu un număr mic de firme importante ale căror decizii se influențează reciproc.",
+    "example": "Nu orice asemănare de prețuri dovedește un acord.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Interdependență strategică",
+    "definition": "Situație în care rezultatul unei alegeri depinde și de alegerile altor participanți.",
+    "example": "O firmă anticipează reacția celorlalte firme la preț sau cantitate.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Strategie",
+    "definition": "Regulă sau alegere disponibilă unui participant într-un joc economic.",
+    "example": "Poate reprezenta un preț sau o cantitate în funcție de model.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Cel mai bun răspuns",
+    "definition": "Alegerea care maximizează rezultatul unui participant pentru o alegere dată a celuilalt.",
+    "example": "Răspunsul optim se poate modifica dacă rivala schimbă strategia.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Echilibru Nash",
+    "definition": "Combinație de strategii în care niciun participant nu câștigă printr-o schimbare unilaterală cu strategiile celorlalți menținute.",
+    "example": "Nu este obligatoriu rezultatul cu cel mai mare câștig comun.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Strategie dominantă",
+    "definition": "Strategie care este cel puțin la fel de bună pentru toate alegerile rivalului și mai bună în condițiile precizate ale comparației.",
+    "example": "Un echilibru Nash poate exista și fără strategii dominante.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Model Cournot",
+    "definition": "Model în care firmele aleg simultan cantități și anticipează cantitatea rivalei.",
+    "example": "Pentru două firme identice se pot intersecta funcțiile de reacție.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Funcție de reacție",
+    "definition": "Relația care arată alegerea optimă a unei firme pentru alegeri alternative ale rivalei.",
+    "example": "Într-un exemplu Cournot Q1 = (60 − Q2)/2 este o reacție optimă în domeniul relevant.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Model Stackelberg",
+    "definition": "Model în care o firmă alege prima cantitatea și anticipează reacția firmei care urmează.",
+    "example": "Ordinea deciziilor îl diferențiază de alegerea simultană Cournot.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Cartel",
+    "definition": "Acord de coordonare între firme care poate urmări un rezultat comun prin limitarea concurenței.",
+    "example": "Maximizarea profitului comun nu elimină stimulentele de abatere individuală.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Matricea câștigurilor",
+    "definition": "Tabel care indică rezultatele participanților pentru fiecare combinație de strategii.",
+    "example": "Ordinea câștigurilor din fiecare celulă trebuie precizată.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Dilema prizonierului",
+    "definition": "Joc în care stimulentele individuale conduc la un echilibru mai slab pentru ambii decât o alternativă comună.",
+    "example": "Clasificarea cere verificarea tuturor câștigurilor. Nu orice conflict între firme este o asemenea dilemă.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Cerere frântă",
+    "definition": "Model al cererii firmei care presupune reacții diferite ale rivalilor la scumpire și la ieftinire.",
+    "example": "Poate explica rigiditatea locală a prețului dar nu determină singur originea prețului inițial.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Cotă de piață",
+    "definition": "Ponderea vânzărilor unei firme în totalul pieței definite pentru același indicator și aceeași perioadă.",
+    "example": "Cota procentuală este vânzările firmei împărțite la vânzările totale și înmulțite cu 100%.",
+    "seminars": [
+      11
+    ]
+  },
+  {
+    "concept": "Indicele HHI",
+    "definition": "Suma pătratelor cotelor de piață ale tuturor firmelor.",
+    "example": "Cu cote procentuale de 60 și 40 rezultă HHI = 5200. Cu cote între zero și unu scara este diferită.",
+    "seminars": [
+      11
+    ]
+  }
+]

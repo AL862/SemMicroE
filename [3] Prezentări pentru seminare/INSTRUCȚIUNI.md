@@ -5,7 +5,7 @@
 ## Fișiere
 
 - `Prezentare - Seminarul N. Titlul temei.pptx` — prezentarea cu textul lectorului integrat în notele fiecărui diapozitiv.
-- `Conspecte pentru lector/Seminar_N_Conspect_Profesor.docx` — același text al lectorului în ordinea diapozitivelor.
+- `[6] Materiale și informații pentru profesor/Conspecte pentru lector/Seminar_N_Conspect_Profesor.docx` — același text al lectorului în ordinea diapozitivelor.
 
 Diapozitivele 8 și 9 conțin condiția și soluția aplicației. Textul și numerele lor pot fi editate direct în PowerPoint. Celelalte diapozitive sunt infografice integrate la 1920 × 1080. Toate imaginile sunt incluse în fișier. Nu este necesară o conexiune la internet în timpul prezentării.
 
@@ -36,3 +36,4 @@ Instrucțiuni Microsoft:
 
 - [Pornirea prezentării și vizualizarea notelor](https://support.microsoft.com/en-us/powerpoint/training/start-the-presentation-and-see-your-notes-in-presenter-view)
 - [Taste pentru expunerea PowerPoint](https://support.microsoft.com/en-us/accessibility/powerpoint/use-keyboard-shortcuts-to-deliver-powerpoint-presentations)
+

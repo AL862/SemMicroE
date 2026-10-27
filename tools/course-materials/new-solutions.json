@@ -1,0 +1,904 @@
+{
+  "1": [
+    {
+      "steps": [
+        "Comparăm numai activități care ocupă aceeași seară. Veniturile alternative sunt 240 și 300 de lei.",
+        "Cea mai bună alternativă monetară este meditația. Costul de oportunitate monetar este max(240; 300) = 300 de lei.",
+        "Nu adunăm 240 + 300 deoarece Irina nu le poate realiza simultan în intervalul sacrificat."
+      ],
+      "conclusion": "Voluntariatul sacrifică alternativa de 300 de lei. Beneficiile nemonetare nu sunt evaluate în datele problemei."
+    },
+    {
+      "steps": [
+        "Biletul de 100 de lei nu poate fi recuperat în niciuna dintre alegerile de acum. El este un cost nerecuperabil.",
+        "Alegerea spectacolului sacrifică salariul de 250 de lei și cere transport suplimentar de 20 de lei.",
+        "Costul relevant este 250 + 20 = 270 de lei. Cei 100 de lei deja plătiți nu se adaugă încă o dată în comparația deciziei actuale."
+      ],
+      "conclusion": "Decizia prezentă depinde de beneficii și costuri care încă se pot modifica."
+    },
+    {
+      "steps": [
+        "Aceleași resurse permit 4 mese sau 12 rafturi. Raportul este 12/4 = 3 rafturi pentru o masă.",
+        "Pentru 6 rafturi se sacrifică 6/3 = 2 mese.",
+        "Verificare: 6 rafturi reprezintă jumătate din producția maximă de rafturi. Jumătate din 4 mese înseamnă 2 mese."
+      ],
+      "conclusion": "Cu productivitate constantă raportul de transformare rămâne același pentru toate combinațiile."
+    },
+    {
+      "steps": [
+        "La Qx = 0 obținem Qy = 24. La Qy = 0 relația 24 − 2Qx = 0 dă Qx = 12.",
+        "Pentru Qx = 6 frontiera permite Qy = 24 − 12 = 12. Combinația (6; 12) se află pe frontieră.",
+        "Combinația (6; 10) are cu două invitații mai puțin la același număr de afișe. Este în interior și este realizabilă."
+      ],
+      "conclusion": "Primul punct este eficient productiv. Al doilea lasă posibilități neutilizate."
+    },
+    {
+      "steps": [
+        "Comparăm două combinații posibile cu aceleași resurse și tehnologie. Numărul afișelor rămâne 8.",
+        "Invitațiile pot crește de la 10 la 14 fără sacrificarea afișelor. Sporul este 14 − 10 = 4.",
+        "Prima combinație nu este eficientă deoarece există o combinație realizabilă care o domină."
+      ],
+      "conclusion": "Această observație arată folosirea incompletă a posibilităților existente. Nu demonstrează o frontieră nouă."
+    },
+    {
+      "steps": [
+        "Sera sporește posibilitățile de producere a legumelor la aceleași resurse.",
+        "Interceptarea axei legumelor se îndepărtează de origine. Interceptarea axei fructelor rămâne la valoarea inițială precizată în condiție.",
+        "Desenul poate arăta o extindere orientată spre legume. Nu este necesară o deplasare paralelă a întregii frontiere."
+      ],
+      "conclusion": "Un progres tehnic poate favoriza un singur bun fără să mărească maximul celuilalt."
+    },
+    {
+      "steps": [
+        "Prima oră aduce 90 − 50 = 40 de lei avantaj net. A doua adaugă 60 − 50 = 10 lei.",
+        "A treia ar adăuga 30 − 50 = −20 de lei. Ea reduce avantajul net total.",
+        "Pentru zero ore avantajul este 0. Pentru una este 40. Pentru două este 50. Pentru trei este 30. Maximul apare la două ore."
+      ],
+      "conclusion": "Se aleg două ore. Avantajul net este 50 de lei deoarece ultima oră acceptată aduce mai mult decât sacrifică."
+    },
+    {
+      "steps": [
+        "Afirmația A descrie o relație care poate fi confruntată cu date. Este pozitivă chiar dacă ar putea fi greșită.",
+        "Afirmația B conține o recomandare despre ce ar trebui făcut. Este normativă.",
+        "Pentru A comparăm prețul și călătoriile în situații cu venituri și condiții de transport comparabile. O simplă coincidență temporală nu este suficientă."
+      ],
+      "conclusion": "O afirmație verificabilă și o judecată de valoare au roluri diferite."
+    },
+    {
+      "steps": [
+        "Două ore pentru pâine dau 2 × 30 = 60 de pâini. O oră pentru chifle dă 1 × 60 = 60 de chifle.",
+        "Încă 30 de pâini necesită o oră de cuptor. Durata totală rămâne trei ore.",
+        "Ora trebuie luată de la chifle. Se sacrifică 60 de chifle iar noua combinație este 90 de pâini și zero chifle."
+      ],
+      "conclusion": "Resursa limitată este timpul cuptorului. Sporul unui produs are un cost de oportunitate în celălalt."
+    },
+    {
+      "steps": [
+        "Ploaia poate mări cererea de umbrele. Cererea mai mare poate ridica simultan prețul și cantitatea vândută.",
+        "Creșterea simultană nu izolează efectul prețului. Se poate modifica o altă cauză importantă.",
+        "O comparație mai potrivită menține condițiile meteo și celelalte condiții relevante cât mai asemănătoare și compară prețuri diferite."
+      ],
+      "conclusion": "Asocierea observată nu demonstrează că scumpirea a determinat cumpărări suplimentare."
+    }
+  ],
+  "2": [
+    {
+      "steps": [
+        "Echilibrul cere 100 − 2P = 20 + 2P. Obținem 80 = 4P și P = 20 de lei/kg.",
+        "În cerere Qd = 100 − 2 × 20 = 60 kg pe zi.",
+        "În ofertă Qs = 20 + 2 × 20 = 60 kg pe zi. Cele două cantități sunt egale."
+      ],
+      "conclusion": "Prețul de 20 de lei/kg coordonează cererea și oferta la 60 kg pe zi."
+    },
+    {
+      "steps": [
+        "La prețul inițial se cer 200 kg și se oferă 260 kg. Excesul de ofertă este 260 − 200 = 60 kg.",
+        "Cantitatea suplimentară apare din recoltă la același preț. Oferta se deplasează spre dreapta.",
+        "Excesul creează presiune de reducere a prețului. Nu avem funcțiile necesare pentru noul nivel exact."
+      ],
+      "conclusion": "Putem stabili sensul ajustării fără a inventa prețul sau cantitatea finală."
+    },
+    {
+      "steps": [
+        "Fără plafon 120 − 4P = 20 + P. Rezultă P = 20 de lei și Q = 40 de bilete pe zi.",
+        "La plafonul P = 15 cererea este 120 − 60 = 60. Oferta este 20 + 15 = 35.",
+        "Deficitul este 60 − 35 = 25 de bilete. Plafonul este sub prețul liber și devine obligatoriu."
+      ],
+      "conclusion": "Prețul mai mic nu creează bilete suplimentare. În condițiile date oferta disponibilă este 35."
+    },
+    {
+      "steps": [
+        "La prețul de 25 de lei însumăm porțiile celor două cafenele: 40 + 55 = 95.",
+        "La prețul de 30 de lei oferta totală este 50 + 70 = 120 de porții.",
+        "Sporul este 120 − 95 = 25 de porții pe zi."
+      ],
+      "conclusion": "Oferta pieței se însumează în cantități pentru același preț."
+    },
+    {
+      "steps": [
+        "Înainte de impozit Pc = Pv = P. Egalitatea 80 − 2P = 2P dă P = 20 și Q = 40.",
+        "După impozit introducem Pc = Pv + 4. Relația 80 − 2(Pv + 4) = 2Pv dă Pv = 18 și Pc = 22.",
+        "Cantitatea este Q = 2 × 18 = 36. Impozitul colectat este 4 × 36 = 144 de lei. Cumpărătorul plătește cu 2 lei mai mult și vânzătorul primește cu 2 lei mai puțin."
+      ],
+      "conclusion": "Sarcina unitară este împărțită egal în acest exemplu. Cantitatea tranzacționată scade."
+    },
+    {
+      "steps": [
+        "Inițial 60 − P = P. Obținem P = 30 și Q = 30 de reparații.",
+        "După subvenție prestatorul primește Pv = Pc + 10. Egalitatea devine 60 − Pc = Pc + 10. Rezultă Pc = 25 și Pv = 35.",
+        "Cantitatea este Q = 35. Costul bugetar al subvenției este 10 × 35 = 350 de lei."
+      ],
+      "conclusion": "Clientul plătește cu 5 lei mai puțin iar prestatorul primește cu 5 lei mai mult pe reparație."
+    },
+    {
+      "steps": [
+        "Schimbarea cererii de apă la același preț este 100 − 80 = 20 de sticle.",
+        "Raportată la cantitatea inițială creșterea este 20/80 × 100% = 25%.",
+        "Scumpirea sucului schimbă cererea pentru substituentul său. Curba cererii de apă se deplasează spre dreapta."
+      ],
+      "conclusion": "Nu este o mișcare pe cererea de apă deoarece prețul apei rămâne 12 lei."
+    },
+    {
+      "steps": [
+        "Echilibrul liber cere 90 − 3P = 10 + P. Rezultă P = 20 și Q = 30.",
+        "La prețul minim de 25 cererea este 90 − 75 = 15. Oferta este 10 + 25 = 35.",
+        "Excesul de ofertă este 35 − 15 = 20 de unități. Fără cumpărări publice se pot vinde cel mult 15 unități în această comparație."
+      ],
+      "conclusion": "Un preț minim obligatoriu poate lăsa o parte din oferta dorită nevândută."
+    },
+    {
+      "steps": [
+        "Inițial 80 − 2P = 20 + P dă P = 20 și Q = 40.",
+        "Ulterior 110 − 2P = 50 + P dă tot P = 20. Noua cantitate este Q = 70.",
+        "Prețul nu se schimbă iar cantitatea crește cu 70 − 40 = 30."
+      ],
+      "conclusion": "Creșterea cererii și a ofertei se compensează asupra prețului în funcțiile date."
+    },
+    {
+      "steps": [
+        "Oferta serii este 120. Egalitatea 180 − 3P = 120 dă P = 20 de lei.",
+        "La P = 10 cererea este 180 − 30 = 150 de bilete.",
+        "Deficitul este 150 − 120 = 30 de bilete. Numărul locurilor nu se poate ajusta în acea seară."
+      ],
+      "conclusion": "Capacitatea fixă limitează vânzările indiferent de numărul cumpărătorilor interesați."
+    }
+  ],
+  "3": [
+    {
+      "steps": [
+        "Elasticitatea pe baza procentelor date este Ed = −10% / 5% = −2.",
+        "Semnul negativ arată reacția în sens opus prețului.",
+        "Valoarea absolută este 2 și depășește 1. Cererea este elastică."
+      ],
+      "conclusion": "Cantitatea se modifică procentual mai mult decât prețul în comparația dată."
+    },
+    {
+      "steps": [
+        "Noul preț este 30 × 9/10 = 27 de lei. Noua cantitate este 200 × 115/100 = 230 de pachete.",
+        "Încasările inițiale sunt 30 × 200 = 6000 de lei. Cele finale sunt 27 × 230 = 6210.",
+        "Creșterea este 210 de lei. Procentual 210/6000 × 100% = 7/2%."
+      ],
+      "conclusion": "Sporul cantității depășește efectul prețului mai mic asupra încasărilor."
+    },
+    {
+      "steps": [
+        "Media cantităților este (120 + 80)/2 = 100. Media prețurilor este (20 + 30)/2 = 25.",
+        "Variația relativă a cantității este −40/100. Variația relativă a prețului este 10/25. Raportul este Ed = −1.",
+        "Încasările sunt 20 × 120 = 2400 și 30 × 80 = 2400 de lei."
+      ],
+      "conclusion": "Elasticitatea pe arc este unitară în această comparație. Nu rezultă că elasticitatea punctuală este aceeași în fiecare punct."
+    },
+    {
+      "steps": [
+        "Elasticitatea după venit este Ei = 20% / 10% = 2.",
+        "Venitul și cantitatea cerută cresc în același sens. Serviciul este normal în intervalul dat.",
+        "Coeficientul depășește 1. Reacția cererii este mai mult decât proporțională venitului."
+      ],
+      "conclusion": "Această clasificare nu măsoară nivelul absolut al prețului excursiei."
+    },
+    {
+      "steps": [
+        "Elasticitatea este Ei = −4% / 8% = −1/2.",
+        "Semnul negativ arată că venitul mai mare este asociat cu cerere mai mică în condițiile precizate.",
+        "Produsul este inferior în sens economic pentru această situație."
+      ],
+      "conclusion": "„Inferior” descrie reacția la venit. Nu reprezintă o evaluare a calității produsului."
+    },
+    {
+      "steps": [
+        "Raportăm schimbarea cererii de ceai la schimbarea prețului cafelei: Exy = 6% / 10% = 3/5.",
+        "Coeficientul este pozitiv deoarece ambele schimbări au același semn.",
+        "Scumpirea cafelei mărește cererea de ceai la prețul neschimbat al ceaiului."
+      ],
+      "conclusion": "Bunurile sunt substituibile în intervalul și condițiile problemei."
+    },
+    {
+      "steps": [
+        "Prețul imprimantelor scade cu 12%. Cererea de cartușe crește cu 6%.",
+        "Elasticitatea încrucișată este Exy = 6% / (−12%) = −1/2.",
+        "Un preț mai mic al imprimantelor favorizează utilizarea lor și cererea de cartușe."
+      ],
+      "conclusion": "Semnul negativ indică bunuri complementare în condițiile date."
+    },
+    {
+      "steps": [
+        "Pe termen scurt Es = 5% / 10% = 1/2.",
+        "Pe termen lung Es = 20% / 10% = 2.",
+        "Oferta este inelastică în prima comparație și elastică în a doua."
+      ],
+      "conclusion": "Perioada mai lungă permite ajustări de personal și echipament care nu sunt imediat posibile."
+    },
+    {
+      "steps": [
+        "Ponderea suportată de cumpărător este Es/(Es + abs(Ed)) = 3/(3 + 1) = 3/4.",
+        "Din impozitul mic de 8 lei cumpărătorului îi revin aproximativ 8 × 3/4 = 6 lei.",
+        "Vânzătorului îi revin aproximativ 8 × 1/4 = 2 lei. Suma este 8 lei."
+      ],
+      "conclusion": "Partea relativ mai puțin elastică suportă mai mult. Rezultatul folosește aproximarea locală precizată."
+    },
+    {
+      "steps": [
+        "La P = 20 avem Q = 120 − 2 × 20 = 80 de unități.",
+        "Panta cererii în forma Q(P) este −2. Elasticitatea punctuală este Ed = −2 × 20/80 = −1/2.",
+        "Pentru o scumpire mică de 2% estimarea este ΔQ% ≈ (−1/2) × 2% = −1%."
+      ],
+      "conclusion": "Elasticitatea nu are unitate de măsură. Panta exprimă unități de cantitate pe leu."
+    }
+  ],
+  "4": [
+    {
+      "steps": [
+        "Notăm X numărul caietelor și Y numărul pixurilor. Bugetul impune 20X + 10Y ≤ 120 cu X și Y nenegative.",
+        "Cu numai caiete X = 120/20 = 6. Cu numai pixuri Y = 120/10 = 12.",
+        "Coșul propus costă 20 × 4 + 10 × 4 = 120 de lei."
+      ],
+      "conclusion": "Coșul este accesibil și se află pe linia bugetară deoarece utilizează întregul buget."
+    },
+    {
+      "steps": [
+        "La venitul de 90 de lei intersecțiile sunt X = 90/15 = 6 și Y = 90/10 = 9.",
+        "La venitul de 120 de lei intersecțiile sunt X = 8 și Y = 12.",
+        "Panta cu X pe axa orizontală este −15/10 = −3/2 în ambele situații."
+      ],
+      "conclusion": "Prețurile relative nu se modifică. Linia se deplasează paralel spre exterior."
+    },
+    {
+      "steps": [
+        "Inițial maximul pentru X este 100/20 = 5. Maximul pentru Y este 100/10 = 10.",
+        "După ieftinire maximul pentru X devine 100/10 = 10. Maximul pentru Y rămâne 10.",
+        "Panta se modifică de la −2 la −1. Linia se rotește în jurul intersecției cu axa Y."
+      ],
+      "conclusion": "X devine mai ieftin în raport cu Y și posibilitățile de cumpărare a lui X cresc."
+    },
+    {
+      "steps": [
+        "Utilitatea marginală este sporul utilității totale. Prima porție aduce 18 − 0 = 18.",
+        "Porțiile următoare aduc 32 − 18 = 14 și 42 − 32 = 10 și 48 − 42 = 6.",
+        "Toate sporurile sunt pozitive dar se reduc de la o porție la alta."
+      ],
+      "conclusion": "Utilitatea totală crește cu sporuri descrescătoare. MU descrescătoare nu înseamnă TU în scădere."
+    },
+    {
+      "steps": [
+        "Pentru X utilitatea marginală pe leu este 30/10 = 3.",
+        "Pentru Y raportul este 20/5 = 4. Un leu marginal orientat spre Y aduce mai multă utilitate.",
+        "Pentru o ajustare mică se transferă buget dinspre X spre Y. Direcția este locală deoarece nu cunoaștem întreaga funcție a preferințelor."
+      ],
+      "conclusion": "Nu putem calcula coșul final numai din aceste două utilități marginale. La un optim interior raporturile se egalizează în condițiile uzuale."
+    },
+    {
+      "steps": [
+        "Coșurile întregi care epuizează bugetul satisfac 20X + 10Y = 40. Sunt (0; 4) și (1; 2) și (2; 0).",
+        "Utilitățile totale sunt 18 + 14 + 10 + 6 = 48 pentru primul coș. Pentru al doilea sunt 30 + 18 + 14 = 62. Pentru al treilea sunt 30 + 20 = 50.",
+        "Cel mai mare rezultat este 62 la X = 1 și Y = 2. Utilitățile marginale pozitive exclud un avantaj al lăsării intenționate a bugetului nefolosit aici."
+      ],
+      "conclusion": "La bunuri indivizibile comparăm coșurile fezabile. Egalitatea exactă a raporturilor marginale nu este obligatorie."
+    },
+    {
+      "steps": [
+        "Coșul B are o unitate X în plus și aceeași cantitate Y. Cu ambele bunuri dorite B este preferat lui A.",
+        "Costul lui A este 10 × 2 + 10 × 4 = 60 de lei.",
+        "Costul lui B este 10 × 3 + 10 × 4 = 70 de lei și depășește bugetul de 60."
+      ],
+      "conclusion": "Un coș preferat poate fi inaccesibil. A este accesibil iar B nu este."
+    },
+    {
+      "steps": [
+        "Un set complet cere o cutie X și două unități Y. Costul este 20 + 2 × 5 = 30 de lei.",
+        "Bugetul permite 90/30 = 3 seturi complete.",
+        "Coșul este X = 3 și Y = 6. Verificare: 3 × 20 + 6 × 5 = 90."
+      ],
+      "conclusion": "Unitățile fără pereche nu aduc beneficiu suplimentar. Se respectă proporția fixă dintre bunuri."
+    },
+    {
+      "steps": [
+        "Inițial intersecțiile sunt X = 200/20 = 10 și Y = 200/10 = 20.",
+        "După dublare ele sunt X = 400/40 = 10 și Y = 400/20 = 20.",
+        "Panta este −20/10 = −2 și rămâne −40/20 = −2."
+      ],
+      "conclusion": "Dublarea simultană a venitului și a prețurilor nu modifică posibilitățile reale de consum."
+    },
+    {
+      "steps": [
+        "Prețurile constante păstrează panta liniei. Venitul mai mic reduce ambele intersecții cu axele cu 10%.",
+        "Excursiile sunt cumpărate în cantitate mai mică la venit mai mic. Ele sunt normale în intervalul descris.",
+        "Alimentul este cumpărat în cantitate mai mare la venit mai mic. El este inferior în intervalul descris."
+      ],
+      "conclusion": "Linia se deplasează paralel spre interior. Datele nu permit reconstruirea exactă a utilității sau a noului coș."
+    }
+  ],
+  "5": [
+    {
+      "steps": [
+        "Producția pentru 0–4 angajați este 0 și 20 și 28 și 30 și 30. Calculăm diferențele succesive.",
+        "Produsele marginale sunt 20 și 8 și 2 și 0 pâini pentru angajatul suplimentar.",
+        "Pentru trei angajați produsul mediu este AP = 30/3 = 10 pâini pe angajat."
+      ],
+      "conclusion": "Cuptorul limitează lotul la 30 de pâini. Al patrulea angajat nu mărește producția în condițiile date."
+    },
+    {
+      "steps": [
+        "Produsul marginal al celui de-al cincilea angajat este 65 − 48 = 17 obiecte pe zi.",
+        "Produsul mediu inițial este 48/4 = 12. Cel final este 65/5 = 13 obiecte pe angajat.",
+        "Sporul de 17 depășește media inițială de 12 și ridică media la 13."
+      ],
+      "conclusion": "Un produs marginal mai mare decât media existentă mărește produsul mediu."
+    },
+    {
+      "steps": [
+        "Produsul mediu este Q/L. Numărul necesar este L = 1800/36 = 50 de lucrători.",
+        "Firma are deja 40. Angajările suplimentare sunt 50 − 40 = 10.",
+        "Verificare: 50 × 36 = 1800 de unități pe săptămână. Media inițială era 1200/40 = 30."
+      ],
+      "conclusion": "Estimarea folosește produsul mediu final precizat. Nu presupune aceeași productivitate ca la început."
+    },
+    {
+      "steps": [
+        "Costul primei combinații este 80 × 2 + 40 × 6 = 400 de lei.",
+        "Costul celei de-a doua este 80 × 4 + 40 × 3 = 440 de lei.",
+        "Prima economisește 440 − 400 = 40 de lei pentru același lot de 100 de obiecte."
+      ],
+      "conclusion": "Alegem prima dintre cele două variante. Nu putem afirma că este minimul tuturor combinațiilor posibile."
+    },
+    {
+      "steps": [
+        "Dublarea resurselor înseamnă un factor de multiplicare 2 și o creștere de 100%.",
+        "Producția se multiplică prin 120/50 = 12/5. Creșterea ei este 70/50 × 100% = 140%.",
+        "Producția crește mai mult decât proporțional față de toate resursele."
+      ],
+      "conclusion": "Sunt randamente crescătoare la scară pentru trecerea analizată."
+    },
+    {
+      "steps": [
+        "Resursele se multiplică prin 2. Producția se multiplică prin 140/80 = 7/4.",
+        "Dublul producției inițiale ar fi 160. Producția finală de 140 este mai mică decât acel reper.",
+        "Totuși producția totală crește cu 140 − 80 = 60 de unități."
+      ],
+      "conclusion": "Randamentele sunt descrescătoare la scară. Acest lucru nu înseamnă că producția totală scade."
+    },
+    {
+      "steps": [
+        "Al șaselea angajat schimbă producția de la 90 la 84. Produsul marginal este 84 − 90 = −6.",
+        "Noul produs mediu este 84/6 = 14 obiecte pe angajat.",
+        "Media inițială era 90/5 = 18. Atât media cât și totalul sunt mai mici în a doua situație."
+      ],
+      "conclusion": "Produsul marginal negativ poate reflecta aglomerarea în spațiul fix. Mecanismul concret nu poate fi identificat numai din două valori."
+    },
+    {
+      "steps": [
+        "Un post cere două aparate și un angajat. Capacitățile date de factori sunt 3 posturi prin muncă și 8/2 = 4 prin aparate.",
+        "Numărul complet este min(3; 4) = 3. Producția este 3 × 10 = 30 de unități pe oră.",
+        "După adăugarea unui angajat sunt min(4; 4) = 4 posturi și 40 de unități pe oră."
+      ],
+      "conclusion": "Inițial două aparate erau neutilizate. Angajatul suplimentar le permite folosirea fără achiziții noi."
+    },
+    {
+      "steps": [
+        "În funcție introducem L = 5 și K = 6: Q = 4 × 5 + 2 × 6 = 32.",
+        "După dublare L = 10 și K = 12. Producția devine Q = 40 + 24 = 64.",
+        "Producția se dublează exact: 64 = 2 × 32."
+      ],
+      "conclusion": "Funcția ilustrează randamente constante la scară în intervalul unde este valabilă."
+    },
+    {
+      "steps": [
+        "Munca sporește cu 6 − 4 = 2 unități. Capitalul scade cu 10 − 7 = 3 unități.",
+        "Capitalul economisit pe unitate suplimentară de muncă este 3/2. Panta secantei este −3/2.",
+        "Nu cunoaștem prețurile factorilor. Nu putem transforma cele două combinații în costuri comparabile."
+      ],
+      "conclusion": "Raportul tehnic pe interval nu stabilește singur combinația cu cost minim și nu este obligatoriu rata marginală într-un punct."
+    }
+  ],
+  "6": [
+    {
+      "steps": [
+        "Costul total este TC = FC + VC = 200 + 600 = 800 de lei pe zi.",
+        "Costul mediu total este ATC = 800/50 = 16 lei pe obiect.",
+        "AFC = 200/50 = 4 și AVC = 600/50 = 12 lei. Verificare: 4 + 12 = 16."
+      ],
+      "conclusion": "Costul fix de 200 de lei rămâne la oprirea producției în orizontul precizat."
+    },
+    {
+      "steps": [
+        "Costul suplimentar este 2060 − 1800 = 260 de lei pentru 120 − 100 = 20 de unități.",
+        "Costul marginal mediu pe interval este 260/20 = 13 lei. Media inițială este 1800/100 = 18 lei.",
+        "Media finală este 2060/120 = 103/6 lei și este sub 18."
+      ],
+      "conclusion": "Lotul suplimentar are un cost pe unitate sub media inițială și reduce media totală."
+    },
+    {
+      "steps": [
+        "Sporul chiriei se repartizează la 80 de unități: ΔAFC = 160/80 = 2 lei.",
+        "AVC nu se schimbă la acel volum. Prin urmare ATC crește tot cu 2 lei pe unitate.",
+        "Pentru fiecare volum costul total crește cu aceeași sumă fixă. Diferențele de cost dintre volume rămân identice."
+      ],
+      "conclusion": "Costul marginal nu se modifică. Un cost fix mai mare ridică mediile fără să schimbe costul unității suplimentare."
+    },
+    {
+      "steps": [
+        "Termenul independent de Q este FC = 100. La Q = 20 costul variabil este VC = 5 × 20 = 100.",
+        "Costul total este 200 de lei. Media este ATC = 200/20 = 10 lei.",
+        "O unitate suplimentară adaugă 5 lei. MC = 5. Relația mediei este ATC = 100/Q + 5 pentru Q pozitiv."
+      ],
+      "conclusion": "Creșterea producției repartizează costul fix la mai multe obiecte. Media se apropie de 5 fără să fie egală cu el la un Q finit."
+    },
+    {
+      "steps": [
+        "La patru angajați Q = 4 × 10 = 40 și VC = 4 × 120 = 480. AVC = 480/40 = 12.",
+        "La cinci angajați Q = 5 × 12 = 60 și VC = 600. AVC = 600/60 = 10.",
+        "Sporul de cost este 120 pentru 20 de obiecte suplimentare. MC pe interval este 120/20 = 6 lei."
+      ],
+      "conclusion": "Productivitatea mai mare reduce costul variabil mediu când salariul rămâne constant."
+    },
+    {
+      "steps": [
+        "Bugetul resurselor impune 100L + 50K = 1000.",
+        "Cu numai muncă L = 10. Cu numai utilaj K = 20.",
+        "Rezolvând după K obținem K = 20 − 2L. Panta cu L pe orizontală este −2."
+      ],
+      "conclusion": "O zi de muncă suplimentară cere renunțarea la două ore de utilaj pentru a păstra același cost."
+    },
+    {
+      "steps": [
+        "Tehnologia A costă 6 × 80 + 4 × 40 = 640 de lei.",
+        "Tehnologia B costă 4 × 80 + 7 × 40 = 600 de lei.",
+        "Economia prin B este 640 − 600 = 40 de lei pentru 200 de obiecte."
+      ],
+      "conclusion": "Comparăm costurile pentru aceeași producție. B este mai ieftină dintre variantele date."
+    },
+    {
+      "steps": [
+        "Profitul contabil este 12000 − 8500 = 3500 de lei pe lună.",
+        "Costurile implicite sunt salariul sacrificat și chiria sacrificată: 2500 + 600 = 3100.",
+        "Profitul economic este 3500 − 3100 = 400 de lei. Costul economic total este 11600."
+      ],
+      "conclusion": "Activitatea acoperă costurile explicite și alternativele sacrificate și mai lasă 400 de lei."
+    },
+    {
+      "steps": [
+        "La 100 de unități costul total este 100 × 20 = 2000 de lei.",
+        "La 200 de unități costul total este 200 × 16 = 3200 de lei.",
+        "Cantitatea se dublează iar totalul crește cu 60%. Costul mediu se reduce cu 4 lei pe unitate."
+      ],
+      "conclusion": "Sunt economii de scară în comparația dată. Ele nu presupun reducerea costului total."
+    },
+    {
+      "steps": [
+        "Produsul marginal pe leu pentru muncă este 30/60 = 1/2 obiect.",
+        "Pentru capital este 20/80 = 1/4 obiect. Munca aduce local mai multă producție pe leu.",
+        "Pentru aceeași producție se poate înlocui o parte din capital cu muncă. O unitate de capital pierdută cere local 20/30 = 2/3 unități de muncă. Acestea costă 40 de lei față de 80 de lei economisiți."
+      ],
+      "conclusion": "Ajustarea reduce local costul în condițiile de divizibilitate. Datele nu determină combinația finală exactă."
+    }
+  ],
+  "7": [
+    {
+      "steps": [
+        "Încasările sunt TR = 80 × 50 = 4000 de lei pe săptămână.",
+        "Profitul este TR − TC = 4000 − 3000 = 1000 de lei.",
+        "Profitul mediu este 1000/80 = 25/2 lei pe obiect."
+      ],
+      "conclusion": "Încasările nu sunt profit. Costurile trebuie scăzute înainte de repartizarea profitului pe obiect."
+    },
+    {
+      "steps": [
+        "Marja pe produs este P − v = 40 − 25 = 15 lei.",
+        "Pragul este Q = FC/(P − v) = 1200/15 = 80 de produse pe lună.",
+        "La 80 încasările sunt 3200. Costul este 1200 + 25 × 80 = 3200."
+      ],
+      "conclusion": "La prag firma își acoperă costurile incluse în condiție și obține profit zero."
+    },
+    {
+      "steps": [
+        "Fiecare serviciu contribuie cu 60 − 20 = 40 de lei înainte de costul fix.",
+        "Pentru costul fix și profitul dorit sunt necesari 2000 + 1200 = 3200 de lei. Cantitatea este 3200/40 = 80.",
+        "Încasările sunt 80 × 60 = 4800. Verificare: 4800 − 2000 − 80 × 20 = 1200."
+      ],
+      "conclusion": "Profitul țintă cere un volum peste pragul de 2000/40 = 50 de servicii."
+    },
+    {
+      "steps": [
+        "Unitatea suplimentară aduce MR = 1040 − 1000 = 40 de lei.",
+        "Ea costă MC = 850 − 820 = 30 de lei.",
+        "Profitul inițial este 180 iar cel final 190. Sporul este 40 − 30 = 10 lei."
+      ],
+      "conclusion": "Unitatea suplimentară mărește profitul deoarece încasarea marginală depășește costul marginal."
+    },
+    {
+      "steps": [
+        "Contribuția ultimei unități este MR − MC = 25 − 32 = −7 lei.",
+        "Renunțarea la această unitate reduce încasările cu 25 dar economisește 32.",
+        "Profitul crește astfel cu 32 − 25 = 7 lei."
+      ],
+      "conclusion": "Datele susțin reducerea cu acea unitate. Ele nu arată singure întregul volum optim."
+    },
+    {
+      "steps": [
+        "Profitul contabil este 15000 − 10000 = 5000 de lei.",
+        "Profitul economic este 15000 − 10000 − 4000 = 1000 de lei.",
+        "Diferența este costul implicit de 4000 de lei."
+      ],
+      "conclusion": "Profitul economic include alternativa sacrificată a resurselor proprietarului."
+    },
+    {
+      "steps": [
+        "Pentru recuperarea costului încasările trebuie să fie 7000. Prețul este 7000/200 = 35 de lei.",
+        "Pentru profit de 1000 încasările necesare sunt 7000 + 1000 = 8000.",
+        "Prețul necesar este 8000/200 = 40 de lei."
+      ],
+      "conclusion": "Calculul presupune vânzarea tuturor celor 200 de obiecte la același preț. Nu dovedește că piața acceptă prețul calculat."
+    },
+    {
+      "steps": [
+        "Inițial TR = 100 × 30 = 3000 și TC = 800 + 15 × 100 = 2300. Profitul este 700.",
+        "Ulterior TR = 120 × 28 = 3360 și TC = 800 + 15 × 120 = 2600. Profitul este 760.",
+        "Profitul crește cu 760 − 700 = 60 de lei."
+      ],
+      "conclusion": "Reducerea prețului este avantajoasă în datele problemei deoarece sporul încasărilor depășește sporul costurilor."
+    },
+    {
+      "steps": [
+        "Pentru fiecare volum scădem costul din încasări: 100 − 80 = 20 și 180 − 120 = 60.",
+        "La trei loturi profitul este 240 − 180 = 60. La patru este 280 − 260 = 20.",
+        "Două și trei loturi oferă același profit maxim de 60 dintre variantele date."
+      ],
+      "conclusion": "Între două și trei loturi încasarea suplimentară este egală cu costul suplimentar. Nu există un singur maxim obligatoriu în tabel."
+    },
+    {
+      "steps": [
+        "Marja pe unitate este 50 − 30 = 20 de lei în ambele situații.",
+        "Pragul inițial este 1000/20 = 50. Noul prag este 1400/20 = 70 de produse.",
+        "Creșterea costului fix cu 400 cere 400/20 = 20 de produse suplimentare pentru recuperare."
+      ],
+      "conclusion": "Chiria schimbă pragul fără să modifice marja pe unitate."
+    }
+  ],
+  "8": [
+    {
+      "steps": [
+        "La 20 de produse TR = 40 × 20 = 800 de lei.",
+        "La 25 de produse TR = 40 × 25 = 1000 de lei.",
+        "MR pe interval este (1000 − 800)/(25 − 20) = 40 de lei."
+      ],
+      "conclusion": "Firma acceptă prețul pieței. Fiecare produs suplimentar aduce același preț."
+    },
+    {
+      "steps": [
+        "Comparăm fiecare cost marginal cu prețul de 30. Primele trei costă 18 și 24 și 28. Al patrulea costă 35.",
+        "Contribuțiile primelor trei unități sunt 12 și 6 și 2 lei. Suma este 20 de lei.",
+        "A patra ar reduce rezultatul cu 35 − 30 = 5 lei. Se produc primele trei unități din șirul dat."
+      ],
+      "conclusion": "Contribuția pozitivă acoperă o parte din costurile fixe deja suportate. Nu este automat profit total pozitiv."
+    },
+    {
+      "steps": [
+        "Încasările sunt 100 × 25 = 2500 de lei. Costul variabil este 100 × 20 = 2000.",
+        "Costul total este 2000 + 800 = 2800. Rezultatul producției este −300.",
+        "La oprire rămâne costul fix de 800. Producția îmbunătățește rezultatul cu 500 de lei."
+      ],
+      "conclusion": "Firma continuă pe termen scurt deoarece încasările acoperă costul variabil și o parte din costul fix."
+    },
+    {
+      "steps": [
+        "Pentru orice Q pozitiv AVC este cel puțin 18. Prețul de 15 este sub acest nivel.",
+        "Prin urmare TR = 15Q este mai mic decât VC pentru fiecare volum disponibil. Producția mărește pierderea față de oprire.",
+        "La Q = 0 rămâne pierderea egală cu FC = 500 de lei."
+      ],
+      "conclusion": "Decizia pe termen scurt este oprirea producției în condițiile precizate."
+    },
+    {
+      "steps": [
+        "Profitul mediu este P − ATC = 40 − 32 = 8 lei.",
+        "Profitul total este 8 × 60 = 480 de lei.",
+        "TR = 40 × 60 = 2400 și TC = 32 × 60 = 1920. Diferența este 480."
+      ],
+      "conclusion": "Profitul economic pozitiv poate atrage intrare când aceasta este posibilă. El nu fixează singur evoluția viitoare a prețului."
+    },
+    {
+      "steps": [
+        "În concurență perfectă alegerea interioară cere P = MC. Relația 30 = 10 + 2Q dă Q = 10.",
+        "La Q = 10 avem AVC = 20 și VC = 200. TC = 200 + 100 = 300 iar TR = 300.",
+        "Profitul este zero. Prețul 30 depășește AVC de 20 și producția acoperă costurile variabile."
+      ],
+      "conclusion": "Firma produce. Costul marginal crește și verificarea opririi confirmă alegerea pozitivă."
+    },
+    {
+      "steps": [
+        "Oferta pieței este suma celor 100 de oferte: Qs = 100(2P − 10) = 200P − 1000 pentru P ≥ 5.",
+        "Egalitatea 200P − 1000 = 1000 − 20P dă 220P = 2000. Prețul este P = 100/11.",
+        "Cantitatea pieței este Q = 9000/11. Fiecare firmă oferă q = 90/11. Verificare: 100q = Q și P depășește 5."
+      ],
+      "conclusion": "Însumarea păstrează același preț pentru toate firmele și respectă domeniul funcției ofertei."
+    },
+    {
+      "steps": [
+        "Oferta inițială la prețul ales este 20 × 100 = 2000 de unități.",
+        "După intrare sunt 25 de firme. Oferta la același preț este 25 × 100 = 2500.",
+        "Sporul ofertei este 500. Cu cerere neschimbată apare presiune de scădere a prețului."
+      ],
+      "conclusion": "Valorile descriu oferta la prețul inițial. Prețul final nu poate fi calculat fără relațiile pieței."
+    },
+    {
+      "steps": [
+        "În echilibrul standard cu intrare liberă prețul este egal cu minimul LRAC: P = 24 de lei.",
+        "Fiecare firmă produce scara eficientă q = 80.",
+        "Numărul firmelor este N = 4000/80 = 50. Profitul economic este zero deoarece P = LRAC."
+      ],
+      "conclusion": "Costul mediu economic include costurile de oportunitate. Profit zero nu înseamnă lipsa remunerării normale a resurselor."
+    },
+    {
+      "steps": [
+        "Rezultatul producției este 4700 − 5000 = −300 de lei.",
+        "Oprirea pe termen scurt evită 4000 și lasă 1000 de lei cost inevitabil. Pierderea la oprire este 1000.",
+        "Continuarea este mai bună cu 700 pe termen scurt. Pe termen lung ieșirea evită toate costurile și este preferabilă unei pierderi persistente."
+      ],
+      "conclusion": "Orizontul deciziei schimbă costurile relevante. Continuarea temporară nu justifică rămânerea permanentă."
+    }
+  ],
+  "9": [
+    {
+      "steps": [
+        "Încasările sunt TR = (60 − Q)Q. Profitul este 40Q − Q² − 100 = 300 − (Q − 20)².",
+        "Pătratul scăzut este cel mai mic la Q = 20. Cantitatea este în domeniul 0–60. Prețul este P = 60 − 20 = 40.",
+        "TR = 800 și TC = 20 × 20 + 100 = 500. Profitul este 300 de lei."
+      ],
+      "conclusion": "Cantitatea maximizează profitul. Prețul se citește din cerere după alegerea cantității."
+    },
+    {
+      "steps": [
+        "Încasarea inițială este 10 × 50 = 500 de lei.",
+        "Încasarea finală este 11 × 48 = 528 de lei. Sporul pentru o unitate suplimentară este MR = 28.",
+        "Noua unitate aduce 48 de lei dar reducerea de 2 lei se aplică și celor zece unități existente. MR = 48 − 2 × 10 = 28."
+      ],
+      "conclusion": "La un preț unic reducerea necesară pentru vânzarea suplimentară poate face MR mai mic decât prețul."
+    },
+    {
+      "steps": [
+        "Un cost fix suplimentar de 100 se adaugă în mod egal costului fiecărui volum.",
+        "MC rămâne același deoarece diferențele de cost dintre cantități nu se modifică.",
+        "Cât timp firma continuă alegerea optimă rămâne Q = 20 și prețul rămâne 40. Profitul scade cu 100 de lei."
+      ],
+      "conclusion": "Creșterea unui cost fix nu schimbă automat prețul optim al monopolistului."
+    },
+    {
+      "steps": [
+        "Fără impozit profitul este 60Q − Q² = 900 − (Q − 30)². Rezultă Q = 30 și P = 50.",
+        "Cu impozit costul marginal efectiv este 30. Profitul este 50Q − Q² = 625 − (Q − 25)². Rezultă Q = 25 și P = 55.",
+        "Încasarea bugetară este 10 × 25 = 250 de lei. Cumpărătorul plătește cu 5 lei mai mult. Prețul net al firmei este 45."
+      ],
+      "conclusion": "În acest model scumpirea pentru cumpărător este jumătate din impozitul unitar."
+    },
+    {
+      "steps": [
+        "Diferența dintre preț și costul marginal este 50 − 30 = 20 de lei.",
+        "Indicele Lerner este (P − MC)/P = 20/50 = 2/5.",
+        "Marja reprezintă 40% din preț. Ea nu scade costurile fixe și nu reprezintă profitul total."
+      ],
+      "conclusion": "Puterea de piață exprimată prin acest indice nu garantează un anumit profit contabil sau economic."
+    },
+    {
+      "steps": [
+        "Pentru A profitul este (50 − Qa − 10)Qa = 400 − (Qa − 20)². Rezultă Qa = 20 și Pa = 30.",
+        "Pentru B profitul este (30 − Qb − 10)Qb = 100 − (Qb − 10)². Rezultă Qb = 10 și Pb = 20.",
+        "Profiturile sunt 400 și 100. Totalul este 500 de lei."
+      ],
+      "conclusion": "Prețurile distincte sunt posibile deoarece segmentele pot fi separate și revânzarea este exclusă."
+    },
+    {
+      "steps": [
+        "Profitul monopolului este (100 − Q − 20)Q = 1600 − (Q − 40)². Rezultă Qm = 40 și Pm = 60.",
+        "Cantitatea eficientă satisface P = MC: 100 − Q = 20. Rezultă Qef = 80.",
+        "Pierderea socială este aria triunghiului cu baza 80 − 40 = 40 și înălțimea 60 − 20 = 40: 40 × 40/2 = 800."
+      ],
+      "conclusion": "Restrângerea cantității elimină schimburi pentru care beneficiul marginal depășește costul marginal."
+    },
+    {
+      "steps": [
+        "Din TC = 400 + 10Q rezultă MC = 10. Reglementarea impune P = 10.",
+        "La cererea Q = 100 încasările sunt 1000. Costul total este 400 + 1000 = 1400.",
+        "Profitul este −400. Pentru compensarea exactă a costului total ar fi necesari 400 de lei."
+      ],
+      "conclusion": "Prețul egal cu MC nu recuperează automat costul fix al monopolului natural."
+    },
+    {
+      "steps": [
+        "Încasarea primului segment este 10 × 40 = 400. A celui de-al doilea este 20 × 25 = 500.",
+        "Încasarea totală este 900. Costul este 10 × (10 + 20) = 300. Profitul este 600.",
+        "Nu avem cererile segmentelor la alte prețuri. Nu putem determina cantitatea totală la un preț unic alternativ."
+      ],
+      "conclusion": "Două observații de vânzare nu permit calculul prețului unic optim sau al profitului său."
+    },
+    {
+      "steps": [
+        "Din formula dată MR = 30 × (1 + 1/(−2)) = 30 × 1/2 = 15 lei.",
+        "MC este 18. O unitate suplimentară ar costa mai mult decât ar aduce în încasări în această comparație locală.",
+        "În condițiile uzuale se reduce cantitatea. Nu avem funcțiile necesare pentru a găsi exact noul optim."
+      ],
+      "conclusion": "Punctul nu poate fi un optim interior standard deoarece MR este mai mic decât MC."
+    }
+  ],
+  "10": [
+    {
+      "steps": [
+        "Spațiul liniștit reprezintă diferențiere prin ambianță și serviciu.",
+        "Programul prelungit reprezintă diferențiere prin disponibilitatea temporală.",
+        "Diferența de preț este 35 − 30 = 5 lei. Fără cantități și costuri nu putem calcula profitul."
+      ],
+      "conclusion": "Un preț mai mare poate însoți un produs diferențiat. El nu dovedește singur un profit mai mare."
+    },
+    {
+      "steps": [
+        "Profitul este (50 − Q)Q − 10Q − 80 = 40Q − Q² − 80.",
+        "Rescrierea este 320 − (Q − 20)². Maximul este la Q = 20. Prețul este P = 30.",
+        "TR = 600 și TC = 280. Profitul este 320 de lei."
+      ],
+      "conclusion": "Firma întâlnește cerere descrescătoare. Alegerea cantității ține cont de efectul prețului asupra tuturor vânzărilor."
+    },
+    {
+      "steps": [
+        "Încasările inițiale sunt 100 × 30 = 3000 de lei pe săptămână.",
+        "Încasările finale sunt 80 × 30 = 2400. Costul final este 80 × 28 = 2240.",
+        "Profitul final este 2400 − 2240 = 160 de lei. Nu cunoaștem costul inițial și nu putem calcula profitul inițial."
+      ],
+      "conclusion": "La același preț firma pierde clienți după intrare dar rămâne cu profit pozitiv în situația finală."
+    },
+    {
+      "steps": [
+        "Profitul mediu este P − ATC = 40 − 40 = 0.",
+        "Profitul total este zero la Q = 60. TR și TC sunt ambele 2400.",
+        "Adaosul față de MC este 40 − 30 = 10 lei."
+      ],
+      "conclusion": "Profit economic zero poate coexista cu P mai mare decât MC deoarece media totală include și alte costuri."
+    },
+    {
+      "steps": [
+        "Scara eficientă este 100 de unități iar producția firmei este 70.",
+        "Capacitatea excedentară în sensul modelului este 100 − 70 = 30 de unități.",
+        "Ca procent din scara eficientă rezultatul este 30/100 × 100% = 30%."
+      ],
+      "conclusion": "Termenul compară producția cu minimul costului mediu. Nu afirmă că sunt nevândute 30 de produse deja fabricate."
+    },
+    {
+      "steps": [
+        "Încasarea suplimentară este 30 × 40 = 1200 de lei.",
+        "Costul suplimentar de producție este 30 × 20 = 600. Cu promovarea costul suplimentar total este 1000.",
+        "Sporul profitului este 1200 − 1000 = 200 de lei."
+      ],
+      "conclusion": "Campania este avantajoasă în ipoteza că vânzările suplimentare sunt efectul ei și celelalte rezultate nu se schimbă."
+    },
+    {
+      "steps": [
+        "Marja suplimentară înainte de promovare este 20 × 20 = 400 de lei.",
+        "După costul campaniei modificarea profitului este 400 − 600 = −200.",
+        "Pentru recuperare sunt necesare 600/20 = 30 de vânzări suplimentare. Acest nivel dă spor de profit zero."
+      ],
+      "conclusion": "Vânzările mai mari nu garantează profit mai mare dacă promovarea costă mai mult decât contribuția lor."
+    },
+    {
+      "steps": [
+        "Promovarea adaugă un cost fix de 300 de lei fără să schimbe cererea.",
+        "Costurile marginale rămân aceleași pentru toate volumele.",
+        "Cât timp firma continuă cantitatea optimă și prețul rămân aceleași. Profitul scade cu 300."
+      ],
+      "conclusion": "O plată de promovare fără efect asupra cererii nu justifică automat o producție mai mare."
+    },
+    {
+      "steps": [
+        "Raportul procentelor este Ed = −15% / 5% = −3.",
+        "Valoarea absolută 3 depășește 1. Cererea este elastică în comparația dată.",
+        "Alternativele apropiate pot face trecerea la alt comerciant mai ușoară."
+      ],
+      "conclusion": "Datele ilustrează sensibilitatea observată. Nu permit măsurarea separată a tuturor efectelor intrării."
+    },
+    {
+      "steps": [
+        "Suplimentul de preț este 30 − 25 = 5 lei.",
+        "Avantajul adaptării apreciat de client este 8 lei. Beneficiul net suplimentar este 8 − 5 = 3.",
+        "Pentru acel client varianta adaptată este preferabilă dacă prețul încape în buget și toate celelalte condiții sunt identice."
+      ],
+      "conclusion": "Alegerea depinde de aprecierea individuală. Nu rezultă că toți clienții aleg aceeași variantă."
+    }
+  ],
+  "11": [
+    {
+      "steps": [
+        "Vânzările totale sunt 300 + 200 = 500. Cotele sunt 300/500 × 100% = 60% și 40%.",
+        "HHI pe scara cotelor procentuale este 60² + 40² = 3600 + 1600 = 5200.",
+        "Verificare: cotele însumează 100%. Nu folosim 0 și 1 în locul procentelor în această scară."
+      ],
+      "conclusion": "Piața este concentrată în două firme. Indicele nu dovedește singur existența unui acord între ele."
+    },
+    {
+      "steps": [
+        "Profitul firmei 1 pentru o cantitate dată a rivalei este (60 − Q2 − Q1)Q1. Pătratul se maximizează la Q1 = (60 − Q2)/2.",
+        "Simetric Q2 = (60 − Q1)/2. Rezolvând simultan obținem Q1 = Q2 = 20. Prețul este 90 − 40 = 50.",
+        "Profitul fiecăreia este (50 − 30) × 20 = 400. La Q2 = 20 reacția optimă a firmei 1 este într-adevăr 20."
+      ],
+      "conclusion": "Echilibrul Cournot este un echilibru al alegerilor simultane. Nu reprezintă maximizarea profitului comun."
+    },
+    {
+      "steps": [
+        "Firma 2 răspunde prin Q2 = (60 − Q1)/2. Liderul ține cont de această reacție.",
+        "Profitul liderului devine (30 − Q1/2)Q1 = 450 − (Q1 − 30)²/2. Maximul este Q1 = 30 și apoi Q2 = 15.",
+        "Prețul este 90 − 30 − 15 = 45. Profiturile sunt (45 − 30) × 30 = 450 și (45 − 30) × 15 = 225."
+      ],
+      "conclusion": "Ordinea alegerilor schimbă rezultatul. Costurile fixe sunt zero conform condiției actuale."
+    },
+    {
+      "steps": [
+        "Profitul comun este (90 − Q − 30)Q = 900 − (Q − 30)².",
+        "Maximul comun este la Q = 30. Prețul este P = 60.",
+        "Împărțirea egală dă câte 15 unități. Fiecare câștigă (60 − 30) × 15 = 450."
+      ],
+      "conclusion": "Acordul maximizează rezultatul comun în model. Nu elimină stimulentul individual de abatere."
+    },
+    {
+      "steps": [
+        "Cu Q2 = 15 profitul firmei A este (45 − Q1)Q1.",
+        "Maximul este la Q1 = 45/2. Prețul este 90 − 15 − 45/2 = 105/2.",
+        "Profitul este (105/2 − 30) × 45/2 = 2025/4. Față de 450 creșterea este 225/4 de lei."
+      ],
+      "conclusion": "Dacă rivala păstrează cantitatea din acord abaterea este profitabilă pentru A. Aceasta explică fragilitatea acordului în jocul dat."
+    },
+    {
+      "steps": [
+        "Dacă rivala alege preț ridicat firma compară 80 prin ridicat cu 110 prin mic și alege mic.",
+        "Dacă rivala alege mic firma compară 20 prin ridicat cu 40 prin mic și alege tot mic.",
+        "Raționamentul este simetric. Echilibrul Nash este mic/mic cu profituri 40 și 40."
+      ],
+      "conclusion": "Prețul mic este strategie dominantă. Rezultatul ridicat/ridicat ar aduce 80 fiecăreia dar permite abatere profitabilă în jocul unic."
+    },
+    {
+      "steps": [
+        "Marja firmei A este 22 − 18 = 4 lei pe produs.",
+        "Marja firmei B este 22 − 24 = −2 lei pe produs.",
+        "La acest preț A aduce contribuție pozitivă iar B nu își acoperă costul evitabil pe unitate."
+      ],
+      "conclusion": "A poate susține mai ușor prețul în comparația unitară. Nu avem informații despre capacitate sau rezistența financiară pe termen lung."
+    },
+    {
+      "steps": [
+        "După majorare cantitatea este 100 × 80/100 = 80 de unități. Elasticitatea pe procentele date este −20% / 5% = −4.",
+        "După reducere cantitatea este 100 × 102/100 = 102. Elasticitatea este 2% / (−5%) = −2/5.",
+        "Valoarea absolută este mai mare pe segmentul scumpirii: 4 față de 2/5."
+      ],
+      "conclusion": "Reacția rivalilor face pierderea de clienți la scumpire relativ mare și câștigul la ieftinire relativ mic în model."
+    },
+    {
+      "steps": [
+        "Venitul marginal are un gol de la 20 la 35 de lei la cantitatea curentă.",
+        "MC inițial de 25 și MC final de 30 rămân în acel gol.",
+        "În mecanismul cererii frânte această schimbare nu modifică volumul ales. Prețul citit pe aceeași cerere rămâne neschimbat."
+      ],
+      "conclusion": "Modelul poate explica rigiditatea locală. Nu explică singur de unde provine prețul inițial."
+    },
+    {
+      "steps": [
+        "Înainte cotele procentuale sunt 50 și 30 și 20. HHI = 50² + 30² + 20² = 3800.",
+        "După intrare fiecare are 25%. HHI = 4 × 25² = 2500.",
+        "Indicele scade cu 3800 − 2500 = 1300. Vânzările totale rămân 100 conform condiției."
+      ],
+      "conclusion": "Concentrarea este mai mică. Această comparație nu demonstrează singură scăderea prețurilor sau creșterea bunăstării."
+    }
+  ]
+}

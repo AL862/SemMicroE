@@ -88,3 +88,10 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\Complete-CourseImpor
 
 Подключён [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/28b3b8dee8c976df4fa3e94aed4e092ad43fcb03) на коммите `28b3b8dee8c976df4fa3e94aed4e092ad43fcb03`, лицензия MIT. Семь навыков доступны через ссылки .agents/skills: ui-ux-pro-max, slides, design-system, design, brand, ui-styling и banner-design. Для использования нужен инициализированный подмодуль. Запросы дизайн-системы рассмотрены как рекомендации; палитра и типографика курса сохранены. Встроенный каталог текущего чата это подключение не изменяет.
 
+
+
+## Текущая структура материалов
+
+Папки [0]–[6] содержат ресурсы и все действующие учебные материалы. Старые папки Seminarul 1–11 удалены по поручению пользователя. Каталоги библиографии и глоссария находятся в `[5] Materiale pentru curs`. Решения с поиском и DOCX-конспекты — в `[6] Materiale și informații pentru profesor`.
+
+`tools/course-files.json` сохраняет происхождение оригиналов. Записи удалённых старых вариантов находятся в archived_files. Скрипт исходного импорта не воссоздаёт их и сохраняет уже обновлённые файлы репозитория.

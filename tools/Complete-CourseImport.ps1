@@ -40,7 +40,8 @@ $plan = Get-Content -LiteralPath $PlanPath -Raw -Encoding UTF8 | ConvertFrom-Jso
 $sourceRoot = (Resolve-Path -LiteralPath $SourcePath).Path
 
 # Check every source before changing the clone.
-foreach ($file in $plan.files) {
+$allSources = @($plan.files) + @($plan.archived_files)
+foreach ($file in $allSources) {
     $relative = $file.path.Replace('/', [System.IO.Path]::DirectorySeparatorChar)
     $sourceRelative = $relative
     if ($file.source_path) { $sourceRelative = $file.source_path.Replace('/', [System.IO.Path]::DirectorySeparatorChar) }
@@ -61,6 +62,10 @@ foreach ($file in $plan.files) {
     if ($file.source_path) { $sourceRelative = $file.source_path.Replace('/', [System.IO.Path]::DirectorySeparatorChar) }
     $source = Join-Path $sourceRoot $sourceRelative
     $destination = Join-Path $RepoRoot $relative
+    if ((Test-Path -LiteralPath $destination -PathType Leaf) -and ((Get-BlobHash $destination) -ne $file.sha)) {
+        Write-Host "Preserving updated repository file: $($file.path)"
+        continue
+    }
     $alreadyCorrect = (Test-Path -LiteralPath $destination -PathType Leaf) -and ((Get-BlobHash $destination) -eq $file.sha)
     if (-not $alreadyCorrect) {
         $parent = Split-Path -Parent $destination
@@ -73,11 +78,12 @@ foreach ($file in $plan.files) {
 }
 & git -C $RepoRoot diff --cached --quiet
 if ($LASTEXITCODE -eq 0) {
-    Write-Host 'All 62 course files already match the verified snapshot.'
+    Write-Host 'All active original files are present; updated materials are preserved.'
 } else {
     & git -C $RepoRoot commit -m 'Complete import of all 62 original Microeconomics seminar files'
     Assert-GitSuccess 'commit course files'
 }
 & git -C $RepoRoot push origin main
 Assert-GitSuccess 'push main'
-Write-Host 'All 62 original files have been verified and pushed to GitHub.'
+Write-Host 'Active original files have been verified and pushed. Archived paths were not recreated.'
+

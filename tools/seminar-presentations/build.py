@@ -83,7 +83,7 @@ def validate_dom(page_obj,deck,data):
     }''')
 
 def build():
-    RELEASE.mkdir(parents=True,exist_ok=True);notesdir=RELEASE/'Conspecte pentru lector';notesdir.mkdir(exist_ok=True)
+    RELEASE.mkdir(parents=True,exist_ok=True);notesdir=OUT/'[6] Materiale și informații pentru profesor'/'Conspecte pentru lector';notesdir.mkdir(parents=True,exist_ok=True)
     plan=json.loads((ROOT/'plan.json').read_text());raster=ROOT/'rendered';raster.mkdir(exist_ok=True);report=[];manifest=[]
     with sync_playwright() as p:
         browser=p.chromium.launch(executable_path='/usr/bin/chromium',args=['--no-sandbox','--disable-dev-shm-usage']);page_obj=browser.new_page(viewport={'width':1920,'height':1080},device_scale_factor=1)
@@ -109,3 +109,4 @@ def build():
         browser.close()
     (ROOT/'render-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));(ROOT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
 if __name__=='__main__':build()
+

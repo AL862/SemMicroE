@@ -28,7 +28,7 @@ def validate():
     assert len(slide.shapes)==1 and slide.shapes[0].shape_type==13
     shape=slide.shapes[0];shape._element.xpath('.//p:cNvPr')[0].set('descr',alt_text(data))
   p.save(pptx)
-  note_file=FOLDER/'Conspecte pentru lector'/f'Seminar_{n}_Conspect_Profesor.docx';doc=Document(note_file);doc.core_properties.author='ASEM';doc.core_properties.last_modified_by='ASEM';doc.save(note_file)
+  note_file=OUT/'[6] Materiale și informații pentru profesor'/'Conspecte pentru lector'/f'Seminar_{n}_Conspect_Profesor.docx';doc=Document(note_file);doc.core_properties.author='ASEM';doc.core_properties.last_modified_by='ASEM';doc.save(note_file)
   doc_text=norm(' '.join(x.text for x in doc.paragraphs));p=Presentation(pptx)
   assert abs(p.slide_width/p.slide_height-16/9)<1e-6
   note_count=0
@@ -61,3 +61,4 @@ def validate():
  for label,actual,expected in tests:assert actual==expected,(label,actual,expected)
  (ROOT/'package-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));(ROOT/'calculation-checks.json').write_text(json.dumps({'passed':len(tests),'checks':[{'name':label,'value':str(actual)} for label,actual,_ in tests]},indent=2));(ROOT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2));print('Validated11PPTX,110slides,110notes,11DOCX;',len(tests),'exact calculations')
 if __name__=='__main__':validate()
+

@@ -22,7 +22,7 @@
 
 ## Папки репозитория
 
-Сканы Томша: `0. ★ Resurse`. Имена: «Seminarul N — Titlul seminarului.pdf»; для двух частей — «— Sursa 1.pdf» и «— Sursa 2.pdf».
+Сканы Томша: `[0] ★ Resurse/Tomșa/Manual`. Имена: «Seminarul N — Titlul seminarului.pdf»; для двух частей — «— Sursa 1.pdf» и «— Sursa 2.pdf».
 
 ## Drive
 
@@ -75,3 +75,11 @@ URL: https://drive.google.com/file/d/1fD-Pl6N5p7JPf6zMeWVO71kQ1BhhfKz4/view?usp=
 - Редактируемый шаблон индивидуальной работы: Șablon — Lucrare individuală la Microeconomie.pptx в `[4] Lucrări individuale pentru studenți`.
 - Эталон прямой вставки TinyMCE: Instrucțiune — Lucrări individuale pentru studenți.html в `[4] Lucrări individuale pentru studenți`. Drive ID: 1RKfiGcQL44XdZzZXKOO3oQmPoSUby4K4. Исходная версия прямой вставки была подтверждена пользователем. Текущая GitHub-редакция содержит 33 темы и общий стиль курса; её вставка в Moodle проверяется отдельно.
 
+
+
+## Общая структура после реорганизации
+
+- `[0] ★ Resurse`: Tomșa/Manual со сканами и Cărți с книгой Мэнкью.
+- `[5] Materiale pentru curs`: библиография и полный глоссарий.
+- `[6] Materiale și informații pentru profesor`: поисковый HTML решений и Conspecte pentru lector.
+- Старые корневые папки Seminarul 1–11 и Microeconomie_Imagini_Comune удалены. Общие пиктограммы для генераторов сохранены в tools/seminar-presentations/assets.
